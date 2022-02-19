@@ -1,0 +1,77 @@
+
+Dump of file C:\Windows\System32\reseteng.dll
+
+File Type: DLL
+
+  Section contains the following exports for ResetEng.dll
+
+    00000000 characteristics
+    DB48DB1D time date stamp
+        0.00 version
+           1 ordinal base
+          52 number of functions
+          52 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005A60 RjvApplyData
+          2    1 0000A040 RjvApplyDataEntryPoint
+          3    2 00003950 RjvBareMetalResetAvailable
+          4    3 000053D0 RjvBasicReset
+          5    4 00004180 RjvBasicResetChecks
+          6    5 00007E30 RjvCheckBattery
+          7    6 00007FA0 RjvCheckBitLocker
+          8    7 000080E0 RjvCheckDiskSpace
+          9    8 00008390 RjvCheckOsHealth
+         10    9 00007640 RjvCheckWinRE
+         11    A 00006020 RjvCleanup
+         12    B 00009B90 RjvCommitReset
+         13    C 00009D00 RjvCreateSuccessTaskEntryPoint
+         14    D 000063D0 RjvDelayedCleanup
+         15    E 00009D60 RjvDelayedCleanupEntryPoint
+         16    F 00003650 RjvFactoryImageAvailable
+         17   10 00005640 RjvFactoryReset
+         18   11 00004570 RjvFactoryResetChecks
+         19   12 00009CB0 RjvFinalize
+         20   13 00007600 RjvGenerateImageBasedBMRConfigData
+         21   14 00007620 RjvGenerateReconstructionBMRConfigData
+         22   15 0000D080 RjvGetCloudRecInfo
+         23   16 00008960 RjvGetVolumeInfo
+         24   17 00002360 RjvInitializeEngine
+         25   18 0000D2B0 RjvInitializeSystemPartitionInfo
+         26   19 0000D010 RjvIsCloudRec
+         27   1A 00008E80 RjvLoadState
+         28   1B 00009F80 RjvLogFailureEntryPoint
+         29   1C 00009D70 RjvLogSuccessEntryPoint
+         30   1D 000093E0 RjvOfflineCleanup
+         31   1E 000227D0 RjvPDeleteFilesFromVolumeBeforeWimApply
+         32   1F 000238E0 RjvPEraseVolume
+         33   20 00003D60 RjvPolicyAllowsReset
+         34   21 0000A380 RjvPostApplyDataEntryPoint
+         35   22 0000A0F0 RjvPreApplyDataEntryPoint
+         36   23 00004D40 RjvPrepareForReset
+         37   24 000029F0 RjvReInitializeEngine
+         38   25 0000D0E0 RjvRePartitionSystemDisk
+         39   26 0000D430 RjvRePartitionSystemDiskEx
+         40   27 00006260 RjvRollBack
+         41   28 00009200 RjvSaveState
+         42   29 00003550 RjvSendCancelEvent
+         43   2A 0000D020 RjvSetCloudRecInfo
+         44   2B 00009960 RjvStageBasicReset
+         45   2C 00002150 RjvStartLogging
+         46   2D 00002300 RjvStopLogging
+         47   2E 0000A520 RjvSysResetErrBasicEntryPoint
+         48   2F 0000A4A0 RjvSysResetErrFactoryEntryPoint
+         49   30 0000CFB0 RjvTestFunction
+         50   31 000052D0 RjvUndoPrepareForReset
+         51   32 00003480 RjvUninitializeEngine
+         52   33 00004A10 RjvVerifySystemDiskInfo
+
+  Summary
+
+        6000 .data
+        6000 .pdata
+       49000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       E0000 .text

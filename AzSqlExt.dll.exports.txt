@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\AzSqlExt.dll
+
+File Type: DLL
+
+  Section contains the following exports for AzSqlExt.dll
+
+    00000000 characteristics
+    76868884 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000029A0 AzGenerateAudit
+          2    1 00002710 __GetXpVersion
+          3    2 00004950 xp_AzManAddRole
+          4    3 00004960 xp_AzManAddUserToRole
+          5    4 00004940 xp_AzManDeleteRole
+          6    5 00004930 xp_AzManRemoveUserFromRole
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\iri.dll
+
+File Type: DLL
+
+  Section contains the following exports for iri.dll
+
+    00000000 characteristics
+    8EF54A2A time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+         18    0 00002460 IriAppendRelativeIri
+         17    1 00002250 IriAppendSegment
+          2    2 000013F0 IriClose
+         13    3 00001CE0 IriCompare
+          5    4 000014B0 IriCopy
+          1    5 00001310 IriCreateFromString
+         14    6 00001E40 IriFindLastCommonSegment
+          7    7 00001760 IriGetAsString
+         10    8 00001BE0 IriGetAttributeFlags
+         11    9 00001C40 IriGetComponent
+          8    A 00001940 IriGetRelative
+         12    B 00001C90 IriGetSegment
+         15    C 00001FC0 IriGetSegmentCount
+          4    D 00001470 IriMakeConstantEx
+          3    E 00001430 IriMutableClose
+         16    F 00002010 IriSetComponent
+         19   10 00002520 IriSetMetadata
+          9   11 00001A50 IriSplit
+          6   12 000015C0 IriSplitIntoMutableIris
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

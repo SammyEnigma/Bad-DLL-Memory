@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\mmcndmgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for MMCNDMGR.DLL
+
+    00000000 characteristics
+     9FCCEA5 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000A7160 CreateExecutivePlatform
+          2    1 0004B930 DllCanUnloadNow
+          3    2 00042A60 DllGetClassObject
+          4    3 00100180 DllRegisterServer
+          5    4 001007E0 DllUnregisterServer
+
+  Summary
+
+       12000 .data
+        1000 .didat
+       12000 .pdata
+       A4000 .rdata
+        4000 .reloc
+        2000 .rsrc
+      184000 .text

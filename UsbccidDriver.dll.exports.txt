@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\usbcciddriver.inf_amd64_400a61104320a399\UsbccidDriver.dll
+
+File Type: DLL
+
+  Section contains the following exports for UsbccidDriver.DLL
+
+    00000000 characteristics
+    15BCC638 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000BA70 FxDriverEntryUm
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        5000 .rsrc
+        C000 .text

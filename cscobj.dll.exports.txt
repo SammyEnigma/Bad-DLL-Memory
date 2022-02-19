@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\cscobj.dll
+
+File Type: DLL
+
+  Section contains the following exports for cscobj.dll
+
+    00000000 characteristics
+    2916EF77 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00001740 DllCanUnloadNow
+          4    1 00001F00 DllGetClassObject
+          5    2 0000C420 DllRegisterServer
+          6    3 0000C470 DllUnregisterServer
+          1    4 0000F180 ProcessGroupPolicy
+          2    5 0000F1A0 ProcessPolicy
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       1C000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       29000 .text

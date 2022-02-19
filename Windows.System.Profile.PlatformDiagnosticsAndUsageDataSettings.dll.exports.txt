@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.System.Profile.PlatformDiagnosticsAndUsageDataSettings.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.System.Profile.PlatformDiagnosticsAndUsageDataSettings.dll
+
+    00000000 characteristics
+    799A7215 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004680 DllCanUnloadNow
+          2    1 000044A0 DllGetActivationFactory
+          3    2 000046F0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

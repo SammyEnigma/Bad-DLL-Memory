@@ -1,0 +1,24 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\LVUI2RC.dll
+
+File Type: DLL
+
+  Section contains the following exports for LVUI2RC.dll
+
+    00000000 characteristics
+    5085FCC5 time date stamp Tue Oct 23 04:11:17 2012
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        2000 .data
+        3000 .rdata
+        2000 .reloc
+       6A000 .rsrc
+       11000 .text

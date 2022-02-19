@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x64\cpu_device64.dll
+
+File Type: DLL
+
+  Section contains the following exports for cpu_device64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028CE0 RegisterGlobalAtExitNotification
+          2    1 00010320 clDevCreateDeviceInstance
+          3    2 00010370 clDevErr2Txt
+          4    3 000104A0 clDevGetAvailableDeviceList
+          5    4 00010540 clDevGetDeviceInfo
+          6    5 0000F020 clDevGetDeviceTimer
+          7    6 0000A1F0 clDevInitDeviceAgent
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        5000 .pdata
+       24000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       51000 .text

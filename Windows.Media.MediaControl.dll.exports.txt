@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\Windows.Media.MediaControl.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.MediaControl.DLL
+
+    00000000 characteristics
+    CDD934ED time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00021B30 CreateCaptureAudioStateMonitor
+          2    1 00021B70 CreateCaptureAudioStateMonitorForCategory
+          3    2 00021C30 CreateCaptureAudioStateMonitorForCategoryAndDeviceId
+          4    3 00021D00 CreateCaptureAudioStateMonitorForCategoryAndDeviceRole
+          5    4 00021DD0 CreateRenderAudioStateMonitor
+          6    5 00021E10 CreateRenderAudioStateMonitorForCategory
+          7    6 00021ED0 CreateRenderAudioStateMonitorForCategoryAndDeviceId
+          8    7 00021F90 CreateRenderAudioStateMonitorForCategoryAndDeviceRole
+          9    8 0000F780 DllCanUnloadNow
+         10    9 000040C0 DllGetActivationFactory
+         11    A 0000F7C0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        6000 .pdata
+       2E000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       4D000 .text

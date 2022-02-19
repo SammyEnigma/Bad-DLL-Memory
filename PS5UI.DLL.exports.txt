@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\PS5UI.DLL
+
+File Type: DLL
+
+  Section contains the following exports for ps5ui.dll
+
+    00000000 characteristics
+    C837F164 time date stamp
+        0.00 version
+         254 ordinal base
+          33 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+        258    0 00001250 DevQueryPrintEx
+        259    1 00001450 DllCanUnloadNow
+        260    2 00001470 DllGetClassObject
+        261    3 00001490 DllMain
+        262    4 00001270 DrvConvertDevMode
+        263    5 000012A0 DrvDeviceCapabilities
+        264    6 000012D0 DrvDevicePropertySheets
+        265    7 000012F0 DrvDocumentEvent
+        266    8 00001330 DrvDocumentPropertySheets
+        267    9 00001350 DrvDriverEvent
+        255    A 000057E0 DrvPopulateFilterServices
+        268    B 00001370 DrvPrinterEvent
+        269    C 00001390 DrvQueryColorProfile
+        285    D 000013D0 DrvQueryJobAttributes
+        256    E 00008250 DrvResetConfigCache
+        254    F 00001410 DrvSplDeviceCaps
+        286   10 000013F0 DrvUpgradePrinter
+        257   11 0000A2A0 MxdcGetPDEVAdjustment
+        270      00008290 [NONAME]
+        271      00008200 [NONAME]
+        272      00007C10 [NONAME]
+        273      0000B5E0 [NONAME]
+        274      000081C0 [NONAME]
+        275      000081D0 [NONAME]
+        276      000081E0 [NONAME]
+        277      000081F0 [NONAME]
+        278      00002970 [NONAME]
+        279      000028F0 [NONAME]
+        280      00003500 [NONAME]
+        281      00009080 [NONAME]
+        282      00009540 [NONAME]
+        283      00003E70 [NONAME]
+        284      00003C30 [NONAME]
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        6000 .pdata
+       2E000 .rdata
+        1000 .reloc
+       45000 .rsrc
+       9B000 .text

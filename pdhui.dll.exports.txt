@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\pdhui.dll
+
+File Type: DLL
+
+  Section contains the following exports for pdhui.dll
+
+    00000000 characteristics
+    27FE1F4E time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001240 PdhUiBrowseCountersA
+          2    1 00001970 PdhUiBrowseCountersExA
+          3    2 00001710 PdhUiBrowseCountersExHA
+          4    3 00001610 PdhUiBrowseCountersExHW
+          5    4 000017F0 PdhUiBrowseCountersExW
+          6    5 00001100 PdhUiBrowseCountersHA
+          7    6 00001060 PdhUiBrowseCountersHW
+          8    7 000011A0 PdhUiBrowseCountersW
+          9    8 0000A860 PdhUiSelectDataSourceA
+         10    9 0000A700 PdhUiSelectDataSourceW
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

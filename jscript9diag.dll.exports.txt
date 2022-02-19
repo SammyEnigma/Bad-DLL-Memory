@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\jscript9diag.dll
+
+File Type: DLL
+
+  Section contains the following exports for JSCRIPT9DIAG.dll
+
+    00000000 characteristics
+    29F4BE1D time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00016090 DllCanUnloadNow
+          4    1 000160D0 DllGetClassObject
+          5    2 00016230 DllRegisterServer
+          6    3 00016330 DllUnregisterServer
+          1    4 00034B10 FreeDumpStreams
+          2    5 00034AA0 GetDumpStreams
+
+  Summary
+
+        1000 .data
+        9000 .pdata
+       28000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       7D000 .text

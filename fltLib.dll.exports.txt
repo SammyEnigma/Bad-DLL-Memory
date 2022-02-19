@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\fltLib.dll
+
+File Type: DLL
+
+  Section contains the following exports for FLTLIB.DLL
+
+    00000000 characteristics
+    2EA9F33D time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001A00 FilterAttach
+          2    1 00001A40 FilterAttachAtAltitude
+          3    2 00001570 FilterClose
+          4    3 000021D0 FilterConnectCommunicationPort
+          5    4 000013A0 FilterCreate
+          6    5 00001A70 FilterDetach
+          7    6 00001570 FilterFindClose
+          8    7 00001CD0 FilterFindFirst
+          9    8 00001E30 FilterFindNext
+         10    9 000024E0 FilterGetDosName
+         11    A 00002180 FilterGetInformation
+         12    B 00002460 FilterGetMessage
+         13    C 00001570 FilterInstanceClose
+         14    D 000015B0 FilterInstanceCreate
+         15    E 00001570 FilterInstanceFindClose
+         16    F 00001FE0 FilterInstanceFindFirst
+         17   10 00001E30 FilterInstanceFindNext
+         18   11 00002180 FilterInstanceGetInformation
+         19   12 00001060 FilterLoad
+         20   13 000024A0 FilterReplyMessage
+         21   14 00002420 FilterSendMessage
+         22   15 00001200 FilterUnload
+         23   16 00001570 FilterVolumeClose
+         24   17 00001570 FilterVolumeFindClose
+         25   18 00001E80 FilterVolumeFindFirst
+         26   19 00001E30 FilterVolumeFindNext
+         27   1A 00001570 FilterVolumeInstanceFindClose
+         28   1B 000020B0 FilterVolumeInstanceFindFirst
+         29   1C 00001E30 FilterVolumeInstanceFindNext
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ntprint4.inf_amd64_0958c7cad3cd6075\Amd64\MSxpsPCL6.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSxpsPCL6.dll
+
+    00000000 characteristics
+    3E074BEC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00013D00 DllCanUnloadNow
+          2    1 00013D20 DllGetClassObject
+          3    2 000043C0 XpsProcess
+          4    3 00004610 XpsTestProcess
+
+  Summary
+
+        B000 .data
+       12000 .pdata
+       6F000 .rdata
+        4000 .reloc
+       A6000 .rsrc
+      2FE000 .text

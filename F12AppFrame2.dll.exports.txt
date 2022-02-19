@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\F12\F12AppFrame2.dll
+
+File Type: DLL
+
+  Section contains the following exports for F12AppFrame.dll
+
+    00000000 characteristics
+    BCEA2C2E time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00017900 AttachTools
+          2    1 000177A0 AttachToolsToDiagnosticsTarget
+          3    2 00016220 DllCanUnloadNow
+          4    3 00016240 DllGetClassObject
+          5    4 00016610 DllInstall
+          6    5 00016370 DllRegisterServer
+          7    6 00016470 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3E000 .text

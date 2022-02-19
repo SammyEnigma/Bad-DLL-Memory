@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\UpdateDeploymentProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for UpdateDeploymentProvider.dll
+
+    00000000 characteristics
+    746F1636 time date stamp
+        0.00 version
+           3 ordinal base
+           5 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00004C30 DllCanUnloadNow
+          5    1 00004C50 DllGetClassObject
+          6    2 00004D80 DllRegisterServer
+          7    3 00004E80 DllUnregisterServer
+          3      00009670 [NONAME]
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3A000 .text

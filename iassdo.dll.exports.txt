@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\iassdo.dll
+
+File Type: DLL
+
+  Section contains the following exports for iassdo.dll
+
+    00000000 characteristics
+    FE530967 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002A660 DllCanUnloadNow
+          2    1 0002A680 DllGetClassObject
+          3    2 0002A6B0 DllRegisterServer
+          4    3 0002A730 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        3000 .pdata
+       23000 .rdata
+        1000 .reloc
+        F000 .rsrc
+       3A000 .text

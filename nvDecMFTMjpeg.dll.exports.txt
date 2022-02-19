@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvDecMFTMjpeg.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvDecMFTmjpeg.dll
+
+    00000000 characteristics
+    5FD3FEA8 time date stamp Sat Dec 12 00:20:08 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000327E DllCanUnloadNow
+          2    1 00001B81 DllGetClassObject
+          3    2 00001703 DllRegisterServer
+          4    3 000025C2 DllUnregisterServer
+
+  Summary
+
+        1000 .00cfg
+        3000 .data
+        2000 .idata
+       19000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       71000 .text
+        1000 .tls

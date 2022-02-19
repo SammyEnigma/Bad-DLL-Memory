@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\MP4SDECD.DLL
+
+File Type: DLL
+
+  Section contains the following exports for DEFFILE.dll
+
+    00000000 characteristics
+    B91BFC08 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B450 CreateInstance
+          2    1 0000B550 DllCanUnloadNow
+          3    2 0000B580 DllGetClassObject
+          4    3 0000A7B0 DllRegisterServer
+          5    4 0000A9F0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        2000 .pdata
+       12000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       40000 .text

@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\cabapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for CabAPI.dll
+
+    00000000 characteristics
+    B8FC7F95 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004790 Cab_CheckIsCabinet
+          2    1 00004840 Cab_CreateCab
+          3    2 00004A00 Cab_CreateCabSelected
+          4    3 00003D70 Cab_Extract
+          5    4 00003EB0 Cab_ExtractOne
+          6    5 00003FF0 Cab_ExtractOneToBuffer
+          7    6 00004180 Cab_ExtractSelected
+          8    7 000042E0 Cab_ExtractSelectedToTarget
+          9    8 00004130 Cab_FreeBuffer
+         10    9 00004470 Cab_FreeFileList
+         11    A 00004750 Cab_FreeFileSizeList
+         12    B 00004450 Cab_GetFileList
+         13    C 00004520 Cab_GetFileSizeList
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\HologramWorld.dll
+
+File Type: DLL
+
+  Section contains the following exports for HologramWorld.dll
+
+    00000000 characteristics
+    11C07859 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00082D00 CreateDebugOverlay
+          2    1 000B4730 GetSharedWorldFactory
+
+  Summary
+
+      1CC000 .data
+        1000 .didat
+       54000 .pdata
+      416000 .rdata
+       82000 .reloc
+        1000 .rsrc
+      B49000 .text

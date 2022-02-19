@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\browcli.dll
+
+File Type: DLL
+
+  Section contains the following exports for browcli.dll
+
+    00000000 characteristics
+    E4E379F0 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002490 I_BrowserDebugCall
+          2    1 00002570 I_BrowserDebugTrace
+          3    2 00002640 I_BrowserQueryEmulatedDomains
+          4    3 00003430 I_BrowserQueryOtherDomains
+          5    4 00002770 I_BrowserQueryStatistics
+          6    5 00002840 I_BrowserResetNetlogonState
+          7    6 00002900 I_BrowserResetStatistics
+          8    7 000029C0 I_BrowserServerEnum
+          9    8 00002CD0 I_BrowserSetNetlogonState
+         10    9 00002DD0 NetBrowserStatisticsGet
+         11    A 00002F10 NetServerEnum
+         12    B 00002F70 NetServerEnumEx
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

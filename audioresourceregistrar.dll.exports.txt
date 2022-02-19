@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\audioresourceregistrar.dll
+
+File Type: DLL
+
+  Section contains the following exports for AudioResourceRegistrar.DLL
+
+    00000000 characteristics
+    776CC326 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013A0 GetKeywordDetectorRequiredResources
+          2    1 00001170 Register
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

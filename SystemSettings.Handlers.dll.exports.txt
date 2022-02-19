@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SystemSettings.Handlers.dll
+
+File Type: DLL
+
+  Section contains the following exports for SystemSettings.Handlers.dll
+
+    00000000 characteristics
+     92B5C69 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000CD960 DllCanUnloadNow
+          2    1 000CD980 DllGetActivationFactory
+          3    2 000AC640 GetSetting
+
+  Summary
+
+       15000 .data
+        1000 .didat
+        C000 .pdata
+       5E000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       DD000 .text

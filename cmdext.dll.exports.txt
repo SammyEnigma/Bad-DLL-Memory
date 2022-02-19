@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\cmdext.dll
+
+File Type: DLL
+
+  Section contains the following exports for CMDEXT.dll
+
+    00000000 characteristics
+    951BDBB4 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011A0 CmdBatNotificationStub
+          2    1 00002440 DoSHChangeNotify
+          3    2 00002460 FindFirstStreamWStub
+          4    3 00002480 FindNextStreamWStub
+          5    4 000024A0 GetBinaryTypeWStub
+          6    5 000024C0 GetVDMCurrentDirectoriesStub
+          7    6 000024E0 LookupAccountSidWStub
+          8    7 00002500 MessageBeepStub
+          9    8 00002520 QueryFullProcessImageNameWStub
+         10    9 000010B0 SaferWorker
+         11    A 00002540 ShellExecuteWorker
+         12    B 00002670 WNetAddConnection2WStub
+         13    C 00002690 WNetCancelConnection2WStub
+         14    D 000026B0 WNetGetConnectionWStub
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\dokannp1.dll
+
+File Type: DLL
+
+  Section contains the following exports for dokannp1.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+          12 ordinal base
+         490 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+         17    0 00001740 NPAddConnection
+         38    1 00001830 NPAddConnection3
+         18    2 00001910 NPCancelConnection
+         35    3 00001D40 NPCloseEnum
+         34    4 00002000 NPEnumResource
+         13    5 000014D0 NPGetCaps
+         12    6 00001930 NPGetConnection
+         52    7 00002640 NPGetResourceInformation
+         41    8 00001D90 NPGetResourceParent
+         40    9 00002AF0 NPGetUniversalName
+        500    A 000016E0 NPLogonNotify
+         33    B 00001AD0 NPOpenEnum
+        501    C 00001710 NPPasswordChangeNotify
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

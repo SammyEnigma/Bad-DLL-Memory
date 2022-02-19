@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\MixedRealityRuntime.dll
+
+File Type: DLL
+
+  Section contains the following exports for MixedRealityRuntime.dll
+
+    00000000 characteristics
+    F9468287 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007580 DllCanUnloadNow
+          2    1 00007480 DllGetActivationFactory
+          3    2 00007500 DllGetClassObject
+          4    3 00008450 ServiceMain
+          5    4 00008440 SvchostPushServiceGlobals
+          6    5 0000BC70 xrNegotiateLoaderRuntimeInterface
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

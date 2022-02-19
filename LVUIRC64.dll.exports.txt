@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\LVUIRC64.dll
+
+File Type: DLL
+
+  Section contains the following exports for LVUIRC64.dll
+
+    00000000 characteristics
+    5085FC87 time date stamp Tue Oct 23 04:10:15 2012
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+        5000 .rdata
+        1000 .reloc
+       6A000 .rsrc
+       16000 .text

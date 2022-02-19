@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\loghours.dll
+
+File Type: DLL
+
+  Section contains the following exports for LogHours.dll
+
+    00000000 characteristics
+    832D261F time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00007370 ConnectionScheduleDialog
+          9    1 00007380 ConnectionScheduleDialogEx
+          3    2 00002D40 DialinHoursDialog
+          6    3 00002D50 DialinHoursDialogEx
+          4    4 00003150 DirSyncScheduleDialog
+         10    5 00003160 DirSyncScheduleDialogEx
+          1    6 00002B50 LogonScheduleDialog
+          5    7 00002B60 LogonScheduleDialogEx
+          7    8 00007630 ReplicationScheduleDialog
+          8    9 00007640 ReplicationScheduleDialogEx
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        B000 .text

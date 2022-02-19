@@ -1,0 +1,101 @@
+
+Dump of file C:\Windows\System32\scecli.dll
+
+File Type: DLL
+
+  Section contains the following exports for SCECLI.dll
+
+    00000000 characteristics
+    919F6585 time date stamp
+        0.00 version
+           1 ordinal base
+          75 number of functions
+          75 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00016900 ConvertSecurityDescriptorToText
+          2    1 0002A5B0 DeltaNotify
+         12    2 00032F50 DllRegisterServer
+         13    3 00033570 DllUnregisterServer
+          3    4 00002170 InitializeChangeNotify
+         14    5 00015E00 SceAddToNameList
+         15    6 00015E20 SceAddToNameStatusList
+         16    7 00015E30 SceAddToObjectList
+         17    8 00030010 SceAnalyzeSystem
+         18    9 00023120 SceAppendSecurityProfileInfo
+         19    A 00030310 SceBrowseDatabaseTable
+         20    B 00030510 SceCloseProfile
+         21    C 000305E0 SceCommitTransaction
+         22    D 00015E60 SceCompareNameList
+         23    E 00015F20 SceCompareSecurityDescriptors
+          4    F 00033800 SceConfigureConvertedFileSecurity
+         24   10 00030650 SceConfigureSystem
+         25   11 00030840 SceCopyBaseProfile
+         26   12 00015FA0 SceCreateDirectory
+         27   13 00036D30 SceDcPromoCreateGPOsInSysvol
+         28   14 00036D60 SceDcPromoCreateGPOsInSysvolEx
+         29   15 00037060 SceDcPromoteSecurity
+         30   16 00037080 SceDcPromoteSecurityEx
+         31   17 000371A0 SceEnforceSecurityPolicyPropagation
+         32   18 00015FB0 SceEnumerateServices
+         33   19 00013AC0 SceFreeMemory
+         34   1A 000140A0 SceFreeProfileMemory
+          5   1B 00026690 SceGenerateGroupPolicy
+         35   1C 00030C80 SceGenerateRollback
+         36   1D 00030EA0 SceGetAnalysisAreaSummary
+         37   1E 0002A320 SceGetAreas
+         38   1F 00030F20 SceGetDatabaseSetting
+         39   20 00031060 SceGetDbTime
+         40   21 00031240 SceGetObjectChildren
+         41   22 00031360 SceGetObjectSecurity
+         42   23 00031450 SceGetScpProfileDescription
+         43   24 000314E0 SceGetSecurityProfileInfo
+         44   25 00031810 SceGetServerProductType
+         45   26 000318F0 SceGetTimeStamp
+         46   27 00012E50 SceIsSystemDatabase
+         47   28 000162B0 SceLookupPrivRightName
+          6   29 0002A730 SceNotifyPolicyDelta
+          7   2A 0002A7E0 SceOpenPolicy
+         48   2B 00031CE0 SceOpenProfile
+          8   2C 000279C0 SceProcessSecurityPolicyGPO
+          9   2D 00027BD0 SceProcessSecurityPolicyGPOEx
+         49   2E 00031F40 SceRegisterRegValues
+         50   2F 00032400 SceRollbackTransaction
+         51   30 00032470 SceSetDatabaseSetting
+         52   31 000371B0 SceSetupBackupSecurity
+         53   32 00037B10 SceSetupConfigureServices
+         54   33 00037C30 SceSetupGenerateTemplate
+         55   34 00037DE0 SceSetupMoveSecurityFile
+         56   35 00037F10 SceSetupRootSecurity
+         57   36 000388E0 SceSetupSystemByInfName
+         58   37 000390E0 SceSetupUnwindSecurityFile
+         59   38 00039220 SceSetupUpdateSecurityFile
+         60   39 00039320 SceSetupUpdateSecurityKey
+         61   3A 000396E0 SceSetupUpdateSecurityService
+         62   3B 00032540 SceStartTransaction
+         63   3C 000398D0 SceSvcConvertSDToText
+         64   3D 000398F0 SceSvcConvertTextToSD
+         65   3E 00039910 SceSvcFree
+         66   3F 0001E730 SceSvcGetInformationTemplate
+         67   40 00039920 SceSvcQueryInfo
+         68   41 00039B50 SceSvcSetInfo
+         69   42 00023150 SceSvcSetInformationTemplate
+         70   43 000325B0 SceSvcUpdateInfo
+         10   44 00033D10 SceSysPrep
+         11   45 00033EE0 SceSysPrepOffline
+         71   46 00032640 SceUpdateObjectInfo
+         72   47 000328A0 SceUpdateSecurityProfile
+         73   48 00039D50 SceWrapperExportSecurityProfile
+         74   49 00039DD0 SceWrapperImportSecurityProfile
+         75   4A 00023330 SceWriteSecurityProfileInfo
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       18000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3A000 .text

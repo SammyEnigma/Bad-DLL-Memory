@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmflexio.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmflexio.dll
+
+    00000000 characteristics
+    D96D8333 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001B1F0 DllCanUnloadNow
+          2    1 0001B220 DllGetClassObject
+          3    2 0001B240 DllRegisterServer
+          4    3 0001B250 DllUnregisterServer
+
+  Summary
+
+        B000 .data
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

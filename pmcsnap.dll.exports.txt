@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\pmcsnap.dll
+
+File Type: DLL
+
+  Section contains the following exports for pmcsnap.dll
+
+    00000000 characteristics
+    DE1F1EB7 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001780 DllCanUnloadNow
+          2    1 00001820 DllGetClassObject
+          3    2 00001830 DllRegisterServer
+          4    3 00001830 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       13000 .rdata
+        2000 .reloc
+       44000 .rsrc
+       6B000 .text

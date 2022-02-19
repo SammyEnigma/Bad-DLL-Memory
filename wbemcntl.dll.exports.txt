@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\wbemcntl.dll
+
+File Type: DLL
+
+  Section contains the following exports for WbemCntl.DLL
+
+    00000000 characteristics
+     6C6642D time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001870 DllCanUnloadNow
+          2    1 00001810 DllGetClassObject
+          3    2 000199F0 DllRegisterServer
+          4    3 00019A10 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       12000 .rdata
+        1000 .reloc
+       21000 .rsrc
+       21000 .text

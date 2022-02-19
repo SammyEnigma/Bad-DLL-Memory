@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\WUDFx02000.dll
+
+File Type: DLL
+
+  Section contains the following exports for WUDFx02000.DLL
+
+    00000000 characteristics
+    3D2EA70B time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001A0B0 FxFrameworkEntryUm
+          2    1 000AFCD0 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        3000 .data
+        8000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       8F000 .text
+        2000 PAGEWdfV

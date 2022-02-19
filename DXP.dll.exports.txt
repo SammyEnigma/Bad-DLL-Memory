@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DXP.dll
+
+File Type: DLL
+
+  Section contains the following exports for DXP.dll
+
+    00000000 characteristics
+    E615288E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E10 DllCanUnloadNow
+          2    1 00002640 DllGetClassObject
+          3    2 00002A10 DllRegisterServer
+          4    3 00002A10 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       16000 .rdata
+        2000 .reloc
+       2B000 .rsrc
+       39000 .text

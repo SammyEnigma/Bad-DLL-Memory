@@ -1,0 +1,53 @@
+
+Dump of file C:\Windows\System32\rsaenh.dll
+
+File Type: DLL
+
+  Section contains the following exports for RSAENH.dll
+
+    00000000 characteristics
+    A9B3EF3B time date stamp
+        0.00 version
+           1 ordinal base
+          27 number of functions
+          27 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000056D0 CPAcquireContext
+          2    1 00003360 CPCreateHash
+          3    2 00016100 CPDecrypt
+          4    3 00018F80 CPDeriveKey
+          5    4 00004720 CPDestroyHash
+          6    5 000048A0 CPDestroyKey
+          7    6 00017A00 CPDuplicateHash
+          8    7 000197F0 CPDuplicateKey
+          9    8 000161B0 CPEncrypt
+         10    9 00004AA0 CPExportKey
+         11    A 00001140 CPGenKey
+         12    B 000054D0 CPGenRandom
+         13    C 00004470 CPGetHashParam
+         14    D 00005100 CPGetKeyParam
+         15    E 00019A80 CPGetProvParam
+         16    F 00007D50 CPGetUserKey
+         17   10 00004D50 CPHashData
+         18   11 00017BF0 CPHashSessionKey
+         19   12 00001590 CPImportKey
+         20   13 000051E0 CPReleaseContext
+         21   14 00001010 CPSetHashParam
+         22   15 0001AAC0 CPSetKeyParam
+         23   16 0001B5B0 CPSetProvParam
+         24   17 0001EC60 CPSignHash
+         25   18 00004110 CPVerifySignature
+         26   19 00015F20 DllRegisterServer
+         27   1A 00015FD0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       23000 .text

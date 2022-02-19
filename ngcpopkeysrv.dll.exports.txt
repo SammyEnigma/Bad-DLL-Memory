@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\ngcpopkeysrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for ngcpopkeysrv.dll
+
+    00000000 characteristics
+    FBEADCC4 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001A7E0 NgcGetPregenKey
+          2    1 0001D1A0 NgcPregenKey
+          3    2 00019A10 NgcTriggerTask
+          4    3 0000E810 s_NgcDecryptWithSymmetricPopKey
+          5    4 0000D360 s_NgcDeleteSymmetricPopKeyTransportKey
+          6    5 0000E2F0 s_NgcEncryptWithSymmetricPopKey
+          7    6 0000D580 s_NgcGetKeyAttestationForContainerService
+          8    7 0001B810 s_NgcGetPregenKeyState
+          9    8 0001AEB0 s_NgcGetPregenUserKey
+         10    9 0000CD20 s_NgcGetSymmetricPopKeyTransportKey
+         11    A 0000C8A0 s_NgcGetSymmetricPopKeyTransportKeyName
+         12    B 0000C380 s_NgcImportSymmetricPopKey
+         13    C 0000D7C0 s_NgcRenewKeyAttestation
+         14    D 0000D9E0 s_NgcSignWithSymmetricPopKey
+         15    E 0000DEA0 s_NgcVerifyWithSymmetricPopKey
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2D000 .text

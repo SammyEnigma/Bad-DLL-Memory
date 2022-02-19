@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\msdk.inf_amd64_c03be30a746c89a2\mfxplugin64_hw.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfxplugin64_hw.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00358BC0 CreatePlugin
+          2    1 003583B0 mfxCreateDecoderPlugin
+
+  Summary
+
+       11000 .data
+       11000 .data1
+       66000 .debug_o
+       19000 .pdata
+     12FA000 .rdata
+        7000 .reloc
+        1000 .rsrc
+      429000 .text
+        3000 .trace
+       1A000 IPPCODE
+        1000 IPPDATA
+        2000 _RDATA

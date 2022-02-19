@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Internal.Graphics.Display.DisplayEnhancementManagement.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Internal.Graphics.Display.DisplayEnhancementManagement.dll
+
+    00000000 characteristics
+    D6134C4A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004340 DllCanUnloadNow
+          2    1 000043D0 DllGetActivationFactory
+          3    2 000045B0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text

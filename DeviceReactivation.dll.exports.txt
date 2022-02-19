@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DeviceReactivation.dll
+
+File Type: DLL
+
+  Section contains the following exports for DeviceReactivation.dll
+
+    00000000 characteristics
+    B096D090 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004040 DllCanUnloadNow
+          2    1 00003D30 DllGetActivationFactory
+          3    2 00003F10 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

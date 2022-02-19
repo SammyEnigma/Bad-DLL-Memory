@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\sti.dll
+
+File Type: DLL
+
+  Section contains the following exports for STI.dll
+
+    00000000 characteristics
+    EDADEAE1 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00013450 ??0BUFFER@@QEAA@I@Z
+          2    1 00013480 ??0BUFFER_CHAIN@@QEAA@XZ
+          3    2 000134A0 ??0BUFFER_CHAIN_ITEM@@QEAA@I@Z
+          4    3 000134D0 ??1BUFFER@@QEAA@XZ
+          5    4 00013500 ??1BUFFER_CHAIN@@QEAA@XZ
+          6    5 00013510 ??1BUFFER_CHAIN_ITEM@@QEAA@XZ
+          7    6 00013550 ??_FBUFFER@@QEAAXXZ
+          8    7 00013560 ??_FBUFFER_CHAIN_ITEM@@QEAAXXZ
+          9    8 00013580 ?QueryPtr@BUFFER@@QEBAPEAXXZ
+         10    9 00013590 ?QuerySize@BUFFER@@QEBAIXZ
+         11    A 000135A0 ?QueryUsed@BUFFER_CHAIN_ITEM@@QEBAKXZ
+         12    B 000135B0 ?SetUsed@BUFFER_CHAIN_ITEM@@QEAAXK@Z
+         13    C 00006D00 DllCanUnloadNow
+         14    D 00004520 DllGetClassObject
+         15    E 0000B0F0 DllRegisterServer
+         16    F 0000B140 DllUnregisterServer
+         17   10 0000B8D0 GetProxyDllInfo
+         18   11 0000B1F0 MigrateRegisteredSTIAppsForWIAEvents
+         19   12 0000B200 SelectDeviceDialog2
+         20   13 0000B210 StiCreateInstance
+         21   14 0000B210 StiCreateInstanceW
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       1A000 .rdata
+        2000 .reloc
+        8000 .rsrc
+       29000 .text

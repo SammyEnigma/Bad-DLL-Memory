@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\themecpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for THEMECPL.dll
+
+    00000000 characteristics
+    A6DBBA77 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000C700 DllCanUnloadNow
+          3    1 0000C720 DllGetClassObject
+          1    2 00016280 OpenThemeActionW
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       14000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4E000 .text

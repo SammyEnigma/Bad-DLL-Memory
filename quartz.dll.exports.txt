@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\quartz.dll
+
+File Type: DLL
+
+  Section contains the following exports for QUARTZ.dll
+
+    00000000 characteristics
+    25F4F458 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00032A90 AMGetErrorTextA
+          2    1 00032B70 AMGetErrorTextW
+          3    2 000329F0 AmpFactorToDB
+          4    3 00032A50 DBToAmpFactor
+          5    4 00004E90 DllCanUnloadNow
+          6    5 00003CC0 DllGetClassObject
+          7    6 00032660 DllRegisterServer
+          8    7 00032850 DllUnregisterServer
+
+  Summary
+
+       37000 .data
+        1000 .didat
+        F000 .pdata
+       39000 .rdata
+        4000 .reloc
+        B000 .rsrc
+      140000 .text

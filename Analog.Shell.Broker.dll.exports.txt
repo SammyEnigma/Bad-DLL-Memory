@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Analog.Shell.Broker.dll
+
+File Type: DLL
+
+  Section contains the following exports for Analog.Shell.Broker.dll
+
+    00000000 characteristics
+    EAF3A2D1 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003C40 DllCanUnloadNow
+          2    1 00003870 DllGetActivationFactory
+          3    2 00003A60 DllGetClassObject
+          4    3 00003BF0 DllMain
+          5    4 00003BC0 DllRegisterServer
+          6    5 00003B90 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       11000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       21000 .text

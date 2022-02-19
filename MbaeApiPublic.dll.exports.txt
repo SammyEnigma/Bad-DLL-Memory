@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MbaeApiPublic.dll
+
+File Type: DLL
+
+  Section contains the following exports for MbaeApiPublic.dll
+
+    00000000 characteristics
+    785E9D0B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000026E0 DllCanUnloadNow
+          2    1 00003900 DllGetActivationFactory
+          3    2 00003710 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       67000 .rdata
+        B000 .reloc
+        2000 .rsrc
+       B0000 .text

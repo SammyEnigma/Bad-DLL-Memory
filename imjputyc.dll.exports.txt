@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\imjputyc.dll
+
+File Type: DLL
+
+  Section contains the following exports for imjputyc.dll
+
+    00000000 characteristics
+    68FECC4F time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0001D8D0 DllMain
+          1    1 0001DAD0 OpenUty
+
+  Summary
+
+       18000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+       4E000 .rsrc
+       39000 .text

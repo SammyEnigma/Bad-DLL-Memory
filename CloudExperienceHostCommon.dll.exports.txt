@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CloudExperienceHostCommon.dll
+
+File Type: DLL
+
+  Section contains the following exports for CloudExperienceHostCommon.dll
+
+    00000000 characteristics
+    3BD8DBD7 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005CB0 DllCanUnloadNow
+          2    1 000059E0 DllGetActivationFactory
+          3    2 00005BC0 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       26000 .rdata
+        4000 .reloc
+       15000 .rsrc
+       DB000 .text

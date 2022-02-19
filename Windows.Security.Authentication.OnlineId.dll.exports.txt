@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Security.Authentication.OnlineId.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Security.Authentication.OnlineId.dll
+
+    00000000 characteristics
+    AE48190E time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007340 DllCanUnloadNow
+          2    1 000166F0 DllGetActivationFactory
+          3    2 0003C2A0 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        8000 .pdata
+       47000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       9B000 .text

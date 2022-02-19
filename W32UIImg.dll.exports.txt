@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\oobe\W32UIImg.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+      2C2000 .rsrc

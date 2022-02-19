@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.UI.BioFeedback.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.BioFeedback.dll
+
+    00000000 characteristics
+    7E0BB9FB time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004DE0 DllCanUnloadNow
+          2    1 00004B40 DllGetActivationFactory
+          3    2 00004CF0 DllGetClassObject
+
+  Summary
+
+        5000 .data
+        4000 .pdata
+       12000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       3E000 .text

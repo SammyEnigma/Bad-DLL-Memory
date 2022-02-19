@@ -1,0 +1,95 @@
+
+Dump of file C:\Windows\System32\cryptngc.dll
+
+File Type: DLL
+
+  Section contains the following exports for cryptngc.dll
+
+    00000000 characteristics
+    558E6B2D time date stamp
+        0.00 version
+           1 ordinal base
+          69 number of functions
+          69 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028500 FidoCreateCredential
+          2    1 00028500 FidoGetCredential
+          3    2 00028500 FidoSignWithCredential
+          4    3 00034830 NgcAddBioProtector
+          5    4 000349F0 NgcAddCompanionDeviceProtector
+          6    5 00034BA0 NgcAddPrebootProtector
+          7    6 00034D80 NgcCancelPendingUIRequest
+          8    7 00034F10 NgcChangePin
+          9    8 000350C0 NgcChangePinSilent
+         10    9 00035290 NgcCreateContainer
+         11    A 00035740 NgcCreateContainerSilent
+         12    B 0003E6C0 NgcCreateTicketForSmartCardKeyOperation
+         13    C 0003E780 NgcCreateTicketForSmartCardVpn
+         14    D 0003B700 NgcCreateUserIdKey
+         15    E 0003B920 NgcCreateUserIdKeyEx
+         16    F 0003BB50 NgcCreateUserIdKeyHandle
+         17   10 00008E80 NgcDecryptWithSymmetricPopKey
+         18   11 0003E4C0 NgcDecryptWithUserIdKey
+         19   12 0003E500 NgcDecryptWithUserIdKeySilent
+         20   13 000359A0 NgcDeleteContainer
+         21   14 000359B0 NgcDeleteContainerEx
+         22   15 0002FF10 NgcDeleteSymmetricPopKeyTransportKey
+         23   16 0003BCF0 NgcDeleteUserIdKey
+         24   17 0003E540 NgcEncryptWithAsymmetricKey
+         25   18 00037850 NgcEncryptWithSymmetricPopKey
+         26   19 0000BCE0 NgcEnumContainers
+         27   1A 0003BE50 NgcEnumUserIdKeys
+         28   1B 0003BFB0 NgcFreeEnumState
+         29   1C 0003BFE0 NgcGetDefaultDecryptionKeyName
+         30   1D 00013BE0 NgcGetEventInterface
+         31   1E 0002B200 NgcGetKeyAttestationForContainerService
+         32   1F 0002B4E0 NgcGetKeyAttestationForUserIdKey
+         33   20 0002B530 NgcGetKeyAttestationForUserIdKey2
+         34   21 0003C120 NgcGetKeyImplType
+         35   22 0003C2A0 NgcGetLogonDecryptionKeyName
+         36   23 0003C400 NgcGetLogonDecryptionKeyNameForFirstLogonAfterUpgradeFromThreshold
+         37   24 0002B800 NgcGetPkcs7ChainBlobFromCertificateBlob
+         38   25 00035D90 NgcGetPolicy
+         39   26 0003C560 NgcGetPregenKeyState
+         40   27 0003C6A0 NgcGetPregenUserKey
+         41   28 00030050 NgcGetSymmetricPopKeyTransportKey
+         42   29 00030250 NgcGetSymmetricPopKeyTransportKeyName
+         43   2A 0003C840 NgcGetUserIdKeyCertificate
+         44   2B 0003C9A0 NgcGetUserIdKeyContainerStatus
+         45   2C 0003CB20 NgcGetUserIdKeyName
+         46   2D 0003CB90 NgcGetUserIdKeyPublicKey
+         47   2E 000379F0 NgcImportSymmetricPopKey
+         48   2F 00035F60 NgcIsAnyContainerInVsm
+         49   30 00036010 NgcIsPinRemovable
+         50   31 00030B50 NgcNotifyVscProvisioned
+         51   32 0003CCD0 NgcOpenUserIdKey
+         52   33 0002DE70 NgcPackAuthBuffer
+         53   34 0002E1F0 NgcPackPasswordChangeAuthBuffer
+         54   35 00030CE0 NgcQueryEffectiveCertPolicy
+         55   36 00010730 NgcQueryEnabled
+         56   37 00036330 NgcQueryHardwarePolicy
+         57   38 00036380 NgcRemoveBioProtector
+         58   39 00036520 NgcRemoveCompanionDeviceProtector
+         59   3A 000366C0 NgcRemovePrebootProtector
+         60   3B 0002B950 NgcRenewKeyAttestation
+         61   3C 0000E0C0 NgcSignWithSymmetricPopKey
+         62   3D 0003CD30 NgcSignWithUserIdKey
+         63   3E 0003CD80 NgcSignWithUserIdKeyAndPadding
+         64   3F 0003CE30 NgcSignWithUserIdKeyEx
+         65   40 0003CED0 NgcSignWithUserIdKeySilent
+         66   41 0002E2A0 NgcUnpackAuthBuffer
+         67   42 0002E380 NgcUnpackCredData
+         68   43 0002E420 NgcUnpackPasswordChangeAuthBuffer
+         69   44 00008B10 NgcVerifyWithSymmetricPopKey
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       1D000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       48000 .text

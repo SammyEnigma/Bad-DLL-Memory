@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\dmusic.dll
+
+File Type: DLL
+
+  Section contains the following exports for dmusic.dll
+
+    00000000 characteristics
+    9AB07E54 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005430 DllCanUnloadNow
+          2    1 00005460 DllGetClassObject
+          3    2 000055B0 DllRegisterServer
+          4    3 00005560 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

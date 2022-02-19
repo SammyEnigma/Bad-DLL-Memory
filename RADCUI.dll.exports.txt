@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RADCUI.dll
+
+File Type: DLL
+
+  Section contains the following exports for RADCUI.dll
+
+    00000000 characteristics
+    B0ADA196 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000AAF0 DUIRemoveSubscriptionDialogModal
+          1    1 00005890 DUISubscribeWizardModal
+          3    2 00002600 DllCanUnloadNow
+          4    3 00002620 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+       17000 .rdata
+        2000 .reloc
+       12000 .rsrc
+       33000 .text

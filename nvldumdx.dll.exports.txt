@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvldumdx.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvldumdx.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C8D0 NVAPI_Thunk
+          2    1 0000A480 NVDEV_Thunk
+          3    2 000095E0 NVENCODEAPI_Thunk
+          7    3 0000A810 OpenAdapter
+          4    4 00008800 OpenAdapter10
+          5    5 0000D9F0 OpenAdapter10_2
+          6    6 00004540 OpenAdapter12
+          8    7 0000DD50 QueryOglResource
+          9    8 00001E10 useCFGModules
+
+  Summary
+
+        1000 .00cfg
+        7000 .data
+        1000 .gfids
+        4000 .idata
+        9000 .pdata
+       1D000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       CD000 .text
+        1000 _RDATA

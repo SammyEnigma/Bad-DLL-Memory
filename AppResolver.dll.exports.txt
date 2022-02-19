@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\AppResolver.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppResolver.dll
+
+    00000000 characteristics
+    8B6E7C8C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002FD0 DllCanUnloadNow
+          3    1 00002D00 DllGetActivationFactory
+          4    2 00002EE0 DllGetClassObject
+          1      0001D2B0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       66000 .text

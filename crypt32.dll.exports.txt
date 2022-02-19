@@ -1,0 +1,333 @@
+
+Dump of file C:\Windows\System32\crypt32.dll
+
+File Type: DLL
+
+  Section contains the following exports for CRYPT32.dll
+
+    00000000 characteristics
+    6D85013F time date stamp
+        0.00 version
+        1001 ordinal base
+        1000 number of functions
+         295 number of names
+
+    ordinal hint RVA      name
+
+       1020    0 0007D720 CertAddCRLContextToStore
+       1021    1 0007D7A0 CertAddCRLLinkToStore
+       1022    2 0007D720 CertAddCTLContextToStore
+       1023    3 0007D7A0 CertAddCTLLinkToStore
+       1024    4 00016930 CertAddCertificateContextToStore
+       1025    5 0007D7A0 CertAddCertificateLinkToStore
+       1026    6 0001AB70 CertAddEncodedCRLToStore
+       1027    7 00007770 CertAddEncodedCTLToStore
+       1028    8 0002A5F0 CertAddEncodedCertificateToStore
+       1029    9 0007E810 CertAddEncodedCertificateToSystemStoreA
+       1030    A 0007E890 CertAddEncodedCertificateToSystemStoreW
+       1031    B 0007EFB0 CertAddEnhancedKeyUsageIdentifier
+       1032    C 00080990 CertAddRefServerOcspResponse
+       1033    D 000809B0 CertAddRefServerOcspResponseContext
+       1034    E 000499A0 CertAddSerializedElementToStore
+       1035    F 00043190 CertAddStoreToCollection
+       1036   10 000811C0 CertAlgIdToOID
+       1037   11 000809D0 CertCloseServerOcspResponse
+       1038   12 0002C1C0 CertCloseStore
+       1039   13 00018280 CertCompareCertificate
+       1040   14 00016480 CertCompareCertificateName
+       1041   15 00081200 CertCompareIntegerBlob
+       1042   16 00030EF0 CertComparePublicKeyInfo
+       1043   17 00047610 CertControlStore
+       1044   18 0001AB30 CertCreateCRLContext
+       1045   19 00007730 CertCreateCTLContext
+       1046   1A 0007D800 CertCreateCTLEntryFromCertificateContextProperties
+       1047   1B 000C8080 CertCreateCertificateChainEngine
+       1048   1C 000170C0 CertCreateCertificateContext
+       1049   1D 00048240 CertCreateContext
+       1050   1E 000817D0 CertCreateSelfSignCertificate
+       1051   1F 0007DD40 CertDeleteCRLFromStore
+       1052   20 0007DD40 CertDeleteCTLFromStore
+       1053   21 0007DD40 CertDeleteCertificateFromStore
+       1054   22 0001A560 CertDuplicateCRLContext
+       1055   23 0001A560 CertDuplicateCTLContext
+       1056   24 0001B630 CertDuplicateCertificateChain
+       1057   25 00023B30 CertDuplicateCertificateContext
+       1058   26 0001B610 CertDuplicateStore
+       1059   27 0007DD60 CertEnumCRLContextProperties
+       1060   28 00006B90 CertEnumCRLsInStore
+       1061   29 0007DD60 CertEnumCTLContextProperties
+       1062   2A 000454C0 CertEnumCTLsInStore
+       1063   2B 0007DD60 CertEnumCertificateContextProperties
+       1064   2C 00028730 CertEnumCertificatesInStore
+       1065   2D 00086500 CertEnumPhysicalStore
+       1066   2E 0007DD80 CertEnumSubjectInSortedCTL
+       1067   2F 00086520 CertEnumSystemStore
+       1068   30 000868B0 CertEnumSystemStoreLocation
+       1069   31 00021610 CertFindAttribute
+       1070   32 00028600 CertFindCRLInStore
+       1071   33 0007DEF0 CertFindCTLInStore
+       1072   34 0001BFD0 CertFindCertificateInCRL
+       1073   35 00028790 CertFindCertificateInStore
+       1074   36 00087630 CertFindChainInStore
+       1075   37 00035520 CertFindExtension
+       1076   38 00081220 CertFindRDNAttr
+       1077   39 0001EDD0 CertFindSubjectInCTL
+       1078   3A 0003FD00 CertFindSubjectInSortedCTL
+       1079   3B 0001BB50 CertFreeCRLContext
+       1080   3C 0001BB50 CertFreeCTLContext
+       1081   3D 00020310 CertFreeCertificateChain
+       1082   3E 000C8090 CertFreeCertificateChainEngine
+       1083   3F 00087A00 CertFreeCertificateChainList
+       1084   40 00029360 CertFreeCertificateContext
+       1085   41 00080A40 CertFreeServerOcspResponseContext
+       1086   42 00030140 CertGetCRLContextProperty
+       1087   43 0007DF50 CertGetCRLFromStore
+       1088   44 00030140 CertGetCTLContextProperty
+       1089   45 00022210 CertGetCertificateChain
+       1090   46 00030140 CertGetCertificateContextProperty
+       1091   47 000342C0 CertGetEnhancedKeyUsage
+       1092   48 00016EE0 CertGetIntendedKeyUsage
+       1093   49 0007E040 CertGetIssuerCertificateFromStore
+       1094   4A 000885B0 CertGetNameStringA
+       1095   4B 000359A0 CertGetNameStringW
+       1096   4C 00027E90 CertGetPublicKeyLength
+       1097   4D 00080A90 CertGetServerOcspResponseContext
+       1098   4E 0007E140 CertGetStoreProperty
+       1099   4F 0001AF70 CertGetSubjectCertificateFromStore
+       1100   50 000356A0 CertGetValidUsages
+       1101   51 00081290 CertIsRDNAttrsInCertificateName
+       1102   52 0008A690 CertIsStrongHashToSign
+       1103   53 00009360 CertIsValidCRLForCertificate
+       1104   54 000226A0 CertIsWeakHash
+       1105   55 0004C7E0 CertNameToStrA
+       1106   56 000193D0 CertNameToStrW
+       1107   57 0001EFB0 CertOIDToAlgId
+       1108   58 00080B70 CertOpenServerOcspResponse
+       1109   59 0003B930 CertOpenStore
+       1110   5A 0007E910 CertOpenSystemStoreA
+       1111   5B 0007E990 CertOpenSystemStoreW
+       1112   5C 00088670 CertRDNValueToStrA
+       1113   5D 00088740 CertRDNValueToStrW
+       1114   5E 000869B0 CertRegisterPhysicalStore
+       1115   5F 00086C70 CertRegisterSystemStore
+       1116   60 0007F180 CertRemoveEnhancedKeyUsageIdentifier
+       1117   61 0001A8C0 CertRemoveStoreFromCollection
+       1118   62 000C80D0 CertResyncCertificateChainEngine
+       1119   63 0008A9F0 CertRetrieveLogoOrBiometricInfo
+       1120   64 00018990 CertSaveStore
+       1121   65 00087A20 CertSelectCertificateChains
+       1122   66 0001A6D0 CertSerializeCRLStoreElement
+       1123   67 0001A6D0 CertSerializeCTLStoreElement
+       1124   68 0001A6D0 CertSerializeCertificateStoreElement
+       1125   69 0001AB00 CertSetCRLContextProperty
+       1126   6A 0001AB00 CertSetCTLContextProperty
+       1127   6B 00008F20 CertSetCertificateContextPropertiesFromCTLEntry
+       1128   6C 0001AB00 CertSetCertificateContextProperty
+       1129   6D 0007F280 CertSetEnhancedKeyUsage
+       1130   6E 0007E340 CertSetStoreProperty
+       1131   6F 000888F0 CertStrToNameA
+       1132   70 000010F0 CertStrToNameW
+       1133   71 00086D80 CertUnregisterPhysicalStore
+       1134   72 00086EA0 CertUnregisterSystemStore
+       1135   73 000814B0 CertVerifyCRLRevocation
+       1136   74 00081540 CertVerifyCRLTimeValidity
+       1137   75 0008B210 CertVerifyCTLUsage
+       1138   76 00033A00 CertVerifyCertificateChainPolicy
+       1139   77 000276F0 CertVerifyRevocation
+       1140   78 0007E3C0 CertVerifySubjectCertificateContext
+       1141   79 000425A0 CertVerifyTimeValidity
+       1142   7A 00081600 CertVerifyValidityNesting
+       1143   7B 0004D4C0 CryptAcquireCertificatePrivateKey
+       1144   7C 00009F50 CryptBinaryToStringA
+       1145   7D 00009E10 CryptBinaryToStringW
+       1146   7E 0008C410 CryptCloseAsyncHandle
+       1147   7F 0008C440 CryptCreateAsyncHandle
+       1148   80 00089B90 CryptCreateKeyIdentifierFromCSP
+       1149   81 0008DE40 CryptDecodeMessage
+       1150   82 00031310 CryptDecodeObject
+       1151   83 00031350 CryptDecodeObjectEx
+       1152   84 0008DEE0 CryptDecryptAndVerifyMessageSignature
+       1153   85 0008E110 CryptDecryptMessage
+       1154   86 0001BA00 CryptEncodeObject
+       1155   87 00033830 CryptEncodeObjectEx
+       1156   88 0008E180 CryptEncryptMessage
+       1157   89 0007E410 CryptEnumKeyIdentifierProperties
+       1158   8A 000251D0 CryptEnumOIDFunction
+       1159   8B 0009D190 CryptEnumOIDInfo
+       1160   8C 000D2FA0 CryptExportPKCS8
+       1161   8D 00089C20 CryptExportPublicKeyInfo
+       1162   8E 0004D860 CryptExportPublicKeyInfoEx
+       1163   8F 00089C60 CryptExportPublicKeyInfoFromBCryptKeyHandle
+       1164   90 00081660 CryptFindCertificateKeyProvInfo
+       1165   91 0009D290 CryptFindLocalizedName
+       1166   92 00032430 CryptFindOIDInfo
+       1167   93 000A8A70 CryptFormatObject
+       1168   94 00028130 CryptFreeOIDFunctionAddress
+       1169   95 0008C470 CryptGetAsyncParam
+       1170   96 00027DE0 CryptGetDefaultOIDDllList
+       1171   97 000278A0 CryptGetDefaultOIDFunctionAddress
+       1172   98 0007E510 CryptGetKeyIdentifierProperty
+       1173   99 0008E260 CryptGetMessageCertificates
+       1174   9A 0008E2A0 CryptGetMessageSignerCount
+       1175   9B 00033AF0 CryptGetOIDFunctionAddress
+       1176   9C 0009B530 CryptGetOIDFunctionValue
+       1177   9D 000133D0 CryptHashCertificate
+       1178   9E 0002A900 CryptHashCertificate2
+       1179   9F 0008E350 CryptHashMessage
+       1180   A0 000042D0 CryptHashPublicKeyInfo
+       1181   A1 00031D90 CryptHashToBeSigned
+       1182   A2 000D33A0 CryptImportPKCS8
+       1183   A3 00006A00 CryptImportPublicKeyInfo
+       1184   A4 00027FA0 CryptImportPublicKeyInfoEx
+       1185   A5 000329A0 CryptImportPublicKeyInfoEx2
+       1186   A6 000108D0 CryptInitOIDFunctionSet
+       1187   A7 000AE380 CryptInstallDefaultContext
+       1188   A8 00010860 CryptInstallOIDFunctionAddress
+       1189   A9 000E78C0 CryptLoadSip
+       1190   AA 00016540 CryptMemAlloc
+       1191   AB 00015760 CryptMemFree
+       1192   AC 000AE810 CryptMemRealloc
+       1193   AD 000E9880 CryptMsgCalculateEncodedLength
+       1194   AE 00031680 CryptMsgClose
+       1195   AF 00047240 CryptMsgControl
+       1196   B0 000F4610 CryptMsgCountersign
+       1197   B1 000F47B0 CryptMsgCountersignEncoded
+       1198   B2 0001CD00 CryptMsgDuplicate
+       1199   B3 000F4F90 CryptMsgEncodeAndSignCTL
+       1200   B4 00008450 CryptMsgGetAndVerifySigner
+       1201   B5 00043ED0 CryptMsgGetParam
+       1202   B6 000282A0 CryptMsgOpenToDecode
+       1203   B7 000F4B50 CryptMsgOpenToEncode
+       1204   B8 000F5090 CryptMsgSignCTL
+       1205   B9 0003BE90 CryptMsgUpdate
+       1206   BA 000F4C60 CryptMsgVerifyCountersignatureEncoded
+       1207   BB 000F4CC0 CryptMsgVerifyCountersignatureEncodedEx
+       1012   BC 000CF740 CryptObjectLocatorFree
+       1013   BD 000CF790 CryptObjectLocatorGet
+       1014   BE 000CF7D0 CryptObjectLocatorGetContent
+       1015   BF 000CF890 CryptObjectLocatorGetUpdated
+       1016   C0 000CF8E0 CryptObjectLocatorInitialize
+       1017   C1 000CFC60 CryptObjectLocatorIsChanged
+       1018   C2 000CFC90 CryptObjectLocatorRelease
+       1208   C3 0001C870 CryptProtectData
+       1209   C4          CryptProtectMemory (forwarded to DPAPI.CryptProtectMemory)
+       1210   C5 000023B0 CryptQueryObject
+       1211   C6 0009B630 CryptRegisterDefaultOIDFunction
+       1212   C7 0009B950 CryptRegisterOIDFunction
+       1213   C8 0009D340 CryptRegisterOIDInfo
+       1214   C9 000E7FB0 CryptRetrieveTimeStamp
+       1215   CA 000E7970 CryptSIPAddProvider
+       1216   CB 00026320 CryptSIPCreateIndirectData
+       1217   CC 00024240 CryptSIPGetCaps
+       1218   CD 000E7D00 CryptSIPGetSealedDigest
+       1219   CE 0001C290 CryptSIPGetSignedDataMsg
+       1220   CF 000274A0 CryptSIPLoad
+       1221   D0 000E7DF0 CryptSIPPutSignedDataMsg
+       1222   D1 000E7B50 CryptSIPRemoveProvider
+       1223   D2 000E7EE0 CryptSIPRemoveSignedDataMsg
+       1224   D3 00017460 CryptSIPRetrieveSubjectGuid
+       1225   D4 000177D0 CryptSIPRetrieveSubjectGuidForCatalogFile
+       1226   D5 0004CC30 CryptSIPVerifyIndirectData
+       1227   D6 0008C410 CryptSetAsyncParam
+       1228   D7 0007E630 CryptSetKeyIdentifierProperty
+       1229   D8 0009BA50 CryptSetOIDFunctionValue
+       1230   D9 00013120 CryptSignAndEncodeCertificate
+       1231   DA 0008E5C0 CryptSignAndEncryptMessage
+       1232   DB 000132C0 CryptSignCertificate
+       1233   DC 0008E720 CryptSignMessage
+       1234   DD 0008E830 CryptSignMessageWithKey
+       1235   DE 0000A9A0 CryptStringToBinaryA
+       1236   DF 0000A800 CryptStringToBinaryW
+       1237   E0 000AE550 CryptUninstallDefaultContext
+       1238   E1 00014E70 CryptUnprotectData
+       1239   E2          CryptUnprotectMemory (forwarded to DPAPI.CryptUnprotectMemory)
+       1240   E3 0009BB60 CryptUnregisterDefaultOIDFunction
+       1241   E4 0009BE20 CryptUnregisterOIDFunction
+       1242   E5 0009D540 CryptUnregisterOIDInfo
+       1243   E6          CryptUpdateProtectedState (forwarded to DPAPI.CryptUpdateProtectedState)
+       1244   E7 00081780 CryptVerifyCertificateSignature
+       1245   E8 000289E0 CryptVerifyCertificateSignatureEx
+       1246   E9 0008EAC0 CryptVerifyDetachedMessageHash
+       1247   EA 0008EB20 CryptVerifyDetachedMessageSignature
+       1248   EB 0008EBA0 CryptVerifyMessageHash
+       1249   EC 0008EBF0 CryptVerifyMessageSignature
+       1250   ED 0008EC70 CryptVerifyMessageSignatureWithKey
+       1251   EE 00004D00 CryptVerifyTimeStampSignature
+       1252   EF 00021660 I_CertChainEngineIsDisallowedCertificate
+       1253   F0 0004A7D0 I_CertDiagControl
+       1254   F1 0001F280 I_CertFinishSslHandshake
+       1255   F2 0001F430 I_CertProcessSslHandshake
+       1256   F3 0004BB20 I_CertProtectFunction
+       1257   F4 0001DD10 I_CertSrvProtectFunction
+       1258   F5 0007E7F0 I_CertSyncStore
+       1259   F6 00006930 I_CertUpdateStore
+       1260   F7 0004EEC0 I_CertWnfEnableFlushCache
+       1261   F8 00026930 I_CryptAddRefLruEntry
+       1262   F9 000B2310 I_CryptAddSmartCardCertToStore
+       1263   FA 0001E410 I_CryptAllocTls
+       1264   FB 0001E9B0 I_CryptAllocTlsEx
+       1265   FC 00022C20 I_CryptCreateLruCache
+       1266   FD 00033EB0 I_CryptCreateLruEntry
+       1267   FE 00016C10 I_CryptDetachTls
+       1268   FF 000C9300 I_CryptDisableLruOfEntries
+       1269  100 000C9350 I_CryptEnableLruOfEntries
+       1270  101 00003820 I_CryptEnumMatchingLruEntries
+       1271  102 00029930 I_CryptFindLruEntry
+       1272  103 000C93C0 I_CryptFindLruEntryData
+       1273  104 000B2430 I_CryptFindSmartCardCertInStore
+       1274  105 000221B0 I_CryptFlushLruCache
+       1275  106 0001CDE0 I_CryptFreeLruCache
+       1276  107 0001EA80 I_CryptFreeTls
+       1277  108 0003A6D0 I_CryptGetAsn1Decoder
+       1278  109 0003F770 I_CryptGetAsn1Encoder
+       1279  10A 000283C0 I_CryptGetDefaultCryptProv
+       1280  10B 000AE6D0 I_CryptGetDefaultCryptProvForEncrypt
+       1281  10C 0006CD00 I_CryptGetFileVersion
+       1282  10D 00027580 I_CryptGetLruEntryData
+       1283  10E 000C93F0 I_CryptGetLruEntryIdentifier
+       1284  10F 000B26A0 I_CryptGetOssGlobal
+       1285  110 0003B8E0 I_CryptGetTls
+       1286  111 00035570 I_CryptInsertLruEntry
+       1287  112 0001E420 I_CryptInstallAsn1Module
+       1288  113 000B26A0 I_CryptInstallOssGlobal
+       1289  114 00024E60 I_CryptReadTrustedPublisherDWORDValueFromRegistry
+       1290  115 0008C410 I_CryptRegisterSmartCardStore
+       1291  116 00031D60 I_CryptReleaseLruEntry
+       1292  117 000068B0 I_CryptRemoveLruEntry
+       1293  118 0003FBD0 I_CryptSetTls
+       1294  119 000065E0 I_CryptTouchLruEntry
+       1295  11A 0001DD00 I_CryptUninstallAsn1Module
+       1296  11B 000B26A0 I_CryptUninstallOssGlobal
+       1297  11C 0008C410 I_CryptUnregisterSmartCardStore
+       1298  11D 00017110 I_CryptWalkAllLruCacheEntries
+       1299  11E 000D5110 I_PFXDecrypt
+       1300  11F 000D5530 I_PFXHMAC
+       1019  120 000D1030 I_PFXImportCertStoreEx
+       1301  121 000D1AF0 PFXExportCertStore
+       1302  122 000D1C50 PFXExportCertStore2
+       1303  123 000D1C70 PFXExportCertStoreEx
+       1304  124 000D1F00 PFXImportCertStore
+       1305  125 000D1F30 PFXIsPFXBlob
+       1306  126 000D1FC0 PFXVerifyPassword
+       1001      0004C410 [NONAME]
+       1002      0006D020 [NONAME]
+       1003      0006CB20 [NONAME]
+       1004      0006CB00 [NONAME]
+       1005      0006CBD0 [NONAME]
+       1006      0006CBB0 [NONAME]
+       1007      0006CAA0 [NONAME]
+       1008      0006CAE0 [NONAME]
+       1009      0006CB60 [NONAME]
+       1010      0006CB90 [NONAME]
+       1011      0006CA80 [NONAME]
+       2000      000D76B0 [NONAME]
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        D000 .pdata
+       37000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      106000 .text

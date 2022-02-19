@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\vfcompat.dll
+
+File Type: DLL
+
+  Section contains the following exports for accore.dll
+
+    00000000 characteristics
+    9D676706 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

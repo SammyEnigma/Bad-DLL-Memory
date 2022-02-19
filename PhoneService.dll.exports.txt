@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\PhoneService.dll
+
+File Type: DLL
+
+  Section contains the following exports for PhoneService.dll
+
+    00000000 characteristics
+    F20CC7D4 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004BF0 CreateInProcPhoneService
+          2    1 00007090 ServiceMain
+          3    2 00007080 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       29000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       B7000 .text

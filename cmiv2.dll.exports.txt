@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\AdvancedInstallers\cmiv2.dll
+
+File Type: DLL
+
+  Section contains the following exports for cmiv2.DLL
+
+    00000000 characteristics
+    DC538A46 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000870D0 DllCanUnloadNow
+          2    1 000870F0 DllGetClassObject
+          3    2 00087110 DllRegisterServer
+          4    3 000871E0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+       16000 .pdata
+       C3000 .rdata
+        5000 .reloc
+       31000 .rsrc
+      1A5000 .text

@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\osbaseln.dll
+
+File Type: DLL
+
+  Section contains the following exports for osbaseln.dll
+
+    00000000 characteristics
+    A225E5BA time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002510 CloseOsBaseline
+          3    1 000013B0 EnumOsBaselineComponentsA
+          4    2 00002600 EnumOsBaselineComponentsW
+          5    3 00001E20 EnumOsOutOfDateComponentsA
+          6    4 000030E0 EnumOsOutOfDateComponentsW
+          7    5 00001960 GetOsBaselineComponentInfoA
+          8    6 00002BB0 GetOsBaselineComponentInfoW
+          9    7 00001BA0 GetOsInstalledComponentInfoA
+         10    8 00002E60 GetOsInstalledComponentInfoW
+         11    9 00002D00 GetOsLatestBaselineServicePack
+         12    A 00002480 OpenOsBaseline
+         13    B 00002050 pGetOsBaselineCurrentVersion
+         14    C 000031A0 pGetOsCurrentBaselineServicePack
+         15    D 00002280 pOpenOsBaselineByVersion
+          1      00003270 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

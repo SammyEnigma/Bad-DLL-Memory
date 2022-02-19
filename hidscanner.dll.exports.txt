@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hidscanner.inf_amd64_b4d877fbd7faf471\hidscanner.dll
+
+File Type: DLL
+
+  Section contains the following exports for hidscanner.DLL
+
+    00000000 characteristics
+    CACCD5CF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A0A0 FxDriverEntryUm
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

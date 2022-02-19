@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\ConstraintIndex.Search.dll
+
+File Type: DLL
+
+  Section contains the following exports for ConstraintIndex.Search.dll
+
+    00000000 characteristics
+    66CE2926 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000B2BF0 BuildConstraintIndex
+          2    1 0004C1B0 BuildConstraintIndexInMemory
+          3    2 000B2C70 BuildFilterTrie
+          4    3 0002F400 BuildFilterTrieInMemory
+          5    4 000B2E30 CSGGetBestEntityScore
+          6    5 0002FA70 CreateCSGSuggest
+          7    6 000B2EE0 CreateCSGSuggestInMemory
+          8    7 000B2F90 CreateConstraintIndex
+          9    8 000B3030 CreateConstraintIndexInMemory
+         10    9 000B30D0 DeleteCSGSuggest
+         11    A 000B30F0 DeleteConstraintIndex
+         12    B 00050220 DllCanUnloadNow
+         13    C 00050240 DllGetActivationFactory
+         14    D 000B3110 GetAttributeRank
+         15    E 00039880 GetEntitySuggestions
+         16    F 000B3240 GetSegmentRank
+
+  Summary
+
+        F000 .data
+        1000 .didat
+       13000 .pdata
+       43000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      11A000 .text

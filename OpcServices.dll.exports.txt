@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\OpcServices.dll
+
+File Type: DLL
+
+  Section contains the following exports for OpcServices.DLL
+
+    00000000 characteristics
+    14A8F0D7 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00061130 DllCanUnloadNow
+          6    1 0005B850 DllGetClassObject
+          1      000973F0 [NONAME]
+          2      00097C40 [NONAME]
+          3      00097C60 [NONAME]
+          4      00098040 [NONAME]
+          7      000984D0 [NONAME]
+          8      00001300 [NONAME]
+          9      00001460 [NONAME]
+         10      00007E10 [NONAME]
+         11      00007E40 [NONAME]
+         12      000059B0 [NONAME]
+         13      00005AB0 [NONAME]
+         14      00098370 [NONAME]
+         15      00098AD0 [NONAME]
+         16      000986E0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+       17000 .pdata
+       AD000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      150000 .text

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\schedsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for schedsvc.DLL
+
+    00000000 characteristics
+    9E6697BA time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002A390 ServiceMain
+
+  Summary
+
+       1C000 .data
+        1000 .didat
+        6000 .pdata
+       25000 .rdata
+        2000 .reloc
+       1B000 .rsrc
+       67000 .text

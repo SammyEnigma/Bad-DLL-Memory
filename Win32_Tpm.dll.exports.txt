@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\Win32_Tpm.dll
+
+File Type: DLL
+
+  Section contains the following exports for Win32_TPM.DLL
+
+    00000000 characteristics
+    64A2A903 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000CDD0 DllCanUnloadNow
+          2    1 00005820 DllGetClassObject
+          3    2 0000CE10 DllRegisterServer
+          4    3 0000CE80 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

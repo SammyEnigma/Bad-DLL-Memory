@@ -1,0 +1,77 @@
+
+Dump of file C:\Windows\System32\wsnmp32.dll
+
+File Type: DLL
+
+  Section contains the following exports for wsnmp32.dll
+
+    00000000 characteristics
+    10F17F79 time date stamp
+        0.00 version
+         100 ordinal base
+         900 number of functions
+          51 number of names
+
+    ordinal hint RVA      name
+
+        222    0 00004D20 SnmpCancelMsg
+        201    1 00004E20 SnmpCleanup
+        292    2 00004EB0 SnmpCleanupEx
+        203    3 00005280 SnmpClose
+        401    4 00007B50 SnmpContextToStr
+        108    5 0000C660 SnmpConveyAgentAddress
+        603    6 0000BB40 SnmpCountVbl
+        500    7 0000A660 SnmpCreatePdu
+        220    8 00005690 SnmpCreateSession
+        600    9 0000BBC0 SnmpCreateVbl
+        902    A 0000AD30 SnmpDecodeMsg
+        606    B 0000BCF0 SnmpDeleteVb
+        503    C 0000A7E0 SnmpDuplicatePdu
+        601    D 0000BE00 SnmpDuplicateVbl
+        901    E 0000AFB0 SnmpEncodeMsg
+        301    F 00007C60 SnmpEntityToStr
+        402   10 00007DF0 SnmpFreeContext
+        900   11 0000B1C0 SnmpFreeDescriptor
+        302   12 00007EA0 SnmpFreeEntity
+        504   13 0000A930 SnmpFreePdu
+        602   14 0000BF20 SnmpFreeVbl
+        999   15 0000B250 SnmpGetLastError
+        501   16 0000A9F0 SnmpGetPduData
+        102   17 00007660 SnmpGetRetransmitMode
+        106   18 000076A0 SnmpGetRetry
+        104   19 00007730 SnmpGetTimeout
+        100   1A 000077C0 SnmpGetTranslateMode
+        604   1B 0000C040 SnmpGetVb
+        120   1C 00007800 SnmpGetVendorInfo
+        221   1D 00005840 SnmpListen
+        293   1E 00005850 SnmpListenEx
+        906   1F 0000B330 SnmpOidCompare
+        905   20 0000B420 SnmpOidCopy
+        904   21 0000B4D0 SnmpOidToStr
+        202   22 00005BE0 SnmpOpen
+        205   23 00005C00 SnmpRecvMsg
+        206   24 00006300 SnmpRegister
+        204   25 000069D0 SnmpSendMsg
+        109   26 0000C6D0 SnmpSetAgentAddress
+        502   27 0000AB90 SnmpSetPduData
+        320   28 00007F60 SnmpSetPort
+        103   29 000078B0 SnmpSetRetransmitMode
+        107   2A 00007920 SnmpSetRetry
+        105   2B 000079C0 SnmpSetTimeout
+        101   2C 00007A60 SnmpSetTranslateMode
+        605   2D 0000C4E0 SnmpSetVb
+        200   2E 00007220 SnmpStartup
+        291   2F 00007300 SnmpStartupEx
+        400   30 00008030 SnmpStrToContext
+        300   31 00008340 SnmpStrToEntity
+        903   32 0000B7E0 SnmpStrToOid
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

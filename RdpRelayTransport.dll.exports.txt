@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\RdpRelayTransport.dll
+
+File Type: DLL
+
+  Section contains the following exports for RDPRELAYTRANSPORT.dll
+
+    00000000 characteristics
+    6B4F5338 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000021D0 DllCanUnloadNow
+          2    1 00002200 DllGetClassObject
+          3    2 00002330 DllRegisterServer
+          4    3 00002460 DllUnregisterServer
+          5    4 000024A0 RDPAPI_CreateInstance
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       2D000 .text

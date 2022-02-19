@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\qedit.dll
+
+File Type: DLL
+
+  Section contains the following exports for QEdit.dll
+
+    00000000 characteristics
+    9E6E6CC5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009690 DllCanUnloadNow
+          2    1 00009560 DllGetClassObject
+          3    2 00009260 DllRegisterServer
+          4    3 00009510 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       13000 .rdata
+        3000 .reloc
+       11000 .rsrc
+       78000 .text

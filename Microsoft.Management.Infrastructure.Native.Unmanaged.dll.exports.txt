@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Management.Infrastructure.Native.Unmanaged.DLL
+
+    00000000 characteristics
+     EAA9E34 time date stamp
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001400 GetAddr_OperationCallbacks_ClassObjectNeededCallback
+          2    1 00001420 GetAddr_OperationCallbacks_FreeIncludedFileBufferCallback
+          3    2 00001410 GetAddr_OperationCallbacks_GetIncludedFileBufferCallback
+          4    3 00001AC0 GetAddr_OperationCallbacks_NativeClassCallback
+          5    4 00001AB0 GetAddr_OperationCallbacks_NativeIndicationCallback
+          6    5 00001A50 GetAddr_OperationCallbacks_NativeInstanceCallback
+          7    6 00001AA0 GetAddr_OperationCallbacks_NativePromptUserCallback
+          8    7 00001A60 GetAddr_OperationCallbacks_NativeStreamedParameterResultCallback
+          9    8 00001A90 GetAddr_OperationCallbacks_NativeWriteErrorCallback
+         10    9 00001A70 GetAddr_OperationCallbacks_NativeWriteMessageCallback
+         11    A 00001A80 GetAddr_OperationCallbacks_NativeWriteProgressCallback
+         12    B 00001EC0 GetAddr_SessionHandle_OnReleaseHandleCompleted
+         13    C 00001100 MI_ApplicationWrapper_Initialize
+         14    D 00001320 MI_ApplicationWrapper_ScheduleCleanupCallback
+         15    E 00001010 MI_ApplicationWrapper_SetAppDomainIsUnloading
+         16    F 00001FE0 MI_Helpers_GetCurrentSecurityToken
+         17   10 00001F90 MI_Helpers_IsClrShuttingDown
+         18   11 00001FD0 MI_Helpers_SetClrIsNotShuttingDown
+         19   12 00001FB0 MI_Helpers_SetClrIsShuttingDown
+         20   13 00001600 MI_OperationWrapper_DecrementCount_AndDontWorryAboutLifetimeOfMiDotNetDll
+         21   14 00001580 MI_OperationWrapper_DecrementCount_AndManageLifetimeOfMiDotNetDll
+         22   15 00001780 MI_OperationWrapper_GetClass
+         23   16 000016D0 MI_OperationWrapper_GetIndication
+         24   17 00001650 MI_OperationWrapper_GetInstance
+         25   18 00001430 MI_OperationWrapper_Initialize
+         26   19 00001A20 MI_OperationWrapper_ScheduleDrainingWorkIfNeeded
+         27   1A 00001970 MI_OperationWrapper_SetupDrainingIfNeeded
+         28   1B 00002060 UnmanagedMI_GetMiClientFT_V1
+         29   1C 00002080 UnmanagedMI_GetMiEvaluatorFT_V1
+         30   1D 00002080 UnmanagedMI_GetMiMonitoringFT_V1
+         31   1E 00002080 UnmanagedMI_GetMiReactiveExtensionsFT_V1
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

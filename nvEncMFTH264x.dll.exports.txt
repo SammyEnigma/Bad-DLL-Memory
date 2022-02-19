@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvEncMFTH264x.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvEncMFTH264x.dll
+
+    00000000 characteristics
+    5FD3FE38 time date stamp Sat Dec 12 00:18:16 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006BD6 DllCanUnloadNow
+          2    1 00001064 DllGetClassObject
+          3    2 00003A0D DllRegisterServer
+          4    3 00001F8C DllUnregisterServer
+
+  Summary
+
+        1000 .00cfg
+        7000 .data
+        3000 .idata
+        D000 .pdata
+       42000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      104000 .text

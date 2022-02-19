@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\qmgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for qmgr.dll
+
+    00000000 characteristics
+    A0F4A079 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0009DBC0 ??4CPerfMon@@QEAAAEAV0@AEBV0@@Z
+          2    1 0009E2E0 ?CounterIdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__COUNTER_ID@1@@Z
+          3    2 0009E750 ?GetCounter32@CPerfMon@@QEAAPEAJPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z
+          4    3 0009E750 ?GetCounter64@CPerfMon@@QEAAPEA_JPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z
+          5    4 0009EC00 ?IsValidInstId@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@@Z
+          6    5 0009EC90 ?IsValidObjOrd@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z
+          7    6 0009F0E0 ?ObjectIdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ID@1@@Z
+          8    7 0009F120 ?ObjectIdToPerfItemIndex@CPerfMon@@AEBAHPEAU__OBJECT_ID@1@@Z
+         10    8 000551C0 BITSServiceMain
+          9    9 000551A0 ServiceMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        E000 .pdata
+       37000 .rdata
+        2000 .reloc
+        C000 .rsrc
+      118000 .text

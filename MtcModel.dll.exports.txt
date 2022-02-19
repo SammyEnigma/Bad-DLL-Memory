@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\MtcModel.dll
+
+File Type: DLL
+
+  Section contains the following exports for MtcModel.dll
+
+    00000000 characteristics
+    23F3A412 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000050B0 DllCanUnloadNow
+          2    1 00004DE0 DllGetActivationFactory
+          3    2 00004FC0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       25000 .text

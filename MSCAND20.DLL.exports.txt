@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\MSCAND20.DLL
+
+File Type: DLL
+
+  Section contains the following exports for mscandui.dll
+
+    00000000 characteristics
+    8C0F87D6 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00071A70 DllCanUnloadNow
+          2    1 000179C0 DllGetClassObject
+          3    2 00071A90 DllRegisterServer
+          4    3 00071B30 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       48000 .rdata
+        5000 .reloc
+       9E000 .rsrc
+       C6000 .text

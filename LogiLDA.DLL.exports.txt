@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lda_0892_0883_0894.inf_amd64_ea5e2e29a6245484\x64\LogiLDA.DLL
+
+File Type: DLL
+
+  Section contains the following exports for UniversalDownloader.vs2011.dll
+
+    00000000 characteristics
+    50526369 time date stamp Fri Sep 14 00:51:21 2012
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0004BDA0 CoDeviceInstall
+          2    1 0004CA30 InstallDownloader
+          3    2 0004D5B0 LogiFetch
+          4    3 0004DA90 LogiTestPoint01
+          5    4 0004E060 RemoveDownloader
+
+  Summary
+
+       1B000 .data
+       20000 .pdata
+       CC000 .rdata
+       2F000 .reloc
+       5A000 .rsrc
+      23E000 .text
+        1000 minATL

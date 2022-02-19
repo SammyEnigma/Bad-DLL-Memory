@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\dabapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for DABAPI.dll
+
+    00000000 characteristics
+    CF3E23DB time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012A0 DabApiBufferFree
+          2    1 00001260 DabGetLastScheduledRunTime
+          3    2 00001010 DabRegisterTriggerConsumer
+          4    3 00001210 DabUnregisterTriggerConsumer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

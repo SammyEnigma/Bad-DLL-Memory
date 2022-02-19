@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\msaatext.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSAAText.dll
+
+    00000000 characteristics
+    B9C1C4A6 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011C20 DllCanUnloadNow
+          2    1 00011C60 DllGetClassObject
+          3    2 00011CE0 DllRegisterServer
+          4    3 00011DF0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       15000 .text

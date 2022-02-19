@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\FXSUTILITY.dll
+
+File Type: DLL
+
+  Section contains the following exports for fxsutility.DLL
+
+    00000000 characteristics
+    C88B334B time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011D0 CanSendToFaxRecipient
+          2    1 00003FA0 DllCanUnloadNow
+          3    2 00003FE0 DllGetClassObject
+          4    3 00004070 DllRegisterServer
+          5    4 000040B0 DllUnregisterServer
+          6    5 00001050 GetProxyDllInfo
+          7    6 00001290 SendToFaxRecipient
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+       17000 .rsrc
+       11000 .text

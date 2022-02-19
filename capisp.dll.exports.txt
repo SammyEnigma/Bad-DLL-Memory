@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\capisp.dll
+
+File Type: DLL
+
+  Section contains the following exports for capisp.dll
+
+    00000000 characteristics
+    5837B4F3 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002070 CAPISysPrep_Generalize
+          2    1 00002E70 CryptoSysPrep_Clean
+          3    2 00002730 CryptoSysPrep_Specialize
+          4    3 00002740 CryptoSysPrep_Specialize_Clone
+          5    4 00002750 CryptoSysPrep_Specialize_Offline
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

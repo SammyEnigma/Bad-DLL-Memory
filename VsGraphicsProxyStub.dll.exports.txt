@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\VsGraphicsProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for PixieServerPS.dll
+
+    00000000 characteristics
+     7BE2E6A time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011E0 DllCanUnloadNow
+          2    1 000011A0 DllGetClassObject
+          3    2 00001250 DllRegisterServer
+          4    3 00001280 DllUnregisterServer
+          5    4 000012B0 PixEngine_RegisterProxyStubClassObject
+          6    5 00001350 PixEngine_RegisterProxyStubs
+          7    6 00001330 PixEngine_UnregisterProxyStubClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       12000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        2000 .text

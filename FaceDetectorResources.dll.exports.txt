@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\WinBioPlugIns\FaceDriver\amd64\FaceDetectorResources.dll
+
+File Type: DLL
+
+  Section contains the following exports for FaceDetectorResources.dll
+
+    00000000 characteristics
+     C2D492D time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+      C7E000 .rsrc
+        1000 .text

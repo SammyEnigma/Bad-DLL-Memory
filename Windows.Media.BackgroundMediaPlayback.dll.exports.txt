@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Media.BackgroundMediaPlayback.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.BackgroundMediaPlayback.dll
+
+    00000000 characteristics
+    981E20D1 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000024F0 DllCanUnloadNow
+          2    1 00002220 DllGetActivationFactory
+          3    2 00002400 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       1F000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       BA000 .text

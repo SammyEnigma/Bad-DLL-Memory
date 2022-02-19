@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\opencl-clang64.dll
+
+File Type: DLL
+
+  Section contains the following exports for opencl-clang64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005273E CheckCompileOptions
+          2    1 0000DE0E Compile
+
+  Summary
+
+        1000 .00cfg
+       79000 .data
+        1000 .didat
+        3000 .idata
+      25C000 .pdata
+      C5A000 .rdata
+       7F000 .reloc
+       FB000 .rsrc
+     3684000 .text
+        1000 .tls

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_Display.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_Display.dll
+
+    00000000 characteristics
+     66BF4BB time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006630 DllCanUnloadNow
+          2    1 00006530 DllGetClassObject
+          3    2 000066F0 GetSetting
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       18000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       4D000 .text

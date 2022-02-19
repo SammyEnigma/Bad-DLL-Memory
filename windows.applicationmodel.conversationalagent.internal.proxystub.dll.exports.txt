@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\windows.applicationmodel.conversationalagent.internal.proxystub.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.ConversationalAgent.Internal.Proxystub.dll
+
+    00000000 characteristics
+     F42FDDF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011B0 DllCanUnloadNow
+          2    1 00001170 DllGetClassObject
+          3    2 00001240 DllRegisterServer
+          4    3 00001270 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       10000 .rdata
+        2000 .reloc
+        1000 .text

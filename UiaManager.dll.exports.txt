@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\UiaManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for UiaManager.dll
+
+    00000000 characteristics
+    5C511D78 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00001820 DllCanUnloadNow
+          4    1 000039F0 DllGetClassObject
+          5    2 0001A960 GetProxyDllInfo
+          1    3 00058350 UiaInitCrossMachineConnection
+          2    4 00058350 UiaInitCrossMachineConnectionW
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        8000 .pdata
+       22000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       6C000 .text

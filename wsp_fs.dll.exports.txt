@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\wsp_fs.dll
+
+File Type: DLL
+
+  Section contains the following exports for wsp_fs.DLL
+
+    00000000 characteristics
+    B3E50F3C time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003B10 DllCanUnloadNow
+          2    1 00003B50 DllGetClassObject
+          3    2 00003790 DllMain
+          4    3 00003A70 DllRegisterServer
+          5    4 00003AC0 DllUnregisterServer
+          6    5 00003880 GetProviderClassID
+          7    6 000036C0 MI_Main
+          8    7 000027C0 PreShutdown
+          9    8 000027C0 SetShutdownCallback
+         10    9 000036B0 SmpUnload
+
+  Summary
+
+       21000 .data
+        B000 .pdata
+       C6000 .rdata
+        E000 .reloc
+        1000 .rsrc
+       E5000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Custom.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Custom.dll
+
+    00000000 characteristics
+    9F09ABC7 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A390 DllCanUnloadNow
+          2    1 0000A0C0 DllGetActivationFactory
+          3    2 0000A2A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

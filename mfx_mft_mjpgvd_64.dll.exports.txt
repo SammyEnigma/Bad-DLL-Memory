@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\msdk.inf_amd64_c03be30a746c89a2\mfx_mft_mjpgvd_64.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfx_mft_mjpgvd_64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00057B50 DllCanUnloadNow
+          2    1 000583B0 DllGetClassObject
+          3    2 00099780 DllMain
+          4    3 00057B70 DllRegisterServer
+          5    4 000581F0 DllUnregisterServer
+
+  Summary
+
+       18000 .data
+       16000 .pdata
+       7C000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      170000 .text
+       D0000 TRSCODE

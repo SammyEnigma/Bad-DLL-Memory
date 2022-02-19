@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nvppc.inf_amd64_57456e94fb8796e2\nvppcgenco64.dll
+
+File Type: DLL
+
+  Section contains the following exports for NVGenCo64.DLL
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00044D20 NvGenericCoInstall
+
+  Summary
+
+        D000 .data
+        B000 .pdata
+       63000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       E7000 .text

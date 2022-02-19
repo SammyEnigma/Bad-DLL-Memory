@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Radios.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Radios.dll
+
+    00000000 characteristics
+    42500A47 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000180A0 DllCanUnloadNow
+          2    1 00017B40 DllGetActivationFactory
+          3    2 00017D20 DllGetClassObject
+          4    3 00017EB0 DllMain
+          5    4 00017E80 DllRegisterServer
+          6    5 00017E50 DllUnregisterServer
+          7    6 00018680 RadioDeviceCreate
+          8    7 00018760 RadioDeviceDelete
+          9    8 000189B0 RadioDeviceStart
+         10    9 00018A70 RadioDeviceStop
+         11    A 00019A00 StartRadioMonitor
+         12    B 00019AB0 StopRadioMonitor
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       10000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       22000 .text

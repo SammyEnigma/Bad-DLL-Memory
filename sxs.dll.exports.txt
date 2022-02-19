@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\sxs.dll
+
+File Type: DLL
+
+  Section contains the following exports for sxs.dll
+
+    00000000 characteristics
+    47F5DCB7 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          7    0 000362C0 CreateAssemblyCache
+          8    1 00035D00 CreateAssemblyNameObject
+          9    2 000562B0 SxsBeginAssemblyInstall
+         10    3 00056580 SxsEndAssemblyInstall
+          1    4 00053D40 SxsFindClrClassInformation
+          2    5 00054350 SxsFindClrSurrogateInformation
+         11    6 00003430 SxsGenerateActivationContext
+         12    7 000567C0 SxsInstallW
+          3    8 000547C0 SxsLookupClrGuid
+         13    9 00031F80 SxsOleAut32MapConfiguredClsidToReferenceClsid
+         14    A 000555C0 SxsOleAut32MapIIDOrCLSIDToTypeLibrary
+         15    B 00032090 SxsOleAut32MapIIDToProxyStubCLSID
+         16    C 00031D10 SxsOleAut32MapIIDToTLBPath
+         17    D 00055780 SxsOleAut32MapReferenceClsidToConfiguredClsid
+         18    E 00033600 SxsOleAut32RedirectTypeLibrary
+         19    F 00035740 SxsProbeAssemblyInstallation
+         20   10 0005BB50 SxsQueryManifestInformation
+          4   11 00055DE0 SxsRunDllInstallAssembly
+          5   12 00055F10 SxsRunDllInstallAssemblyW
+         21   13 00055970 SxsUninstallW
+          6   14 000588A0 SxspGenerateManifestPathOnAssemblyIdentity
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        5000 .pdata
+       2E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       68000 .text

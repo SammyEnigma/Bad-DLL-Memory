@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\umpo.dll
+
+File Type: DLL
+
+  Section contains the following exports for umpo.dll
+
+    00000000 characteristics
+    8F51039D time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00022179 PtrUmpoFullPowerPlanSupportDisabled
+          2    1 00021410 PtrUmpoOnAcPower
+          3    2 00021FD0 PtrUmpoProviderHandle
+          4    3 00022240 PtrUmpoSchemeLock
+          5    4 000140F0 UmpoAllocate
+          6    5 00006A00 UmpoAlpcSendPowerMessage
+          7    6 00014120 UmpoFree
+          8    7 00002A90 UmpoGetActiveScheme
+          9    8 000067D0 UmpoInternalCloseUserPowerKey
+         10    9 000066D0 UmpoInternalConvertGuidToString
+         11    A 000069B0 UmpoInternalDataAccessorToString
+         12    B 00002970 UmpoInternalGetKeyValueGuid
+         13    C 000064A0 UmpoInternalOpenGUIDSubKey
+         14    D 00002840 UmpoInternalOpenUserPowerKey
+         15    E 00011DE0 UmpoMain
+         16    F 0000B600 UmpoNotificationHandler
+         17   10 000075B0 UmpoNotifyKernelAllPowerPolicyChanged
+         18   11 00003E90 UmpoSendKernelPowerPolicyNotification
+         19   12 000109E0 UmpoWriteToUserPowerKey
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        B000 .rsrc
+       16000 .text

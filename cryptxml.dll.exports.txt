@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\cryptxml.dll
+
+File Type: DLL
+
+  Section contains the following exports for CRYPTXML.dll
+
+    00000000 characteristics
+    D7B1020B time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000029C0 CryptXmlAddObject
+          2    1 00003150 CryptXmlClose
+          3    2 00003620 CryptXmlCreateReference
+          4    3 00003D40 CryptXmlDigestReference
+          5    4 000054D0 CryptXmlEncode
+          6    5 000086B0 CryptXmlEnumAlgorithmInfo
+          7    6 00008800 CryptXmlFindAlgorithmInfo
+          8    7 00001010 CryptXmlGetAlgorithmInfo
+          9    8 000031B0 CryptXmlGetDocContext
+         10    9 00003230 CryptXmlGetReference
+         11    A 000032B0 CryptXmlGetSignature
+         12    B 00003330 CryptXmlGetStatus
+         13    C 0000A050 CryptXmlGetTransforms
+         14    D 00008910 CryptXmlImportPublicKey
+         15    E 0000A480 CryptXmlOpenToDecode
+         16    F 0000A670 CryptXmlOpenToEncode
+         17   10 0000B520 CryptXmlSetHMACSecret
+         18   11 0000B610 CryptXmlSign
+         19   12 0000C1E0 CryptXmlVerifySignature
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

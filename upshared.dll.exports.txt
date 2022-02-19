@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\upshared.dll
+
+File Type: DLL
+
+  Section contains the following exports for UPShared.dll
+
+    00000000 characteristics
+    42DA4197 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EE10 ConvertJsonValueToVariant
+          2    1 0000C950 CreateQueryStringBuilder
+          3    2 0000F070 ExpandCabFile
+          4    3 0000EDF0 LoadJsonFromFile
+          5    4 0000ECF0 MapExceptionToHResult
+          6    5 0000EE00 ParseJson
+          7    6 0000CBE0 SubmitRequestForData
+          8    7 0000DC30 SubmitRequestForSettings
+          9    8 0000F6E0 ToBase64
+         10    9 0000F0F0 VerifySelfSignedImageFile
+
+  Summary
+
+        C000 .data
+        1000 .didat
+        6000 .pdata
+       22000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       79000 .text

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\imjpcus.dll
+
+File Type: DLL
+
+  Section contains the following exports for imejpcus.dll
+
+    00000000 characteristics
+    DC60CD92 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000B160 DllMain
+          1    1 0000B180 OpenDetailDialog
+
+  Summary
+
+        7000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+       15000 .rsrc
+       22000 .text

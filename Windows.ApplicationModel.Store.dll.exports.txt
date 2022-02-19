@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.ApplicationModel.Store.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.Store.dll
+
+    00000000 characteristics
+    A6729D59 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006E40 DllCanUnloadNow
+          2    1 00006960 DllGetActivationFactory
+          3    2 00006B40 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        B000 .pdata
+       DD000 .rdata
+       11000 .reloc
+       10000 .rsrc
+      125000 .text

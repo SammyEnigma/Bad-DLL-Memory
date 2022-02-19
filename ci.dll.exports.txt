@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\ci.dll
+
+File Type: DLL
+
+  Section contains the following exports for CI.dll
+
+    00000000 characteristics
+    2A97F9D9 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00045C40 CiCheckSignedFile
+          5    1 00045D00 CiFindPageHashesInCatalog
+          6    2 00045D80 CiFindPageHashesInSignedFile
+          7    3 00045DC0 CiFreePolicyInfo
+          8    4 00061560 CiGetCertPublisherName
+          9    5 00045B20 CiGetPEInformation
+         10    6 00044400 CiInitialize
+         11    7 00061920 CiSetTrustedOriginClaimId
+         12    8 00054210 CiValidateFileObject
+         13    9 00045BC0 CiVerifyHashInCatalog
+          1      00054C60 [NONAME]
+          2      0005D490 [NONAME]
+          3      0005D6E0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .edata
+        3000 .idata
+        7000 .pdata
+        D000 .rdata
+        4000 .reloc
+       14000 .rsrc
+       2A000 .text
+        2000 GFIDS
+        1000 INIT
+       79000 PAGE
+        C000 PAGECONS
+        1000 PAGEDATA

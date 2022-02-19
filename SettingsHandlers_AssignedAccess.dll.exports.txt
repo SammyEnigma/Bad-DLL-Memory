@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_AssignedAccess.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_AssignedAccess.dll
+
+    00000000 characteristics
+    94BEC06A time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000053E0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       17000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       41000 .text

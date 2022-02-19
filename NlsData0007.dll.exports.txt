@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\NlsData0007.dll
+
+File Type: DLL
+
+  Section contains the following exports for NlsData0007.dll
+
+    00000000 characteristics
+    A79AE73A time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000053B0 LangDataCall
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        2000 .pdata
+      1B6000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       45000 .text

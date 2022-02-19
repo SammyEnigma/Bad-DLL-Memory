@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\WinHvPlatform.dll
+
+File Type: DLL
+
+  Section contains the following exports for WinHvPlatform.dll
+
+    00000000 characteristics
+     1F97E4F time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011DE0 WHvCancelRunVirtualProcessor
+          2    1 000116B0 WHvCreatePartition
+          3    2 00011CA0 WHvCreateVirtualProcessor
+          4    3 00011720 WHvDeletePartition
+          5    4 00011D00 WHvDeleteVirtualProcessor
+          6    5 00011200 WHvGetCapability
+          7    6 000126F0 WHvGetPartitionCounters
+          8    7 00011780 WHvGetPartitionProperty
+          9    8 000128F0 WHvGetVirtualProcessorCounters
+         10    9 00012190 WHvGetVirtualProcessorInterruptControllerState
+         11    A 00012230 WHvGetVirtualProcessorInterruptControllerState2
+         12    B 00011F70 WHvGetVirtualProcessorRegisters
+         13    C 000123D0 WHvGetVirtualProcessorXsaveState
+         14    D 00011860 WHvMapGpaRange
+         15    E 00012530 WHvQueryGpaRangeDirtyBitmap
+         16    F 00012AA0 WHvRegisterPartitionDoorbellEvent
+         17   10 00012370 WHvRequestInterrupt
+         18   11 00012A70 WHvResumePartitionTime
+         19   12 00011D90 WHvRunVirtualProcessor
+         20   13 00011810 WHvSetPartitionProperty
+         21   14 000122D0 WHvSetVirtualProcessorInterruptControllerState
+         22   15 00012320 WHvSetVirtualProcessorInterruptControllerState2
+         23   16 00012080 WHvSetVirtualProcessorRegisters
+         24   17 000124A0 WHvSetVirtualProcessorXsaveState
+         25   18 00011750 WHvSetupPartition
+         26   19 00012980 WHvSuspendPartitionTime
+         27   1A 00011AB0 WHvTranslateGva
+         28   1B 00011A20 WHvUnmapGpaRange
+         29   1C 00012AE0 WHvUnregisterPartitionDoorbellEvent
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       17000 .text

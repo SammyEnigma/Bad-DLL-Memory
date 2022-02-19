@@ -1,0 +1,61 @@
+
+Dump of file C:\Windows\System32\cryptext.dll
+
+File Type: DLL
+
+  Section contains the following exports for CRYPTEXT.dll
+
+    00000000 characteristics
+    E9665991 time date stamp
+        0.00 version
+           1 ordinal base
+          35 number of functions
+          35 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005220 CryptExtAddCER
+          3    1 000052B0 CryptExtAddCERMachineOnlyAndHwndW
+          4    2 00005110 CryptExtAddCERW
+          5    3 00005A30 CryptExtAddCRL
+          6    4 00005920 CryptExtAddCRLW
+          7    5 00005700 CryptExtAddCTL
+          8    6 000055F0 CryptExtAddCTLW
+          9    7 000062C0 CryptExtAddP7R
+         10    8 00005FF0 CryptExtAddP7RW
+         11    9 00005080 CryptExtAddPFX
+         12    A 00004E30 CryptExtAddPFXMachineOnlyAndHwndW
+         13    B 00004F90 CryptExtAddPFXW
+         14    C 00005D40 CryptExtAddSPC
+         15    D 00005C50 CryptExtAddSPCW
+         16    E 00004DA0 CryptExtOpenCAT
+         17    F 00004CC0 CryptExtOpenCATW
+         18   10 00004BE0 CryptExtOpenCER
+         19   11 00004AD0 CryptExtOpenCERW
+         20   12 00005890 CryptExtOpenCRL
+         21   13 00005790 CryptExtOpenCRLW
+         22   14 00005560 CryptExtOpenCTL
+         23   15 00005490 CryptExtOpenCTLW
+         24   16 00005DE0 CryptExtOpenP7R
+         25   17 00005DD0 CryptExtOpenP7RW
+         26   18 00006990 CryptExtOpenPFX
+         27   19 000068E0 CryptExtOpenPFXW
+         28   1A 00005BC0 CryptExtOpenPKCS7
+         29   1B 00005AC0 CryptExtOpenPKCS7W
+         30   1C 00006420 CryptExtOpenSTR
+         31   1D 00006350 CryptExtOpenSTRW
+         32   1E 00001230 DllCanUnloadNow
+         33   1F 00001250 DllGetClassObject
+         34   20 00001270 DllRegisterServer
+         35   21 000012E0 DllUnregisterServer
+          1   22 00002080 I_InvokeCommand
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        A000 .text

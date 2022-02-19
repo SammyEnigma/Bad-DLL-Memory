@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\oposdrv.inf_amd64_9090a824ce0d0e68\oposdrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for oposdrv.dll
+
+    00000000 characteristics
+    165BC31A time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000236F0 FxDriverEntryUm
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       26000 .text

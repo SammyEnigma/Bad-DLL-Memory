@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\twinui.dll
+
+File Type: DLL
+
+  Section contains the following exports for TWINUI.dll
+
+    00000000 characteristics
+    C07A3CE3 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00081D00 DllCanUnloadNow
+          2    1 00096F40 DllGetActivationFactory
+          3    2 0003A770 DllGetClassObject
+
+  Summary
+
+        F000 .data
+        2000 .didat
+       3C000 .pdata
+      164000 .rdata
+       13000 .reloc
+        1000 .rsrc
+      42D000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\auditcse.dll
+
+File Type: DLL
+
+  Section contains the following exports for AUDITCSE.dll
+
+    00000000 characteristics
+      A6DA78 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002140 GenerateGroupPolicy
+          2    1 000023B0 GenerateGroupPolicyCap
+          3    2 00001DB0 ProcessGroupPolicyEx
+          4    3 00002AE0 ProcessGroupPolicyExCap
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       1F000 .text

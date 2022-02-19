@@ -1,0 +1,10 @@
+
+Dump of file C:\Windows\System32\Windows.Help.Runtime.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .reloc
+        2000 .rsrc
+       26000 .text

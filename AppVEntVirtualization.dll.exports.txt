@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\AppVEntVirtualization.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppVVirtualization.dll
+
+    00000000 characteristics
+    B2C61222 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00005F80 Deinitialize
+          4    1 000060C0 GetComponent
+          1    2 00005A20 Initialize
+          2    3 00005F20 InitializeISV
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        9000 .pdata
+       68000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      107000 .text
+        3000 PAGE

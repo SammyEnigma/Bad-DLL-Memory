@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\BrokerLib.dll
+
+File Type: DLL
+
+  Section contains the following exports for BrokerLib.dll
+
+    00000000 characteristics
+    EE2AC821 time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000026D0 BrBufferFree
+          3    1 00026980 BrCheckCallerCapabilities
+          4    2 00026BC0 BrCheckCallerCapabilities2
+          5    3 00026DD0 BrCheckCallerIsAppContainer
+          6    4 0000DCD0 BrCreateBrokerInstance
+          7    5 0000DD60 BrCreateBrokerInstance2
+          8    6 00026F70 BrCreateBrokeredEvent
+          1    7 000266F0 BrCreateBrokeredEvent2
+          9    8 00027110 BrDecQuota
+         10    9 0000F240 BrDeleteBrokerInstance
+         11    A 000273D0 BrDeleteBrokeredEvent
+         12    B 00027500 BrDeleteBrokeredEvent2
+         13    C 000090B0 BrFindBrokeredEvent
+         14    D 00009700 BrFindBrokeredEvent2
+         15    E 00027690 BrGetBrokeredAppState
+         16    F 00004370 BrGetBrokeredAppState2
+         17   10 00027810 BrGetBrokeredAppStateName
+         18   11 00002020 BrGetBrokeredEventInfo2
+         19   12 00009500 BrGetBrokeredEventState
+         20   13 00027970 BrGetPackageFullNameForBrokeredEvent
+         21   14 00027BC0 BrGetQuota
+         22   15 00027E60 BrIncQuota
+         23   16 0000DC60 BrInitializeBrokerInstance
+         24   17 0000EC30 BrInitializeBrokerInstance2
+         25   18 000025A0 BrLockBroker
+         26   19 00004210 BrQueryBrokeredApplicationState
+         27   1A 0000B1B0 BrQueryBrokeredEvents
+         28   1B 000028D0 BrQueryBrokeredEvents2
+         29   1C 00028120 BrRegisterBrokeredEvent
+         30   1D 00011EB0 BrRegisterStateChangeCallbacks
+         31   1E 000282F0 BrSendActivatorControl
+         32   1F 00028480 BrSetBrokeredAppStateName
+         33   20 000285D0 BrSignalBrokerEvent
+         34   21 00002150 BrSignalBrokerEvent2
+         35   22 00002180 BrSignalBrokerEvent2Ex
+         36   23 00002510 BrUnlockBroker
+         37   24 00028800 BrUnregisterBrokeredEvent
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2F000 .text

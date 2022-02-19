@@ -1,0 +1,120 @@
+
+Dump of file C:\Windows\System32\DismApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for DismApi.DLL
+
+    00000000 characteristics
+    9ED38F71 time date stamp
+        0.00 version
+           1 ordinal base
+          95 number of functions
+          95 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001B240 DismAddCapability
+          2    1 0001B2A0 DismAddDriver
+          3    2 0001B360 DismAddPackage
+          4    3 0001B440 DismApplyUnattend
+          5    4 0001B4F0 DismCheckImageHealth
+          6    5 0001B590 DismCleanupMountpoints
+          7    6 0001B5F0 DismCloseSession
+          8    7 0001B660 DismCommitImage
+          9    8 0001B700 DismDelete
+         10    9 0001B710 DismDisableFeature
+         11    A 0001B7F0 DismEnableFeature
+         12    B 0001B900 DismGetCapabilities
+         13    C 0001B930 DismGetCapabilityInfo
+         14    D 0001B960 DismGetDriverInfo
+         15    E 0001BA30 DismGetDrivers
+         16    F 0001BAC0 DismGetFeatureInfo
+         17   10 0001BB90 DismGetFeatureParent
+         18   11 0001BC60 DismGetFeatures
+         19   12 0001BD00 DismGetImageInfo
+         20   13 0001BDA0 DismGetLastErrorMessage
+         21   14 0001BDB0 DismGetMountedImageInfo
+         22   15 0001BE20 DismGetPackageInfo
+         23   16 0001BEE0 DismGetPackageInfoEx
+         24   17 0001BEF0 DismGetPackages
+         25   18 00003120 DismGetReservedStorageState
+         26   19 0001BF70 DismInitialize
+         27   1A 0001C1B0 DismMountImage
+         28   1B 0001C2A0 DismOpenSession
+         29   1C 0001C360 DismRemountImage
+         30   1D 0001C3F0 DismRemoveCapability
+         31   1E 0001C400 DismRemoveDriver
+         32   1F 0001C4B0 DismRemovePackage
+         33   20 0001C580 DismRestoreImageHealth
+         34   21 00003130 DismSetReservedStorageState
+         35   22 0001C630 DismShutdown
+         36   23 0001C690 DismUnmountImage
+         37   24 00003140 _DismAddCapabilityEx
+         38   25 0001CD60 _DismAddDriverEx
+         39   26 000031A0 _DismAddPackage2
+         40   27 000031B0 _DismAddPackageFamilyToUninstallBlocklist
+         41   28 0001CB10 _DismAddProvisionedAppxPackage
+         42   29 0001CD70 _DismApplyCustomDataImage
+         43   2A 0001CD80 _DismApplyFfuImage
+         44   2B 0001CDA0 _DismApplyProvisioningPackage
+         45   2C 000031C0 _DismCleanImage
+         46   2D 0001CDB0 _DismEnableDisableFeature
+         47   2E 0001CE30 _DismExportDriver
+         48   2F 000031D0 _DismExportSource
+         49   30 00003210 _DismExportSourceEx
+         50   31 0001CEA0 _DismGetCapabilitiesEx
+         51   32 0001CEB0 _DismGetCapabilityInfoEx
+         52   33 0001CEC0 _DismGetCurrentEdition
+         53   34 0001CF30 _DismGetDriversEx
+         54   35 0001CF40 _DismGetEffectiveSystemUILanguage
+         55   36 0001CF50 _DismGetFeaturesEx
+         56   37 0001CFF0 _DismGetInstallLanguage
+         57   38 0001D000 _DismGetKCacheBinaryValue
+         58   39 0001D010 _DismGetKCacheDwordValue
+         59   3A 0001D020 _DismGetKCacheStringValue
+         60   3B 0001D030 _DismGetLastCBSSessionID
+         61   3C 00003260 _DismGetNonRemovableAppsPolicy
+         62   3D 00003270 _DismGetOSUninstallWindow
+         63   3E 0001D040 _DismGetOsInfo
+         64   3F 0001D050 _DismGetProductKeyInfo
+         65   40 0001CC30 _DismGetProvisionedAppxPackages
+         66   41 0001D060 _DismGetProvisioningPackageInfo
+         67   42 0001D070 _DismGetRegistryMountPoint
+         68   43 0001D080 _DismGetStateFromCBSSessionID
+         69   44 00003280 _DismGetTargetCompositionEditions
+         70   45 0001D090 _DismGetTargetEditions
+         71   46 00003290 _DismGetTargetVirtualEditions
+         72   47 0001D110 _DismGetUsedSpace
+         73   48 000032A0 _DismInitiateOSUninstall
+         74   49 0001D120 _DismOptimizeImage
+         75   4A 000032B0 _DismOptimizeProvisionedAppxPackages
+         76   4B 00003320 _DismRemoveOSUninstall
+         77   4C 00003330 _DismRemovePackageFamilyFromUninstallBlocklist
+         78   4D 0001CCB0 _DismRemoveProvisionedAppxPackage
+         79   4E 00003340 _DismRemoveProvisionedAppxPackageAllUsers
+         80   4F 0001D1C0 _DismRevertPendingActions
+         81   50 0001D1D0 _DismSetAllIntlSettings
+         82   51 0001D1E0 _DismSetAppXProvisionedDataFile
+         83   52 0001D1F0 _DismSetEdition
+         84   53 000033F0 _DismSetEdition2
+         85   54 0001D2A0 _DismSetFirstBootCommandLine
+         86   55 0001D320 _DismSetMachineName
+         87   56 00003430 _DismSetOSUninstallWindow
+         88   57 0001D330 _DismSetProductKey
+         89   58 0001D3A0 _DismSetSkuIntlDefaults
+         90   59 0001D3B0 _DismSplitFfuImage
+         91   5A 0001D3D0 _DismStage
+         92   5B 0001D3E0 _DismSysprepCleanup
+         93   5C 0001D3F0 _DismSysprepGeneralize
+         94   5D 0001D400 _DismSysprepSpecialize
+         95   5E 0001D410 _DismValidateProductKey
+
+  Summary
+
+        4000 .data
+        6000 .pdata
+       50000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       A8000 .text

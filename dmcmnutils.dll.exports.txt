@@ -1,0 +1,132 @@
+
+Dump of file C:\Windows\System32\dmcmnutils.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMCmnUtils.dll
+
+    00000000 characteristics
+    F64DDC48 time date stamp
+        0.00 version
+           1 ordinal base
+         106 number of functions
+         106 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000153C0 BigStrcat
+        105    1 00016470 BinaryToHexString
+          2    2 0000A350 ComputeHmac
+          3    3 00015510 CopyString
+          4    4 00016300 CreateBstrArray
+          5    5 0000AD90 DMGetClientHardwareUID
+          6    6 0000A790 DMGetDeviceClientID
+          7    7 0000A980 DMSetDeviceClientID
+          8    8 00002D40 DecodeBase64W
+          9    9 00024040 DmCancelGetUserPermissionAsync
+         10    A 00020DC0 DmCheckIfAadAccountLoggedOn
+         11    B 00008F70 DmCopyDirectoryRecursive
+         12    C 00009620 DmCreateFileSafe
+         13    D 0000FD70 DmCreateTask
+         14    E 00011BA0 DmDeleteTask
+         15    F 00013590 DmDisableTask
+         16   10 00012DB0 DmEnableTask
+         17   11 00014FE0 DmEnumUsers
+         18   12 000217B0 DmGetAadDeviceMdmEnrollmentResourceUrlWithDiscovery
+         19   13 00020D40 DmGetAadDeviceToken
+         20   14 00021970 DmGetAadDeviceTokenWithDiscovery
+         21   15 00020C80 DmGetAadUserToken
+         22   16 00014CA0 DmGetActiveUserSid
+         23   17 00014970 DmGetCurrentUserSid
+         24   18 00014980 DmGetCurrentUserToken
+         25   19 00008ED0 DmGetFileSize
+         26   1A 0000D470 DmGetIMEI
+         27   1B 0000D1B0 DmGetSmbiosSerialNumber
+         28   1C 00023E00 DmGetUserEditFieldInput
+         29   1D 00023DA0 DmGetUserPermission
+         30   1E 00023F20 DmGetUserPermissionAsync
+         31   1F 00014F30 DmGetUserSidFromToken
+         32   20 000149E0 DmGetUserTokenFromSid
+         33   21 00014B10 DmImpersonate
+         34   22 00023D80 DmInformUser
+         35   23 00004C90 DmInitializeContainer
+         36   24 00020D80 DmInvalidateAadDeviceToken
+         37   25 00020CC0 DmInvalidateAadUserToken
+         38   26 0000D1C0 DmIsDeviceConnected
+         39   27 0000D270 DmIsDeviceRoaming
+         40   28 00014960 DmIsRunningInSystemContext
+         41   29 00014900 DmIsSystemOrAdmin
+         42   2A 00014930 DmIsSystemOrUserIsAdmin
+         43   2B 000121B0 DmIsTaskScheduled
+         44   2C 00012780 DmIsTaskScheduledAndEnabled
+         45   2D 000065A0 DmMdmSign
+         46   2E 00016C80 DmPlayNotificationSound
+         47   2F 00018E90 DmRaiseToastNotification
+         48   30 00017D60 DmRaiseToastNotificationAndWait
+         49   31 0000D6C0 DmRegisterRoamingNotification
+         50   32 00005670 DmReleaseContainer
+         51   33 00019160 DmRemoveToastNotification
+         52   34 00019300 DmRemoveToastNotificationByExecutablePath
+         53   35 00020D00 DmRequestAadUserToken
+         54   36 00014C40 DmRevertToSelf
+         55   37 0000F6B0 DmRunTask
+         56   38 00005230 DmStartContainerActivity
+         57   39 000054E0 DmStopContainerActivity
+         58   3A 0000D790 DmUnregisterRoamingNotification
+         59   3B 00024200 DmWnfGetNotification
+         60   3C 00024390 DmWnfPublish
+         61   3D 00024160 DmWnfQuery
+         62   3E 00002820 EncodeBase64
+         63   3F 00002990 EncodeBase64W
+         64   40 000156C0 EscapeStringW
+         65   41 0000B7B0 GetHeader
+         66   42 0000E330 GetICCID
+         67   43 0000E590 GetIMEI
+         68   44 0000E0E0 GetIMSI
+         69   45 0000DA40 GetIMSIByIccID
+         70   46 0000D7F0 GetPGListRegKeyName
+         71   47 0000E6A0 GetPhoneNumber
+         72   48 0000AEC0 GetPhoneUID
+         73   49 0000C4A0 Hash_Create
+         74   4A 0000C990 Hash_Delete
+         75   4B 0000C600 Hash_Destroy
+         76   4C 0000C740 Hash_DestroyCallback
+         77   4D 0000CBF0 Hash_EnumCallback
+         78   4E 0000CAD0 Hash_Get
+         79   4F 0000C790 Hash_Insert
+         80   50 0000CD30 Hash_SetBucketThreshold
+        106   51 00016600 HexStringToBinary
+         81   52 000159B0 InvStrCmpIW
+         82   53 00015BD0 InvStrCmpNIW
+         83   54 00015AB0 InvStrCmpNW
+         84   55 000158B0 InvStrCmpW
+         85   56 0000BBF0 IsPhoneOS
+         86   57 00015E40 MBToUnicode
+         87   58 0000B4C0 OmDmRegistryAllocAndGetString
+         88   59 0000B320 OmaDmRegistryDeleteValue
+         89   5A 0000BC70 OmaDmRegistryGetAllSubKeys
+         90   5B 0000BEC0 OmaDmRegistryGetAllValues
+         91   5C 0000B6C0 OmaDmRegistryGetBinary
+         92   5D 0000B0F0 OmaDmRegistryGetDWORD
+         93   5E 0000B3E0 OmaDmRegistryGetString
+         94   5F 0000C110 OmaDmRegistryRetrieveCurrentUsersHKCU
+         95   60 0000B5E0 OmaDmRegistrySetBinary
+         96   61 0000B020 OmaDmRegistrySetDWORD
+         97   62 0000B1F0 OmaDmRegistrySetString
+         98   63 0000F070 QueryPolicy
+         99   64 000160E0 SafeMultiByteToWideChar
+        100   65 000161B0 SafeStringToDword
+        101   66 00015F90 SafeWideCharToMultiByte
+        102   67 0000BB20 SetConnectionPriority
+        103   68 0000F220 SetPolicy
+        104   69 00015CF0 UnicodeToMB
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

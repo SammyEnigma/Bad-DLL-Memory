@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\migration\modemmigplugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for exports.dll
+
+    00000000 characteristics
+    32F439A2 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017C0 DllCanUnloadNow
+          2    1 000014B0 DllGetClassObject
+          3    2 00001800 DllMain
+          4    3 000015F0 DllRegisterServer
+          5    4 00001720 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

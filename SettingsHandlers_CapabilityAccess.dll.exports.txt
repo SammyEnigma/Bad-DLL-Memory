@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_CapabilityAccess.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_CapabilityAccess.dll
+
+    00000000 characteristics
+    BCBD8D5F time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004BE0 GetSetting
+          2    1 00004CD0 GetSettingForUser
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       14000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       31000 .text

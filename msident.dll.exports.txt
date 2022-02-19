@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\msident.dll
+
+File Type: DLL
+
+  Section contains the following exports for msident.dll
+
+    00000000 characteristics
+    BBFFE320 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004590 DllCanUnloadNow
+          2    1 00004440 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        C000 .text

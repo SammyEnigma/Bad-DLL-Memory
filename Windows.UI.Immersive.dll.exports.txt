@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Immersive.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Immersive.dll
+
+    00000000 characteristics
+    A0167574 time date stamp
+        0.00 version
+         100 ordinal base
+           5 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+        102    0 0000A6F0 DllCanUnloadNow
+        103    1 0000A670 DllGetActivationFactory
+        104    2 0000A3A0 DllGetClassObject
+        100      0005A540 [NONAME]
+        101      0005A640 [NONAME]
+
+  Summary
+
+        3000 .data
+        2000 .didat
+        E000 .pdata
+       43000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       DD000 .text

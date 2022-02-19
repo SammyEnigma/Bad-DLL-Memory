@@ -1,0 +1,55 @@
+
+Dump of file C:\Windows\System32\secproc_ssp_isv.dll
+
+File Type: DLL
+
+  Section contains the following exports for sb.dll
+
+    00000000 characteristics
+    5AAEF310 time date stamp
+        0.00 version
+           1 ordinal base
+          30 number of functions
+          30 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011F0 SPAttest
+          2    1 00001310 SPBindLicense
+          3    2 00001500 SPCheckEnvironmentSecurity
+         30    3 00001480 SPCloseHandle
+          4    4 00001540 SPCommit
+          5    5 00001580 SPCreateDecryptor
+          6    6 000016A0 SPCreateEnablingPrincipal
+          7    7 00001830 SPCreateEncryptor
+          8    8 000019B0 SPCreatePCE
+          9    9 000019F0 SPCreateSecurityProcessor
+         10    A 00001C00 SPDecrypt
+         11    B 00001D30 SPDecryptFinal
+         12    C 00001D70 SPDecryptUpdate
+         13    D 00002C40 SPEnableAndEncrypt
+         14    E 00001DB0 SPEnablePublishingLicense
+         15    F 00001E30 SPEncrypt
+         16   10 00001F50 SPEncryptFinal
+         17   11 00001F90 SPEncryptUpdate
+         18   12 000031D0 SPGetBoundRightKey
+         19   13 00001FD0 SPGetCurrentTime
+         20   14 000020A0 SPGetInfo
+         21   15 00002800 SPGetLicenseAttribute
+         22   16 000026F0 SPGetLicenseAttributeCount
+         23   17 00002580 SPGetLicenseObject
+         24   18 00002470 SPGetLicenseObjectCount
+         25   19 00002A80 SPGetProcAddress
+         26   1A 00003110 SPIsActivated
+         27   1B 00002920 SPLoadLibrary
+         28   1C 00002330 SPRegisterRevocationList
+         29   1D 00002210 SPSign
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

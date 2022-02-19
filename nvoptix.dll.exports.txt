@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvoptix.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvoptix.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 029E052C NvOptimusEnablementCuda
+          2    1 0009D4AF optixQueryFunctionTable
+          3    2 00066685 rtGetSymbolTable
+
+  Summary
+
+        1000 .00cfg
+       E6000 .data
+        3000 .idata
+        1000 .nvFatBi
+     1BDC000 .nv_fatb
+      152000 .pdata
+      8EF000 .rdata
+       7F000 .reloc
+     4F10000 .rsrc
+     20C7000 .text
+        1000 .tls

@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\WinTypes.dll
+
+File Type: DLL
+
+  Section contains the following exports for WinTypes.dll
+
+    00000000 characteristics
+    EC39CDF1 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000147C0 DllCanUnloadNow
+          2    1 00009100 DllGetActivationFactory
+          3    2 000095A0 DllGetClassObject
+          4    3 0001ACA0 RoCreateNonAgilePropertySet
+          5    4 000215C0 RoCreatePropertySetSerializer
+          6    5 00026110 RoGetBufferMarshaler
+          7    6 00027620 RoGetMetaDataFile
+          8    7 00046EB0 RoIsApiContractMajorVersionPresent
+          9    8 00046F00 RoIsApiContractPresent
+         10    9 00008810 RoParseTypeName
+         11    A 000271C0 RoResolveNamespace
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       B7000 .rdata
+       16000 .reloc
+        1000 .rsrc
+       77000 .text

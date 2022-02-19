@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\BingMaps.dll
+
+File Type: DLL
+
+  Section contains the following exports for BingMaps.dll
+
+    00000000 characteristics
+    75386FC7 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00019340 GetBingMapsFactory
+
+  Summary
+
+       8A000 .data
+       2D000 .pdata
+      296000 .rdata
+        D000 .reloc
+        1000 .rsrc
+      54C000 .text

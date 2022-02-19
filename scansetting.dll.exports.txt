@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\scansetting.dll
+
+File Type: DLL
+
+  Section contains the following exports for ScanSetting.DLL
+
+    00000000 characteristics
+    3E13C2EC time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          5    0 000112D0 DllCanUnloadNow
+          6    1 000238F0 DllMain
+          1    2 0001A000 GetDefaultProfileScan
+          2    3 000116D0 GetImageDialog
+          3    4 00011A70 ProfilesDialog
+          4    5 00019210 ProgDlgTakeFgIfShowing
+
+  Summary
+
+        4000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+       15000 .rsrc
+       26000 .text

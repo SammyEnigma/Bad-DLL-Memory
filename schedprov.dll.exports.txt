@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\schedprov.dll
+
+File Type: DLL
+
+  Section contains the following exports for schedprov.DLL
+
+    00000000 characteristics
+    9E34D1E6 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013D0 DllCanUnloadNow
+          2    1 00001410 DllGetClassObject
+          3    2 000010E0 DllMain
+          4    3 00001330 DllRegisterServer
+          5    4 00001380 DllUnregisterServer
+          6    5 00001140 GetProviderClassID
+          7    6 00001080 MI_Main
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+       1E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       33000 .text

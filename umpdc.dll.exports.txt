@@ -1,0 +1,73 @@
+
+Dump of file C:\Windows\System32\umpdc.dll
+
+File Type: DLL
+
+  Section contains the following exports for UMPDC.dll
+
+    00000000 characteristics
+    590B8476 time date stamp
+        0.00 version
+           1 ordinal base
+          48 number of functions
+          48 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000037F0 PdcAcquireRwLockExclusive
+          2    1 000059A0 PdcActivationClientActivityRequest
+          3    2 000010E0 PdcActivationClientRegister
+          4    3 00005BB0 PdcActivationClientUnregister
+          5    4 00005850 PdcAllocate
+          6    5 00005880 PdcFree
+          7    6 00006460 PdcNotificationClientAcknowledge
+          8    7 000015E0 PdcNotificationClientRegister
+          9    8 00006590 PdcNotificationClientUnregister
+         10    9 00003830 PdcPortClose
+         11    A 00002DA0 PdcPortOpen
+         12    B 000034D0 PdcPortSendMessage
+         13    C 00006900 PdcPortSendMessageSynchronously
+         14    D 000012D0 PdcPpmProfileClientRegister
+         15    E 000069E0 PdcPpmProfileClientUnregister
+         16    F 00006A90 PdcPpmProfileDisable
+         17   10 00006AA0 PdcPpmProfileEnable
+         18   11 00003A30 PdcReleaseRwLockExclusive
+         19   12 00006BC0 PdcResiliencyClientAcknowledge
+         20   13 000013C0 PdcResiliencyClientRegister
+         21   14 00006BD0 PdcResiliencyClientUnregister
+         22   15 000032D0 PdcRwLockInitialize
+         23   16 00006E10 PdcSignalClientPulse
+         24   17 00006E90 PdcSignalClientRegister
+         25   18 00006FB0 PdcSignalClientSetActive
+         26   19 00007040 PdcSignalClientUnregister
+         27   1A 00005980 PdcSleep
+         28   1B 00001510 PdcTaskClientRegister
+         29   1C 000071E0 PdcTaskClientRequest
+         30   1D 000072F0 PdcTaskClientUnregister
+         31   1E 00001F20 Pdcv2ActivationClientActivate
+         32   1F 00002710 Pdcv2ActivationClientDeactivate
+         33   20 00001A60 Pdcv2ActivationClientRegister
+         34   21 00005E70 Pdcv2ActivationClientRenewActivation
+         35   22 000017A0 Pdcv2ActivationClientSetBrokeredProcessId
+         36   23 00006060 Pdcv2ActivationClientUnregister
+         37   24 000073A0 SleepstudyHelperBlockerActiveDereference
+         38   25 00007410 SleepstudyHelperBlockerActiveReference
+         39   26 00007480 SleepstudyHelperBuildBlocker
+         40   27 000075B0 SleepstudyHelperCreateBlockerFromGuid
+         41   28 00001010 SleepstudyHelperCreateLibrary
+         42   29 00007770 SleepstudyHelperDestroyBlocker
+         43   2A 00007810 SleepstudyHelperDestroyBlockerBuilder
+         44   2B 000078B0 SleepstudyHelperDestroyLibrary
+         45   2C 00007900 SleepstudyHelperGetBlockerGuid
+         46   2D 00007990 SleepstudyHelperSetBlockerFriendlyName
+         47   2E 00007A60 SleepstudyHelperSetBlockerParentHandle
+         48   2F 00007AF0 SleepstudyHelperSetBlockerVisible
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        9000 .text

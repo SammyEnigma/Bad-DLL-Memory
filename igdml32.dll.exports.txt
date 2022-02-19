@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdml32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdml32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00340AE0 ContextCreate_1_0
+          2    1 00340B20 ContextDelete_1_0
+
+  Summary
+
+       3D000 .data
+       CE000 .rdata
+       35000 .reloc
+        1000 .rsrc
+      449000 .text

@@ -1,0 +1,219 @@
+
+Dump of file C:\Windows\System32\uxtheme.dll
+
+File Type: DLL
+
+  Section contains the following exports for UxTheme.dll
+
+    00000000 characteristics
+    CFE7E255 time date stamp
+        0.00 version
+           1 ordinal base
+         193 number of functions
+          85 number of names
+
+    ordinal hint RVA      name
+
+         37    0 0001B760 BeginBufferedAnimation
+         38    1 00016DB0 BeginBufferedPaint
+          5    2 00046660 BeginPanningFeedback
+         39    3 0001B690 BufferedPaintClear
+         40    4 0001BAE0 BufferedPaintInit
+         41    5 0001B1E0 BufferedPaintRenderAnimation
+         42    6 0001AF80 BufferedPaintSetAlpha
+         51    7 00022CE0 BufferedPaintStopAllAnimations
+         52    8 0001D790 BufferedPaintUnInit
+         53    9 00013EC0 CloseThemeData
+         54    A 00039020 DllCanUnloadNow
+         55    B 000390B0 DllGetActivationFactory
+         56    C 00039140 DllGetClassObject
+         57    D 0000FFA0 DrawThemeBackground
+         47    E 000212C0 DrawThemeBackgroundEx
+         58    F 000016A0 DrawThemeEdge
+         59   10 0004FC90 DrawThemeIcon
+         70   11 0001EC70 DrawThemeParentBackground
+         71   12 0001EC90 DrawThemeParentBackgroundEx
+         89   13 00020F60 DrawThemeText
+        103   14 00015650 DrawThemeTextEx
+        114   15 00006680 EnableThemeDialogTexture
+        129   16 0004FFE0 EnableTheming
+        134   17 0001B4C0 EndBufferedAnimation
+        140   18 00016F30 EndBufferedPaint
+          6   19 00046670 EndPanningFeedback
+        141   1A 0001ACE0 GetBufferedPaintBits
+        142   1B 00017AF0 GetBufferedPaintDC
+        143   1C 00017A50 GetBufferedPaintTargetDC
+        144   1D 00050590 GetBufferedPaintTargetRect
+        121   1E 000081E0 GetColorFromPreference
+        145   1F 00025010 GetCurrentThemeName
+         95   20 00006D70 GetImmersiveColorFromColorSetEx
+         98   21 00006DF0 GetImmersiveUserColorSetPreference
+        146   22 000184F0 GetThemeAnimationProperty
+        147   23 00015C80 GetThemeAnimationTransform
+        148   24 00022C10 GetThemeAppProperties
+        149   25 000129A0 GetThemeBackgroundContentRect
+        150   26 00015180 GetThemeBackgroundExtent
+        151   27 000206D0 GetThemeBackgroundRegion
+        152   28 00001E50 GetThemeBitmap
+        153   29 00018000 GetThemeBool
+        154   2A 00017F00 GetThemeColor
+        155   2B 000507F0 GetThemeDocumentationProperty
+        156   2C 00001D50 GetThemeEnumValue
+        157   2D 000508B0 GetThemeFilename
+        158   2E 00018630 GetThemeFont
+        159   2F 00017F00 GetThemeInt
+        160   30 00050980 GetThemeIntList
+        161   31 00016BE0 GetThemeMargins
+        162   32 0001B940 GetThemeMetric
+        163   33 0000F9C0 GetThemePartSize
+        164   34 00022E90 GetThemePosition
+        165   35 00050A80 GetThemePropertyOrigin
+        166   36 00026110 GetThemeRect
+        167   37 00027DA0 GetThemeStream
+        168   38 00050B30 GetThemeString
+        169   39 00050BF0 GetThemeSysBool
+        170   3A 00050CC0 GetThemeSysColor
+        171   3B 00050DA0 GetThemeSysColorBrush
+        172   3C 00050E80 GetThemeSysFont
+        173   3D 00051170 GetThemeSysInt
+        174   3E 00051210 GetThemeSysSize
+        175   3F 000512E0 GetThemeSysString
+        176   40 0001CBA0 GetThemeTextExtent
+        177   41 0001CF30 GetThemeTextMetrics
+        178   42 00016360 GetThemeTimingFunction
+        179   43 00022620 GetThemeTransitionDuration
+        120   44 000084B0 GetUserColorPreference
+        180   45 00022DB0 GetWindowTheme
+        181   46 00012EC0 HitTestThemeBackground
+        182   47 0001D470 IsAppThemed
+        183   48 00009850 IsCompositionActive
+        184   49 0001D4A0 IsThemeActive
+        185   4A 0000FBA0 IsThemeBackgroundPartiallyTransparent
+        186   4B 000514E0 IsThemeDialogTextureEnabled
+        187   4C 000137F0 IsThemePartDefined
+        188   4D 000164E0 OpenThemeData
+         61   4E 000515E0 OpenThemeDataEx
+        189   4F 00006CE0 OpenThemeDataForDpi
+        190   50 00051AD0 SetThemeAppProperties
+        191   51 0001FD50 SetWindowTheme
+        192   52 00022890 SetWindowThemeAttribute
+        193   53 00007CE0 ThemeInitApiHook
+         12   54 000466F0 UpdatePanningFeedback
+          1      00051790 [NONAME]
+          2               [NONAME] (forwarded to SHUNIMPL.#440)
+          3               [NONAME] (forwarded to SHUNIMPL.#441)
+          4               [NONAME] (forwarded to SHUNIMPL.#445)
+          7      000506E0 [NONAME]
+          8      000502F0 [NONAME]
+          9      00050010 [NONAME]
+         10      00050210 [NONAME]
+         11               [NONAME] (forwarded to SHUNIMPL.#190)
+         13               [NONAME] (forwarded to SHUNIMPL.#444)
+         14      00051850 [NONAME]
+         15      0004FFD0 [NONAME]
+         16      00051640 [NONAME]
+         17      00051710 [NONAME]
+         18               [NONAME] (forwarded to SHUNIMPL.#189)
+         19               [NONAME] (forwarded to SHUNIMPL.#188)
+         20               [NONAME] (forwarded to SHUNIMPL.#395)
+         21               [NONAME] (forwarded to SHUNIMPL.#396)
+         22               [NONAME] (forwarded to SHUNIMPL.#397)
+         23               [NONAME] (forwarded to SHUNIMPL.#398)
+         24               [NONAME] (forwarded to SHUNIMPL.#399)
+         25               [NONAME] (forwarded to SHUNIMPL.#400)
+         26               [NONAME] (forwarded to SHUNIMPL.#215)
+         27               [NONAME] (forwarded to SHUNIMPL.#401)
+         28               [NONAME] (forwarded to SHUNIMPL.#402)
+         29               [NONAME] (forwarded to SHUNIMPL.#213)
+         30               [NONAME] (forwarded to SHUNIMPL.#403)
+         31               [NONAME] (forwarded to SHUNIMPL.#431)
+         32               [NONAME] (forwarded to SHUNIMPL.#406)
+         33      00028880 [NONAME]
+         34               [NONAME] (forwarded to SHUNIMPL.#407)
+         35               [NONAME] (forwarded to SHUNIMPL.#408)
+         36      0004FFE0 [NONAME]
+         43      00013560 [NONAME]
+         44      0001F360 [NONAME]
+         45      0001F010 [NONAME]
+         46      0004C000 [NONAME]
+         48      00050A30 [NONAME]
+         49      00006E20 [NONAME]
+         50      00051410 [NONAME]
+         60      0004FBD0 [NONAME]
+         62               [NONAME] (forwarded to SHUNIMPL.#409)
+         63               [NONAME] (forwarded to SHUNIMPL.#404)
+         64      0004BD20 [NONAME]
+         65      000519C0 [NONAME]
+         66               [NONAME] (forwarded to SHUNIMPL.#405)
+         67      0004FBB0 [NONAME]
+         68      000519A0 [NONAME]
+         69      00050140 [NONAME]
+         72      0004FD80 [NONAME]
+         73      000513B0 [NONAME]
+         74      00050650 [NONAME]
+         75      0004C260 [NONAME]
+         76      00028730 [NONAME]
+         77               [NONAME] (forwarded to SHUNIMPL.#432)
+         78               [NONAME] (forwarded to SHUNIMPL.#433)
+         79               [NONAME] (forwarded to SHUNIMPL.#434)
+         80               [NONAME] (forwarded to SHUNIMPL.#435)
+         81               [NONAME] (forwarded to SHUNIMPL.#430)
+         82               [NONAME] (forwarded to SHUNIMPL.#436)
+         83               [NONAME] (forwarded to SHUNIMPL.#437)
+         84      00025E00 [NONAME]
+         85      000438B0 [NONAME]
+         86      0004C5A0 [NONAME]
+         87               [NONAME] (forwarded to SHUNIMPL.#438)
+         88               [NONAME] (forwarded to SHUNIMPL.#439)
+         90      000435C0 [NONAME]
+         91      00026730 [NONAME]
+         92      0004C9D0 [NONAME]
+         93      000268F0 [NONAME]
+         94      0003F0E0 [NONAME]
+         96      00022FF0 [NONAME]
+         97      0003F1E0 [NONAME]
+         99      00028860 [NONAME]
+        100      0003F0F0 [NONAME]
+        101      00028890 [NONAME]
+        102      0003F1B0 [NONAME]
+        104      000023B0 [NONAME]
+        105      0003F130 [NONAME]
+        106      00008360 [NONAME]
+        107      0003F270 [NONAME]
+        108      0003F240 [NONAME]
+        109      0003F2A0 [NONAME]
+        110      000234D0 [NONAME]
+        111      0003F210 [NONAME]
+        112      0003F260 [NONAME]
+        113      0003F230 [NONAME]
+        115      0004C080 [NONAME]
+        116      0004CBB0 [NONAME]
+        117      0003F0E0 [NONAME]
+        118      0003F0B0 [NONAME]
+        119      00006D40 [NONAME]
+        122      00025DF0 [NONAME]
+        123      0003F160 [NONAME]
+        124      0003F120 [NONAME]
+        125      00025360 [NONAME]
+        126      000157A0 [NONAME]
+        127      0004CB40 [NONAME]
+        128      00027BD0 [NONAME]
+        130      0003F150 [NONAME]
+        131      00017950 [NONAME]
+        132      00014BE0 [NONAME]
+        133      00025210 [NONAME]
+        135      00025340 [NONAME]
+        136      00025000 [NONAME]
+        137      00024ED0 [NONAME]
+        138      000080F0 [NONAME]
+        139      000024E0 [NONAME]
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       32000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       5E000 .text

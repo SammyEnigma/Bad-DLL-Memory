@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x86\tbb\ocltbbmalloc32.dll
+
+File Type: DLL
+
+  Section contains the following exports for ocltbbmalloc32.dll
+
+    00000000 characteristics
+    5B7A8E33 time date stamp Mon Aug 20 11:47:31 2018
+        0.00 version
+           1 ordinal base
+          26 number of functions
+          26 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009520 ?pool_aligned_malloc@rml@@YAPAXPAVMemoryPool@1@II@Z
+          2    1 00009550 ?pool_aligned_realloc@rml@@YAPAXPAVMemoryPool@1@PAXII@Z
+          3    2 000095E0 ?pool_create@rml@@YAPAVMemoryPool@1@HPBUMemPoolPolicy@1@@Z
+          4    3 00009630 ?pool_create_v1@rml@@YA?AW4MemPoolError@1@HPBUMemPoolPolicy@1@PAPAVMemoryPool@1@@Z
+          5    4 00009720 ?pool_destroy@rml@@YA_NPAVMemoryPool@1@@Z
+          6    5 00009780 ?pool_free@rml@@YA_NPAVMemoryPool@1@PAX@Z
+          7    6 000097D0 ?pool_identify@rml@@YAPAVMemoryPool@1@PAX@Z
+          8    7 00009840 ?pool_malloc@rml@@YAPAXPAVMemoryPool@1@I@Z
+          9    8 00009850 ?pool_realloc@rml@@YAPAXPAVMemoryPool@1@PAXI@Z
+         10    9 000098D0 ?pool_reset@rml@@YA_NPAVMemoryPool@1@@Z
+         11    A 0000A8B0 __TBB_malloc_safer_aligned_msize
+         12    B 0000A930 __TBB_malloc_safer_aligned_realloc
+         13    C 0000AA50 __TBB_malloc_safer_free
+         14    D 0000AAC0 __TBB_malloc_safer_msize
+         15    E 0000AB30 __TBB_malloc_safer_realloc
+         16    F 0000AC60 scalable_aligned_free
+         17   10 0000ACB0 scalable_aligned_malloc
+         18   11 0000AD00 scalable_aligned_realloc
+         19   12 0000AD80 scalable_allocation_command
+         20   13 0000AE00 scalable_allocation_mode
+         21   14 0000AE40 scalable_calloc
+         22   15 0000AEE0 scalable_free
+         23   16 0000AF30 scalable_malloc
+         24   17 0000AF90 scalable_msize
+         25   18 0000AFA0 scalable_posix_memalign
+         26   19 0000AFE0 scalable_realloc
+
+  Summary
+
+       15000 .data
+       13000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       70000 .text

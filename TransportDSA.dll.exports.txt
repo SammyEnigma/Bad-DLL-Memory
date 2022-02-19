@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\TransportDSA.dll
+
+File Type: DLL
+
+  Section contains the following exports for TransportDSA.DLL
+
+    00000000 characteristics
+    6684C750 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009480 DllCanUnloadNow
+          2    1 000094D0 DllGetClassObject
+          3    2 000097F0 DllInstall
+          4    3 00009550 DllRegisterServer
+          5    4 000096D0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       2E000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       35000 .text

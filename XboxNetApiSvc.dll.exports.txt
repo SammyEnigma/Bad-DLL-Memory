@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\XboxNetApiSvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for XboxNetApiSvc.dll
+
+    00000000 characteristics
+    5D0E564F time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005990 ServiceMain
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        7000 .pdata
+       2D000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      106000 .text

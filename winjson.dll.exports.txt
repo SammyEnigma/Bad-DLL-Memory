@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\winjson.dll
+
+File Type: DLL
+
+  Section contains the following exports for WinJson.dll
+
+    00000000 characteristics
+    14A8F81D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000047E0 WinJsonCloseHandle
+          2    1 00003970 WinJsonSendRequest
+          3    2 00003B30 WinJsonSendRequestAsync
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       18000 .text
+        1000 RT_CODE

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\MPSSVC.dll
+
+File Type: DLL
+
+  Section contains the following exports for MPSSVC.DLL
+
+    00000000 characteristics
+    86B7B67D time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00031BD0 ServiceMain
+          2    1 00039B50 SvchostPushServiceGlobals
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        9000 .pdata
+       3C000 .rdata
+        2000 .reloc
+       13000 .rsrc
+       B7000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\F12\DiagnosticsTap.dll
+
+File Type: DLL
+
+  Section contains the following exports for DiagnosticsTap.dll
+
+    00000000 characteristics
+    CEA479CC time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009200 DllCanUnloadNow
+          2    1 00009240 DllGetClassObject
+          3    2 00009570 DllInstall
+          4    3 00009380 DllRegisterServer
+          5    4 000094C0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       27000 .text

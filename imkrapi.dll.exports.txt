@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\IMEKR\imkrapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for imapikor.dll
+
+    00000000 characteristics
+    A13FD695 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B1F0 DllCanUnloadNow
+          2    1 0000B240 DllGetClassObject
+          3    2 0000B2C0 DllRegisterServer
+          4    3 0000B400 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       11000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       26000 .text

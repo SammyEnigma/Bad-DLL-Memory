@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\AboutSettingsHandlers.dll
+
+File Type: DLL
+
+  Section contains the following exports for AboutSettingsHandlers.dll
+
+    00000000 characteristics
+    459A5A2B time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002280 GetSetting
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       16000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       4F000 .text

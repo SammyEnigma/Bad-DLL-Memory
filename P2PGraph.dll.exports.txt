@@ -1,0 +1,66 @@
+
+Dump of file C:\Windows\System32\P2PGraph.dll
+
+File Type: DLL
+
+  Section contains the following exports for P2PGRAPH.dll
+
+    00000000 characteristics
+    3C68E573 time date stamp
+        0.00 version
+           1 ordinal base
+          40 number of functions
+          40 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00002650 PeerGraphAddRecord
+          4    1 00001F50 PeerGraphClose
+          5    2 00002D20 PeerGraphCloseDirectConnection
+          6    3 00001EA0 PeerGraphConnect
+          7    4 00001A20 PeerGraphCreate
+          8    5 00002040 PeerGraphDelete
+          9    6 00002780 PeerGraphDeleteRecord
+         10    7 00001980 PeerGraphEndEnumeration
+         11    8 00002DB0 PeerGraphEnumConnections
+         12    9 00002E70 PeerGraphEnumNodes
+         13    A 00002860 PeerGraphEnumRecords
+         14    B 000029F0 PeerGraphExportDatabase
+          1    C 00003140 PeerGraphForceStopPresencePrivate
+         15    D 000017E0 PeerGraphFreeData
+         16    E 00002520 PeerGraphGetEventData
+         17    F 00001830 PeerGraphGetItemCount
+         18   10 000018D0 PeerGraphGetNextItem
+         19   11 000021D0 PeerGraphGetNodeInfo
+         20   12 000020B0 PeerGraphGetProperties
+         21   13 000025B0 PeerGraphGetRecord
+         22   14 00002270 PeerGraphGetStatus
+         23   15 00002A80 PeerGraphImportDatabase
+         24   16 00001DF0 PeerGraphListen
+         25   17 00001BB0 PeerGraphOpen
+         26   18 00002BB0 PeerGraphOpenDirectConnection
+         27   19 00002FC0 PeerGraphPeerTimeToUniversalTime
+         28   1A 00002390 PeerGraphRegisterEvent
+         29   1B 00002930 PeerGraphSearchRecords
+         30   1C 00002C60 PeerGraphSendData
+         31   1D 00002300 PeerGraphSetNodeAttributes
+         32   1E 00002F30 PeerGraphSetPresence
+         33   1F 00002140 PeerGraphSetProperties
+         34   20 00001750 PeerGraphShutdown
+         35   21 00001610 PeerGraphStartup
+         36   22 00001D60 PeerGraphSuspendTimers
+         37   23 00003080 PeerGraphUniversalTimeToPeerTime
+         38   24 00002480 PeerGraphUnregisterEvent
+         39   25 000026F0 PeerGraphUpdateRecord
+         40   26 00002B10 PeerGraphValidateDeferredRecords
+          2   27 0006A3B0 pMemoryHelper
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5D000 .text

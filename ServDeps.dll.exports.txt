@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\ServDeps.dll
+
+File Type: DLL
+
+  Section contains the following exports for ServDeps.DLL
+
+    00000000 characteristics
+    6328C436 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016D0 DllCanUnloadNow
+          2    1 000016A0 DllGetClassObject
+          3    2 00006E70 DllRegisterServer
+          4    3 00006E90 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+       12000 .rsrc
+        9000 .text

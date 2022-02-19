@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\mispace.dll
+
+File Type: DLL
+
+  Section contains the following exports for MISpace.DLL
+
+    00000000 characteristics
+    A6DECB88 time date stamp
+        0.00 version
+           1 ordinal base
+          33 number of functions
+          33 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000AF80 DllCanUnloadNow
+          3    1 0000AFC0 DllGetClassObject
+          4    2 0000AC30 DllMain
+          5    3 0000AEE0 DllRegisterServer
+          6    4 0000AF30 DllUnregisterServer
+          7    5 0000ACD0 GetProviderClassID
+          8    6 00011450 MI_Main
+          9    7 000114C0 PreShutdown
+         10    8 000114B0 SetShutdownCallback
+         11    9 0000E0E0 SmpUnload
+          1    A 000149A0 WspCheckMinimumSubsystemVersion
+         12    B 00015A70 WspCompleteMethod
+         13    C 00015250 WspCreateJob
+         14    D 00013F20 WspEnumerateRemoteInstances
+         15    E 000131B0 WspFreeString
+         16    F 00013EF0 WspGetClassName
+         17   10 000141B0 WspGetRemoteInstance
+         18   11 00014070 WspGetSubsystemFilter
+         19   12 00013270 WspGuidToString
+         20   13 000144D0 WspInvokeRemoteMethod
+         21   14 00013E10 WspIsAutomaticClusteringEnabled
+         22   15 000140A0 WspIsRemoteInstance
+         23   16 00014650 WspIsRemoteRequest
+         24   17 00013570 WspPackObjectId
+         25   18 000164B0 WspPostAssociation
+         26   19 00015E50 WspPostSubsystemAssociationReferenceObject
+         27   1A 00013380 WspProviderEnter
+         28   1B 00013550 WspProviderExit
+         29   1C 00014300 WspReferencesOfRemoteInstance
+         30   1D 00015470 WspRunMethodAsJob
+         31   1E 00015CD0 WspSendIndication
+         32   1F 000139D0 WspUnpackObjectId
+         33   20 00015790 WspUpdateMethod
+
+  Summary
+
+       20000 .data
+        1000 .didat
+        B000 .pdata
+       FC000 .rdata
+       18000 .reloc
+        3000 .rsrc
+      1C7000 .text

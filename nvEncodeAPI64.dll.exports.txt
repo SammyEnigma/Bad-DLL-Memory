@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvEncodeAPI64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvEncodeAPI64.dll
+
+    00000000 characteristics
+    5FD3FEFD time date stamp Sat Dec 12 00:21:33 2020
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001B54 NvEncodeAPICreateInstance
+          2    1 00003DA5 NvEncodeAPIGetMaxSupportedVersion
+
+  Summary
+
+        1000 .00cfg
+        4000 .data
+        2000 .idata
+        8000 .pdata
+       1E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       99000 .text
+        1000 .tls

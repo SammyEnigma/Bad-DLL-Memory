@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\dsauth.dll
+
+File Type: DLL
+
+  Section contains the following exports for DSAUTH.dll
+
+    00000000 characteristics
+     4979509 time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007A60 DhcpAddServerDS
+          2    1 00008090 DhcpDeleteServerDS
+          3    2 00006430 DhcpDsAddServer
+          4    3 00008130 DhcpDsCleanupDS
+          5    4 00006A10 DhcpDsDelServer
+          6    5 00007130 DhcpDsEnumServers
+          7    6 000045B0 DhcpDsGetAttribs
+          8    7 00004330 DhcpDsGetLists
+          9    8 00004100 DhcpDsGetRoot
+         10    9 00008120 DhcpDsInitDS
+         11    A 00004930 DhcpDsSetLists
+         12    B 000082E0 DhcpDsValidateService
+         13    C 00007750 DhcpEnumServersDS
+         14    D 00001B30 StoreBeginSearch
+         15    E 00001550 StoreCleanupHandle
+         16    F 00002E20 StoreCollectAttributes
+         17   10 00001D50 StoreCreateObjectVA
+         18   11 00001F90 StoreDeleteObject
+         19   12 00001BB0 StoreEndSearch
+         20   13 00001820 StoreGetHandle
+         21   14 00001220 StoreInitHandle
+         22   15 00001C10 StoreSearchGetNext
+         23   16 000019B0 StoreSetSearchOneLevel
+         24   17 00001A70 StoreSetSearchSubTree
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

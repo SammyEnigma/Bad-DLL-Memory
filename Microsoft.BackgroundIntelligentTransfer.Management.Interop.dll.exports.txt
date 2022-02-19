@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\Modules\BitsTransfer\Microsoft.BackgroundIntelligentTransfer.Management.Interop.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.BackgroundIntelligentTransfer.Management.Interop.dll
+
+    00000000 characteristics
+    FF1CB845 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        2000 .data
+        1000 .nep
+        1000 .pdata
+       12000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

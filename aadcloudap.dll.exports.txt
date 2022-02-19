@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\aadcloudap.dll
+
+File Type: DLL
+
+  Section contains the following exports for AADCLOUDAP.dll
+
+    00000000 characteristics
+    EE3A00A3 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B510 CloudAPPluginInitialize
+          2    1 0000B8D0 DllRegisterServer
+          3    2 0000B8D0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       40000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       AC000 .text

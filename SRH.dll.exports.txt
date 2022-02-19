@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\SRH.dll
+
+File Type: DLL
+
+  Section contains the following exports for SRH.dll
+
+    00000000 characteristics
+    C125E87C time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028F10 CreateAndEnqueueNarratorCommandEvent
+          2    1 00010CA0 DllCanUnloadNow
+          3    2 00010E00 DllGetActivationFactory
+          4    3 00010D30 DllGetClassObject
+          5    4 00010B30 DllMain
+          6    5 000291F0 ExecuteNarratorFind
+          7    6 000291E0 GetControlAndState
+          8    7 00029170 GetInputLearningHelper
+          9    8 00029130 IgnoreLeaksInCurrentlyTrackedMemory
+         10    9 00028540 Initialize
+         11    A 00029150 IsIgnoringLeaks
+         12    B 00029110 PostTestCheckForLeaks
+         13    C 000283D0 RunNarrator
+         14    D 00028CA0 SetBrailleBlinkingCursor
+         15    E 00028C00 SetBrailleCursorRepresentation
+         16    F 00028B80 SetBrailleDeviceChangeFromReg
+         17   10 000289A0 SetBrailleIsEnabledFromReg
+         18   11 00028AF0 SetBrailleTablesFromReg
+         19   12 00028900 SetDictationRunning
+         20   13 000287E0 SetFastKeyEntryEnabled
+         21   14 000288A0 SetFollowInsertion
+         22   15 00028840 SetReadHints
+         23   16 000292D0 SetScriptingEnabledFromReg
+         24   17 00028720 SetVoicePropertiesFromReg
+         25   18 000101C0 StartIgnoringLeaks
+         26   19 000101C0 StopIgnoringLeaks
+         27   1A 000290F0 UpdateErrorLoggingCallback
+         28   1B 00028D40 UpdateNarratorSettingsFromReg
+
+  Summary
+
+        E000 .data
+        1000 .didat
+       1B000 .pdata
+       97000 .rdata
+        7000 .reloc
+       7D000 .rsrc
+      270000 .text

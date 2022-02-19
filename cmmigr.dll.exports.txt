@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\setup\cmmigr.dll
+
+File Type: DLL
+
+  Section contains the following exports for cmmigr.dll
+
+    00000000 characteristics
+    CE47A866 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007C50 DllCanUnloadNow
+          2    1 000079A0 DllGetClassObject
+          3    2 00007C90 DllMain
+          4    3 00007AE0 DllRegisterServer
+          5    4 00007BE0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

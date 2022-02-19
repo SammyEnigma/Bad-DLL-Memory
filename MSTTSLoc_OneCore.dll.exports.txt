@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\Speech_OneCore\Engines\TTS\MSTTSLoc_OneCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSTTSLoc_OneCore.dll
+
+    00000000 characteristics
+    9C9279D3 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000114A0 GetLocaleHandler
+
+  Summary
+
+        D000 .data
+        8000 .pdata
+       2E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       79000 .text

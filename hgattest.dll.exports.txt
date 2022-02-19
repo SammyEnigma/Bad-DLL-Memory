@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\hgattest.dll
+
+File Type: DLL
+
+  Section contains the following exports for hgattest.dll
+
+    00000000 characteristics
+     375ED40 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00024850 Attest
+          2    1 00024A10 IssueCAIntermediateCertificate
+          3    2 000249A0 ReleaseAttestationResult
+
+  Summary
+
+        5000 .data
+        6000 .pdata
+       1F000 .rdata
+        2000 .reloc
+       7C000 .text

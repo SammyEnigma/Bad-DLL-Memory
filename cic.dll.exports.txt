@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\cic.dll
+
+File Type: DLL
+
+  Section contains the following exports for cic.DLL
+
+    00000000 characteristics
+    18977AA1 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002A50 DllCanUnloadNow
+          2    1 00002D80 DllGetClassObject
+          3    2 00003180 DllRegisterServer
+          4    3 00003250 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        2000 .pdata
+       12000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       18000 .text

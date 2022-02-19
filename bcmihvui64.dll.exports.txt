@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\bcmwl63.inf_amd64_4f4275e69b0af7fa\bcmihvui64.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcmihvui.dll
+
+    00000000 characteristics
+    5613F803 time date stamp Tue Oct  6 18:34:11 2015
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001690 DllCanUnloadNow
+          2    1 000016B0 DllGetClassObject
+          3    2 000016C0 DllRegisterServer
+          4    3 000016D0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+      367000 .rsrc
+       1F000 .text

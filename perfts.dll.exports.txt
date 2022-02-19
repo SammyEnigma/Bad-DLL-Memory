@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\perfts.dll
+
+File Type: DLL
+
+  Section contains the following exports for PerfTS.dll
+
+    00000000 characteristics
+    E09692A3 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          6    0 000032E0 CloseLagPerfData
+          3    1 00002410 CloseTSObject
+          5    2 000032D0 CollectLagPerfData
+          2    3 000027C0 CollectTSObjectData
+          4    4 000032C0 OpenLagPerfData
+          1    5 000023B0 OpenTSObject
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

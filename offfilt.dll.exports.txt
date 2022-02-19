@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\offfilt.dll
+
+File Type: DLL
+
+  Section contains the following exports for OFFFILT.dll
+
+    00000000 characteristics
+    5CCF409A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000233A0 DllCanUnloadNow
+          2    1 00013600 DllGetClassObject
+          3    2 00025250 DllRegisterServer
+          4    3 000253B0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       34000 .text

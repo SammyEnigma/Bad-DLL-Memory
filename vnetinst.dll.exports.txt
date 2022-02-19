@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DRVSTORE\netuserif_D6A7AD56A2920AE839AE60034DAEBF6D6EC0591C\vnetinst.dll
+
+File Type: DLL
+
+  Section contains the following exports for VNETINST.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000BBB0 VNL_AdapterCoinstaller
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text
+        1000 _RDATA

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\TaskFlowDataEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for TaskFlowDataEngine.dll
+
+    00000000 characteristics
+    F9FCC377 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C8F0 DllCanUnloadNow
+          2    1 0000C970 DllGetActivationFactory
+          3    2 0000CB50 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       6C000 .rdata
+        9000 .reloc
+        3000 .rsrc
+       F7000 .text

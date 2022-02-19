@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\WinMsoIrmProtector.dll
+
+File Type: DLL
+
+  Section contains the following exports for WinMsoIrmProtector.DLL
+
+    00000000 characteristics
+    4C28ABC5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003B20 DllCanUnloadNow
+          2    1 00003B60 DllGetClassObject
+          3    2 00003CA0 DllRegisterServer
+          4    3 00003DE0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        3000 .rsrc
+        B000 .text

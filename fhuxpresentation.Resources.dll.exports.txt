@@ -1,0 +1,10 @@
+
+Dump of file C:\Windows\System32\en\fhuxpresentation.Resources.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .reloc
+        2000 .rsrc
+       40000 .text

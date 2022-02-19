@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\coredpus.dll
+
+File Type: DLL
+
+  Section contains the following exports for coredpus.dll
+
+    00000000 characteristics
+    3AEA62AF time date stamp
+        0.00 version
+           3 ordinal base
+          14 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+         15    0 00002A10 DllCanUnloadNow
+         16    1 00002A30 DllGetClassObject
+          3      00003580 [NONAME]
+          4      00003650 [NONAME]
+          5      00003390 [NONAME]
+          6      00003710 [NONAME]
+          7      000035E0 [NONAME]
+          8      00003760 [NONAME]
+          9      000039D0 [NONAME]
+         10      000035B0 [NONAME]
+         11      000036F0 [NONAME]
+         12      00003FC0 [NONAME]
+         13      00003DA0 [NONAME]
+         14      00003730 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       34000 .text

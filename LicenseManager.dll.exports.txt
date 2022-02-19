@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\LicenseManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for LicenseManager.dll
+
+    00000000 characteristics
+    DF289A10 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0004F4D0 DllCanUnloadNow
+          6    1 0004F510 DllGetActivationFactory
+          7    2 0004F550 DllGetClassObject
+          8    3 0004F5A0 LmCreateLicenseManager
+          9    4 0004F5B0 LmCreateStandardServiceProvider
+         10    5 00019720 ServiceBeginAcquireLicense
+         11    6 0004F640 ServiceCleanup
+         12    7 0004F650 ServiceCreateApplicationLicenseManager
+         13    8 0004F6E0 ServiceEnsureLicenseForOptionalPackageUsage
+         14    9 0004F720 ServiceEnsureLicenseForPackageActivation
+         15    A 00004440 ServiceInitialize
+         16    B 0004F730 ServiceOptionalPackageRundownNotification
+         17    C 0001EEA0 ServicePackageRundownNotification
+         18    D 0004F740 ServicePackageSuspendedNotification
+         19    E 0004F750 ServicePrecacheLicenseForPackageResume
+         20    F 0004F760 ServiceReset
+          1   10 00008D10 SetServiceStatusHandle
+          2   11 0004F610 WnfEventHandlerForDeviceIdChange
+          3   12 0004F620 WnfEventHandlerForOfflinePcChange
+          4   13 0004F630 WnfEventHandlerForXboxTestNetworkConnectionComplete
+
+  Summary
+
+       1C000 .data
+        1000 .didat
+        A000 .pdata
+       3E000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       B6000 .text

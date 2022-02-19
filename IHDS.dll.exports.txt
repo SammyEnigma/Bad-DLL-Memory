@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\InputMethod\SHARED\IHDS.DLL
+
+File Type: DLL
+
+  Section contains the following exports for IHDS.dll
+
+    00000000 characteristics
+    F2092EAC time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005430 DllCanUnloadNow
+          2    1 000052C0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       35000 .text

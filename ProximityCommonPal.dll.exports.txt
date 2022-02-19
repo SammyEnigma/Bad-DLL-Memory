@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\ProximityCommonPal.dll
+
+File Type: DLL
+
+  Section contains the following exports for ProximityCommonPal.dll
+
+    00000000 characteristics
+    7B080F99 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001250 PAL_AppHasPackage
+          2    1 000017B0 PAL_FreeTransientObjectSecurityAttribute
+          3    2 00001240 PAL_GetAppPlatformQualifier
+          4    3 00001790 PAL_GetSupportedBrowseTypes
+          5    4 000015A0 PAL_HoldReferenceUntilAppExit
+          6    5 000017A0 PAL_QueryTransientObjectSecurityAttribute
+          7    6 00001320 PAL_RegisterAppSuspendResumeCallback
+          8    7 000014D0 PAL_UnregisterAppSuspendResumeCallback
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Speech_OneCore\common\sapi_onecore.dll
+
+File Type: DLL
+
+  Section contains the following exports for dll.dll
+
+    00000000 characteristics
+    B424E2F7 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0011EE80 DllCanUnloadNow
+          2    1 0002FA40 DllGetClassObject
+          3    2 001C9020 DllRegisterServer
+          4    3 001C9090 DllUnregisterServer
+
+  Summary
+
+       66000 .data
+        1000 .didat
+       29000 .pdata
+      11E000 .rdata
+        6000 .reloc
+       40000 .rsrc
+      302000 .text

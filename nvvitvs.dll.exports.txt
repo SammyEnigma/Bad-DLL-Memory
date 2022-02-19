@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvvitvs.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvViTvS.DLL
+
+    00000000 characteristics
+    5FD4050C time date stamp Sat Dec 12 00:47:24 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000612C0 DllCanUnloadNow
+          2    1 00061310 DllGetClassObject
+          3    2 00061330 DllRegisterServer
+          4    3 00061340 DllUnregisterServer
+
+  Summary
+
+       25000 .data
+        1000 .didat
+       21000 .pdata
+      108000 .rdata
+       13000 .reloc
+      2FD000 .rsrc
+      2C1000 .text
+        1000 .tls

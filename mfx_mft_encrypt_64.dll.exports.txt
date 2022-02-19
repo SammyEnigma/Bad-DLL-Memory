@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\msdk.inf_amd64_c03be30a746c89a2\mfx_mft_encrypt_64.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfx_mft_encrypt_64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00058120 DllCanUnloadNow
+          2    1 000589D0 DllGetClassObject
+          3    2 0008C2A0 DllMain
+          4    3 00058140 DllRegisterServer
+          5    4 00058810 DllUnregisterServer
+
+  Summary
+
+       19000 .data
+       15000 .pdata
+       78000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      15F000 .text
+       D0000 TRSCODE

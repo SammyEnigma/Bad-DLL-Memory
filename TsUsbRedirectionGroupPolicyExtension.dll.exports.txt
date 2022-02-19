@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\TsUsbRedirectionGroupPolicyExtension.dll
+
+File Type: DLL
+
+  Section contains the following exports for TsUsbRedirectionGroupPolicyExtension.dll
+
+    00000000 characteristics
+    B392B09D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001970 ExecuteProcessGroupPolicyEx
+          2    1 00001980 ExecuteProcessGroupPolicyExWithError
+          3    2 000011B0 ProcessGroupPolicyEx
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

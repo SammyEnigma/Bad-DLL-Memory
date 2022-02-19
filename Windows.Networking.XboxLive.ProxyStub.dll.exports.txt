@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.XboxLive.ProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.XboxLive.ProxyStub.dll
+
+    00000000 characteristics
+    F2D298C7 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011D0 DllCanUnloadNow
+          2    1 00001190 DllGetClassObject
+          3    2 00001260 DllRegisterServer
+          4    3 00001290 DllUnregisterServer
+          5    4 00001170 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        F000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        2000 .text

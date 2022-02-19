@@ -1,0 +1,53 @@
+
+Dump of file C:\Windows\System32\rasdlg.dll
+
+File Type: DLL
+
+  Section contains the following exports for RASDLG.dll
+
+    00000000 characteristics
+    153F0E97 time date stamp
+        0.00 version
+           1 ordinal base
+          27 number of functions
+          27 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00032250 DllCanUnloadNow
+          3    1 00032290 DllGetClassObject
+          4    2 0000F3D0 DwTerminalDlg
+          5    3 00017470 GetRasDialOutProtocols
+          6    4 00005A40 RasAutodialQueryDlgA
+          7    5 00005B50 RasAutodialQueryDlgW
+          8    6 00010390 RasDialDlgA
+          9    7 00010530 RasDialDlgW
+         10    8 000174A0 RasEntryDlgA
+         11    9 000177D0 RasEntryDlgW
+          1    A 00032F70 RasHandleDiagnostics
+         12    B 0002C1D0 RasPhonebookDlgA
+         13    C 0002C340 RasPhonebookDlgW
+         14    D 00034310 RasSrvAddPropPages
+         15    E 000343F0 RasSrvAllowConnectionsConfig
+         16    F 00034470 RasSrvCleanupService
+         17   10 00034550 RasSrvEnumConnections
+         18   11 00034790 RasSrvHangupConnection
+         19   12 00034850 RasSrvInitializeService
+         20   13 00034A00 RasSrvIsConnectionConnected
+         21   14 00035190 RasSrvIsICConfigured
+         22   15 00034B60 RasSrvIsServiceRunning
+         23   16 0002EA80 RasUserEnableManualDial
+         24   17 0002EAC0 RasUserGetManualDial
+         25   18 0002EB00 RasUserPrefsDlg
+         26   19 00017AF0 RouterEntryDlgA
+         27   1A 00017CB0 RouterEntryDlgW
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       19000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       79000 .text

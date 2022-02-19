@@ -1,0 +1,62 @@
+
+Dump of file C:\Windows\System32\svf.dll
+
+File Type: DLL
+
+  Section contains the following exports for SVF.dll
+
+    00000000 characteristics
+    C22EA869 time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002ED10 SVFAttrib_BBoxFull
+          2    1 0002ED70 SVFAttrib_BBoxMaxX
+          3    2 0002ED60 SVFAttrib_BBoxMaxY
+          4    3 0002ED50 SVFAttrib_BBoxMaxZ
+          5    4 0002EDA0 SVFAttrib_BBoxMinX
+          6    5 0002ED90 SVFAttrib_BBoxMinY
+          7    6 0002ED80 SVFAttrib_BBoxMinZ
+          8    7 0002EC70 SVFAttrib_BitrateMbps
+          9    8 0002EC80 SVFAttrib_Duration100ns
+         10    9 0002ECD0 SVFAttrib_FrameCount
+         11    A 0002ED00 SVFAttrib_FrameId
+         12    B 0002ECF0 SVFAttrib_FrameTimestamp
+         13    C 0002EC60 SVFAttrib_H264Wrapper
+         14    D 0002EC90 SVFAttrib_HasAudio
+         15    E 0002EE00 SVFAttrib_Height
+         16    F 0002EDF0 SVFAttrib_Inverted
+         17   10 0002ECA0 SVFAttrib_LocalFullPath
+         18   11 0002ECB0 SVFAttrib_MaxIndexCount
+         19   12 0002ECC0 SVFAttrib_MaxVertexCount
+         20   13 0002EDC0 SVFAttrib_NumFaces
+         21   14 0002EDB0 SVFAttrib_NumIndices
+         22   15 0002EDD0 SVFAttrib_NumVertices
+         23   16 0002EDE0 SVFAttrib_Stride
+         24   17 0002ED40 SVFAttrib_UseTriList
+         25   18 0002ED20 SVFAttrib_UseUnsignedUVs
+         26   19 0002EE20 SVFAttrib_Version
+         27   1A 0002ED30 SVFAttrib_VertHasNormals
+         28   1B 0002ECE0 SVFAttrib_VertexFormatFlags
+         29   1C 0002EE10 SVFAttrib_Width
+         30   1D 000046B0 SVFCreateBufferAllocator
+         31   1E 00018300 SVFCreateDashServer
+         32   1F 00006700 SVFCreateEvent
+         33   20 00006920 SVFCreateEventQueue
+         34   21 00010A30 SVFCreateReader
+         35   22 00010A50 SVFCreateReaderWithConfig
+         36   23 0002EE30 SVFMediaType_IndexStream
+         37   24 0002EE40 SVFMediaType_VertexStream
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2B000 .text

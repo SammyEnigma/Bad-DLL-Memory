@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.BackgroundTransfer.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.BackgroundTransfer.dll
+
+    00000000 characteristics
+    84BEF221 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000C6560 DllCanUnloadNow
+          2    1 0002ECE0 DllGetActivationFactory
+          3    2 0002A500 DllGetClassObject
+          4    3 00037D30 DllMain
+          5    4 000C65B0 DllRegisterServer
+          6    5 000C65E0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        C000 .pdata
+       5D000 .rdata
+        9000 .reloc
+        5000 .rsrc
+       C7000 .text

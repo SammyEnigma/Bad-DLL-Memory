@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\sppcomapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for SppComApi.DLL
+
+    00000000 characteristics
+     4919711 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00019450 DllCanUnloadNow
+          2    1 00019470 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        8000 .rsrc
+       3D000 .text

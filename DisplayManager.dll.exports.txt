@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DisplayManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for DisplayManager.dll
+
+    00000000 characteristics
+    BA4C7611 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005040 DllCanUnloadNow
+          2    1 00004D40 DllGetActivationFactory
+          3    2 00004F20 DllGetClassObject
+          4    3 00004CE0 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       19000 .text

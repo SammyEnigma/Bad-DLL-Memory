@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\wcimage.dll
+
+File Type: DLL
+
+  Section contains the following exports for wcimage.dll
+
+    00000000 characteristics
+    E13729E5 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007A10 WcCompressFile
+          2    1 00007BB0 WcCompressFileAsync
+          3    2 00004E40 WcConvertToReparsePoint
+          4    3 000064A0 WcCreateContainerImageFromPortableBaseLayer
+          5    4 00004860 WcCreateContainerImageFromWim
+          6    5 00004890 WcCreateContainerImageFromWimEx
+          7    6 00009660 WcDismountVirtualDisk
+          8    7 00009850 WcDismountVirtualDiskFromHandle
+          9    8 00006D90 WcEnsurePathExists
+         10    9 00003430 WcExpandContainerWim
+         11    A 00008C80 WcMountVirtualDisk
+         12    B 00004B10 WcProcessContainerLayer
+         13    C 00009950 WcSetVirtualDiskAttributes
+         14    D 00007C80 WcWaitForPendingFileCompressionOperations
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text
+        3000 PAGE

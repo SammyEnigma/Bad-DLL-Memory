@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RDXTaskFactory.dll
+
+File Type: DLL
+
+  Section contains the following exports for DesktopTaskFactory.dll
+
+    00000000 characteristics
+    E70C91E4 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005850 DllCanUnloadNow
+          2    1 000058C0 DllGetClassObject
+          3    2 00002490 GetProxyDllInfo
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       20000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       40000 .text

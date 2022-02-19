@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\winsrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for winsrv.dll
+
+    00000000 characteristics
+    DC187F05 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001690 SrvEndTask
+          2    1 00001800 UserCreateCallbackThread
+          3    2 00001A30 UserHardError
+          4    3 00001010 UserServerDllInitialization
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        D000 .rsrc
+        1000 .text

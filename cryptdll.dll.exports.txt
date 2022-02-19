@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\cryptdll.dll
+
+File Type: DLL
+
+  Section contains the following exports for cryptdll.dll
+
+    00000000 characteristics
+    8CAD9CB2 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012E0 CDBuildIntegrityVect
+          2    1 000012A0 CDBuildVect
+          3    2 00001610 CDFindCommonCSystem
+          4    3 00001690 CDFindCommonCSystemWithKey
+          5    4 00001740 CDGenerateRandomBits
+          6    5 00001350 CDGetIntegrityVect
+          7    6 000015D0 CDLocateCSystem
+          8    7 000018B0 CDLocateCheckSum
+          9    8 000017C0 CDLocateRng
+         10    9 00001220 CDRegisterCSystem
+         11    A 00001850 CDRegisterCheckSum
+         12    B 00001770 CDRegisterRng
+         13    C 000018F0 HMACwithSHA
+         14    D 00001AE0 KRBFXCF2
+         15    E          MD5Final (forwarded to NTDLL.MD5Final)
+         16    F          MD5Init (forwarded to NTDLL.MD5Init)
+         17   10          MD5Update (forwarded to NTDLL.MD5Update)
+         18   11 00001A50 PBKDF2
+         19   12 00002AA0 aesCTSDecryptMsg
+         20   13 000029A0 aesCTSEncryptMsg
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

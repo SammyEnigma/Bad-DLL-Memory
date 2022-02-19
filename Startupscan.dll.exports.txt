@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Startupscan.dll
+
+File Type: DLL
+
+  Section contains the following exports for startupscan.dll
+
+    00000000 characteristics
+    97DF3766 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          5    0 000012A0 DllMain
+          1    1 00001240 SusResetNotification
+          2    2 00001180 SusRunOEMTaskOffline
+          3    3 000011E0 SusRunOEMTaskOnline
+          4    4 00001130 SusRunTask
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

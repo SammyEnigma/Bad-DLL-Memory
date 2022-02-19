@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ComposableShellProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for ComposableShellProxyStub.dll
+
+    00000000 characteristics
+    66DF7651 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000030B0 DllCanUnloadNow
+          2    1 00003070 DllGetClassObject
+          3    2 00003050 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+       4F000 .rdata
+        9000 .reloc
+        1000 .rsrc
+        4000 .text

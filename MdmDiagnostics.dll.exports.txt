@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\MdmDiagnostics.dll
+
+File Type: DLL
+
+  Section contains the following exports for MdmDiagnostics.dll
+
+    00000000 characteristics
+    259B8184 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          6    0 00033950 CollectOneTraceFiles
+          3    1 00033880 CreateLogCabOnArea
+          4    2 000338B0 CreateLogZipOnArea
+          5    3 000338E0 CreateLogZipOnXml
+          2    4 00032010 CreateMdmEnterpriseDiagnosticHTMLReport
+          1    5 0002A580 CreateMdmEnterpriseDiagnosticReport
+
+  Summary
+
+       26000 .data
+        1000 .didat
+       10000 .pdata
+       8F000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      147000 .text
+        1000 RT_CODE

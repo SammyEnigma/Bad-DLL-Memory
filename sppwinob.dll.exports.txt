@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\sppwinob.dll
+
+File Type: DLL
+
+  Section contains the following exports for sppwinob.dll
+
+    00000000 characteristics
+    6023B1B6 time date stamp Wed Feb 10 11:13:10 2021
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B020 SppPluginCanUnloadNow
+          2    1 0000B030 SppPluginCreateInstance
+          3    2 0000B040 SppPluginInitialize
+          4    3 0000B050 SppPluginShutdown
+          5    4 0004E470 SppPluginVersion
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       42000 .text

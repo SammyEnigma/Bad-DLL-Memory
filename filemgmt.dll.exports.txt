@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\filemgmt.dll
+
+File Type: DLL
+
+  Section contains the following exports for FILEMGMT.DLL
+
+    00000000 characteristics
+    B7C3FDD4 time date stamp
+        0.00 version
+           5 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00037A10 CacheSettingsDlg
+          6    1 00037990 CacheSettingsDlg2
+          7    2 00006110 DllCanUnloadNow
+          8    3 00006180 DllGetClassObject
+          9    4 0001B130 DllRegisterServer
+         10    5 0001C2C0 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        4000 .pdata
+       23000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       39000 .text

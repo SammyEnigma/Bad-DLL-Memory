@@ -1,0 +1,67 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\Old\1\FXSTIFF.DLL
+
+File Type: DLL
+
+  Section contains the following exports for FXSTIFF.dll
+
+    00000000 characteristics
+    635C265E time date stamp
+        0.00 version
+           1 ordinal base
+          42 number of functions
+          42 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A4B0 ConvMmrPageHiResToMrLoRes
+          2    1 0000A450 ConvMmrPageToMh
+          3    2 0000A480 ConvMmrPageToMrSameRes
+          4    3 00007090 ConvertTiffFileToValidFaxFormat
+          5    4 00003150 FXSTIFFInitialize
+          6    5 0000A4E0 FindNextEol
+          7    6 00007FC0 FreeMsTagInfo
+          8    7 00007F80 GetMsTagDwordLong
+          9    8 00007F80 GetMsTagFileTime
+         10    9 00007F10 GetMsTagString
+         11    A 00008450 GetW2kMsTiffTags
+         12    B 00007B60 MemoryMapTiffFile
+         13    C 00007740 MergeTiffFiles
+         14    D 000047F0 MmrAddBranding
+         15    E 00006CC0 PrintTiffFile
+         16    F 00008E30 ScanMhSegment
+         17   10 000092A0 ScanMrSegment
+         18   11 00005560 TiffAddMsTags
+         19   12 00003970 TiffClose
+         20   13 00003160 TiffCreate
+         21   14 00008440 TiffEncodeLinesMmrCompression
+         22   15 00003AE0 TiffEndPage
+         23   16 000083B0 TiffEndPageForInMemoryConversion
+         24   17 00005160 TiffExtractFirstPage
+         25   18 00004FF0 TiffGetCurrentPageData
+         26   19 000081F0 TiffGetIFDData
+         27   1A 000081D0 TiffGetIFDSize
+         28   1B 000068F0 TiffLimitTagNumber
+         29   1C 00003460 TiffOpen
+         30   1D 0000A940 TiffPostProcessFast
+         31   1E 0000CBE0 TiffPrint
+         32   1F 0000C950 TiffPrintDC
+         33   20 00003D90 TiffRead
+         34   21 00007A30 TiffRecoverGoodPages
+         35   22 00003E60 TiffSeekToPage
+         36   23 00003A80 TiffSetCurrentPageParams
+         37   24 000081B0 TiffSetNextIFDOffset
+         38   25 00003A10 TiffStartPage
+         39   26 00008230 TiffStartPageForInMemoryConversion
+         40   27 0000C350 TiffUncompressMmrPage
+         41   28 0000BF20 TiffUncompressMmrPageRaw
+         42   29 00003CB0 TiffWriteRaw
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       55000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

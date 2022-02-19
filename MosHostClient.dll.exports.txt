@@ -1,0 +1,81 @@
+
+Dump of file C:\Windows\System32\MosHostClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for MosHostClient.dll
+
+    00000000 characteristics
+    133AD423 time date stamp
+        0.00 version
+           1 ordinal base
+          56 number of functions
+          56 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009320 MapsPackageAddMapPackageAsync
+          2    1 00008E80 MapsPackageClose
+          3    2 000091E0 MapsPackageFindNearbyPackagesAsync
+          4    3 00003A80 MapsPackageFree
+          5    4 00009140 MapsPackageGetPackages
+          6    5 00008D50 MapsPackageOpen
+          7    6 0000A640 MapsStorageClose
+          8    7 00003A80 MapsStorageFree
+          9    8 0000A7D0 MapsStorageGetCurrentLocation
+         10    9 0000AB90 MapsStorageGetDataDirectory
+         11    A 0000A890 MapsStorageGetLocations
+         12    B 0000A960 MapsStorageGetMigrationState
+         13    C 0000A520 MapsStorageOpen
+         14    D 0000AD00 MapsStorageQueueSwitchToDefaultExternalStorage
+         15    E 0000AC60 MapsStorageUseDefaultExternalStorage
+         16    F 0000AAF0 MapsStorageValidateLocationAsync
+         17   10 00004030 MosCacheStateGetSizes
+         18   11 00003F90 MosCacheStateSetMaxSize
+         19   12 000042A0 MosCacheStateSetSlotSize
+         20   13 00004370 MosCacheStateSnapshot
+         21   14 000041D0 MosCacheStateUnuseSlot
+         22   15 00004100 MosCacheStateUseSlot
+         23   16 000049D0 MosDeleteDataAsyncOperation
+         24   17 00003C50 MosGetBrowseCacheSizeInMBytes
+         25   18 00004C10 MosGetCopyrightString
+         26   19 000045F0 MosGetDataAsync
+         27   1A 00004790 MosGetDataAsyncOperation
+         28   1B 00003AA0 MosGetDataDirectory
+         29   1C 00003B70 MosGetResourceDirectory
+         30   1D 00003A10 MosHostClose
+         31   1E 00003A80 MosHostFree
+         32   1F 00003900 MosHostOpen
+         33   20 00003D20 MosReportCacheMiss
+         34   21 00003E20 MosRequestResourceLock
+         35   22 00003EF0 MosRequestResourceUnlock
+         36   23 00007340 OdmlAddMapPackages
+         37   24 00007AD0 OdmlCancelMapDataMigration
+         38   25 00007480 OdmlCancelMapPackage
+         39   26 00006DE0 OdmlClose
+         40   27 00007520 OdmlDeleteAllMaps
+         41   28 000071D0 OdmlFindNearbyPackagesAsync
+         42   29 00003A80 OdmlFree
+         43   2A 00007700 OdmlGetAutoUpdateEnabled
+         44   2B 00007130 OdmlGetAvailablePackages
+         45   2C 000075C0 OdmlGetCopyrightString
+         46   2D 00007980 OdmlGetIsStorageStateValid
+         47   2E 000078E0 OdmlGetShouldUseWlanString
+         48   2F 00007840 OdmlGetUpdateOnlyOnWifi
+         49   30 00007090 OdmlGetUserPackages
+         50   31 00006CB0 OdmlOpen
+         51   32 000073E0 OdmlRemoveMapPackages
+         52   33 00007660 OdmlSetAutoUpdateEnabled
+         53   34 000077A0 OdmlSetUpdateOnlyOnWifi
+         54   35 00006F70 OdmlStartCheckForUpdates
+         55   36 00007000 OdmlStartInstallUpdate
+         56   37 00007A20 OdmlStartMapDataMigration
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

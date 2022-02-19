@@ -1,0 +1,93 @@
+
+Dump of file C:\Windows\System32\BCP47Langs.dll
+
+File Type: DLL
+
+  Section contains the following exports for Bcp47Langs.dll
+
+    00000000 characteristics
+    F5B0095B time date stamp
+        0.00 version
+           1 ordinal base
+          67 number of functions
+          67 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00006870 AppendUserLanguageInputMethods
+          3    1 0002D940 AppendUserLanguageInternal
+          4    2 00006630 AppendUserLanguages
+          5    3 00007E60 Bcp47BufferFromLcid
+          6    4 00034780 Bcp47FindClosestLanguage
+          7    5 0000D8E0 Bcp47FromCompactTagInternal
+          8    6 0000F910 Bcp47FromHkl
+          9    7 00007450 Bcp47FromLcid
+         10    8 00014180 Bcp47GetAbbreviation
+         11    9 0000C1A0 Bcp47GetDirectionality
+         12    A 00010E90 Bcp47GetDistance
+         13    B 00034A90 Bcp47GetExtensionSingletons
+         14    C 00010AE0 Bcp47GetExtensionSubstring
+         15    D 00034D70 Bcp47GetIsoLanguageCode
+         16    E 0000E260 Bcp47GetIsoScriptCode
+         17    F 00006140 Bcp47GetLanguageName
+         18   10 0000B410 Bcp47GetMuiForm
+         19   11 00004060 Bcp47GetNeutralForm
+         20   12 00005A10 Bcp47GetNlsForm
+         21   13 00035050 Bcp47GetSubtagMapInternal
+         22   14 00035220 Bcp47GetUnIsoRegionCode
+         23   15 0000F7C0 Bcp47IsWellFormed
+         24   16 00011620 Bcp47Normalize
+         25   17 0002DB60 ClearApplicationLanguageOverride
+         26   18 0002DD60 ClearApplicationManifestLanguages
+         27   19 0002DF80 ClearHttpAcceptLanguageOptOut
+         28   1A 0002E1D0 ClearUserDisplayLanguageOverride
+         29   1B 0002E680 ClearUserLocaleFromLanguageProfileOptOut
+         30   1C 00014B20 CompactTagFromBcp47Internal
+         31   1D 00018670 DllGetActivationFactory
+         32   1E 000186B0 DllGetClassObject
+         33   1F 00002FC0 GetApplicationLanguageOverride
+         34   20 0000A410 GetApplicationLanguages
+         35   21 0002E850 GetApplicationManifestLanguages
+         36   22 0002EA60 GetAppropriateUserLocaleForUserLanguages
+         37   23 0001E780 GetAppropriateUserPreferredAndDisplayLanguagesForUser
+         38   24 000356E0 GetClosestMatchingUserLanguage
+         39   25 00014050 GetFontFallbackLanguageList
+         40   26 0002ECF0 GetHttpAcceptLanguageOptOut
+         41   27 000046C0 GetInputMethodOverrideForUser
+         42   28 0002EEE0 GetPendingUserDisplayLanguage
+         43   29 0002F200 GetRelevantLocalesFromLanguageTags
+         44   2A 0002F6C0 GetSerializedUserLanguageProfile
+          1   2B 00009370 GetUnIsoRegionCode
+         45   2C 0002F960 GetUserDisplayLanguageOverride
+         46   2D 0002FF10 GetUserLanguageInputMethods
+         47   2E 000046D0 GetUserLanguageInputMethodsForUser
+         48   2F 000105C0 GetUserLanguages
+         49   30 0001D1A0 GetUserLanguagesForAllUsers
+         50   31 00007170 GetUserLanguagesForUser
+         51   32 0002FF20 GetUserLocaleFromLanguageProfileOptOut
+         52   33 00015CB0 IsTransientLcid
+         53   34 00006FE0 LanguageListAsMuiForm
+         54   35 000043A0 LcidFromBcp47
+         55   36 00014F30 RemoveInputsForAllLanguagesInternal
+         56   37 000151C0 RemoveUserLanguageInputMethods
+         57   38 00030100 ResolveLanguages
+         58   39 000301E0 SetApplicationLanguageOverride
+         59   3A 000303F0 SetApplicationManifestLanguages
+         60   3B 00030630 SetHttpAcceptLanguageOptOut
+         61   3C 00030850 SetInputMethodOverride
+         62   3D 0001D540 SetPreviousUserDisplayLanguages
+         63   3E 00030AE0 SetUserDisplayLanguageOverride
+         64   3F 00030F70 SetUserLanguageInputMethods
+         65   40 00015AB0 SetUserLanguagesInternal
+         66   41 00030F80 SetUserLanguagesInternalCore
+         67   42 000311C0 SetUserLocaleFromLanguageProfileOptOut
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       1A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

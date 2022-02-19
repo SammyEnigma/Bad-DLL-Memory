@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\nvcuvid.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvcuvid64.dll
+
+    00000000 characteristics
+    5FD3FE63 time date stamp Sat Dec 12 00:18:59 2020
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002FA9 CreateEncoderInterface
+          3    1 00006D0C __std_2U4S4U_X08
+          2    2 00002725 __std_4U4S4U_X04
+          4    3 000026E9 cuvidConvertYUVToRGB
+          5    4 00004C73 cuvidConvertYUVToRGBArray
+          6    5 0000A024 cuvidCreateDecoder
+          7    6 00003495 cuvidCreateVideoParser
+          8    7 00002A0E cuvidCreateVideoSource
+          9    8 0000506A cuvidCreateVideoSourceW
+         10    9 000044A8 cuvidCtxLock
+         11    A 00006BF9 cuvidCtxLockCreate
+         12    B 000067E4 cuvidCtxLockDestroy
+         13    C 000090A2 cuvidCtxUnlock
+         14    D 00008E95 cuvidDecodePicture
+         15    E 00001122 cuvidDestroyDecoder
+         16    F 00006BFE cuvidDestroyVideoParser
+         17   10 000065C8 cuvidDestroyVideoSource
+         18   11 000087CE cuvidGetDecodeStatus
+         19   12 00005A3D cuvidGetDecoderCaps
+         20   13 00006B54 cuvidGetSourceAudioFormat
+         21   14 00007A81 cuvidGetSourceVideoFormat
+         22   15 00009FCF cuvidGetVideoFrameSurface
+         23   16 00003189 cuvidGetVideoSourceState
+         24   17 0000921E cuvidMapVideoFrame
+         25   18 000030E4 cuvidMapVideoFrame64
+         26   19 0000A060 cuvidParseVideoData
+         27   1A 0000A952 cuvidPrivateOp
+         28   1B 000049F3 cuvidReconfigureDecoder
+         29   1C 000092CD cuvidSetVideoSourceState
+         30   1D 0000A475 cuvidUnmapVideoFrame
+         31   1E 00005E9D cuvidUnmapVideoFrame64
+
+  Summary
+
+        1000 .00cfg
+        E000 .data
+        2000 .idata
+       26000 .pdata
+      52E000 .rdata
+        8000 .reloc
+        1000 .rsrc
+      27B000 .text
+        1000 .tls

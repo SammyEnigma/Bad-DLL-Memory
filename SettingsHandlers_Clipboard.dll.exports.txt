@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_Clipboard.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_Clipboard.dll
+
+    00000000 characteristics
+    7F9AE401 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001840 DllCanUnloadNow
+          2    1 00001570 DllGetActivationFactory
+          3    2 00001750 DllGetClassObject
+          4    3 000018C0 GetSetting
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1C000 .text

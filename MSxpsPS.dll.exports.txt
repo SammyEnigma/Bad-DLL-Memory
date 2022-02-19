@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ntprint4.inf_amd64_0958c7cad3cd6075\Amd64\MSxpsPS.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSxpsPS.dll
+
+    00000000 characteristics
+    1284EA28 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00013CB0 DllCanUnloadNow
+          2    1 00013CD0 DllGetClassObject
+          3    2 000035B0 XpsProcess
+          4    3 00003800 XpsTestProcess
+
+  Summary
+
+        B000 .data
+       12000 .pdata
+       77000 .rdata
+        4000 .reloc
+       A6000 .rsrc
+      305000 .text

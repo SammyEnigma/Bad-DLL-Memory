@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SystemResetPlatform\RjvClassicApp.dll
+
+File Type: DLL
+
+  Section contains the following exports for RjvClassicApp.dll
+
+    00000000 characteristics
+    D9C328DE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000095A0 DllRejuvenationHandler
+          1    1 00003CD0 GetICBAppList
+          2    2 00003BC0 GetWIMAppList
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+       28000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       8F000 .text

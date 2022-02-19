@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\CellularAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for CellularApi.dll
+
+    00000000 characteristics
+    59C29545 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00075680 DllCanUnloadNow
+          2    1 00075690 DllGetClassObject
+          3    2 000445B0 DllRegisterServer
+          4    3 000445B0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       21000 .rdata
+        2000 .reloc
+        C000 .rsrc
+       81000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Media.Renewal.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.Renewal.dll
+
+    00000000 characteristics
+    94EBF4EA time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001AC0 DllCanUnloadNow
+          1    1 000018E0 DllGetActivationFactory
+          3    2 00001B10 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

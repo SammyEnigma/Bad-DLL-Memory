@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\avicap32.dll
+
+File Type: DLL
+
+  Section contains the following exports for AVICAP32.dll
+
+    00000000 characteristics
+    393826F6 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EAE0 AppCleanup
+          2    1 00001C00 capCreateCaptureWindowA
+          3    2 00001AB0 capCreateCaptureWindowW
+          4    3 000015F0 capGetDriverDescriptionA
+          5    4 000015E0 capGetDriverDescriptionW
+          6    5 0000F2E0 videoThunk32
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

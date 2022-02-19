@@ -1,0 +1,62 @@
+
+Dump of file C:\Windows\System32\AppXDeploymentServer.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppxDeploymentServer.dll
+
+    00000000 characteristics
+    A3A09CC9 time date stamp
+        0.00 version
+           1 ordinal base
+          36 number of functions
+          36 number of names
+
+    ordinal hint RVA      name
+
+         34    0 001C3A00 AddToPurgeList
+          1    1 001C6F00 AppXApplyTrustLabelToFolder
+         35    2 001C6900 AppXSetTrustLabelOnPackage
+          2    3 0006CAF0 CancelDeploymentImplementation
+          3    4 00026410 CreateCanonicalPriFileImplementation
+          4    5 0006A960 CreateWnfStateNameImplementation
+          5    6 000631A0 EnumPackagesByUserSidInternal
+          6    7 00063310 EnumPackagesByUserSidNamePublisherInternal
+          7    8 000634C0 EnumPackagesByUserSidPackageFamilyNameInternal
+          8    9 00063D30 EnumProvisionedPackagesInternal
+          9    A 00064370 EnumVisibilityByPackageFullNameInternal
+         10    B 00063E90 FindPackageByUserSidPackageFullNameInternal
+         11    C 00065610 GenerateBytecodeForPackageImplementation
+         12    D 000659F0 GenerateBytecodeForPackagesImplementation
+         13    E 0005B940 GetApplicability5Implementation
+         14    F 0005D170 GetApplicabilityImplementation
+         15   10 00058F00 GetDeploymentError
+         16   11 00069460 GetPackageFilesDiskUsageImplementation
+         17   12 00069580 GetPackageFilesDiskUsagePerVolumeImplementation
+         18   13 00112F00 GetSessionIdsOwnedByUser
+         19   14 00064850 IsPackageInstalledInternal
+         20   15 00078FD0 MergeSystemResourceFilesImplementation
+         21   16 000672A0 PackageRepositoryAllocate
+         22   17 000672B0 PackageRepositoryFree
+         23   18 0006CC10 PackageStatusOperationImplementation
+         24   19 0006CD10 PackageVolumeStatusImplementation
+         25   1A 0006CDF0 RDSRecoverRequestsImplementation
+         26   1B 0006E390 RepairResourcesPriAclsImplementation
+         27   1C 00064FE0 RequestPackageOperationImplementation
+         28   1D 0006EA00 ServerSideRequestContentGroupsImplementation
+         29   1E 0007EDC0 ServiceMain
+         30   1F 00058F30 SetDeploymentError
+         31   20 0006DCD0 SetPackageStatusBlockingForUserImplementation
+         32   21 0006E020 SetPackageStatusBlockingImplementation
+         33   22 0006ABF0 StartDeploymentImplementation
+         36   23 000098E0 SvchostPushServiceGlobals
+
+  Summary
+
+        7000 .data
+        1000 .didat
+       13000 .pdata
+       CB000 .rdata
+        4000 .reloc
+       40000 .rsrc
+      297000 .text

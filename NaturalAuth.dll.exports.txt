@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\NaturalAuth.dll
+
+File Type: DLL
+
+  Section contains the following exports for NaturalAuth.dll
+
+    00000000 characteristics
+    ABF9E2ED time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005310 ServiceMain
+          2    1 00005300 SvchostPushServiceGlobals
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        4000 .pdata
+       15000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       53000 .text

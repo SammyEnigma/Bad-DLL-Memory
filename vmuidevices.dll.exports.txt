@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmuidevices.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmUiDevices.dll
+
+    00000000 characteristics
+    8AA53367 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006580 DllCanUnloadNow
+          2    1 000065B0 DllGetClassObject
+          3    2 000065D0 DllRegisterServer
+          4    3 000065E0 DllUnregisterServer
+
+  Summary
+
+       12000 .data
+        5000 .pdata
+       28000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       60000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\LanguageComponentsInstaller.dll
+
+File Type: DLL
+
+  Section contains the following exports for LanguageComponentsInstaller.dll
+
+    00000000 characteristics
+    438E42BF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008F70 DllCanUnloadNow
+          2    1 00008F90 DllGetClassObject
+          3    2 000024D0 DllRegisterServer
+          4    3 000024D0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1E000 .text

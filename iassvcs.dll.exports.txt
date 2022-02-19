@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\iassvcs.dll
+
+File Type: DLL
+
+  Section contains the following exports for iassvcs.dll
+
+    00000000 characteristics
+    64D8FA8C time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D3A0 DllCanUnloadNow
+          2    1 0000D3C0 DllGetClassObject
+          3    2 0000D3F0 DllRegisterServer
+          4    3 0000D660 DllUnregisterServer
+          5    4 00001B70 IASAdler32
+          6    5 00001BD0 IASAllocateUniqueID
+          7    6 00002790 IASGetDictionary
+          8    7 000023F0 IASGetHostByName
+          9    8 000028E0 IASGetLocalDictionary
+         10    9 00002B40 IASGetProductLimits
+         11    A 000029F0 IASGlobalLock
+         12    B 00002A10 IASGlobalUnlock
+         13    C 00001F40 IASInitialize
+         14    D 000021F0 IASRadiusCrypt
+         15    E 00001750 IASRegisterComponent
+         16    F 00001550 IASReportEvent
+         17   10 0000C8B0 IASReportLicenseViolation
+         18   11 000015C0 IASReportSecurityEvent
+         19   12 00001620 IASRequestThread
+         20   13 00001630 IASSetMaxNumberOfThreads
+         21   14 000016C0 IASSetMaxThreadIdle
+         22   15 00002080 IASShutdown
+         23   16 000020E0 IASUninitialize
+         24   17 00001BF0 IASVariantChangeType
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       15000 .text

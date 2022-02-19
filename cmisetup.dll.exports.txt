@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\oobe\cmisetup.dll
+
+File Type: DLL
+
+  Section contains the following exports for CmiSetup.dll
+
+    00000000 characteristics
+    8C14B08C time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003920 CallBack_ConfigureWindowsFoundationImage
+          2    1 00001930 Module_Init_Cmi
+          3    2 00002EF0 Module_Init_SkuAssembly
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+       1F000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       7E000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmvpci.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmvpci.dll
+
+    00000000 characteristics
+    9444B497 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006940 DllCanUnloadNow
+          2    1 00006970 DllGetClassObject
+          3    2 00006990 DllRegisterServer
+          4    3 000069A0 DllUnregisterServer
+
+  Summary
+
+        D000 .data
+        4000 .pdata
+       14000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3D000 .text

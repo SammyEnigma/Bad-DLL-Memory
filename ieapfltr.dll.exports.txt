@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\ieapfltr.dll
+
+File Type: DLL
+
+  Section contains the following exports for ieapfltr.dll
+
+    00000000 characteristics
+    45E2504F time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001E3E0 CreateIAppRep2
+          2    1 0001E460 CreateIAppRepParm2
+          3    2 0001E470 CreateIUrlReputationSolution2
+          4    3 00002590 CreateUrlBlockBroker
+          5    4 00002580 CreateUrlBlockClient
+          6    5 0001E590 DestroyUrlBlockBroker
+          7    6 0001E5F0 DestroyUrlBlockClient
+          8    7 0001E650 DllCanUnloadNow
+          9    8 0001E6F0 DllGetClassObject
+         10    9 0001E7A0 DllRegisterServer
+         11    A 0001E870 DllUnregisterServer
+         12    B 0001E8F0 GetUrlBlockBroker
+         13    C 0001E900 GetUrlBlockClient
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        1000 .isoapis
+        8000 .pdata
+       15000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       BB000 .text

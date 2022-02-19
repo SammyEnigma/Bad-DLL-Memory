@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\mfc110enu.dll
+
+File Type: DLL
+
+  Summary
+
+        C000 .rsrc

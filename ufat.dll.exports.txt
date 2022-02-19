@@ -1,0 +1,81 @@
+
+Dump of file C:\Windows\System32\ufat.dll
+
+File Type: DLL
+
+  Section contains the following exports for UFAT.dll
+
+    00000000 characteristics
+    89E00095 time date stamp
+        0.00 version
+           1 ordinal base
+          56 number of functions
+          56 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001780 ??0CLUSTER_CHAIN@@QEAA@XZ
+          2    1 00001E40 ??0EA_HEADER@@QEAA@XZ
+          3    2 00002250 ??0EA_SET@@QEAA@XZ
+          4    3 000068A0 ??0FAT_DIRENT@@QEAA@XZ
+          5    4 00007B20 ??0FAT_SA@@QEAA@XZ
+          6    5 00017910 ??0FILEDIR@@QEAA@XZ
+          7    6 00017C80 ??0REAL_FAT_SA@@QEAA@XZ
+          8    7 0001DB10 ??0ROOTDIR@@QEAA@XZ
+          9    8 000017F0 ??1CLUSTER_CHAIN@@UEAA@XZ
+         10    9 00001E90 ??1EA_HEADER@@UEAA@XZ
+         11    A 000022B0 ??1EA_SET@@UEAA@XZ
+         12    B 000068E0 ??1FAT_DIRENT@@UEAA@XZ
+         13    C 00007B70 ??1FAT_SA@@UEAA@XZ
+         14    D 00017970 ??1FILEDIR@@UEAA@XZ
+         15    E 00017DA0 ??1REAL_FAT_SA@@UEAA@XZ
+         16    F 0001DB70 ??1ROOTDIR@@UEAA@XZ
+         17   10 000062B0 ?AllocChain@FAT@@QEAAKKPEAK@Z
+         18   11 00006710 ?FreeChain@FAT@@QEAAXK@Z
+         19   12 000025B0 ?GetEa@EA_SET@@QEAAPEAU_EA@@KPEAJPEAE@Z
+         20   13 000059F0 ?Index12@FAT@@AEBAKK@Z
+         21   14 00018350 ?InitFATChkDirty@REAL_FAT_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@@Z
+         22   15 00001840 ?Initialize@CLUSTER_CHAIN@@QEAAEPEAVMEM@@PEAVLOG_IO_DP_DRIVE@@PEAVFAT_SA@@PEBVFAT@@KK@Z
+         23   16 00001EC0 ?Initialize@EA_HEADER@@QEAAEPEAVMEM@@PEAVLOG_IO_DP_DRIVE@@PEAVFAT_SA@@PEBVFAT@@KK@Z
+         24   17 00002300 ?Initialize@EA_SET@@QEAAEPEAVMEM@@PEAVLOG_IO_DP_DRIVE@@PEAVFAT_SA@@PEBVFAT@@KK@Z
+         25   18 00006910 ?Initialize@FAT_DIRENT@@QEAAEPEAX@Z
+         26   19 00006930 ?Initialize@FAT_DIRENT@@QEAAEPEAXE@Z
+         27   1A 000179B0 ?Initialize@FILEDIR@@QEAAEPEAVMEM@@PEAVLOG_IO_DP_DRIVE@@PEAVFAT_SA@@PEBVFAT@@K@Z
+         28   1B 00017E10 ?Initialize@REAL_FAT_SA@@UEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@E@Z
+         29   1C 0001DBC0 ?Initialize@ROOTDIR@@QEAAEPEAVMEM@@PEAVLOG_IO_DP_DRIVE@@KJ@Z
+         30   1D 00007190 ?IsValidCreationTime@FAT_DIRENT@@QEBAEXZ
+         31   1E 00007360 ?IsValidLastAccessTime@FAT_DIRENT@@QEBAEXZ
+         32   1F 00006FF0 ?IsValidLastWriteTime@FAT_DIRENT@@QEBAEXZ
+         33   20 00005B10 ?QueryAllocatedClusters@FAT@@QEBAKXZ
+         34   21 00015C80 ?QueryCensusAndRelocate@FAT_SA@@QEAAEPEAU_CENSUS_REPORT@@PEAVINTSTACK@@PEAE@Z
+         35   22 000071B0 ?QueryCreationTime@FAT_DIRENT@@QEBAEPEAT_LARGE_INTEGER@@@Z
+         36   23 00002100 ?QueryEaSetClusterNumber@EA_HEADER@@QEBAGG@Z
+         37   24 00008100 ?QueryFileStartingCluster@FAT_SA@@QEAAKPEBVWSTRING@@PEAVHMEM@@PEAPEAVFATDIR@@PEAEPEAVFAT_DIRENT@@@Z
+         38   25 0001CB20 ?QueryFreeSectors@REAL_FAT_SA@@QEBAKXZ
+         39   26 00007380 ?QueryLastAccessTime@FAT_DIRENT@@QEBAEPEAT_LARGE_INTEGER@@@Z
+         40   27 00007010 ?QueryLastWriteTime@FAT_DIRENT@@QEBAEPEAT_LARGE_INTEGER@@@Z
+         41   28 00005C40 ?QueryLengthOfChain@FAT@@QEBAKKPEAK@Z
+         42   29 000078F0 ?QueryLongName@FATDIR@@QEAAEJPEAVWSTRING@@@Z
+         43   2A 00006950 ?QueryName@FAT_DIRENT@@QEBAEPEAVWSTRING@@@Z
+         44   2B 00005BD0 ?QueryNthCluster@FAT@@QEBAKKK@Z
+         45   2C 00001B90 ?Read@CLUSTER_CHAIN@@UEAAEXZ
+         46   2D 000024F0 ?Read@EA_SET@@UEAAEXZ
+         47   2E 0001B940 ?Read@REAL_FAT_SA@@UEAAEPEAVMESSAGE@@@Z
+         48   2F 00007700 ?SearchForDirEntry@FATDIR@@QEAAPEAXPEBVWSTRING@@@Z
+         49   30 00005A40 ?Set12@FAT@@AEAAXKK@Z
+         50   31 00001C20 ?Write@CLUSTER_CHAIN@@UEAAEXZ
+         51   32 00002A00 Chkdsk
+         52   33 00003460 ChkdskEx
+         53   34 000043C0 Format
+         54   35 00004D90 FormatEx
+         55   36 000048E0 GetFilesystemInformation
+         56   37 00005380 Recover
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1F000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\Display.NvContainer\plugins\Session\nvxdsyncplugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvXDSyncPlugin.dll
+
+    00000000 characteristics
+    5FD3FFB7 time date stamp Sat Dec 12 00:24:39 2020
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000893B0 NvPluginGetInfo
+
+  Summary
+
+       15000 .data
+        1000 .didat
+        1000 .orpc
+        F000 .pdata
+       6B000 .rdata
+        3000 .reloc
+        E000 .rsrc
+      11F000 .text
+        1000 .tls

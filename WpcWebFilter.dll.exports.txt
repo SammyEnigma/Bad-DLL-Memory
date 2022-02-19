@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WpcWebFilter.dll
+
+File Type: DLL
+
+  Section contains the following exports for WpcWebFilter.dll
+
+    00000000 characteristics
+     B4CADC3 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00016210 DllCanUnloadNow
+          2    1 00016010 DllGetActivationFactory
+          3    2 00016190 DllGetClassObject
+          4    3 00016B40 WpcWebFilterCreate
+          5    4 00016CC0 WpcWebFilterDestroy
+          6    5 00016C10 WpcWebFilterGet
+
+  Summary
+
+       17000 .data
+        7000 .pdata
+       2E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       80000 .text

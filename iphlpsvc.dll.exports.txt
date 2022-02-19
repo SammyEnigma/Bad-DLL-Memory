@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\iphlpsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for iphlpsvc.dll
+
+    00000000 characteristics
+    BC6E9E11 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000300F0 IphlpsvcSysprepGeneralize
+          2    1 00014750 ServiceMain
+          3    2 00016AB0 SvchostPushServiceGlobals
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        6000 .pdata
+       41000 .rdata
+        1000 .reloc
+        F000 .rsrc
+       75000 .text
+        1000 .wpp_sf

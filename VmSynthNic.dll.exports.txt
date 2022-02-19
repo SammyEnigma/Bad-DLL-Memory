@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\VmSynthNic.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmSynthNic.dll
+
+    00000000 characteristics
+    780C1FB4 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00021B70 DllCanUnloadNow
+          2    1 000112B0 DllGetClassObject
+          3    2 00021BA0 DllRegisterServer
+          4    3 00021BB0 DllUnregisterServer
+
+  Summary
+
+        B000 .data
+        4000 .pdata
+       19000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       40000 .text

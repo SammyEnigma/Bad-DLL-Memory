@@ -1,0 +1,70 @@
+
+Dump of file C:\Windows\System32\fvecpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for USERCPL.dll
+
+    00000000 characteristics
+    84C445D5 time date stamp
+        0.00 version
+           1 ordinal base
+          44 number of functions
+          44 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002130 ??0VolumeFveStatus@@IEAA@XZ
+          2    1 00001E60 ??0VolumeFveStatus@@QEAA@K_KJW4_FVE_WIPING_STATE@@@Z
+          3    2 00002190 ??4BuiVolume@@QEAAAEAV0@AEBV0@@Z
+          4    3 00002160 ??4VolumeFveStatus@@QEAAAEAV0@$$QEAV0@@Z
+          5    4 00002140 ??4VolumeFveStatus@@QEAAAEAV0@AEBV0@@Z
+          6    5 00002080 ?FailedDryRun@VolumeFveStatus@@QEBA_NXZ
+          7    6 00002110 ?GetExtendedFlags@VolumeFveStatus@@QEBA_KXZ
+          8    7 00002120 ?GetLastConvertStatus@VolumeFveStatus@@QEBAJXZ
+          9    8 00002100 ?GetStatusFlags@VolumeFveStatus@@QEBAKXZ
+         10    9 00001ED0 ?HasExternalKey@VolumeFveStatus@@QEBA_NXZ
+         11    A 00001EC0 ?HasPBKDF2RecoveryPassword@VolumeFveStatus@@QEBA_NXZ
+         12    B 00001EF0 ?HasPassphraseProtector@VolumeFveStatus@@QEBA_NXZ
+         13    C 00001EA0 ?HasPinProtector@VolumeFveStatus@@QEBA_NXZ
+         14    D 00002060 ?HasRecoveryData@VolumeFveStatus@@QEBA_NXZ
+         15    E 00001EB0 ?HasRecoveryPassword@VolumeFveStatus@@QEBA_NXZ
+         16    F 00001F00 ?HasSmartCardProtector@VolumeFveStatus@@QEBA_NXZ
+         17   10 00001EE0 ?HasStartupKeyProtector@VolumeFveStatus@@QEBA_NXZ
+         18   11 00001E90 ?HasTpmProtector@VolumeFveStatus@@QEBA_NXZ
+         19   12 00001F80 ?IsConverting@VolumeFveStatus@@QEBA_NXZ
+         20   13 000020C0 ?IsCsvMetadataVolume@VolumeFveStatus@@QEBA_NXZ
+         21   14 000020F0 ?IsDEAutoProvisioned@VolumeFveStatus@@QEBA_NXZ
+         22   15 00001FE0 ?IsDecrypted@VolumeFveStatus@@QEBA_NXZ
+         23   16 00001FD0 ?IsDecrypting@VolumeFveStatus@@QEBA_NXZ
+         24   17 00002030 ?IsDisabled@VolumeFveStatus@@QEBA_NXZ
+         25   18 000020B0 ?IsEDriveVolume@VolumeFveStatus@@QEBA_NXZ
+         26   19 00001FC0 ?IsEncrypted@VolumeFveStatus@@QEBA_NXZ
+         27   1A 00001FB0 ?IsEncrypting@VolumeFveStatus@@QEBA_NXZ
+         28   1B 00002050 ?IsLocked@VolumeFveStatus@@QEBA_NXZ
+         29   1C 00001F50 ?IsOn@VolumeFveStatus@@QEBA_NXZ
+         30   1D 00001F20 ?IsOsCriticalVolume@VolumeFveStatus@@QEBA_NXZ
+         31   1E 00001F10 ?IsOsVolume@VolumeFveStatus@@QEBA_NXZ
+         32   1F 00001FA0 ?IsPartiallyConverted@VolumeFveStatus@@QEBA_NXZ
+         33   20 00001F60 ?IsPaused@VolumeFveStatus@@QEBA_NXZ
+         34   21 00002070 ?IsPreProvisioned@VolumeFveStatus@@QEBA_NXZ
+         35   22 00001F40 ?IsRoamingDevice@VolumeFveStatus@@QEBA_NXZ
+         36   23 00002010 ?IsSecure@VolumeFveStatus@@QEBA_NXZ
+         37   24 000020D0 ?IsUnknownFveVersion@VolumeFveStatus@@QEBA_NXZ
+         38   25 00001FF0 ?IsWiping@VolumeFveStatus@@QEBA_NXZ
+         39   26 0003A910 ?NO_DRIVE_LETTER@BuiVolume@@2IB
+         40   27 00002020 ?NeedsRestart@VolumeFveStatus@@QEBA_NXZ
+         41   28 00002320 DllCanUnloadNow
+         42   29 000024F0 DllGetClassObject
+         43   2A 00002340 DllRegisterServer
+         44   2B 00002370 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+       1E000 .rsrc
+       36000 .text

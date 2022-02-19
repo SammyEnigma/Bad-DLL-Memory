@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SystemEventsBrokerServer.dll
+
+File Type: DLL
+
+  Section contains the following exports for SystemEventsBrokerServer.dll
+
+    00000000 characteristics
+    2E9A5492 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000196D0 ServiceMain
+          2    1 00019870 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       26000 .text

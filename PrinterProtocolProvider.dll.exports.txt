@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\PointOfService\ProtocolProviders\PrinterProtocolProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for PrinterProtocolProvider.dll
+
+    00000000 characteristics
+    80BFC521 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000041F0 DllCanUnloadNow
+          3    1 00004100 DllGetClassObject
+          1    2 00004450 GetPointOfServiceProtocolMetadata
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       29000 .text

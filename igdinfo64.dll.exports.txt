@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdinfo64.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdinfo64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011C0 GfxInfo_Params
+          2    1 00001000 GfxInfo_RTErr
+          3    2 00001030 GfxInfo_RTErr_Varargs
+          4    3 000011F0 GfxInfo_Varargs
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text
+        1000 _RDATA

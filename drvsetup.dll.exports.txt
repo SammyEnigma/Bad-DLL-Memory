@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\drvsetup.dll
+
+File Type: DLL
+
+  Section contains the following exports for drvsetup.dll
+
+    00000000 characteristics
+    3A79723D time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B220 DrvSetupInstallDriver
+          2    1 00002F30 DrvSetupInstallWuDriver
+          3    2 0000B940 DrvSetupUninstallDriver
+          4    3 00003880 DrvSetupUninstallWuDrivers
+          5    4 0000BAA0 pDrvSetupUninstallDriver
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

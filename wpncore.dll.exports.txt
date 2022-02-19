@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\wpncore.dll
+
+File Type: DLL
+
+  Section contains the following exports for wpncore.dll
+
+    00000000 characteristics
+    4633A4A6 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00015A90 DllCanUnloadNow
+          2    1 0004DCA0 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        E000 .pdata
+       40000 .rdata
+        2000 .reloc
+       1E000 .rsrc
+      101000 .text

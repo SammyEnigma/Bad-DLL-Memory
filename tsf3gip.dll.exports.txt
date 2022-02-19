@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\tsf3gip.dll
+
+File Type: DLL
+
+  Section contains the following exports for tsf3gip.dll
+
+    00000000 characteristics
+    CC8F9E14 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000FD10 DllCanUnloadNow
+          3    1 0000FC20 DllGetClassObject
+          1    2 00011A00 OnUserProfileChanged
+
+  Summary
+
+       10000 .data
+        1000 .didat
+        9000 .pdata
+       5C000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       DE000 .text

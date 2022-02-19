@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\appidapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for appidapi.dll
+
+    00000000 characteristics
+    369285F3 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017B0 AppIDConstructAppxAttributes
+          2    1          AppIDDecodeAttributeString (forwarded to srpapi.AppIDDecodeAttributeString)
+          3    2          AppIDEncodeAttributeString (forwarded to srpapi.AppIDEncodeAttributeString)
+          4    3          AppIDFreeAttributeString (forwarded to srpapi.AppIDFreeAttributeString)
+          5    4 00001550 AppIDGetAppxFileAttributes
+          6    5 00001350 AppIDGetFileAttributes
+          7    6 00001540 AppIDGetMsiVersionInfo
+          8    7 00001750 AppIDReleaseAppxFileAttributes
+          9    8 00001720 AppIDReleaseFileAttributes
+         10    9 00001C90 CompareToSystemCIPolicy
+         11    A 00001E90 UpdateSystemCIPolicy
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

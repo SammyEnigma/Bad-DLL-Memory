@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\windows.applicationmodel.datatransfer.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.DataTransfer.dll
+
+    00000000 characteristics
+    61CC0CA1 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002950 DllCanUnloadNow
+          2    1 00002680 DllGetActivationFactory
+          3    2 00002860 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       28000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       8D000 .text

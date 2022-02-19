@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\imapi2.dll
+
+File Type: DLL
+
+  Section contains the following exports for IMAPI2.DLL
+
+    00000000 characteristics
+    3D948442 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003210 DllCanUnloadNow
+          2    1 00003600 DllGetClassObject
+          3    2 00045CD0 DllRegisterServer
+          4    3 00045D80 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        4000 .pdata
+       15000 .rdata
+        2000 .reloc
+       15000 .rsrc
+       4F000 .text

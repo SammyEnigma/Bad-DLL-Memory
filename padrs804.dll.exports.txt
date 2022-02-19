@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\res\padrs804.dll
+
+File Type: DLL
+
+  Section contains the following exports for resmain.dll
+
+    00000000 characteristics
+    C858F04F time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001400 PadHelp_HandleContextPopup
+          2    1 00001170 PadHelp_HandleHelp
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        2000 .text

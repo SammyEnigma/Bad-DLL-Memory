@@ -1,0 +1,186 @@
+
+Dump of file C:\Windows\System32\mprapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for MPRAPI.dll
+
+    00000000 characteristics
+    ED6512C4 time date stamp
+        0.00 version
+           1 ordinal base
+         160 number of functions
+         160 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006C60 CompressPhoneNumber
+          2    1 000069E0 MprAdminAddRoutingDomain
+          3    2 000028D0 MprAdminBufferFree
+          4    3 00004700 MprAdminConnectionClearStats
+          5    4 00004510 MprAdminConnectionEnum
+          6    5 00004320 MprAdminConnectionEnumEx
+          7    6 000046D0 MprAdminConnectionGetInfo
+          8    7 000046E0 MprAdminConnectionGetInfoEx
+          9    8 00004A70 MprAdminConnectionRemoveQuarantine
+         10    9 00006A40 MprAdminDeleteRoutingDomain
+         11    A 00003E80 MprAdminDeregisterConnectionNotification
+         12    B 00002B90 MprAdminDeviceEnum
+         13    C 00007A20 MprAdminEstablishDomainRasServer
+         14    D 00005CF0 MprAdminFreeRoutingDomainConfigEx
+         15    E 000039A0 MprAdminGetErrorString
+         16    F 0002B6C0 MprAdminGetPDCServer
+         17   10 00006B40 MprAdminGetProtocolStatistics
+         18   11 00005D50 MprAdminGetRoutingDomainId
+         19   12 00003AD0 MprAdminInterfaceAddIkev2Policy
+         20   13 000063B0 MprAdminInterfaceClearStatisticsEx
+         21   14 000039C0 MprAdminInterfaceConnect
+         22   15 00002C30 MprAdminInterfaceCreate
+         23   16 00005DE0 MprAdminInterfaceCreateEx
+         24   17 00003510 MprAdminInterfaceDelete
+         25   18 00003150 MprAdminInterfaceDeviceGetInfo
+         26   19 00003240 MprAdminInterfaceDeviceSetInfo
+         27   1A 00003A50 MprAdminInterfaceDisconnect
+         28   1B 000035A0 MprAdminInterfaceEnum
+         29   1C 00005F50 MprAdminInterfaceEnumEx
+         30   1D 000048D0 MprAdminInterfaceGetCredentials
+         31   1E 00003C70 MprAdminInterfaceGetCredentialsEx
+         32   1F 00002D30 MprAdminInterfaceGetCustomInfoEx
+         33   20 00003490 MprAdminInterfaceGetHandle
+         34   21 00002FD0 MprAdminInterfaceGetInfo
+         35   22 00006100 MprAdminInterfaceGetInfoEx
+         36   23 00006400 MprAdminInterfaceGetStatisticsEx
+         37   24 00003940 MprAdminInterfaceQueryUpdateResult
+         38   25 00004740 MprAdminInterfaceSetCredentials
+         39   26 00003B10 MprAdminInterfaceSetCredentialsEx
+         40   27 00002E80 MprAdminInterfaceSetCustomInfoEx
+         41   28 00003090 MprAdminInterfaceSetInfo
+         42   29 00006200 MprAdminInterfaceSetInfoEx
+         43   2A 00003790 MprAdminInterfaceTransportAdd
+         44   2B 000036E0 MprAdminInterfaceTransportGetInfo
+         45   2C 00003550 MprAdminInterfaceTransportRemove
+         46   2D 00003820 MprAdminInterfaceTransportSetInfo
+         47   2E 00003A90 MprAdminInterfaceUpdatePhonebookInfo
+         48   2F 000038B0 MprAdminInterfaceUpdateRoutes
+         49   30 00007A30 MprAdminIsDomainRasServer
+         50   31 00005C90 MprAdminIsModernStackEnabled
+         51   32 00005C30 MprAdminIsMultiTenancyEnabled
+         52   33 00002760 MprAdminIsServiceInitialized
+         53   34 000027F0 MprAdminIsServiceRunning
+         54   35 000028D0 MprAdminMIBBufferFree
+         55   36 00003EF0 MprAdminMIBEntryCreate
+         56   37 00003F80 MprAdminMIBEntryDelete
+         57   38 000040A0 MprAdminMIBEntryGet
+         58   39 00004170 MprAdminMIBEntryGetFirst
+         59   3A 00004250 MprAdminMIBEntryGetNext
+         60   3B 00004010 MprAdminMIBEntrySet
+         61   3C 00003EE0 MprAdminMIBServerConnect
+         62   3D 000028A0 MprAdminMIBServerDisconnect
+         63   3E 00006360 MprAdminMarkServerOffline
+         64   3F 00004710 MprAdminPortClearStats
+         65   40 00004730 MprAdminPortDisconnect
+         66   41 000046B0 MprAdminPortEnum
+         67   42 000046F0 MprAdminPortGetInfo
+         68   43 00004720 MprAdminPortReset
+         69   44 00006AA0 MprAdminProtocolAction
+         70   45 00003E00 MprAdminRegisterConnectionNotification
+         71   46 00006540 MprAdminRoutingDomainConnectionEnumEx
+         72   47 000067D0 MprAdminRoutingDomainGetConfigEx
+         73   48 00006910 MprAdminRoutingDomainSetConfigEx
+         74   49 00006670 MprAdminRoutingDomainsEnumEx
+         75   4A 00001C20 MprAdminSendUserMessage
+         76   4B 00002820 MprAdminServerConnect
+         77   4C 000028A0 MprAdminServerDisconnect
+         78   4D 00002730 MprAdminServerGetCredentials
+         79   4E 00001C30 MprAdminServerGetInfo
+         80   4F 00002200 MprAdminServerGetInfoEx
+         81   50 00002710 MprAdminServerSetCredentials
+         82   51 00001CC0 MprAdminServerSetInfo
+         83   52 00001D70 MprAdminServerSetInfoEx
+         84   53 00002900 MprAdminTransportCreate
+         85   54 00002A70 MprAdminTransportGetInfo
+         86   55 000029C0 MprAdminTransportSetInfo
+         87   56 00004570 MprAdminUpdateConnection
+         88   57 0002B610 MprAdminUpgradeUsers
+         89   58 0002B2B0 MprAdminUserClose
+         90   59 0002B4D0 MprAdminUserGetInfo
+         91   5A 0002B220 MprAdminUserOpen
+         92   5B 0002B300 MprAdminUserRead
+         93   5C 0002B1E0 MprAdminUserReadProfFlags
+         94   5D 0002B010 MprAdminUserServerConnect
+         95   5E 0002B020 MprAdminUserServerDisconnect
+         96   5F 0002B390 MprAdminUserSetInfo
+         97   60 0002B330 MprAdminUserWrite
+         98   61 0002B200 MprAdminUserWriteProfFlags
+         99   62 00016960 MprConfigAddRoutingDomain
+        100   63 00017E60 MprConfigBufferFree
+        101   64 00016A20 MprConfigDeleteRoutingDomain
+        102   65 00024780 MprConfigFilterGetInfo
+        103   66 000247E0 MprConfigFilterSetInfo
+        104   67 00016410 MprConfigFreeRoutingDomainConfigEx
+        105   68 00027D50 MprConfigGetFriendlyName
+        106   69 00027DF0 MprConfigGetGuidName
+        107   6A 00016480 MprConfigGetRoutingDomainId
+        108   6B 00024CE0 MprConfigInterfaceCreate
+        109   6C 00026680 MprConfigInterfaceCreateEx
+        110   6D 00025220 MprConfigInterfaceDelete
+        111   6E 00025E70 MprConfigInterfaceEnum
+        112   6F 000260E0 MprConfigInterfaceEnumEx
+        113   70 00025480 MprConfigInterfaceGetCustomInfoEx
+        114   71 00025380 MprConfigInterfaceGetHandle
+        115   72 00025A10 MprConfigInterfaceGetInfo
+        116   73 00026DE0 MprConfigInterfaceGetInfoEx
+        117   74 00025620 MprConfigInterfaceSetCustomInfoEx
+        118   75 00025C20 MprConfigInterfaceSetInfo
+        119   76 00027010 MprConfigInterfaceSetInfoEx
+        120   77 00027400 MprConfigInterfaceTransportAdd
+        121   78 00027AF0 MprConfigInterfaceTransportEnum
+        122   79 000277D0 MprConfigInterfaceTransportGetHandle
+        123   7A 000278E0 MprConfigInterfaceTransportGetInfo
+        124   7B 00027700 MprConfigInterfaceTransportRemove
+        125   7C 00027A10 MprConfigInterfaceTransportSetInfo
+        126   7D 00016390 MprConfigIsMultiTenancyEnabled
+        127   7E 00016530 MprConfigRoutingDomainEnumEx
+        128   7F 000166C0 MprConfigRoutingDomainGetConfigEx
+        129   80 00016850 MprConfigRoutingDomainSetConfigEx
+        130   81 00018440 MprConfigServerBackup
+        131   82 000179E0 MprConfigServerConnect
+        132   83 00017C30 MprConfigServerDisconnect
+        133   84 00023B50 MprConfigServerGetInfo
+        134   85 00023A00 MprConfigServerGetInfoEx
+        135   86 00017030 MprConfigServerInstall
+        136   87 00018D10 MprConfigServerRefresh
+        137   88 00017EA0 MprConfigServerRestore
+        138   89 00023CE0 MprConfigServerSetInfo
+        139   8A 00023A70 MprConfigServerSetInfoEx
+        140   8B 00023E10 MprConfigTransportCreate
+        141   8C 000241A0 MprConfigTransportDelete
+        142   8D 00024A80 MprConfigTransportEnum
+        143   8E 00024280 MprConfigTransportGetHandle
+        144   8F 00024840 MprConfigTransportGetInfo
+        145   90 00024360 MprConfigTransportSetInfo
+        146   91 00007B00 MprDomainQueryRasServer
+        147   92 00007A40 MprDomainRegisterRasServer
+        148   93 00001350 MprFreeInterfaceInfoEx
+        149   94 0002BC80 MprGetUsrParams
+        150   95 000321B0 MprInfoBlockAdd
+        151   96 00032860 MprInfoBlockFind
+        152   97 000328F0 MprInfoBlockQuerySize
+        153   98 000323C0 MprInfoBlockRemove
+        154   99 000325C0 MprInfoBlockSet
+        155   9A 00032030 MprInfoCreate
+        156   9B 000320B0 MprInfoDelete
+        157   9C 00032120 MprInfoDuplicate
+        158   9D 00032100 MprInfoRemoveAll
+        159   9E 00016310 MprPortSetUsage
+        160   9F 0002A8C0 RasPrivilegeAndCallBackNumber
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       27000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       56000 .text

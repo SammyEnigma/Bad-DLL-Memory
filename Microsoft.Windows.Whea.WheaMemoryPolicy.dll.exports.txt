@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Whea\Microsoft.Windows.Whea.WheaMemoryPolicy.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .rsrc
+        4000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\APMon.dll
+
+File Type: DLL
+
+  Section contains the following exports for apmon.dll
+
+    00000000 characteristics
+    BCD3EF7F time date stamp
+        0.00 version
+         342 ordinal base
+          25 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+        344    0 0000BA10 InitializePrintMonitor2
+        342      0000C860 [NONAME]
+        343      0000C960 [NONAME]
+        366      0000C8E0 [NONAME]
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        9000 .pdata
+       50000 .rdata
+        1000 .reloc
+       3A000 .rsrc
+       D4000 .text

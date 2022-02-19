@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CapabilityAccessManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for CapabilityAccessManager.dll
+
+    00000000 characteristics
+    E9DE2CE0 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00003BE0 DllCanUnloadNow
+          3    1 00003C70 DllGetClassObject
+          1    2 00004ED0 ServiceMain
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       13000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       47000 .text

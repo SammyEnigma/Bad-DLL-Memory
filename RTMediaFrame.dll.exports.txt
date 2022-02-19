@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RTMediaFrame.dll
+
+File Type: DLL
+
+  Section contains the following exports for RtMediaFrame.dll
+
+    00000000 characteristics
+     DB10484 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001880 DllCanUnloadNow
+          1    1 0000B450 DllGetActivationFactory
+          3    2 00003A30 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       26000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       4E000 .text

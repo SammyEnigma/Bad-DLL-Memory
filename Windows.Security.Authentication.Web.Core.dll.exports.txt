@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Security.Authentication.Web.Core.dll
+
+    00000000 characteristics
+    35F8B718 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001B970 DllCanUnloadNow
+          2    1 0001DA30 DllGetActivationFactory
+          3    2 00046050 DllGetClassObject
+          4    3 000460A0 FreeIdentityProviderCookies
+          5    4 000460B0 GetIdentityProviderCookies
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       3A000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       D0000 .text

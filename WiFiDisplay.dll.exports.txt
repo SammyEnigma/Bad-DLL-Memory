@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\WiFiDisplay.dll
+
+File Type: DLL
+
+  Section contains the following exports for WiFiDisplay.dll
+
+    00000000 characteristics
+    AB62F994 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00003910 CloseMiracastSession
+          3    1 00003B50 CreateDAFProviderMiracastHelper
+          1    2 00004930 CreateInfraCastSourceConnector
+          4    3 00003BB0 CreateWiFiDisplayEtwProvider
+          5    4 00003B60 IsMiracastSupportedByWlan
+          6    5 000036F0 MiracastFreeMemory
+          7    6 00003680 MiracastIeDecode
+          8    7 00003600 MiracastIeEncode
+          9    8 00003CB0 MiracastQueryParameters
+         10    9 00004490 MiracastRegisterDatarateCallback
+         11    A 000047D0 MiracastUnregisterDatarateCallback
+         12    B 00003700 OpenMiracastSession
+         13    C 00003A20 VsIeProviderGetFunctionTable
+         14    D 00004090 WFDDisplaySinkCloseSession
+         15    E 00003DF0 WFDDisplaySinkDeInit
+         16    F 00003CD0 WFDDisplaySinkInit
+         17   10 00003EE0 WFDDisplaySinkQueryCapabilities
+         18   11 000041B0 WFDDisplaySinkSetPersistedGroupIDList
+         19   12 00004320 WFDDisplaySinkSetProperty
+         20   13 00003CC0 WFDDisplaySinkStart
+         21   14 00003ED0 WFDDisplaySinkStartEx
+         22   15 00004080 WFDDisplaySinkStop
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        E000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       4B000 .text

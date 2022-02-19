@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\dot3gpclnt.dll
+
+File Type: DLL
+
+  Section contains the following exports for dot3gpclnt.dll
+
+    00000000 characteristics
+    9740C167 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000029E0 DeserializeLANPolicy
+          1    1 00001BE0 GenerateLANPolicy
+          4    2 00002480 LANGPADeInit
+          5    3 000022A0 LANGPAInit
+          2    4 00001630 ProcessLANPolicyEx
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

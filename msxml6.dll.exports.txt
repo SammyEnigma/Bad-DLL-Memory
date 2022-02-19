@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\msxml6.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSXML6.dll
+
+    00000000 characteristics
+    17588164 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00086490 DllCanUnloadNow
+          2    1 0000BDF0 DllGetActivationFactory
+          3    2 0000BE80 DllGetClassObject
+          4    3 0008DA10 DllRegisterServer
+          5    4 000E5A20 DllSetProperty
+          6    5 0008DA10 DllUnregisterServer
+
+  Summary
+
+        C000 .data
+        1000 .didat
+       1A000 .pdata
+       74000 .rdata
+        A000 .reloc
+       26000 .rsrc
+      190000 .text
+        3000 .wpp_sf

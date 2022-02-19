@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.BackgroundTransfer.ContentPrefetchTask.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.BackgroundTransfer.ContentPrefetchTask.dll
+
+    00000000 characteristics
+    F2164C3D time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00040C60 DllCanUnloadNow
+          2    1 00040C90 DllGetActivationFactory
+
+  Summary
+
+        8000 .data
+        5000 .pdata
+       22000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       4B000 .text

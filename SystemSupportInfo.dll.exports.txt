@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SystemSupportInfo.dll
+
+File Type: DLL
+
+  Section contains the following exports for SystemSupportInfo.dll
+
+    00000000 characteristics
+      8760E8 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000028E0 DllCanUnloadNow
+          1    1 00002A80 DllGetActivationFactory
+          3    2 00002950 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

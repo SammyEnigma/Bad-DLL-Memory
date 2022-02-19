@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ehstorpwddrv.inf_amd64_220e4fad6c84d016\EhStorPwdDrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for EhStorPwdDrv.DLL
+
+    00000000 characteristics
+    4B6E6EDD time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000020A0 DllGetClassObject
+          2    1 000155E0 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

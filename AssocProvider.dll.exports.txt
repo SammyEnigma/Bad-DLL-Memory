@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Dism\AssocProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for AssocProvider.DLL
+
+    00000000 characteristics
+    9FF6317C time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001360 DLLGetDISMProviderCLSID
+          2    1 00001390 DllCanUnloadNow
+          3    2 000013D0 DllGetClassObject
+          4    3 00001510 DllRegisterServer
+          5    4 00001610 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        3000 .rsrc
+        D000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ExtrasXmlParser.dll
+
+File Type: DLL
+
+  Section contains the following exports for ExtrasXmlParser.dll
+
+    00000000 characteristics
+    7B4C7759 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000023E0 ParseExtrasXmlForExtensionInfo
+          2    1 00002420 ParseExtrasXmlForNabSyncExtensionInfo
+          3    2 00002460 ParseExtrasXmlForSmsInterceptExtensionInfo
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

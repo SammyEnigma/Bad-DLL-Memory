@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\ieproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for SWEEPRX.dll
+
+    00000000 characteristics
+    F2FC79FD time date stamp
+        0.00 version
+           3 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00005EA0 DllCanUnloadNow
+          5    1 00005FC0 DllGetClassObject
+          6    2 00008210 DllRegisterServer
+          7    3 00008240 DllUnregisterServer
+          3    4 00008270 GetProxyDllInfo
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        1000 .pdata
+       BB000 .rdata
+       12000 .reloc
+        1000 .rsrc
+        C000 .text

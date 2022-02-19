@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\MsSpellCheckingFacility.dll
+
+File Type: DLL
+
+  Section contains the following exports for msspellcheckingfacility.dll
+
+    00000000 characteristics
+    1801EF93 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00017C30 DllCanUnloadNow
+          2    1 00017C70 DllGetActivationFactory
+          3    2 00017CB0 DllGetClassObject
+          4    3 00017D10 DllRegisterServer
+          5    4 00017D70 DllUnregisterServer
+          6    5 000502F0 SpellerCheck
+          7    6 00050750 SpellerCloseLex
+          8    7 00050CF0 SpellerGetOptions
+          9    8 000510C0 SpellerInit
+         10    9 00051180 SpellerOpenLex
+         11    A 00051900 SpellerSetOptions
+         12    B 00051BF0 SpellerTerminate
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        A000 .pdata
+       3D000 .rdata
+        3000 .reloc
+        3000 .rsrc
+       97000 .text

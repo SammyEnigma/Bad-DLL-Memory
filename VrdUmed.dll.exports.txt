@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\VrdUmed.dll
+
+File Type: DLL
+
+  Section contains the following exports for VrdUmed.dll
+
+    00000000 characteristics
+    47F5946D time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000095B0 DllCanUnloadNow
+          4    1 00009530 DllGetClassObject
+          1    2 00009620 DllRegisterServer
+          2    3 00009A40 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

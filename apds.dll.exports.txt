@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\apds.dll
+
+File Type: DLL
+
+  Section contains the following exports for hxds.DLL
+
+    00000000 characteristics
+    19C041D8 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006670 DllCanUnloadNow
+          2    1 00006690 DllGetClassObject
+          3    2 000067C0 DllRegisterServer
+          4    3 000068C0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+       17000 .rsrc
+       19000 .text

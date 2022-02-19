@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\timesync.dll
+
+File Type: DLL
+
+  Section contains the following exports for timesync.dll
+
+    00000000 characteristics
+    3352D378 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000042B0 FreeTimeStatusInfo
+          2    1 000041E0 GetTimeStatusInfo
+          3    2 00004090 SetNTPSync
+          4    3 000038B0 StartTimeService
+          5    4 00003D10 SyncW32Time
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

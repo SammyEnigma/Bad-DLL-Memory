@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wiascanprofiles.dll
+
+File Type: DLL
+
+  Section contains the following exports for ScanProfiles.DLL
+
+    00000000 characteristics
+    B3EB9F37 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010E0 DllCanUnloadNow
+          2    1 00001100 DllGetClassObject
+          3    2 00001120 DllRegisterServer
+          4    3 000011F0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        C000 .rsrc
+        B000 .text

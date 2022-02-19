@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\VhfUm.dll
+
+File Type: DLL
+
+  Section contains the following exports for VhfUm.DLL
+
+    00000000 characteristics
+    87AE91CA time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002450 VhfAsyncOperationComplete
+          2    1 00001C00 VhfCreate
+          3    2 00001ED0 VhfDelete
+          4    3 00002280 VhfReadReportSubmit
+          5    4 000020E0 VhfStart
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        7000 .text

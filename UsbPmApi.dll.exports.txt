@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\UsbPmApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for UsbPmApi.DLL
+
+    00000000 characteristics
+    AC471D3A time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001B20 UsbPm_AssignConnectorPowerLevel
+          2    1 000013B0 UsbPm_Deregister
+          3    2 00001230 UsbPm_Register
+          4    3 000017F0 UsbPm_RetrieveConnectorProperties
+          5    4 000019B0 UsbPm_RetrieveConnectorState
+          6    5 00001620 UsbPm_RetrieveHubConnectorHandles
+          7    6 00001490 UsbPm_RetrieveHubProperties
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        9000 .text
+        1000 PAGE

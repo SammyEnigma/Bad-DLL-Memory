@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\amsiproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for amsiproxy.dll
+
+    00000000 characteristics
+    65B22FCA time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001090 DllCanUnloadNow
+          2    1 00001050 DllGetClassObject
+          3    2 00001100 DllRegisterServer
+          4    3 00001130 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

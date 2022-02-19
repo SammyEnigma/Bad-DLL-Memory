@@ -1,0 +1,71 @@
+
+Dump of file C:\Windows\System32\rastapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for rastapi.dll
+
+    00000000 characteristics
+     3F0999A time date stamp
+        0.00 version
+           1 ordinal base
+          45 number of functions
+          45 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012F00 AddPorts
+          2    1 00015C20 CheckRasmanDependency
+          3    2 00011770 DeviceConnect
+          4    3 00012250 DeviceDone
+          5    4 00011680 DeviceEnum
+          6    5 00012B60 DeviceGetDevConfig
+          7    6 00012B70 DeviceGetDevConfigEx
+          8    7 000116A0 DeviceGetInfo
+          9    8 00012000 DeviceListen
+         10    9 000126E0 DeviceSetDevConfig
+         11    A 00011700 DeviceSetInfo
+         12    B 00012260 DeviceWork
+         13    C 00013190 EnableDeviceForDialIn
+         14    D 000134B0 GetConnectInfo
+         15    E 00013770 GetZeroDeviceInfo
+         16    F 0000F780 InitializeDriverIoControl
+         17   10 000111B0 PortChangeCallback
+         18   11 000111B0 PortClearStatistics
+         19   12 00010780 PortClose
+         20   13 000111B0 PortCompressionSetInfo
+         21   14 00010B70 PortConnect
+         22   15 00011070 PortDisconnect
+         23   16 0000FEB0 PortEnum
+         24   17 000115F0 PortGetIOHandle
+         25   18 00010920 PortGetInfo
+         26   19 000111B0 PortGetPortState
+         27   1A 000111B0 PortGetStatistics
+         28   1B 000111B0 PortInit
+         29   1C 00010760 PortOpen
+         30   1D 00010750 PortOpenExternal
+         31   1E 00011390 PortReceive
+         32   1F 000114E0 PortReceiveComplete
+         33   20 000111C0 PortSend
+         34   21 000111B0 PortSetFraming
+         35   22 000109D0 PortSetInfo
+         36   23 0000FE90 PortSetIoCompletionPort
+         37   24 00010A40 PortTestSignalState
+         38   25 00012D60 RasTapiIsPulseDial
+         39   26 00012B90 RastapiGetCalledID
+         40   27 00012C50 RastapiSetCalledID
+         41   28 00015630 RefreshDevices
+         42   29 00013030 RemovePort
+         43   2A 000153F0 SetCommSettings
+         44   2B 00015210 UnloadRastapiDll
+         45   2C 00015700 UpdateTapiService
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2A000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\ELSCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for elscore.dll
+
+    00000000 characteristics
+    4079E742 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008D60 MappingDoAction
+          2    1 00001290 MappingFreePropertyBag
+          3    2 000034E0 MappingFreeServices
+          4    3 00001320 MappingGetServices
+          5    4 000010E0 MappingRecognizeText
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

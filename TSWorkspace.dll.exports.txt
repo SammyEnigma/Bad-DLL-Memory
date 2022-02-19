@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\TSWorkspace.dll
+
+File Type: DLL
+
+  Section contains the following exports for tsworkspace.dll
+
+    00000000 characteristics
+    761CAD19 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000030D0 CreateClaimsAuthResponseHeader
+         12    1 00002230 DllCanUnloadNow
+         13    2 00002260 DllGetClassObject
+         14    3 00002310 DllRegisterServer
+         15    4 000024B0 DllUnregisterServer
+          5    5 0000C700 RADCProcessGroupPolicyEx
+          2    6 00002E20 RADCUISupportCreateDiscoveryStrategy
+          1    7 00002E10 RADCUISupportCreateSubscriptionClient
+          7    8 00002720 TaskUpdateWorkspaces
+          6    9 00002BA0 TaskUpdateWorkspaces2
+          8    A 000028A0 TaskUpdateWorkspacesIfNeeded
+          4    B 00002EE0 TryParseClaimsAuthnHeader
+          9    C 00002D40 WorkspaceSilentSetupW
+         11    D 00002A20 WorkspaceStatusNotify
+         10    E 00002CE0 WorkspaceStatusNotify2
+
+  Summary
+
+        5000 .data
+        7000 .pdata
+       46000 .rdata
+        2000 .reloc
+       23000 .rsrc
+       BE000 .text

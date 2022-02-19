@@ -1,0 +1,230 @@
+
+Dump of file C:\Windows\System32\FirewallAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for FirewallAPI.dll
+
+    00000000 characteristics
+    554B8967 time date stamp
+        0.00 version
+           1 ordinal base
+         204 number of functions
+         204 number of names
+
+    ordinal hint RVA      name
+
+          8    0 00002550 DllCanUnloadNow
+          9    1 00004300 DllGetClassObject
+         10    2 0001E780 DllRegisterServer
+         11    3 0001E7E0 DllUnregisterServer
+         12    4 00045C10 FWAddAuthenticationSet
+         13    5 00045DF0 FWAddConnectionSecurityRule
+         14    6 00045FC0 FWAddCryptoSet
+         15    7 00046160 FWAddFirewallRule
+         16    8 000463E0 FWAddMainModeRule
+         17    9 00046560 FWAddSecurityRealm
+         18    A 00004430 FWChangeNotificationCreate
+         19    B 00024B90 FWChangeNotificationDestroy
+         20    C 000467B0 FWChangeTransactionalState
+         21    D 00006290 FWClosePolicyStore
+         22    E 00046990 FWCopyAuthenticationSet
+         23    F 000469F0 FWCopyConnectionSecurityRule
+         24   10 00046A50 FWCopyCryptoSet
+         25   11 00046AB0 FWCopyFirewallRule
+         26   12 00046B10 FWDeleteAllAuthenticationSets
+         27   13 00046C40 FWDeleteAllConnectionSecurityRules
+         28   14 00046D70 FWDeleteAllCryptoSets
+         29   15 00046EA0 FWDeleteAllFirewallRules
+         30   16 00046FD0 FWDeleteAllMainModeRules
+         31   17 00047100 FWDeleteAuthenticationSet
+         32   18 00047230 FWDeleteConnectionSecurityRule
+         33   19 00047360 FWDeleteCryptoSet
+         34   1A 00047490 FWDeleteFirewallRule
+         35   1B 000475C0 FWDeleteMainModeRule
+         36   1C 000476F0 FWDeletePhase1SAs
+         37   1D 00047800 FWDeletePhase2SAs
+         38   1E 00047910 FWDeleteSecurityRealm
+         39   1F 00047940 FWDiagGetAppList
+         40   20 00047A40 FWEnumAdapters
+         41   21 00047B50 FWEnumAuthenticationSets
+         42   22 00047D40 FWEnumConnectionSecurityRules
+         43   23 00047F30 FWEnumCryptoSets
+         44   24 000480F0 FWEnumFirewallRules
+         45   25 00048380 FWEnumMainModeRules
+         46   26 00048520 FWEnumNetworks
+         47   27 00048630 FWEnumPhase1SAs
+         48   28 00048760 FWEnumPhase2SAs
+         49   29 00048890 FWEnumProducts
+         50   2A 000489A0 FWExportPolicy
+         51   2B 00009130 FWFreeAdapters
+         52   2C 00048B40 FWFreeAuthenticationSet
+         53   2D 00048B60 FWFreeAuthenticationSets
+         54   2E 00048C20 FWFreeAuthenticationSetsByHandle
+         55   2F 00048D10 FWFreeConnectionSecurityRule
+         56   30 00048D30 FWFreeConnectionSecurityRules
+         57   31 00048E00 FWFreeConnectionSecurityRulesByHandle
+         58   32 00048EF0 FWFreeCryptoSet
+         59   33 00048F10 FWFreeCryptoSets
+         60   34 00048FE0 FWFreeCryptoSetsByHandle
+         61   35 00009130 FWFreeDiagAppList
+         62   36 00049100 FWFreeFirewallRule
+         63   37 00049120 FWFreeFirewallRules
+         64   38 000491E0 FWFreeFirewallRulesByHandle
+         65   39 000492D0 FWFreeFirewallRulesOld
+         66   3A 000493A0 FWFreeMainModeRule
+         67   3B 000493C0 FWFreeMainModeRules
+         68   3C 00049490 FWFreeMainModeRulesByHandle
+         69   3D 00009130 FWFreeNetworks
+         70   3E 00049580 FWFreePhase1SAs
+         71   3F 00049680 FWFreePhase2SAs
+         72   40 00009130 FWFreeProducts
+         73   41 00005A80 FWGetConfig
+         74   42 00049750 FWGetConfig2
+         75   43 00004750 FWGetGlobalConfig
+         76   44 000134D0 FWGetGlobalConfig2
+         77   45 000498A0 FWGetGlobalConfig3
+         78   46 00009720 FWGetIndicatedPortInUse
+         79   47 00049A00 FWImportPolicy
+         80   48 00009150 FWIndicatePortInUse
+         81   49 00049BA0 FWIndicateProxyForUrl
+         82   4A 00049D20 FWIndicateProxyResolverRefresh
+         83   4B 00049D30 FWIndicateTupleInUse
+         84   4C 00049F20 FWIndicateTupleInUse2
+         85   4D 0004A110 FWIsTargetAProxy
+         86   4E 00007110 FWOpenPolicyStore
+         87   4F 0004A370 FWQueryAuthenticationSets
+         88   50 0004A4F0 FWQueryConnectionSecurityRules
+         89   51 0004A660 FWQueryCryptoSets
+         90   52 00008A50 FWQueryFirewallRules
+         91   53 0004A7E0 FWQueryIsolationType
+         92   54 0004A980 FWQueryMainModeRules
+         93   55 0004AAE0 FWRegisterProduct
+         94   56 00009640 FWResetIndicatedPortInUse
+         95   57 00009510 FWResetIndicatedTupleInUse
+         96   58 0004AC80 FWRestoreDefaults
+         97   59 0004AFA0 FWRestoreGPODefaults
+         98   5A 0004B150 FWRevertTransaction
+         99   5B 0004B2C0 FWSelectConSecRule
+        100   5C 0004B500 FWSetAuthenticationSet
+        101   5D 0004B6D0 FWSetConfig
+        102   5E 0004B810 FWSetConnectionSecurityRule
+        103   5F 0004B9E0 FWSetCryptoSet
+        104   60 0004BB80 FWSetFirewallRule
+        105   61 0004BE00 FWSetGlobalConfig
+        106   62 0004BFA0 FWSetGlobalConfig2
+        107   63 0004C130 FWSetMainModeRule
+        108   64 0004C2A0 FWStatusMessageFromStatusCode
+        109   65 0004C480 FWUnregisterProduct
+        110   66 0004C550 FWVerifyAuthenticationSet
+        111   67 0004C5B0 FWVerifyAuthenticationSetQuery
+        112   68 0004C610 FWVerifyConnectionSecurityRule
+        113   69 0004C670 FWVerifyConnectionSecurityRuleQuery
+        114   6A 0004C6D0 FWVerifyCryptoSet
+        115   6B 0004C730 FWVerifyCryptoSetQuery
+        116   6C 0004C790 FWVerifyFirewallRule
+        117   6D 000043D0 FWVerifyFirewallRuleQuery
+        118   6E 0004C7F0 FWVerifyMainModeRule
+        119   6F 0004C850 FWVerifyMainModeRuleQuery
+        120   70 00026280 FwActivate
+        121   71 00003470 FwAlloc
+        122   72 0004C8B0 FwAllocCheckSize
+        123   73 000286A0 FwAllowedProgramsAdd
+        124   74 00028880 FwAllowedProgramsDelete
+        125   75 000045A0 FwAnalyzeFirewallPolicy
+        126   76 00005270 FwAnalyzeFirewallPolicyOnProfile
+        127   77 000289F0 FwApiHelperFree
+        128   78 00028A70 FwApiHelperInit
+          1   79 0001FDE0 FwBstrToInterfaceTypes
+          2   7A 0001FF10 FwBstrToPorts
+        129   7B 0004C910 FwConvertIPv6SubNetToRange
+        130   7C 0004C930 FwCopyAuthSet
+        131   7D 0004C990 FwCopyMainModeRule
+        132   7E 0004C9F0 FwCopyWFAddressesContents
+        133   7F 00009110 FwEmptyWFAddresses
+        134   80 00009130 FwFree
+        135   81 00009110 FwFreeAddresses
+        136   82 0004CA50 FwFreePorts
+        137   83 0004CA90 FwGetAddressesAsString
+          3   84 00023150 FwGetCurrentProfile
+          4   85 00020210 FwGetVersionField
+        138   86 00028B40 FwIcmpSettingsEnum
+        139   87 00028CD0 FwIcmpSettingsSet
+          5   88 00020870 FwInterfaceTypesToBstr
+        140   89 00002290 FwIsGroupPolicyEnforced
+        141   8A 00024990 FwIsRemoteManagementEnabled
+        142   8B 00028E50 FwLogSettingsSet
+        143   8C 0004CAF0 FwMergeAddresses
+        144   8D 00029090 FwMulticastBroadcastResponsesEnum
+        145   8E 00029210 FwMulticastBroadcastResponsesSet
+        146   8F 00029380 FwNotificationsEnum
+        147   90 00029500 FwNotificationsSet
+        148   91 00029670 FwOpModesEnum
+        149   92 000297F0 FwOpModesSet
+        150   93 00029950 FwPortOpeningsAdd
+        151   94 00029B60 FwPortOpeningsDelete
+        152   95 00029CE0 FwProfileTypeCurrentGet
+        153   96 00029D90 FwProfileTypeGet
+        154   97 00029E40 FwRestoreDefaults
+        155   98 00029ED0 FwServicesEnum
+        156   99 0002A0B0 FwServicesSet
+        157   9A 0004CB10 FwStringToAddresses
+        158   9B 0004CBD0 FwStringToPorts
+          6   9C 00023220 GetDisabledInterfaces
+        159   9D 00004510 IcfAddrChangeNotificationCreate
+        160   9E 00004430 IcfChangeNotificationCreate
+        161   9F 00024B90 IcfChangeNotificationDestroy
+        162   A0 00024C20 IcfConnect
+        163   A1 00008C40 IcfDisconnect
+        164   A2 00024C40 IcfFreeDynamicFwPorts
+        165   A3 00024D10 IcfFreeProfile
+        166   A4 00025030 IcfFreeTickets
+        167   A5 000250D0 IcfGetCurrentProfileType
+        168   A6 00025180 IcfGetDynamicFwPorts
+        169   A7 000254C0 IcfGetOperationalMode
+        170   A8 00025660 IcfGetProfile
+        171   A9 000259C0 IcfGetTickets
+        172   AA 0002AEA0 IcfIsPortAllowed
+        173   AB 00008C40 IcfOpenDynamicFwPortWithoutSocket
+        174   AC 00025CC0 IcfSubNetsGetScope
+        175   AD 000048E0 IsFirewallInCoExistanceMode
+        176   AE 0002AFC0 IsPortOrICMPAllowed
+        177   AF 0004CCB0 NetworkIsolationAddAllowEnterpriseIdRule
+        178   B0 0004CE50 NetworkIsolationCreateAllInterfacesContainer
+        179   B1 00008C90 NetworkIsolationCreateAppContainer
+        180   B2 0004D180 NetworkIsolationCreateAppContainerLoopbackRules
+        181   B3 0004D530 NetworkIsolationCreateContainer
+        182   B4 0004D940 NetworkIsolationCreateInterfaceContainer
+        183   B5 0004DC80 NetworkIsolationDeleteAllInterfacesContainer
+        184   B6 0004DE10 NetworkIsolationDeleteAllowEnterpriseIdRule
+        185   B7 00008EF0 NetworkIsolationDeleteAppContainer
+        186   B8 0004DF20 NetworkIsolationDeleteAppContainerLoopbackRules
+        187   B9 0004E2A0 NetworkIsolationDeleteContainer
+        188   BA 0004E630 NetworkIsolationDeleteInterfaceContainer
+        189   BB 0004E770 NetworkIsolationDeleteUserAppContainers
+        190   BC 00005BD0 NetworkIsolationDiagnoseConnectFailure
+        191   BD 000025C0 NetworkIsolationDiagnoseConnectFailureAndGetInfo
+        192   BE 0004EA00 NetworkIsolationDiagnoseListen
+        193   BF 0004EB80 NetworkIsolationDiagnoseSocketCreation
+        194   C0 0004ECF0 NetworkIsolationEnumAppContainers
+        195   C1 0004EEE0 NetworkIsolationEnumerateAppContainerRules
+          7   C2 00009130 NetworkIsolationFreeAppContainers
+        196   C3 0004EFB0 NetworkIsolationGetAppContainer
+        197   C4 00004640 NetworkIsolationGetAppContainerConfig
+        198   C5 0004F170 NetworkIsolationGetEnterpriseId
+        199   C6 000026F0 NetworkIsolationGetEnterpriseIdAsync
+        200   C7 00001E20 NetworkIsolationGetEnterpriseIdClose
+        201   C8 0004F1F0 NetworkIsolationRegisterForAppContainerChanges
+        202   C9 0004F6B0 NetworkIsolationSetAppContainerConfig
+        203   CA 0004F800 NetworkIsolationSetupAppContainerBinaries
+        204   CB 0004FB90 NetworkIsolationUnregisterForAppContainerChanges
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       34000 .rdata
+        3000 .reloc
+        7000 .rsrc
+       58000 .text

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\bcastdvruserservice.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcastdvruserservice.dll
+
+    00000000 characteristics
+    DC82EC7B time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B080 ServiceMain
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        9000 .pdata
+       60000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       E4000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\APPLETS\IMJPCAC.DLL
+
+File Type: DLL
+
+  Section contains the following exports for main.dll
+
+    00000000 characteristics
+    93816C46 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000091D0 DllCanUnloadNow
+          2    1 00009200 DllGetClassObject
+          3    2 000092D0 DllRegisterServer
+          4    3 000092E0 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        3000 .pdata
+        C000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       53000 .text

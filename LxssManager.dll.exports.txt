@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\lxss\LxssManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for LxssManager.dll
+
+    00000000 characteristics
+    84159519 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00009940 DllCanUnloadNow
+          3    1 000098D0 DllGetClassObject
+          4    2 000099A0 InprocRegister
+          5    3 00009C20 InprocUnregister
+          1    4 0000C050 ServiceMain
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        8000 .pdata
+       31000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       A6000 .text

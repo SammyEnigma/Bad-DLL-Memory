@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\dwmscene.dll
+
+File Type: DLL
+
+  Section contains the following exports for DwmScene.dll
+
+    00000000 characteristics
+    5B90410B time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000F450 CreateDwmSceneRenderer
+
+  Summary
+
+       14000 .data
+        E000 .pdata
+       D4000 .rdata
+        3000 .reloc
+      133000 .text

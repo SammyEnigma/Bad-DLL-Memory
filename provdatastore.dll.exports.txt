@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\provdatastore.dll
+
+File Type: DLL
+
+  Section contains the following exports for provdatastore.dll
+
+    00000000 characteristics
+    C3B6B07E time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00004690 DllCanUnloadNow
+          5    1 000043C0 DllGetActivationFactory
+          6    2 000045A0 DllGetClassObject
+          1    3 00005D90 MvDsGetInfoFromMcc
+          2    4 00006290 MvGetMccFromGeoId
+          3    5 00005F50 ValidateMnc
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

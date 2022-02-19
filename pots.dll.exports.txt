@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\pots.dll
+
+File Type: DLL
+
+  Section contains the following exports for pots.dll
+
+    00000000 characteristics
+    AA38E863 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001240 WdiDiagnosticModuleMain
+          2    1 00001230 WdiGetDiagnosticModuleInterfaceVersion
+          3    2 000012F0 WdiHandleInstance
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        4000 .rsrc
+        4000 .text

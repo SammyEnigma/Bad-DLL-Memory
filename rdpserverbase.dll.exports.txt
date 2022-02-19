@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\rdpserverbase.dll
+
+File Type: DLL
+
+  Section contains the following exports for RDPSERVERBASE.dll
+
+    00000000 characteristics
+    B39B131F time date stamp
+        0.00 version
+           1 ordinal base
+          23 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008180 ?GetEncodingPixelMap@RdpSurface@@QEAAJPEAPEAVPixelMap@@@Z
+          2    1 00077040 ?GetGfxPipeSettingBOOL@@YAJPEAGHPEAH@Z
+          3    2 000770F0 ?GetGfxPipeSettingUINT@@YAJPEAGIPEAI@Z
+          4    3 0006B2E0 ?GetGraphicsSourceContext@RdpSurface@@QEAAJPEAPEAUIRdpGFXSourceUpdateContext@@@Z
+          5    4 00022400 ?GetTileFirst@Tiler@@QEAAJPEBURdpRect@@PEAU2@@Z
+          6    5 000335E0 ?GetTileNext@Tiler@@QEAAJPEAURdpRect@@@Z
+          7    6 00063840 ?Initialize@Tiler@@QEAAJPEBURdpRect@@0@Z
+          8    7 0000B900 ?LogRDPGraphicsError@RDPGraphicsTraceLogging@@YAXU_GUID@@IIJ@Z
+          9    8 00106F40 ?LogRDPGraphicsFirstNonBlackFrame@RDPGraphicsTraceLogging@@YAX_K@Z
+         10    9 00107020 ?LogRDPGraphicsFirstNonBlackFramePostLogon@RDPGraphicsTraceLogging@@YAXI@Z
+         11    A 001077C0 ?LogRDPGraphicsSubsampleAdapter@RDPGraphicsTraceLogging@@YAXPEBGII@Z
+         12    B 001078A0 ?LogRDPGraphicsSubsampleFailure@RDPGraphicsTraceLogging@@YAXJI@Z
+         13    C 00107AB0 ?LogRDPGraphicsVOBRHint@RDPGraphicsTraceLogging@@YAXI_KII@Z
+         14    D 00107BA0 ?RDPGraphicsTraceLogging_Register@RDPGraphicsTraceLogging@@YAJXZ
+         15    E 00107BC0 ?RDPGraphicsTraceLogging_Unregister@RDPGraphicsTraceLogging@@YAXXZ
+         16    F 000C3E10 ?RDPServerStackQOE_Register@@YAJXZ
+         17   10 000C3E50 ?RDPServerStackQOE_Unregister@@YAXXZ
+         18   11 000C77B0 CCompressedUpdateContext_CreateInstance
+         19   12 000C7820 CUpdateContext_CreateInstance
+         20   13 000C7890 CUpdateDataAccumulator_CreateInstance
+         21   14 001068E0 RDPEncryptionTraceLogging_Register
+         22   15 00106900 RDPEncryptionTraceLogging_Unregister
+         23   16 0003E280 RDPSERVERBASE_CreateInstance
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        A000 .pdata
+       87000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      132000 .text

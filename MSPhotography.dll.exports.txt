@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MSPhotography.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSPhotography.dll
+
+    00000000 characteristics
+    8AB9C9F1 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001EC0 DllCanUnloadNow
+          1    1 00001CE0 DllGetActivationFactory
+          3    2 00001F10 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        7000 .pdata
+       23000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      16C000 .text

@@ -1,0 +1,90 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\msdk.inf_amd64_c03be30a746c89a2\libmfxhw64.dll
+
+File Type: DLL
+
+  Section contains the following exports for libmfxhw64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          63 number of functions
+          63 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0023BEB0 MFXCloneSession
+          2    1 00252490 MFXClose
+          3    2 0025F560 MFXDisjoinSession
+          4    3 00252230 MFXDoWork
+          5    4 0025FBD0 MFXGetPriority
+          6    5 00251BB0 MFXInit
+          7    6 00251C60 MFXInitEx
+          8    7 0025EED0 MFXJoinSession
+          9    8 0025EB80 MFXQueryIMPL
+         10    9 0025EBC0 MFXQueryVersion
+         11    A 0025FB40 MFXSetPriority
+         12    B 0023C090 MFXVideoCORE_GetHandle
+         13    C 0023C0E0 MFXVideoCORE_QueryPlatform
+         14    D 0023BFA0 MFXVideoCORE_SetBufferAllocator
+         15    E 0023BFF0 MFXVideoCORE_SetFrameAllocator
+         16    F 0023C040 MFXVideoCORE_SetHandle
+         17   10 00252990 MFXVideoCORE_SyncOperation
+         18   11 002541D0 MFXVideoDECODE_Close
+         19   12 002545A0 MFXVideoDECODE_DecodeFrameAsync
+         20   13 00253A00 MFXVideoDECODE_DecodeHeader
+         21   14 00254F50 MFXVideoDECODE_GetDecodeStat
+         22   15 00254FF0 MFXVideoDECODE_GetPayload
+         23   16 00254F00 MFXVideoDECODE_GetVideoParam
+         24   17 00253DC0 MFXVideoDECODE_Init
+         25   18 00253110 MFXVideoDECODE_Query
+         26   19 00253580 MFXVideoDECODE_QueryIOSurf
+         27   1A 00254E70 MFXVideoDECODE_Reset
+         28   1B 00254FA0 MFXVideoDECODE_SetSkipMode
+         29   1C 00259F80 MFXVideoENCODE_Close
+         30   1D 0025A530 MFXVideoENCODE_EncodeFrameAsync
+         31   1E 0025B3A0 MFXVideoENCODE_GetEncodeStat
+         32   1F 0025B350 MFXVideoENCODE_GetVideoParam
+         33   20 00259A40 MFXVideoENCODE_Init
+         34   21 00258D40 MFXVideoENCODE_Query
+         35   22 00259500 MFXVideoENCODE_QueryIOSurf
+         36   23 0025B2C0 MFXVideoENCODE_Reset
+         37   24 002552F0 MFXVideoENC_Close
+         38   25 00255940 MFXVideoENC_GetVideoParam
+         39   26 00255290 MFXVideoENC_Init
+         40   27 002553E0 MFXVideoENC_ProcessFrameAsync
+         41   28 00255040 MFXVideoENC_Query
+         42   29 00255160 MFXVideoENC_QueryIOSurf
+         43   2A 002558B0 MFXVideoENC_Reset
+         44   2B 0025DBE0 MFXVideoPAK_Close
+         45   2C 0025E150 MFXVideoPAK_GetVideoParam
+         46   2D 0025DAC0 MFXVideoPAK_Init
+         47   2E 0025DC90 MFXVideoPAK_ProcessFrameAsync
+         48   2F 0025D990 MFXVideoPAK_Query
+         49   30 0025D9F0 MFXVideoPAK_QueryIOSurf
+         50   31 0025E0C0 MFXVideoPAK_Reset
+         51   32 0025E750 MFXVideoUSER_GetPlugin
+         52   33 0025E980 MFXVideoUSER_ProcessFrameAsync
+         53   34 0025E350 MFXVideoUSER_Register
+         54   35 0025E7F0 MFXVideoUSER_Unregister
+         55   36 00260970 MFXVideoVPP_Close
+         56   37 00262620 MFXVideoVPP_GetVPPStat
+         57   38 002625D0 MFXVideoVPP_GetVideoParam
+         58   39 00260510 MFXVideoVPP_Init
+         59   3A 0025FD10 MFXVideoVPP_Query
+         60   3B 00260150 MFXVideoVPP_QueryIOSurf
+         61   3C 00262540 MFXVideoVPP_Reset
+         62   3D 00260F10 MFXVideoVPP_RunFrameVPPAsync
+         63   3E 00261E10 MFXVideoVPP_RunFrameVPPAsyncEx
+
+  Summary
+
+       27000 .data
+       2E000 .pdata
+      C0D000 .rdata
+        5000 .reloc
+        1000 .rsrc
+      65B000 .text
+       F0000 IPPCODE
+        4000 IPPDATA

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\SRSWOW64.dll
+
+File Type: DLL
+
+  Section contains the following exports for COM_SRS_WOWHD2_64.dll
+
+    00000000 characteristics
+    46A77B76 time date stamp Wed Jul 25 18:33:58 2007
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000015B0 DllCanUnloadNow
+          2    1 000043B0 DllGetClassObject
+          3    2 00005090 DllRegisterServer
+          4    3 00005140 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       18000 .text

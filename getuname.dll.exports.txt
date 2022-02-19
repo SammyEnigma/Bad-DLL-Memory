@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\getuname.dll
+
+File Type: DLL
+
+  Section contains the following exports for GetUName.dll
+
+    00000000 characteristics
+    8061E5D3 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011A0 GetUName
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

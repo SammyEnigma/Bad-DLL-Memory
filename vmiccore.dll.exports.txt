@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmiccore.dll
+
+File Type: DLL
+
+  Section contains the following exports for ICVdevDevice.dll
+
+    00000000 characteristics
+    14F883E8 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000066C0 DllCanUnloadNow
+          2    1 000066F0 DllGetClassObject
+          3    2 00006710 DllRegisterServer
+          4    3 00006720 DllUnregisterServer
+
+  Summary
+
+        C000 .data
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       2A000 .text

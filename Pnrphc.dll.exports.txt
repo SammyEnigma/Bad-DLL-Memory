@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Pnrphc.dll
+
+File Type: DLL
+
+  Section contains the following exports for PnrpHC.DLL
+
+    00000000 characteristics
+    AF974487 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008220 DllCanUnloadNow
+          2    1 00008260 DllGetClassObject
+          3    2 000083A0 DllRegisterServer
+          4    3 000084D0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

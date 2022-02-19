@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\winmde.dll
+
+File Type: DLL
+
+  Section contains the following exports for winmde.dll
+
+    00000000 characteristics
+    DB7A63AF time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028500 DllCanUnloadNow
+          2    1 00028540 DllGetClassObject
+          3    2 0000B830 DllRegisterServer
+          4    3 0000B830 DllUnregisterServer
+          5    4 0002DE50 MFCreateNetVRoot
+          6    5 0000F420 MFCreateWMPMDEOpCenter
+          7    6 000285F0 MFCreateWinMDEOpCenter
+
+  Summary
+
+        E000 .data
+        1000 .didat
+        A000 .pdata
+       38000 .rdata
+        5000 .reloc
+        2000 .rsrc
+      157000 .text

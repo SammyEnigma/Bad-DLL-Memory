@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MFCaptureEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for MFCaptureEngine.DLL
+
+    00000000 characteristics
+    B5219651 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008C80 DllCanUnloadNow
+          2    1 00008CF0 DllGetClassObject
+          3    2 00005770 MFCreateCaptureEngine
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       15000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       81000 .text

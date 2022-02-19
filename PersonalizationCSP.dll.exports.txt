@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\PersonalizationCSP.dll
+
+File Type: DLL
+
+  Section contains the following exports for PersonalizationCSP.dll
+
+    00000000 characteristics
+    B13E617E time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004AF0 DllCanUnloadNow
+          2    1 00004B10 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

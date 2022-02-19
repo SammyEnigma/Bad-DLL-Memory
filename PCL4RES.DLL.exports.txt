@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\PCL4RES.DLL
+
+File Type: DLL
+
+  Summary
+
+       47000 .rsrc

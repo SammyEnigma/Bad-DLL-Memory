@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\prflbmsg.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        4000 .rsrc

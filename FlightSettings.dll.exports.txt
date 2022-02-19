@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\FlightSettings.dll
+
+File Type: DLL
+
+  Section contains the following exports for flightsettings.dll
+
+    00000000 characteristics
+     BCB8D3B time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00005870 DllCanUnloadNow
+          1    1 000058D0 DllGetActivationFactory
+          5    2 00005660 DllGetClassObject
+          2    3 00006940 ServiceMain
+          3    4 000066E0 SvchostPushServiceGlobals
+
+  Summary
+
+        A000 .data
+        1000 .didat
+        5000 .pdata
+       44000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       8E000 .text

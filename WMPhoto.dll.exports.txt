@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WMPhoto.dll
+
+File Type: DLL
+
+  Section contains the following exports for wmphoto.dll
+
+    00000000 characteristics
+    AD116D9D time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001100 DllCanUnloadNow
+          2    1 00005D50 DllGetClassObject
+          3    2 000112A0 DllMain
+          4    3 0001D0C0 DllRegisterServer
+          5    4 0000F610 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+       13000 .rsrc
+       3D000 .text

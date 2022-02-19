@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\certmgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for CertMgr.DLL
+
+    00000000 characteristics
+     72C3E9C time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E890 DllCanUnloadNow
+          2    1 0000E930 DllGetClassObject
+          3    2 0000E980 DllInstall
+          4    3 0000E970 DllRegisterServer
+          5    4 0000E970 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        8000 .pdata
+       33000 .rdata
+        3000 .reloc
+      12A000 .rsrc
+       B8000 .text

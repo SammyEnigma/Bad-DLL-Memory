@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\comdlg32.dll
+
+File Type: DLL
+
+  Section contains the following exports for COMDLG32.dll
+
+    00000000 characteristics
+    26A1DDA9 time date stamp
+        0.00 version
+         100 ordinal base
+          30 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+        102    0 000465B0 ChooseColorA
+        103    1 000467A0 ChooseColorW
+        104    2 00056E50 ChooseFontA
+        105    3 00057120 ChooseFontW
+        106    4 0004B150 CommDlgExtendedError
+        107    5 00033500 DllCanUnloadNow
+        108    6 00030940 DllGetClassObject
+        109    7 00055D90 FindTextA
+        110    8 00055DA0 FindTextW
+        111    9 0004FC80 GetFileTitleA
+        112    A 00004720 GetFileTitleW
+        113    B 000500B0 GetOpenFileNameA
+        114    C 000500F0 GetOpenFileNameW
+        115    D 000501D0 GetSaveFileNameA
+        116    E 000501F0 GetSaveFileNameW
+        117    F 0004B460 LoadAlterBitmap
+        118   10 0005C6C0 PageSetupDlgA
+        119   11 0005C830 PageSetupDlgW
+        120   12 0005D390 PrintDlgA
+        121   13 00085D30 PrintDlgExA
+        122   14 00085E20 PrintDlgExW
+        123   15 00026010 PrintDlgW
+        124   16 00056480 ReplaceTextA
+        125   17 000564A0 ReplaceTextW
+        126   18 0004B630 Ssync_ANSI_UNICODE_Struct_For_WOW
+        127   19 00048D70 WantArrows
+        128   1A 00055540 dwLBSubclass
+        129   1B 00055620 dwOKSubclass
+        100      00058E60 [NONAME]
+        101      0007E680 [NONAME]
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        9000 .pdata
+       20000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       A7000 .text

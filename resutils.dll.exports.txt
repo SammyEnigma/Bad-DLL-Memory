@@ -1,0 +1,171 @@
+
+Dump of file C:\Windows\System32\resutils.dll
+
+File Type: DLL
+
+  Section contains the following exports for RESUTILS.dll
+
+    00000000 characteristics
+    7A7EBA57 time date stamp
+        0.00 version
+           1 ordinal base
+         145 number of functions
+         145 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00010C60 CloseClusterCryptProvider
+          3    1 00007650 ClusAddClusterHealthFault
+          4    2 000088C0 ClusGetClusterHealthFaults
+          5    3 00007FA0 ClusRemoveClusterHealthFault
+          6    4 00008BE0 ClusWorkerCheckTerminate
+          7    5 00008A50 ClusWorkerCreate
+          1    6 00008970 ClusWorkerStart
+          8    7 00008DA0 ClusWorkerTerminate
+          9    8 00008EA0 ClusWorkerTerminateEx
+         10    9 00008EB0 ClusWorkersTerminate
+         11    A 00004490 ClusterClearBackupStateForSharedVolume
+         12    B 00010E00 ClusterDecrypt
+         13    C 00010C90 ClusterEncrypt
+         14    D 0002ED10 ClusterEnumTasks
+         15    E 000296E0 ClusterFileShareCreate
+         16    F 0002B810 ClusterFileShareDelete
+         17   10 0002B220 ClusterFileShareUpdate
+         18   11 0002F920 ClusterFreeTaskInfo
+         19   12 0002F8D0 ClusterFreeTaskList
+         20   13 0002EBD0 ClusterGetTaskNode
+         21   14 00004340 ClusterGetVolumeNameForVolumeMountPoint
+         22   15 00004320 ClusterGetVolumePathName
+         23   16 0002BCF0 ClusterIsClusterDisk
+         24   17 00004310 ClusterIsPathOnSharedVolume
+         25   18 00004460 ClusterPrepareSharedVolumeForBackup
+         26   19 0000F2A0 ClusterSharedVolumeCheckSnapshotPresence
+         27   1A 0000EFA0 ClusterSharedVolumeCreateSnapshot
+         28   1B 0000F250 ClusterSharedVolumeReleaseSnapshot
+         29   1C 0002D880 ClusterTaskChangeFromXML
+         30   1D 0002D700 ClusterTaskChangeFromXMLFile
+         31   1E 00030690 ClusterTaskChange_TS_V1
+         32   1F 0002CEB0 ClusterTaskCreateFromXML
+         33   20 0002CD10 ClusterTaskCreateFromXMLFile
+         34   21 0002FDE0 ClusterTaskCreate_TS_V1
+         35   22 0002DCF0 ClusterTaskDelete
+         36   23 00030B60 ClusterTaskDelete_TS_V1
+         37   24 00030F00 ClusterTaskExists_TS_V1
+         38   25 0002F9F0 ClusterTaskQuery
+         39   26 00033C90 CreateClusterStorageSpacesClustering
+         40   27 00033A60 CreateClusterStorageSpacesResourceLocator
+         41   28 00033BF0 CreateClusterStorageSpacesSubProvider
+         42   29 00010FE0 FreeClusterCrypt
+         43   2A 00005D90 FreeClusterHealthFault
+         44   2B 00005E00 FreeClusterHealthFaultArray
+         45   2C 00005D40 InitializeClusterHealthFault
+         46   2D 00005D70 InitializeClusterHealthFaultArray
+         47   2E 00010930 OpenClusterCryptProvider
+         48   2F 00010AA0 OpenClusterCryptProviderEx
+         49   30 00001FB0 ResUtilAddUnknownProperties
+         50   31 00009350 ResUtilCreateDirectoryTree
+         51   32 0000AE80 ResUtilDupGroup
+         52   33 000028E0 ResUtilDupParameterBlock
+         53   34 0000AF80 ResUtilDupResource
+         54   35 00004CD0 ResUtilDupString
+         55   36 0000AD50 ResUtilEnumGroups
+         56   37 0000AE50 ResUtilEnumGroupsEx
+         57   38 00001780 ResUtilEnumPrivateProperties
+         58   39 000015D0 ResUtilEnumProperties
+         59   3A 00002FD0 ResUtilEnumResources
+         60   3B 00003530 ResUtilEnumResourcesEx
+         61   3C 000032D0 ResUtilEnumResourcesEx2
+         62   3D 00009470 ResUtilExpandEnvironmentStrings
+         63   3E 00002600 ResUtilFindBinaryProperty
+         64   3F 0000A140 ResUtilFindDependentDiskResourceDriveLetter
+         65   40 00002160 ResUtilFindDwordProperty
+         66   41 00002120 ResUtilFindExpandSzProperty
+         67   42 00002140 ResUtilFindExpandedSzProperty
+         68   43 000024D0 ResUtilFindFileTimeProperty
+         69   44 00002280 ResUtilFindLongProperty
+         70   45 00002760 ResUtilFindMultiSzProperty
+         71   46 00002120 ResUtilFindSzProperty
+         72   47 000023A0 ResUtilFindULargeIntegerProperty
+         73   48 00009440 ResUtilFreeEnvironment
+         74   49 000028F0 ResUtilFreeParameterBlock
+         75   4A 00001830 ResUtilGetAllProperties
+         76   4B 00005550 ResUtilGetBinaryProperty
+         77   4C 00004CE0 ResUtilGetBinaryValue
+         78   4D 0000AD90 ResUtilGetClusterGroupType
+         79   4E 0000B180 ResUtilGetClusterId
+         80   4F 00003F30 ResUtilGetClusterRoleState
+         81   50 0000AA30 ResUtilGetCoreClusterResources
+         82   51 0000AA10 ResUtilGetCoreClusterResourcesEx
+         83   52 0000B080 ResUtilGetCoreGroup
+         84   53 000056E0 ResUtilGetDwordProperty
+         85   54 00004EC0 ResUtilGetDwordValue
+         86   55 00005BD0 ResUtilGetEnvironmentWithNetName
+         87   56 000057A0 ResUtilGetFileTimeProperty
+         88   57 00005740 ResUtilGetLongProperty
+         89   58 00005610 ResUtilGetMultiSzProperty
+         90   59 00001A30 ResUtilGetPrivateProperties
+         91   5A 000017B0 ResUtilGetProperties
+         92   5B 000019E0 ResUtilGetPropertiesToParameterBlock
+         93   5C 00001A80 ResUtilGetProperty
+         94   5D 00003C30 ResUtilGetPropertyFormats
+         95   5E 00001A60 ResUtilGetPropertySize
+         96   5F 00004F40 ResUtilGetQwordValue
+         97   60 00003AA0 ResUtilGetResourceDependency
+         98   61 00003AF0 ResUtilGetResourceDependencyByClass
+         99   62 00003AC0 ResUtilGetResourceDependencyByClassEx
+        100   63 000039E0 ResUtilGetResourceDependencyByName
+        101   64 00003560 ResUtilGetResourceDependencyByNameAndClass
+        102   65 000039B0 ResUtilGetResourceDependencyByNameEx
+        103   66 00003A10 ResUtilGetResourceDependencyEx
+        104   67 00009AB0 ResUtilGetResourceDependentIPAddressProps
+        105   68 0000AA50 ResUtilGetResourceName
+        106   69 00003C10 ResUtilGetResourceNameDependency
+        107   6A 00003B20 ResUtilGetResourceNameDependencyEx
+        108   6B 00005600 ResUtilGetSzProperty
+        109   6C 00004DC0 ResUtilGetSzValue
+        110   6D 00003DC0 ResUtilGroupsEqual
+        111   6E 00009360 ResUtilIsPathValid
+        112   6F 00002C30 ResUtilIsResourceClassEqual
+        113   70 0000ABD0 ResUtilLeftPaxosIsLessThanRight
+        114   71 0000B2A0 ResUtilNodeEnum
+        115   72 0000AB90 ResUtilPaxosComparer
+        116   73 00001A20 ResUtilPropertyListFromParameterBlock
+        117   74 00009690 ResUtilRemoveResourceServiceEnvironment
+        118   75 0000AD70 ResUtilResourceDepEnum
+        119   76 00002900 ResUtilResourceTypesEqual
+        120   77 00002A30 ResUtilResourcesEqual
+        121   78 00004FC0 ResUtilSetBinaryValue
+        122   79 000054B0 ResUtilSetDwordValue
+        123   7A 000052A0 ResUtilSetExpandSzValue
+        124   7B 000053C0 ResUtilSetMultiSzValue
+        125   7C 00001F10 ResUtilSetPrivatePropertyList
+        126   7D 00001CB0 ResUtilSetPropertyParameterBlock
+        127   7E 00001D70 ResUtilSetPropertyParameterBlockEx
+        128   7F 00001AF0 ResUtilSetPropertyTable
+        129   80 00001BD0 ResUtilSetPropertyTableEx
+        130   81 00005500 ResUtilSetQwordValue
+        131   82 00009480 ResUtilSetResourceServiceEnvironment
+        132   83 00009A80 ResUtilSetResourceServiceStartParameters
+        133   84 000097C0 ResUtilSetResourceServiceStartParametersEx
+        134   85 00005160 ResUtilSetSzValue
+        135   86 00001E40 ResUtilSetUnknownProperties
+        136   87 000050B0 ResUtilSetValueEx
+        137   88 000044D0 ResUtilStartResourceService
+        138   89 00004620 ResUtilStopResourceService
+        139   8A 00004830 ResUtilStopService
+        140   8B 00004980 ResUtilTerminateServiceProcessFromResDll
+        141   8C 00001EE0 ResUtilVerifyPrivatePropertyList
+        142   8D 00001AA0 ResUtilVerifyPropertyTable
+        143   8E 00004760 ResUtilVerifyResourceService
+        144   8F 00004910 ResUtilVerifyService
+        145   90 0000AC20 ResUtilsDeleteKeyTree
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        5000 .pdata
+       26000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       67000 .text

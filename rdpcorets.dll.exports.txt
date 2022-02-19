@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\rdpcorets.dll
+
+File Type: DLL
+
+  Section contains the following exports for rdpcorets.DLL
+
+    00000000 characteristics
+    E20E6069 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00059740 DllCanUnloadNow
+          2    1 00017DF0 DllGetClassObject
+          3    2 00059760 DllRegisterServer
+          4    3 000597D0 DllUnregisterServer
+          5    4 00006340 RFX_CreateGFXService
+          6    5 0004E1C0 RFX_CreatePluginFactory
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        9000 .pdata
+       3E000 .rdata
+        2000 .reloc
+       10000 .rsrc
+      132000 .text

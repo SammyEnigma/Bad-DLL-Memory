@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\appsruprov.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppSruProv.dll
+
+    00000000 characteristics
+    ECE2ABFA time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00003030 DllMain
+          1    1 0000C3E0 LogMemoryPerfCounters
+          3    2 0000E2E0 LogMemoryPerfCountersPeriodically
+          4    3 00021180 PsmQueryApplicationPerformanceInformation
+          5    4 000211A0 PsmQueryApplicationPerformanceInformation2
+          6    5 00021280 PsmQueryQuotaInformation
+          7    6 00005D40 SruInitializeProvider
+          8    7 00006230 SruUninitializeProvider
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       24000 .text

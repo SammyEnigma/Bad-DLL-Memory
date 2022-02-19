@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\sppobjs.dll
+
+File Type: DLL
+
+  Section contains the following exports for sppobjs.dll
+
+    00000000 characteristics
+    61FB747D time date stamp Thu Feb  3 07:21:49 2022
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0008FAA0 SppPluginCanUnloadNow
+          2    1 0008FAD0 SppPluginCreateInstance
+          3    2 0008FB00 SppPluginInitialize
+          4    3 0008FB30 SppPluginShutdown
+          5    4 0018CF80 SppPluginVersion
+
+  Summary
+
+        9000 .data
+        B000 .pdata
+       2D000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      166000 .text

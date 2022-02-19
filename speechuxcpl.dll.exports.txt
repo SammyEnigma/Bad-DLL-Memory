@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Speech\SpeechUX\speechuxcpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for SPEECHUXCPL.dll
+
+    00000000 characteristics
+    69AB4B43 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001EA0 DllCanUnloadNow
+          2    1 00002070 DllGetClassObject
+          3    2 00001EC0 DllRegisterServer
+          4    3 00001EF0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+       55000 .rsrc
+       12000 .text

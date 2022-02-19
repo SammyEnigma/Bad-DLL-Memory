@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\mfc140jpn.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        A000 .rsrc

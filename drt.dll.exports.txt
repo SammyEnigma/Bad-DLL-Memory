@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\drt.dll
+
+File Type: DLL
+
+  Section contains the following exports for drt.dll
+
+    00000000 characteristics
+    24465597 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          6    0 000014E0 DrtClose
+          7    1 000018C0 DrtContinueSearch
+          8    2 00001930 DrtEndSearch
+          1    3 00001D10 DrtFlushCache
+          2    4 00001F20 DrtGetCacheStatsEx
+          9    5 000019B0 DrtGetEventData
+         10    6 000019A0 DrtGetEventDataSize
+         11    7 000019D0 DrtGetInstanceName
+         12    8 00001AB0 DrtGetInstanceNameSize
+         13    9 00001870 DrtGetSearchPath
+         14    A 00001860 DrtGetSearchPathSize
+         15    B 000018A0 DrtGetSearchResult
+         16    C 00001890 DrtGetSearchResultSize
+          3    D 00002060 DrtHandlePowerEvent
+         17    E 000014C0 DrtOpen
+          4    F 00001BA0 DrtPingPeer
+         18   10 00001600 DrtRegisterKey
+          5   11 00001E10 DrtStartPartitionDetection
+         19   12 00001820 DrtStartSearch
+         20   13 000017B0 DrtUnregisterKey
+         21   14 00001610 DrtUpdateKey
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3D000 .text

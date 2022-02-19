@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\SEMgrSvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for SEMgrSvc.dll
+
+    00000000 characteristics
+    F6A1A601 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000D000 DllCanUnloadNow
+          3    1 0000CFF0 DllGetClassObject
+          4    2 0000CE00 LaunchModernNfcEventSession
+          5    3 0000CB30 ServiceMain
+          1    4 0000CAC0 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        7000 .pdata
+       8B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       97000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\appmgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for SNAPIN.DLL
+
+    00000000 characteristics
+    A275422F time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002D710 DllCanUnloadNow
+          2    1 0002D780 DllGetClassObject
+          3    2 0002CE90 GenerateScript
+
+  Summary
+
+        5000 .data
+        3000 .pdata
+       1F000 .rdata
+        2000 .reloc
+       14000 .rsrc
+       3C000 .text

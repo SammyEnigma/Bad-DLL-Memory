@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\NetworkMobileSettings.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetworkMobileSettings.dll
+
+    00000000 characteristics
+    A4AA215F time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011E20 GetSetting
+          2    1 00012090 GetSettingForUser
+
+  Summary
+
+       14000 .data
+        1000 .didat
+       12000 .pdata
+       D0000 .rdata
+        8000 .reloc
+        2000 .rsrc
+      203000 .text

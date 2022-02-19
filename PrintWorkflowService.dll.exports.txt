@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\PrintWorkflowService.dll
+
+File Type: DLL
+
+  Section contains the following exports for PrintWorkflowService.dll
+
+    00000000 characteristics
+    57F93443 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000056B0 DllCanUnloadNow
+          2    1 000053E0 DllGetActivationFactory
+          3    2 000055C0 DllGetClassObject
+          4    3 00005A30 ServiceMain
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1C000 .text

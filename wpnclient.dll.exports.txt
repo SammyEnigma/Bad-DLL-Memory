@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wpnclient.dll
+
+File Type: DLL
+
+  Section contains the following exports for WpnClient.dll
+
+    00000000 characteristics
+    D3F7E8CD time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001CC0 DllCanUnloadNow
+          2    1 00001D20 DllGetActivationFactory
+          3    2 0001B4B0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       13000 .rdata
+        1000 .reloc
+       19000 .rsrc
+       2B000 .text

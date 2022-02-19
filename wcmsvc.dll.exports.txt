@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wcmsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for Wcmsvc.dll
+
+    00000000 characteristics
+    6DE3B7D5 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0004FF60 CdeGetProfileList
+          2    1 00002830 CdeQueryParameter
+          3    2 00053740 CdeSetParameter
+          4    3 00045630 SvchostPushServiceGlobals
+          5    4 00045640 WcmSvcMain
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        A000 .pdata
+       2F000 .rdata
+        2000 .reloc
+        6000 .rsrc
+       B3000 .text

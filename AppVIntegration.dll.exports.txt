@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\AppVIntegration.dll
+
+File Type: DLL
+
+  Section contains the following exports for APPVINTEGRATION.dll
+
+    00000000 characteristics
+    2429396E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00007060 Deinitialize
+          4    1 000071A0 GetComponent
+          1    2 00006E70 Initialize
+          2    3 00006F60 InitializeISV
+
+  Summary
+
+       10000 .data
+        9000 .pdata
+       67000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       DC000 .text

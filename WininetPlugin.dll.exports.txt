@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\migration\WininetPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for WININETPLUGIN.dll
+
+    00000000 characteristics
+    221D666A time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013D0 DllCanUnloadNow
+          2    1 000013D0 DllGetClassObject
+          3    2 000011F0 DllMain
+          4    3 000013D0 DllRegisterServer
+          5    4 000013D0 DllUnregisterServer
+          6    5 00001E80 EnumerateCacheEntriesFromIndexDatFile
+          7    6 00001A30 EnumerateNewCacheForCurrentUser
+          8    7 00001D20 EnumerateOldCacheForCurrentUser
+          9    8 000017F0 MigrateCacheForCurrentUser
+         10    9 00001500 MigrateCacheForUser
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text
+        1000 .wpp_sf

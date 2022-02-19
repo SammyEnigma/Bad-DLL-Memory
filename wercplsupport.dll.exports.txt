@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wercplsupport.dll
+
+File Type: DLL
+
+  Section contains the following exports for wercplsupport.dll
+
+    00000000 characteristics
+    C8210BB9 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00004230 DllCanUnloadNow
+          5    1 00004010 DllGetClassObject
+          1    2 00003F20 ServiceMain
+          2    3 00004000 SvchostPushServiceGlobals
+          3    4 00008970 WerComGetAdminStores
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       17000 .text

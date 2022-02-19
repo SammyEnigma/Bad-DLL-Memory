@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\jscript.dll
+
+File Type: DLL
+
+  Section contains the following exports for JSCRIPT.dll
+
+    00000000 characteristics
+    FAC42E32 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000146B0 DllCanUnloadNow
+          2    1 00015450 DllGetClassObject
+          3    2 00078E70 DllRegisterServer
+          4    3 00078F50 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        8000 .pdata
+       21000 .rdata
+        3000 .reloc
+        8000 .rsrc
+       9C000 .text

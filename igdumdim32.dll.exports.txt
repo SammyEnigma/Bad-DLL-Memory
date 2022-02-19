@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdumdim32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdumdim32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B020 OpenAdapter
+
+  Summary
+
+       2E000 .data
+       30000 .rdata
+        A000 .reloc
+        1000 .rsrc
+       D1000 .text

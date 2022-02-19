@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\umdmxfrm.dll
+
+File Type: DLL
+
+  Section contains the following exports for umdmxfrm.dll
+
+    00000000 characteristics
+    3474D9E7 time date stamp
+        0.00 version
+           2 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002A40 GetXformInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\APPLETS\imjpskey.DLL
+
+File Type: DLL
+
+  Section contains the following exports for main.dll
+
+    00000000 characteristics
+    6BCB2C21 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005630 DllCanUnloadNow
+          2    1 00005650 DllGetClassObject
+          3    2 00005710 DllRegisterServer
+          4    3 000058A0 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       14000 .text

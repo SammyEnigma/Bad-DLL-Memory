@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\input.dll
+
+File Type: DLL
+
+  Section contains the following exports for Input.dll
+
+    00000000 characteristics
+    89E384FE time date stamp
+        0.00 version
+         100 ordinal base
+         104 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+        119    0 00019050 ActivateInputProfile
+        100    1 00020450 CPlApplet
+        110    2 0001B8E0 EnumEnabledLayoutOrTip
+        118    3 0001BEE0 EnumEnabledLayoutOrTipPrivate
+        108    4 0001B800 EnumLayoutOrTipForSetup
+        113    5 0001BEF0 GetDefaultLayout
+        114    6 0001C350 GetLayoutDescription
+        203    7 00022820 InputDll_DownlevelEnumLayoutOrTipForSetup
+        200    8 00022550 InputDll_DownlevelInitialize
+        201    9 00022670 InputDll_DownlevelSetUILanguage
+        202    A 00022760 InputDll_DownlevelUninitialize
+        104    B 00018BE0 InstallLayoutOrTip
+        120    C 00018EB0 InstallLayoutOrTipOffline
+        117    D 00018F20 InstallLayoutOrTipPrivate
+        109    E 00018D30 InstallLayoutOrTipUserReg
+        111    F 00019B50 QueryLayoutOrTipString
+        112   10 00019B80 QueryLayoutOrTipStringUserReg
+        105   11 0001ACB0 SaveDefaultUserInputSettings
+        106   12 0001AF40 SaveSystemAcctInputSettings
+        107   13 00019060 SetDefaultLayoutOrTip
+        102      00017560 [NONAME]
+        103      00017EE0 [NONAME]
+        115      0001C6B0 [NONAME]
+        116      0001C990 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       14000 .rdata
+        1000 .reloc
+       17000 .rsrc
+       2E000 .text

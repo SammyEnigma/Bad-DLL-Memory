@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WpcApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WpcApi.dll
+
+    00000000 characteristics
+    1AA29A3A time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006F90 DllCanUnloadNow
+          2    1 00006D40 DllGetActivationFactory
+          3    2 00006EC0 DllGetClassObject
+          4    3 00007140 DllRegisterServer
+          5    4 00007170 DllUnregisterServer
+          6    5 0000C1C0 WpcSetupNotifyHomeSharedAccountChanged
+
+  Summary
+
+        9000 .data
+        3000 .pdata
+       1A000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2D000 .text

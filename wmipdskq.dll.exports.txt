@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\wmipdskq.dll
+
+File Type: DLL
+
+  Section contains the following exports for diskquotaprovider.DLL
+
+    00000000 characteristics
+    FBA49EE2 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001640 DllCanUnloadNow
+          2    1 000015E0 DllGetClassObject
+          3    2 00001670 DllRegisterServer
+          4    3 000016A0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

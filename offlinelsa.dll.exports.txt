@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\offlinelsa.dll
+
+File Type: DLL
+
+  Section contains the following exports for offlinelsa.dll
+
+    00000000 characteristics
+    8FD74D29 time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000095B0 LsaOfflineAddAccountRights
+          2    1 00009320 LsaOfflineAddPrivilegesToAccount
+          3    2 000099B0 LsaOfflineClose
+          4    3 000090B0 LsaOfflineCreateAccount
+          5    4 00009B20 LsaOfflineDelete
+          6    5 00009490 LsaOfflineEnumerateAccountRights
+          7    6 00008FC0 LsaOfflineEnumerateAccounts
+          8    7 00009270 LsaOfflineEnumeratePrivilegesOfAccount
+          9    8 00009BC0 LsaOfflineFreeMemory
+         10    9 00009860 LsaOfflineGetSystemAccessAccount
+         11    A 00009190 LsaOfflineOpenAccount
+         12    B 00008BA0 LsaOfflineOpenPolicy
+         13    C 00008D90 LsaOfflineOpenPolicyExternal
+         14    D 00008CB0 LsaOfflineOpenPolicyForInstaller
+         15    E 00008EF0 LsaOfflineQueryInformationPolicy
+         16    F 00009710 LsaOfflineRemoveAccountRights
+         17   10 000093D0 LsaOfflineRemovePrivilegesFromAccount
+         18   11 00009910 LsaOfflineSetSystemAccessAccount
+         19   12 00009BF0 LsaOfflineSyskeyRequest
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\prnge001.inf_amd64_1daeee8f3aa30fcb\Amd64\TTYUI.DLL
+
+File Type: DLL
+
+  Section contains the following exports for TTYUI.dll
+
+    00000000 characteristics
+    98B74BCF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000035A0 DllCanUnloadNow
+          2    1 000035D0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+       14000 .rsrc
+        4000 .text

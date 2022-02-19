@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\fontext.dll
+
+File Type: DLL
+
+  Section contains the following exports for fontext.DLL
+
+    00000000 characteristics
+    46263573 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00018200 DllCanUnloadNow
+          4    1 00018040 DllGetClassObject
+          1    2 000278F0 DownloadAndInstallOptionalFontsAsync
+          2    3 0001E1C0 InstallFontFile
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       13000 .rdata
+        1000 .reloc
+       A5000 .rsrc
+       37000 .text

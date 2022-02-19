@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\smartscreenps.dll
+
+File Type: DLL
+
+  Section contains the following exports for smartscreenps.dll
+
+    00000000 characteristics
+    49B693FF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000063E0 DllCanUnloadNow
+          2    1 000053F0 DllGetActivationFactory
+          3    2 000063A0 DllGetClassObject
+          4    3 00006450 DllRegisterServer
+          5    4 00006480 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       17000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       30000 .text

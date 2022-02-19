@@ -1,0 +1,121 @@
+
+Dump of file C:\Windows\System32\msdrm.dll
+
+File Type: DLL
+
+  Section contains the following exports for msdrm.dll
+
+    00000000 characteristics
+    9618FEDF time date stamp
+        0.00 version
+           1 ordinal base
+          95 number of functions
+          95 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00019390 DRMAcquireAdvisories
+          2    1 0001AFE0 DRMAcquireIssuanceLicenseTemplate
+          3    2 000184E0 DRMAcquireLicense
+          4    3 00017B80 DRMActivate
+          5    4 00018BF0 DRMAddLicense
+          6    5 00002150 DRMAddRightWithUser
+          7    6 00015F40 DRMAttest
+          8    7 0004E1A0 DRMCheckSecurity
+          9    8 00002270 DRMClearAllRights
+         10    9 00016C20 DRMCloseEnvironmentHandle
+         11    A 0004E210 DRMCloseHandle
+         12    B 00003980 DRMClosePubHandle
+         13    C 0001CAA0 DRMCloseQueryHandle
+         14    D 00019140 DRMCloseSession
+         15    E 00038F30 DRMConstructCertificateChain
+         16    F 0004E2F0 DRMCreateBoundLicense
+         17   10 00017300 DRMCreateClientSession
+         18   11 0004E660 DRMCreateEnablingBitsDecryptor
+         19   12 0004E8E0 DRMCreateEnablingBitsEncryptor
+         20   13 0004EB60 DRMCreateEnablingPrincipal
+         21   14 000017F0 DRMCreateIssuanceLicense
+         22   15 00017F40 DRMCreateLicenseStorageSession
+         23   16 00001F20 DRMCreateRight
+         24   17 00001CD0 DRMCreateUser
+         25   18 000192F0 DRMDecode
+         26   19 00038FE0 DRMDeconstructCertificateChain
+         27   1A 0004ED30 DRMDecrypt
+         28   1B 00018DC0 DRMDeleteLicense
+         29   1C 0004EEC0 DRMDuplicateEnvironmentHandle
+         30   1D 0004EE20 DRMDuplicateHandle
+         31   1E 000039C0 DRMDuplicatePubHandle
+         32   1F 00019190 DRMDuplicateSession
+         33   20 000191F0 DRMEncode
+         34   21 0004EF60 DRMEncrypt
+         35   22 00019A60 DRMEnumerateLicense
+         36   23 00004410 DRMGetApplicationSpecificData
+         37   24 0004F100 DRMGetBoundLicenseAttribute
+         38   25 0004F050 DRMGetBoundLicenseAttributeCount
+         39   26 0004F310 DRMGetBoundLicenseObject
+         40   27 0004F260 DRMGetBoundLicenseObjectCount
+         41   28 00039180 DRMGetCertificateChainCount
+         42   29 0001A8E0 DRMGetClientVersion
+         43   2A 0004F410 DRMGetEnvironmentInfo
+         44   2B 0004F440 DRMGetInfo
+         45   2C 00004CB0 DRMGetIntervalTime
+         46   2D 000044F0 DRMGetIssuanceLicenseInfo
+         47   2E 00002DF0 DRMGetIssuanceLicenseTemplate
+         48   2F 000042C0 DRMGetMetaData
+         49   30 00004A10 DRMGetNameAndDescription
+         50   31 00004B10 DRMGetOwnerLicense
+         51   32 0004F590 DRMGetProcAddress
+         52   33 000046B0 DRMGetRevocationPoint
+         53   34 00003D20 DRMGetRightExtendedInfo
+         54   35 00003BC0 DRMGetRightInfo
+         55   36 00019020 DRMGetSecurityProvider
+         56   37 00019E80 DRMGetServiceLocation
+         57   38 00003280 DRMGetSignedIssuanceLicense
+         58   39 00002ED0 DRMGetSignedIssuanceLicenseEx
+         59   3A 0004F660 DRMGetTime
+         60   3B 0001CE40 DRMGetUnboundLicenseAttribute
+         61   3C 0001CD50 DRMGetUnboundLicenseAttributeCount
+         62   3D 0001CBE0 DRMGetUnboundLicenseObject
+         63   3E 0001CAF0 DRMGetUnboundLicenseObjectCount
+         64   3F 00004820 DRMGetUsagePolicy
+         65   40 000039D0 DRMGetUserInfo
+         66   41 00004020 DRMGetUserRights
+         67   42 00003F00 DRMGetUsers
+         68   43 0004F750 DRMInitEnvironment
+         69   44 00017500 DRMIsActivated
+         70   45 0001AAE0 DRMIsWindowProtected
+         71   46 0004F9C0 DRMLoadLibrary
+         72   47 0001C930 DRMParseUnboundLicense
+         73   48 00016D50 DRMRegisterContent
+         74   49 0001A9A0 DRMRegisterProtectedWindow
+         75   4A 0004FAE0 DRMRegisterRevocationList
+         76   4B 0001A240 DRMRepair
+         77   4C 00002B30 DRMSetApplicationSpecificData
+         78   4D 00017100 DRMSetGlobalOptions
+         79   4E 00004C20 DRMSetIntervalTime
+         80   4F 00002300 DRMSetMetaData
+         81   50 00002C90 DRMSetNameAndDescription
+         82   51 000028F0 DRMSetRevocationPoint
+         83   52 00002600 DRMSetUsagePolicy
+         84   53 00015F40 DRMVerify
+         85   54 00053CA0 DRMpCloseFile
+         86   55 000532A0 DRMpFileInitialize
+         87   56 00053AE0 DRMpFileIsProtected
+         88   57 00053550 DRMpFileProtect
+         89   58 000538C0 DRMpFileUnprotect
+         90   59 00053CD0 DRMpFreeMemory
+         91   5A 000161C0 DllCanUnloadNow
+         92   5B 000161F0 DllGetClassObject
+         93   5C 00016330 DllRegisterServer
+         94   5D 00016340 DllUnregisterServer
+         95   5E 000348D0 __AddMachineCertToLicenseStore
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        4000 .pdata
+       23000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       63000 .text

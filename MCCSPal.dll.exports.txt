@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\MCCSPal.dll
+
+File Type: DLL
+
+  Section contains the following exports for MCCSPal.dll
+
+    00000000 characteristics
+    F120B789 time date stamp
+        0.00 version
+           7 ordinal base
+          26 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          7      000010C0 [NONAME]
+          8      000010C0 [NONAME]
+          9      00001810 [NONAME]
+         10      00001940 [NONAME]
+         11      00001980 [NONAME]
+         12      000019F0 [NONAME]
+         13      00001A50 [NONAME]
+         14      00001AC0 [NONAME]
+         15      00001F60 [NONAME]
+         25      000010D0 [NONAME]
+         27      00001070 [NONAME]
+         29      000010E0 [NONAME]
+         30      00001220 [NONAME]
+         31      00001360 [NONAME]
+         32      000014A0 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\wpdcomp.inf_amd64_d5fc5f7282c9bafb\Wpdcomp.dll
+
+File Type: DLL
+
+  Section contains the following exports for WpdComp.dll
+
+    00000000 characteristics
+    245B0C81 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004140 DllGetClassObject
+          2    1 00017220 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

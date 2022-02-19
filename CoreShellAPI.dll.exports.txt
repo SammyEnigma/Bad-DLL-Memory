@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CoreShellAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for CoreShellAPI.dll
+
+    00000000 characteristics
+    E1774B78 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006B00 DllCanUnloadNow
+          2    1 00006830 DllGetActivationFactory
+          3    2 00006A10 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       1B000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       53000 .text

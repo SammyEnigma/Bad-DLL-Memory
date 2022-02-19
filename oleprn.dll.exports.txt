@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\oleprn.dll
+
+File Type: DLL
+
+  Section contains the following exports for oleprn.DLL
+
+    00000000 characteristics
+    D8E4D09B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002EE0 DllCanUnloadNow
+          2    1 00002F00 DllGetClassObject
+          3    2 000031E0 DllRegisterServer
+          4    3 00003290 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       18000 .text

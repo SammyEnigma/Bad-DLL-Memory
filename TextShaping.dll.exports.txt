@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\TextShaping.dll
+
+File Type: DLL
+
+  Section contains the following exports for TextShaping.dll
+
+    00000000 characteristics
+    63A36C45 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00038A00 BuildOtlCache
+          2    1 00038900 FreeOtlResources
+          3    2 000381C0 GetOtlFeatureDefs
+          4    3 00039AB0 GetOtlGlyphAlternates
+          5    4 00037E10 GetOtlLangSysList
+          6    5 00037A70 GetOtlScriptList
+          7    6 00037A60 GetOtlVersion
+         11    7 00007840 OtlAssertFailed
+          8    8 00039950 RepositionOtlSingleGlyph
+         12    9 000078D0 ShapingCreateFontCacheData
+         13    A 00008270 ShapingDrawGlyphs
+         14    B 00008490 ShapingGetBreakingProperties
+         15    C 00008650 ShapingGetCombiningOptions
+         16    D 00008B00 ShapingGetGlyphPositions
+         17    E 000096E0 ShapingGetGlyphs
+         18    F 000080B0 ShapingLoadScriptEngine
+         19   10 00007840 ShapingSetAssertFunction
+         20   11 00007840 ShapingSetInvariantAssertFunction
+          9   12 00039570 SubstituteOtlSingleGlyph
+         10   13 00006B70 ValidateLogClust
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+       5B000 .rdata
+        1000 .reloc
+       4B000 .text

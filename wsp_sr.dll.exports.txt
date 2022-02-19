@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\wsp_sr.dll
+
+File Type: DLL
+
+  Section contains the following exports for wsp_sr.DLL
+
+    00000000 characteristics
+    991E0BF3 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002A20 DllCanUnloadNow
+          2    1 00002A60 DllGetClassObject
+          3    2 00002710 DllMain
+          4    3 00002980 DllRegisterServer
+          5    4 000029D0 DllUnregisterServer
+          6    5 00002770 GetProviderClassID
+          7    6 000026B0 MI_Main
+          8    7 000026A0 PreShutdown
+          9    8 000026A0 SetShutdownCallback
+         10    9 000026A0 SmpUnload
+
+  Summary
+
+       14000 .data
+        3000 .pdata
+       8D000 .rdata
+        D000 .reloc
+        1000 .rsrc
+       3B000 .text

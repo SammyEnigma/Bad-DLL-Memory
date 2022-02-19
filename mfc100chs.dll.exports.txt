@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\mfc100chs.dll
+
+File Type: DLL
+
+  Summary
+
+        8000 .rsrc

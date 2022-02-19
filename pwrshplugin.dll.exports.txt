@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\pwrshplugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for pwrshplugin.dll
+
+    00000000 characteristics
+    2BDFD2BE time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003220 GetCLRVersionForPSVersion
+          2    1 00002F10 PerformWSManPluginReportCompletion
+          3    2 00003740 WSManPluginCommand
+          4    3 000039B0 WSManPluginConnect
+          5    4 000038B0 WSManPluginReceive
+          6    5 000037C0 WSManPluginReleaseCommandContext
+          7    6 000036F0 WSManPluginReleaseShellContext
+          8    7 00003820 WSManPluginSend
+          9    8 000035F0 WSManPluginShell
+         10    9 00003500 WSManPluginShutdown
+         11    A 00003930 WSManPluginSignal
+         12    B 00003430 WSManPluginStartup
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

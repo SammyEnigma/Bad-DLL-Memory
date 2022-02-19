@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\SRSTSX64.dll
+
+File Type: DLL
+
+  Section contains the following exports for COM_SRS_TruSurroundXT64.dll
+
+    00000000 characteristics
+    458046BF time date stamp Wed Dec 13 19:30:23 2006
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002F08 DllCanUnloadNow
+          2    1 00007964 DllGetClassObject
+          3    2 0000C5A8 DllRegisterServer
+          4    3 0000C5BC DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        6000 .pdata
+       17000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       58000 .text
+        1000 TEXT

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Graphics.Display.DisplayEnhancementOverride.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Graphics.Display.DisplayEnhancementOverride.dll
+
+    00000000 characteristics
+    49D5D645 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000058B0 DllCanUnloadNow
+          2    1 00005940 DllGetActivationFactory
+          3    2 00005B20 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       16000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       3C000 .text

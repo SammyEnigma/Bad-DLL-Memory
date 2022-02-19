@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\efsext.dll
+
+File Type: DLL
+
+  Section contains the following exports for efsext.dll
+
+    00000000 characteristics
+    6AF2E6F9 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004780 EdpPlatform_QueryUserSessionState
+          2    1 00004740 EdpPlatform_RegisterUserSessionNotification
+          3    2 00004490 EdpPlatform_ShowDialog
+          4    3 00004700 EdpPlatform_ShowUI
+          5    4 000036C0 EdpPlatform_UnregisterUserSessionNotification
+          6    5 00003AF0 EfsPlatform_GetCallerID
+          7    6 00003DB0 EfsPlatform_IsCallerAutomaticallyDelegated
+          8    7 00003EF0 EfsPlatform_LaunchPromptUI
+          9    8 00003A30 EfsPlatform_SuspendNotificationsAndEncryptFile
+         10    9 00004170 EfsPlatform_UnpackSecurePin
+         11    A 00004AC0 FVE_LaunchConsentPromptUI
+         12    B 00004CA0 FVE_LaunchSDCardUI
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

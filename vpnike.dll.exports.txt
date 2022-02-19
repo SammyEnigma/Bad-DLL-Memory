@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\vpnike.dll
+
+File Type: DLL
+
+  Section contains the following exports for VPNIKE.DLL
+
+    00000000 characteristics
+    D57D2337 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00007B20 InitializeProtocolEngine
+          3    1 00007F20 InitializeServerProtocolEngine
+          4    2 00007EF0 SendMessageToProtocolEngine
+          5    3 00007E20 UninitializeProtocolEngine
+          6    4 00008300 UninitializeServerProtocolEngine
+          1    5 00008380 VpnIkeRoamToBestCostInterface
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       32000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       80000 .text

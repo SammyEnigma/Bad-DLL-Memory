@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\HelpPaneProxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for HelpPaneProxy.DLL
+
+    00000000 characteristics
+    79D31134 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000061C0 DllCanUnloadNow
+          2    1 000061E0 DllGetClassObject
+          3    2 00006310 DllRegisterServer
+          4    3 00006410 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        9000 .text

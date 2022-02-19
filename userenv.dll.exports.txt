@@ -1,0 +1,105 @@
+
+Dump of file C:\Windows\System32\userenv.dll
+
+File Type: DLL
+
+  Section contains the following exports for USERENV.dll
+
+    00000000 characteristics
+    FA786637 time date stamp
+        0.00 version
+         104 ordinal base
+         116 number of functions
+          59 number of names
+
+    ordinal hint RVA      name
+
+        106    0 000082F0 AreThereVisibleLogoffScripts
+        107    1 00008310 AreThereVisibleShutdownScripts
+        108    2 000046E0 CreateAppContainerProfile
+        109    3 00004850 CreateEnvironmentBlock
+        110    4 0000E020 CreateProfile
+        111    5 00008810 DeleteAppContainerProfile
+        112    6 0000E6D0 DeleteProfileA
+        113    7 0000E1A0 DeleteProfileW
+        114    8 000045F0 DeriveAppContainerSidFromAppContainerName
+        115    9 00004330 DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedName
+        116    A 00004820 DestroyEnvironmentBlock
+        117    B 0000F100 DllCanUnloadNow
+        118    C 0000F120 DllGetClassObject
+        119    D 0000F170 DllRegisterServer
+        120    E 0000F1B0 DllUnregisterServer
+        121    F 000049F0 EnterCriticalPolicySection
+        123   10 0000E7D0 ExpandEnvironmentStringsForUserA
+        124   11 00004190 ExpandEnvironmentStringsForUserW
+        125   12 00008330 ForceSyncFgPolicy
+        126   13 00008350 FreeGPOListA
+        127   14 00008370 FreeGPOListW
+        128   15 00008390 GenerateGPNotification
+        129   16 0000E8D0 GetAllUsersProfileDirectoryA
+        130   17 0000E9F0 GetAllUsersProfileDirectoryW
+        131   18 00004470 GetAppContainerFolderPath
+        132   19 000041D0 GetAppContainerRegistryLocation
+        133   1A 000083B0 GetAppliedGPOListA
+        134   1B 00004950 GetAppliedGPOListW
+        136   1C 0000EA10 GetDefaultUserProfileDirectoryA
+        138   1D 00001220 GetDefaultUserProfileDirectoryW
+        140   1E 000083D0 GetGPOListA
+        141   1F 000083F0 GetGPOListW
+        142   20 00008410 GetNextFgPolicyRefreshInfo
+        143   21 00008430 GetPreviousFgPolicyRefreshInfo
+        144   22 000036F0 GetProfileType
+        145   23 0000EB30 GetProfilesDirectoryA
+        146   24 00004A40 GetProfilesDirectoryW
+        147   25 0000EC50 GetUserProfileDirectoryA
+        148   26 000028D0 GetUserProfileDirectoryW
+        149   27 00008450 HasPolicyForegroundProcessingCompleted
+        150   28 000049D0 LeaveCriticalPolicySection
+        151   29 0000E1E0 LoadProfileExtender
+        152   2A 0000ED70 LoadUserProfileA
+        153   2B 00001540 LoadUserProfileW
+        154   2C 000089C0 ProcessGroupPolicyCompleted
+        155   2D 00008A20 ProcessGroupPolicyCompletedEx
+        156   2E 00008470 RefreshPolicy
+        157   2F 00008490 RefreshPolicyEx
+        158   30 00004880 RegisterGPNotification
+        159   31 00008A90 RsopAccessCheckByType
+        160   32 00008B50 RsopFileAccessCheck
+        105   33 000082D0 RsopLoggingEnabled
+        161   34 00008BC0 RsopResetPolicySettingStatus
+        162   35 00008C20 RsopSetPolicySettingStatus
+        163   36 0000E480 UnloadProfileExtender
+        164   37 00001240 UnloadUserProfile
+        165   38 00004910 UnregisterGPNotification
+        166   39 000084B0 WaitForMachinePolicyForegroundProcessing
+        167   3A 000084D0 WaitForUserPolicyForegroundProcessing
+        104      00008870 [NONAME]
+        122      000088B0 [NONAME]
+        135      0000F940 [NONAME]
+        137      000086E0 [NONAME]
+        139      00008740 [NONAME]
+        175      0000F760 [NONAME]
+        202      0000F0F0 [NONAME]
+        203      0000F0D0 [NONAME]
+        206      00008670 [NONAME]
+        207      000086A0 [NONAME]
+        208      0000E310 [NONAME]
+        209      0000F0E0 [NONAME]
+        210      00008C90 [NONAME]
+        211      00008970 [NONAME]
+        212      00004710 [NONAME]
+        213      00008820 [NONAME]
+        214      0000F1F0 [NONAME]
+        217      00004A60 [NONAME]
+        218      00008910 [NONAME]
+        219      000067C0 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       1B000 .text

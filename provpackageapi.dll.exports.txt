@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Provisioning\provpackageapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for ProvPackageAPI.dll
+
+    00000000 characteristics
+    2D2B8619 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        3000 .data
+        1000 .nep
+        4000 .pdata
+       2F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       8C000 .text

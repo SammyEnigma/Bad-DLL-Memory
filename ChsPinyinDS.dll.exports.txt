@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\InputMethod\CHS\ChsPinyinDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for ChsPinyinDS.dll
+
+    00000000 characteristics
+    2E6A2947 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000060C0 DllCanUnloadNow
+          2    1 00005DF0 DllGetActivationFactory
+          3    2 00005FD0 DllGetClassObject
+
+  Summary
+
+       10000 .data
+        1000 .didat
+        5000 .pdata
+       20000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       74000 .text

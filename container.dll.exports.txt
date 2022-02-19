@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\container.dll
+
+File Type: DLL
+
+  Section contains the following exports for container.dll
+
+    00000000 characteristics
+    A169072A time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000CF90 ?AddRuntimeVirtualKeysToContainer@container@@YAXPEAXKPEAU_WC_VKEY_INFO@@@Z
+          2    1 0000BF20 ?CleanupContainer@container@@YAXPEAXPEBG@Z
+          3    2 0000C080 ?CreateContainer@container@@YAXPEAXAEBUContainer@DefinitionFile@1@_N0@Z
+          4    3 0000CF70 ?GetComRegistryRoot@container@@YAPEAXPEAX@Z
+          5    4 0000D250 ?GetContainerIdentifierString@container@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PEAX@Z
+          6    5 0000D340 ?GetContainerObjectRootPath@container@@YAXPEAXAEAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z
+          7    6 0000D2B0 ?GetRegistryRootPath@container@@YAXPEAXAEBV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AEAV23@@Z
+          8    7 0000C3E0 ?IsContainerQuiescent@container@@YAEPEAX@Z
+          9    8 0000C470 ?LaunchApplicationContainer@container@@YAPEAXPEAXPEBGK@Z
+         10    9 0000C900 ?LaunchContainer@container@@YAXPEAX@Z
+         11    A 00028280 ?RegisterForContainerTerminationNotification@container@@YAPEAU_WC_CONTAINER_NOTIFICATION@@PEAXP6AX0W4_WC_CONTAINER_TERMINATION_REASON@@PEAU2@0@Z0@Z
+         12    B 00028530 ?ReleaseContainerTerminationNotification@container@@YAXPEAU_WC_CONTAINER_NOTIFICATION@@@Z
+         13    C 0000CCE0 ?SetRegistryFlushState@container@@YAXPEAXE@Z
+         14    D 0000CE10 ?ShutdownAppContainer@container@@YA_NPEAX@Z
+         15    E 00028720 ?WaitForContainerTerminationNotification@container@@YAXPEAU_WC_CONTAINER_NOTIFICATION@@@Z
+         16    F 0000BEB0 WcAddRuntimeVirtualKeysToContainer
+         17   10 0000BBE0 WcCleanupContainer
+         18   11 0000BC00 WcCreateContainer
+         19   12 0001FA60 WcCreateDescriptionFromXml
+         20   13 0001FE70 WcDestroyDescription
+         21   14 0000BC30 WcGetComRegistryRoot
+         22   15 0000BC60 WcGetContainerIdentifier
+         23   16 0000BD70 WcGetContainerObjectRootPath
+         24   17 0000BC90 WcGetContainerRegistryRootPath
+         25   18 0000BE30 WcIsContainerQuiescent
+         26   19 0000BE60 WcLaunchApplicationContainer
+         27   1A 0000BE90 WcLaunchContainer
+         28   1B 00028200 WcRegisterForContainerTerminationNotification
+         29   1C 00028230 WcReleaseContainerTerminationNotification
+         30   1D 0000BED0 WcSetRegistryFlushState
+         31   1E 0000BEF0 WcShutdownAppContainer
+         32   1F 00028250 WcWaitForContainerTerminationNotification
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2C000 .text

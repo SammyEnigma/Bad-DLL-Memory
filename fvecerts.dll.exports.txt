@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\fvecerts.dll
+
+File Type: DLL
+
+  Section contains the following exports for FVECERTS.dll
+
+    00000000 characteristics
+    FE7878E6 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002540 FveCertCanCertificateBeAdded
+          2    1 00002360 FveCertCreateCertInfo
+          3    2 00002EE0 FveCertCreateSelfSignedCertificate
+          4    3 000029E0 FveCertFilterForValidCertificates
+          5    4 00002860 FveCertFindValidCertificates
+          6    5 000024A0 FveCertFreeCertInfo
+          7    6 00001DE0 FveCertGetCertContextFromCert
+          8    7 00001560 FveCertGetCertContextFromPfx
+          9    8 000022A0 FveCertGetCertHashFromCertContext
+         10    9 000010F0 FveCertGetPrivateKeyHandle
+         11    A 00001020 FveCertGetPublicKeyHandle
+         12    B 00002D20 FveCertIsAlternateCert
+         13    C 000024E0 FveCertIsValidCertInfo
+         14    D 00003140 FveCertSignData
+         15    E 000019D0 FveCertWritePfxFromCertContext
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

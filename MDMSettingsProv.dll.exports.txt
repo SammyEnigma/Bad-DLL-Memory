@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\MDMSettingsProv.dll
+
+File Type: DLL
+
+  Section contains the following exports for MDMSettingsProv.DLL
+
+    00000000 characteristics
+    FF1D6290 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000057D0 DllCanUnloadNow
+          2    1 00005810 DllGetClassObject
+          3    2 000053D0 DllMain
+          4    3 00005730 DllRegisterServer
+          5    4 00005780 DllUnregisterServer
+          6    5 00005520 GetProviderClassID
+          7    6 000052D0 MI_Main
+
+  Summary
+
+        3000 .data
+        4000 .pdata
+       30000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       6A000 .text

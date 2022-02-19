@@ -1,0 +1,110 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvui.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvUI.dll
+
+    00000000 characteristics
+    5FD3FFB6 time date stamp Sat Dec 12 00:24:38 2020
+        0.00 version
+           1 ordinal base
+          83 number of functions
+          83 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000669C0 ?Delete@NotificationIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          2    1 00076980 ?Delete@OptimusIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          3    2 00066C50 ?IsAvailable@NotificationIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          4    3 00076AD0 ?IsAvailable@OptimusIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          5    4 00066250 ?IsRunning@NotificationIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          6    5 00076250 ?IsRunning@OptimusIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          7    6 00067230 ?IsThemedMessageWindowOpen@NotificationIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          8    7 00077060 ?IsThemedMessageWindowOpen@OptimusIcon@UI@UXDriver@Nvidia@@SA_NXZ
+          9    8 00067150 ?Refresh@NotificationIcon@UI@UXDriver@Nvidia@@SAXXZ
+         10    9 00077020 ?Refresh@OptimusIcon@UI@UXDriver@Nvidia@@SAXXZ
+         11    A 00068560 ?ShowBalloon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NIIIPEB_W000@Z
+         12    B 00068720 ?ShowBalloon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NIIKPEB_W00@Z
+         13    C 000683C0 ?ShowBalloon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NIIPEAUHICON__@@PEB_W11@Z
+         14    D 000682C0 ?ShowBalloon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NPEB_W0I0000@Z
+         15    E 00068160 ?ShowBalloon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NPEB_W0KPEAUHICON__@@001W4ExeType@234@@Z
+         16    F 00067890 ?ShowBalloonVariadic@NotificationIcon@UI@UXDriver@Nvidia@@SA_NIIIIIPEB_W000W4ExeType@234@PEAD@Z
+         17   10 00067830 ?ShowBalloonVariadic@NotificationIcon@UI@UXDriver@Nvidia@@SA_NIIIIIPEB_W000W4ExeType@234@ZZ
+         18   11 00067660 ?ShowThemedBalloon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NPEB_W0KPEAUHICON__@@0@Z
+         19   12 00067260 ?ShowThemedMessageWindow@NotificationIcon@UI@UXDriver@Nvidia@@SA_NIIKPEAUHICON__@@PEB_W@Z
+         20   13 00067380 ?ShowThemedMessageWindow@NotificationIcon@UI@UXDriver@Nvidia@@SA_NPEB_W0KPEAUHICON__@@0@Z
+         21   14 00077090 ?ShowThemedMessageWindow@OptimusIcon@UI@UXDriver@Nvidia@@SA_NPEB_W0KPEAUHICON__@@0@Z
+         22   15 00066CA0 ?StartNotificationIcon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NW4LoadPluginOption@234@W4QuitOption@234@W4EventFlag@234@@Z
+         23   16 00076B10 ?StartOptimusIcon@OptimusIcon@UI@UXDriver@Nvidia@@SAXW4LoadPluginOption@234@W4QuitOption@234@W4EventFlag@234@@Z
+         24   17 00076500 ?StartOptimusUI@OptimusIcon@UI@UXDriver@Nvidia@@SAXXZ
+         25   18 00066500 ?UpdateTrayIcon@NotificationIcon@UI@UXDriver@Nvidia@@SA_NPEB_W_N1@Z
+         26   19 00076530 ?UpdateTrayIcon@OptimusIcon@UI@UXDriver@Nvidia@@SA_NPEB_W_N1@Z
+         27   1A 00066520 ?UpdateTrayIconEx@NotificationIcon@UI@UXDriver@Nvidia@@SA_NPEB_WH_N1@Z
+         28   1B 00076550 ?UpdateTrayIconEx@OptimusIcon@UI@UXDriver@Nvidia@@SA_NPEB_WH_N1@Z
+         29   1C 00074990 ACEShowBalloonVariadic
+         30   1D 000733A0 CloseCloneToFitUI
+         31   1E 00075040 DisableLicenseFeature
+         32   1F 000732B0 DisplayTooltipWithExecuteW
+         33   20 000731F0 DisplayTooltipWithoutExecuteW
+         34   21 00075330 DllCanUnloadNow
+         35   22 00075380 DllGetClassObject
+         36   23 00075720 DllInstall
+         37   24 000754D0 DllRegisterServer
+         38   25 00075600 DllUnregisterServer
+         39   26 00074F20 EnableLicenseFeature
+         40   27 00075160 GetLicensableFeatures
+         41   28 00074C50 GetLicenseServerDetails
+         42   29 00074420 GetWFDSyncHandle
+         43   2A 00073E20 HideACETrayIcon
+         44   2B 000731D0 InitilizeResourceHandle
+         45   2C 000743C0 IsNotificationIconAvailable
+         46   2D 000743F0 IsNotificationIconRunning
+         47   2E 00074AF0 IsThemedMessageWindowOpen
+         48   2F 00073370 SelectRegion
+         49   30 00074D80 SetLicenseServerDetails
+         50   31 00074BE0 SetNotToRefreshTray
+         51   32 000738F0 Show3DProfileInfo
+         52   33 000739F0 Show3DProfileInfoW
+         53   34 00073DD0 ShowACETrayIcon
+         54   35 00073E70 ShowAceDialog
+         55   36 00073EB0 ShowAceDialogAsync
+         56   37 000734F0 ShowAceMUXBlockingAppsDlg
+         57   38 00074690 ShowBalloon
+         58   39 000748F0 ShowBalloonVariadic
+         59   3A 000746F0 ShowBalloonVer1
+         60   3B 00074770 ShowBalloonVer2
+         61   3C 000747D0 ShowBalloonVer3
+         62   3D 00074830 ShowBalloonVer4
+         63   3E 00074890 ShowBalloonVer5
+         64   3F 00074450 ShowHCloneHotplugDialog
+         65   40 000735B0 ShowPowerNotification
+         66   41 000733F0 ShowSLIBlockingAppsDlg
+         67   42 000737C0 ShowSurroundNotification
+         68   43 00074A30 ShowThemedBalloon
+         69   44 00074A90 ShowThemedMessageWindow
+         70   45 000736A0 ShowVideoBridgeNotification
+         71   46 00073C70 StartACETrayIcon
+         72   47 000740D0 StartDx11SampleApp
+         73   48 00074010 StartNotificationIcon
+         74   49 00073BE0 StartOptimusXGpuTrayIcon
+         75   4A 00073C30 StartOptimusXGpuTrayIconUI
+         76   4B 00074C20 StartWFDNotificationIcon
+         77   4C 00074360 StopDx11SampleApp
+         78   4D 00074060 StopNotificationIcon
+         79   4E 00073AB0 StopNotificationIconW
+         80   4F 00073B90 StopXGpuTrayIcon
+         81   50 00073B20 StopXGpuTrayIconW
+         82   51 00074B20 UpdateTrayIcon
+         83   52 00074B80 UpdateTrayIconEx
+
+  Summary
+
+       2C000 .data
+        1000 .didat
+       24000 .pdata
+      125000 .rdata
+       13000 .reloc
+      1D0000 .rsrc
+      2FD000 .text
+        1000 .tls

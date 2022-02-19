@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\oledlg.dll
+
+File Type: DLL
+
+  Section contains the following exports for oledlg.dll
+
+    00000000 characteristics
+    E2DC598B time date stamp
+        0.00 version
+           1 ordinal base
+          23 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E10 OleUIAddVerbMenuA
+         13    1 000044D0 OleUIAddVerbMenuW
+          8    2 00003110 OleUIBusyA
+         14    3 000054C0 OleUIBusyW
+          2    4 00007360 OleUICanConvertOrActivateAs
+          6    5 00002BE0 OleUIChangeIconA
+         15    6 00007E20 OleUIChangeIconW
+         12    7 00003A40 OleUIChangeSourceA
+         16    8 000099A0 OleUIChangeSourceW
+          7    9 00002DC0 OleUIConvertA
+         17    A 00005BE0 OleUIConvertW
+          5    B 00002A00 OleUIEditLinksA
+         18    C 0000A300 OleUIEditLinksW
+          3    D 00001F40 OleUIInsertObjectA
+         19    E 0000C350 OleUIInsertObjectW
+         11    F 000037F0 OleUIObjectPropertiesA
+         20   10 0000F080 OleUIObjectPropertiesW
+          4   11 000021A0 OleUIPasteSpecialA
+         21   12 00011AC0 OleUIPasteSpecialW
+         10   13 00003EB0 OleUIPromptUserA
+         22   14 00004D20 OleUIPromptUserW
+          9   15 00003240 OleUIUpdateLinksA
+         23   16 00005380 OleUIUpdateLinksW
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       26000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\rdpsharercom.dll
+
+File Type: DLL
+
+  Section contains the following exports for rdpsharercom.DLL
+
+    00000000 characteristics
+    767CB994 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C1F0 DllCanUnloadNow
+          2    1 0000C210 DllGetClassObject
+          3    2 0000C340 DllRegisterServer
+          4    3 0000C440 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        A000 .pdata
+       33000 .rdata
+        2000 .reloc
+        8000 .rsrc
+      12D000 .text

@@ -1,0 +1,64 @@
+
+Dump of file C:\Windows\System32\KerbClientShared.dll
+
+File Type: DLL
+
+  Section contains the following exports for KerbClientShared.dll
+
+    00000000 characteristics
+    F90F3893 time date stamp
+        0.00 version
+           1 ordinal base
+          38 number of functions
+          38 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002290 KerbClientAlloc
+          2    1 00004790 KerbClientAllocateStoredCred
+          3    2 00004C40 KerbClientBuildAsReqAuthenticator
+          4    3 0000E310 KerbClientBuildEncryptedAuthData
+          5    4 0000CA10 KerbClientBuildExplicitArmorKey
+          6    5 0000CB10 KerbClientBuildFastArmoredKdcRequest
+          7    6 00004990 KerbClientBuildFastChallenge
+          8    7 000022D0 KerbClientBuildKeyList
+          9    8 0000D030 KerbClientBuildStrengthenedReplyKey
+         10    9 0000D100 KerbClientBuildTicketArmorKey
+         11    A 0000E4B0 KerbClientComputeTgsChecksum
+         12    B 00002000 KerbClientDecryptApReply
+         13    C 0000E960 KerbClientDecryptPacCredentials
+         14    D 0000D1C0 KerbClientDeriveFastChallengeKey
+         15    E 000047D0 KerbClientDuplicateStoredCred
+         16    F 0000C400 KerbClientFree
+         17   10 0000C670 KerbClientFreeStoredCred
+         18   11 0000C420 KerbClientFreeSupplementalCredentials
+         19   12 0000EA50 KerbClientPackApReply
+         20   13 00002D90 KerbClientPackAsn1Buffer
+         21   14 00004E50 KerbClientParseKeyListReplyPaData
+         22   15 0000C490 KerbClientSharedCleanup
+         23   16 00003030 KerbClientSharedInit
+         24   17 000047F0 KerbClientTransformStoredCred
+         25   18 0000FC60 KerbClientUnpackAsn1BufferVoid
+         26   19 0000EC30 KerbClientUnpackKdcReplyBody
+         27   1A 00003260 KerbClientUpdateSharedConfiguration
+         28   1B 0000E760 KerbClientVerifyChecksum
+         29   1C 0000D200 KerbClientVerifyEncryptedChallengePaData
+         30   1D 0000D3B0 KerbClientVerifyFastArmoredKdcReply
+         31   1E 0000DA90 KerbClientVerifyFastArmoredKerbError
+         32   1F 0000DF60 KerbClientVerifyFastArmoredTgsReply
+         33   20 0000EF30 KerbDHCreateBCryptKey
+         34   21 0000F260 KerbDHGetLegacyDHParameters
+         35   22 0000F570 KerbDHGetLittleEndianPublicKey
+         36   23 0000F850 KerbDHGetSharedSecretFromCapiKeyBuffer
+         37   24 0000FDA0 KerbKdcReplyContainsTgt
+         38   25 000074C0 KerbPackKdcReplyWithEncryptedSessionKey
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       26000 .text

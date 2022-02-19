@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Shell.Internal.AdaptiveCards.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Shell.Internal.AdaptiveCards.dll
+
+    00000000 characteristics
+    9FE91BE1 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003EF0 DllCanUnloadNow
+          2    1 00003F60 DllGetActivationFactory
+          3    2 00004110 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        A000 .pdata
+       5C000 .rdata
+        9000 .reloc
+        1000 .rsrc
+       EE000 .text

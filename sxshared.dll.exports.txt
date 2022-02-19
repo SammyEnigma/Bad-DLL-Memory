@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\sxshared.dll
+
+File Type: DLL
+
+  Section contains the following exports for SXSHARED.dll
+
+    00000000 characteristics
+    E06EFEA1 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000028D0 DllCanUnloadNow
+          2    1 000028F0 DllGetClassObject
+          3    2 00002910 DllRegisterServer
+          4    3 00002920 DllUnregisterServer
+          5    4 000035E0 GetLastFailureAsHRESULT
+          6    5 00003680 HRESULTFromNTSTATUS
+          7    6 000029B0 SxTracerDebuggerBreak
+          8    7 000029C0 SxTracerGetThreadContextDebug
+          9    8 000029D0 SxTracerGetThreadContextRetail
+         10    9 000029E0 SxTracerShouldTrackFailure
+         11    A 00003830 Win32FromHRESULT
+         12    B 00003990 Win32FromNTSTATUS
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\d3d9.dll
+
+File Type: DLL
+
+  Section contains the following exports for d3d9.dll
+
+    00000000 characteristics
+    D6A138AC time date stamp
+        0.00 version
+          16 ordinal base
+          23 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+         27    0 0008AF70 D3DPERF_BeginEvent
+         28    1 0008AFC0 D3DPERF_EndEvent
+         29    2 0008AFF0 D3DPERF_GetStatus
+         30    3 0008B020 D3DPERF_QueryRepeatFrame
+         31    4 0008B060 D3DPERF_SetMarker
+         32    5 0008B0A0 D3DPERF_SetOptions
+         33    6 0008B0D0 D3DPERF_SetRegion
+         34    7 0008B260 DebugSetLevel
+         35    8 0008B2A0 DebugSetMute
+         36    9 0008B110 Direct3D9EnableMaximizedWindowedModeShim
+         37    A 00043580 Direct3DCreate9
+         38    B 00035680 Direct3DCreate9Ex
+         20    C 00047B60 Direct3DCreate9On12
+         21    D 00047B90 Direct3DCreate9On12Ex
+         24    E 000D5AB0 Direct3DShaderValidatorCreate9
+         25    F 000808A0 PSGPError
+         26   10 000808D0 PSGPSampleTexture
+         16      00088B10 [NONAME]
+         17      0008B120 [NONAME]
+         18      0008B180 [NONAME]
+         19      000940B0 [NONAME]
+         22      00088B20 [NONAME]
+         23      0009C3C0 [NONAME]
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        D000 .pdata
+       64000 .rdata
+        2000 .reloc
+        2000 .rsrc
+      151000 .text

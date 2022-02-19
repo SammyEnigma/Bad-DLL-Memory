@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\oobe\msoobeplugins.dll
+
+File Type: DLL
+
+  Section contains the following exports for msoobeplugins.dll
+
+    00000000 characteristics
+    6EACEDB7 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006470 DllCanUnloadNow
+          2    1 000060B0 DllGetActivationFactory
+          3    2 00006290 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        8000 .pdata
+       55000 .rdata
+        5000 .reloc
+        3000 .rsrc
+       AD000 .text

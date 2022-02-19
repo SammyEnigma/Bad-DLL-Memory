@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\CoreMessaging.dll
+
+File Type: DLL
+
+  Section contains the following exports for CoreMessaging.dll
+
+    00000000 characteristics
+    D3DFBBE6 time date stamp
+        0.00 version
+           1 ordinal base
+          33 number of functions
+          33 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002A90 CoreUICallComputeMaximumMessageSize
+          2    1 00049140 CoreUICallCreateConversationHost
+          3    2 00048F90 CoreUICallCreateEndpointHost
+          4    3 00048FA0 CoreUICallCreateEndpointHostWithSendPriority
+          5    4 00092940 CoreUICallGetAddressOfParameterInBuffer
+          6    5 0003BD20 CoreUICallReceive
+          7    6 00002B20 CoreUICallSend
+          8    7 000929B0 CoreUICallSendVaList
+          9    8 00084CA0 CoreUIConfigureTestHost
+         10    9 00084CB0 CoreUIConfigureUserIntegration
+         11    A 00049280 CoreUICreate
+         12    B 00092DF0 CoreUICreateAnonymousStream
+         13    C 000703E0 CoreUICreateClientWindowIDManager
+         14    D 0004D1E0 CoreUICreateEx
+         15    E 00054660 CoreUICreateSystemWindowIDManager
+         16    F 00091120 CoreUIInitializeTestService
+         17   10 0004EC10 CoreUIOpenExisting
+         18   11 00091140 CoreUIRouteToTestRegistrar
+         19   12 000911B0 CoreUIUninitializeTestService
+         20   13 00005CB0 CreateDispatcherQueueController
+         21   14 00095620 CreateDispatcherQueueForCurrentThread
+         22   15 00051EB0 DllCanUnloadNow
+         23   16 00052BF0 DllGetActivationFactory
+         24   17 00095740 DllGetClassObject
+         25   18 000523E0 GetDispatcherQueueForCurrentThread
+         26   19 00046940 MsgBlobCreateShared
+         27   1A 0004AA90 MsgBlobCreateStack
+         28   1B 00044100 MsgBufferShare
+         29   1C 00044940 MsgRelease
+         30   1D 00044170 MsgStringCreateShared
+         31   1E 0004B220 MsgStringCreateStack
+         32   1F 00056E00 ServiceMain
+         33   20 000561A0 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        E000 .pdata
+       39000 .rdata
+        3000 .reloc
+        E000 .rsrc
+       95000 .text

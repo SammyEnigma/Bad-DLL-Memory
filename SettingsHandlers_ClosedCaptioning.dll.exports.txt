@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_ClosedCaptioning.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_ClosedCaptioning.dll
+
+    00000000 characteristics
+    82654A37 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002000 GetSetting
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

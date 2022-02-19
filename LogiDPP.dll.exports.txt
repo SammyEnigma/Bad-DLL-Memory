@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\LogiDPP.dll
+
+File Type: DLL
+
+  Section contains the following exports for LogiDPP.dll
+
+    00000000 characteristics
+    5085FE17 time date stamp Tue Oct 23 04:16:55 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000123A InvokeDriverPropPanel
+
+  Summary
+
+       12000 .data
+        4000 .idata
+      215000 .rdata
+       48000 .reloc
+        1000 .rsrc
+      7FC000 .text

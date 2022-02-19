@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\setupcl.dll
+
+File Type: DLL
+
+  Section contains the following exports for setupcl.dll
+
+    00000000 characteristics
+    E4224EE3 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001510 SclAcquireRequiredPrivileges
+          2    1 00002830 SclClearPendedRequest
+          3    2 00005A70 SclExecutePendedRequests
+          4    3 00005630 SclExecuteRequest
+          5    4 00003A70 SclFreeRequest
+          6    5 000030F0 SclGetPendedRequest
+          7    6 00007BC0 SclLoadStringResource
+          8    7 000028F0 SclPendRequest
+          9    8 00003910 SclPendedRequestExists
+         10    9 00005760 SclPreCompilePendedRequests
+         11    A 000016B0 SclReleasePrivileges
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       19000 .text

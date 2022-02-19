@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\EventTracingManagement.dll
+
+File Type: DLL
+
+  Section contains the following exports for EventTracingManagement.DLL
+
+    00000000 characteristics
+    FA8C19A4 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017D0 DllCanUnloadNow
+          2    1 00001810 DllGetClassObject
+          3    2 000014C0 DllMain
+          4    3 00001730 DllRegisterServer
+          5    4 00001780 DllUnregisterServer
+          6    5 00001520 GetProviderClassID
+          7    6 00001460 MI_Main
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

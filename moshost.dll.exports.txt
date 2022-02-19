@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\moshost.dll
+
+File Type: DLL
+
+  Section contains the following exports for moshost.dll
+
+    00000000 characteristics
+    26FF1059 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00005770 MosHostCacheStateGetSizes
+          4    1 00005770 MosHostCacheStateGetSlotToCleanup
+          5    2 00005770 MosHostCacheStateSetMaxSize
+          6    3 00005770 MosHostCacheStateSetSlotSize
+          7    4 00005770 MosHostCacheStateSnapshot
+          8    5 00005770 MosHostCacheStateUnuseSlot
+          9    6 00005770 MosHostCacheStateUseSlot
+         10    7 00005770 MosHostRequestResourceLock
+         11    8 00005770 MosHostRequestResourceUnlock
+          1    9 0000AB70 ServiceMain
+          2    A 0000A8D0 SvchostPushServiceGlobals
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

@@ -1,0 +1,87 @@
+
+Dump of file C:\Windows\System32\srvcli.dll
+
+File Type: DLL
+
+  Section contains the following exports for srvcli.dll
+
+    00000000 characteristics
+    B9832251 time date stamp
+        0.00 version
+           1 ordinal base
+          61 number of functions
+          61 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003C00 I_NetDfsGetVersion
+          2    1 00001C30 I_NetServerSetServiceBits
+          3    2 000045F0 I_NetServerSetServiceBitsEx
+          4    3 00004730 LocalAliasGet
+          5    4 00004820 LocalFileClose
+          6    5 00004900 LocalFileEnum
+          7    6 00004960 LocalFileEnumEx
+          8    7 00004B20 LocalFileGetInfo
+          9    8 00004B40 LocalFileGetInfoEx
+         10    9 00003020 LocalServerCertificateMappingAdd
+         11    A 00003110 LocalServerCertificateMappingEnum
+         12    B 00003230 LocalServerCertificateMappingGet
+         13    C 00003370 LocalServerCertificateMappingRemove
+         14    D 00004C50 LocalSessionDel
+         15    E 00004D30 LocalSessionEnum
+         16    F 00004D90 LocalSessionEnumEx
+         17   10 00004F50 LocalSessionGetInfo
+         18   11 00004F70 LocalSessionGetInfoEx
+         19   12 00005080 LocalShareAdd
+         20   13 000052E0 LocalShareDelEx
+         21   14 000053D0 LocalShareEnum
+         22   15 00005400 LocalShareEnumEx
+         23   16 00005570 LocalShareGetInfo
+         24   17 000055A0 LocalShareGetInfoEx
+         25   18 000056C0 LocalShareSetInfo
+         26   19 000058F0 NetConnectionEnum
+         27   1A 00005A90 NetFileClose
+         28   1B 00005B70 NetFileEnum
+         29   1C 00005D20 NetFileGetInfo
+         30   1D 00005E50 NetRemoteTOD
+         31   1E 00005F50 NetServerAliasAdd
+         32   1F 00006060 NetServerAliasDel
+         33   20 00006160 NetServerAliasEnum
+         34   21 00006330 NetServerComputerNameAdd
+         35   22 000065E0 NetServerComputerNameDel
+         36   23 00006770 NetServerDiskEnum
+         37   24 000019F0 NetServerGetInfo
+         38   25 00006900 NetServerSetInfo
+         39   26 00006A10 NetServerStatisticsGet
+         40   27 00006B50 NetServerTransportAdd
+         41   28 00006C40 NetServerTransportAddEx
+         42   29 00006D40 NetServerTransportDel
+         43   2A 00006F70 NetServerTransportEnum
+         44   2B 00007100 NetSessionDel
+         45   2C 000071F0 NetSessionEnum
+         46   2D 000073A0 NetSessionGetInfo
+         47   2E 00007540 NetShareAdd
+         48   2F 00007830 NetShareCheck
+         49   30 00007950 NetShareDel
+         50   31 00007B30 NetShareDelEx
+         51   32 00007CD0 NetShareDelSticky
+         52   33 00001720 NetShareEnum
+         53   34 00007DF0 NetShareEnumSticky
+         54   35 00008030 NetShareGetInfo
+         55   36 00008270 NetShareSetInfo
+         56   37 000085B0 NetpsNameCanonicalize
+         57   38 000086E0 NetpsNameCompare
+         58   39 00008800 NetpsNameValidate
+         59   3A 00008910 NetpsPathCanonicalize
+         60   3B 00008A50 NetpsPathCompare
+         61   3C 00008B70 NetpsPathType
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        1000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

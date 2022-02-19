@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\AppVPolicy.dll
+
+File Type: DLL
+
+  Section contains the following exports for APPVPOLICY.dll
+
+    00000000 characteristics
+    BAD9EDF0 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          8    0 00034EF0 CreatePackageGroupDescriptorDocumentFromFile
+          7    1 00034EE0 CreatePackageGroupDescriptorDocumentFromXML
+          1    2 00034CA0 CreatePackageMachinePolicyDocument
+          3    3 00034DB0 CreatePackageMachinePolicyDocumentFromFile
+          2    4 00034DA0 CreatePackageMachinePolicyDocumentFromXML
+          4    5 00034DC0 CreatePackageUserPolicyDocument
+          6    6 00034ED0 CreatePackageUserPolicyDocumentFromFile
+          5    7 00034EC0 CreatePackageUserPolicyDocumentFromXML
+         10    8 00034F10 CreatePublishingDescriptorDocumentFromFile
+          9    9 00034F00 CreatePublishingDescriptorDocumentFromXML
+
+  Summary
+
+       16000 .data
+        5000 .pdata
+       3A000 .rdata
+        3000 .reloc
+       44000 .rsrc
+       54000 .text

@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\davhlpr.dll
+
+File Type: DLL
+
+  Section contains the following exports for DAVHLPR.dll
+
+    00000000 characteristics
+    9C6BA0DD time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001FA0 DavAddConnection
+          2    1 00002800 DavCheckAndConvertHttpUrlToUncName
+          3    2 000029E0 DavDeleteConnection
+          4    3 00002A60 DavFlushFile
+          5    4 00002AD0 DavGetExtendedError
+          6    5 00002CF0 DavGetHTTPFromUNCPath
+          7    6 00002F40 DavGetUNCFromHTTPPath
+          8    7 000032D0 DavParseUncServerName
+          9    8 00003410 DavRemoveDummyShareFromFileName
+         10    9 00003420 DavRemoveDummyShareFromFileNameEx
+         11    A 00004B30 DavUrlDecodeToNtPath
+         12    B 000048D0 DavUrlDecodeUtf8
+         13    C 00004CC0 DavUrlEncodeNtPath
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

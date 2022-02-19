@@ -1,0 +1,158 @@
+
+Dump of file C:\Windows\System32\cdp.dll
+
+File Type: DLL
+
+  Section contains the following exports for cdp.dll
+
+    00000000 characteristics
+     68F0E97 time date stamp
+        0.00 version
+           3 ordinal base
+         132 number of functions
+         132 number of names
+
+    ordinal hint RVA      name
+
+          4    0 000A7690 CDPAccountFromWebAccount
+          5    1 000AA290 CDPAcquireNetworkingInternal
+          6    2 002C6B10 CDPCreateAFSRegistrationClientInternal
+          7    3 002C7320 CDPCreateAFSUserSettingsInternal
+          8    4 0000CD60 CDPCreateAccountInternalForUser
+          9    5 000AA920 CDPCreateAccountInternalWithStableUserId
+         10    6 000C21C0 CDPCreateAccountProviderInternal
+         11    7 000027B0 CDPCreateActivity
+         12    8 000592C0 CDPCreateActivityAsset
+         13    9 00002690 CDPCreateActivityInternal
+         14    A 000065D0 CDPCreateActivityStoreInfoInternal
+         15    B 002CA1D0 CDPCreateActivityStoreInfoWatcher
+         16    C 002CA310 CDPCreateActivityStoreInfoWatcherForUser
+         17    D 002CA460 CDPCreateActivityStoreInfoWatcherInternal
+         18    E 00014D40 CDPCreateActivityStoreReader
+         19    F 00014F00 CDPCreateActivityStoreReaderForUser
+         20   10 00014FF0 CDPCreateActivityStoreReaderInternal
+         21   11 00162F60 CDPCreateAllDevicesQuery
+         22   12 001630A0 CDPCreateAllDevicesQueryForUser
+         23   13 0000CE20 CDPCreateAnonymousAccount
+         24   14 000AAAA0 CDPCreateAnonymousAccountInternal
+         25   15 0016C590 CDPCreateAppControlClient
+         26   16 0016C6D0 CDPCreateAppControlClientInternal
+         27   17 000C2AA0 CDPCreateAppId
+         28   18 00170200 CDPCreateAppRegistrationManager
+         29   19 00170340 CDPCreateAppRegistrationManagerForUser
+         30   1A 00170490 CDPCreateAppRegistrationManagerInternal
+         31   1B 000AAB50 CDPCreateAzureActiveDirectoryAccount
+         32   1C 0026B0D0 CDPCreateBeaconControl
+         33   1D 0026B210 CDPCreateBeaconControlInternal
+         34   1E 00174850 CDPCreateBinaryClient
+         35   1F 00174960 CDPCreateBinaryClientInternal
+         36   20 00177E80 CDPCreateBinaryHost
+         37   21 00177EA0 CDPCreateBinaryHostInternal
+         38   22 00178000 CDPCreateBinaryHostWithSettings
+         39   23 00048110 CDPCreateCallbackNotifierInternal
+         40   24 000C4710 CDPCreateCloudNotification
+         41   25 000C65F0 CDPCreateComObjectInternal
+         42   26 0002D650 CDPCreateCrossPlatformAppId
+         43   27 000C7790 CDPCreateCrossPlatformAppIdFromAppId
+         44   28 000C78C0 CDPCreateCurrentCrossPlatformAppId
+         45   29 00179230 CDPCreateDedupedDevice
+         46   2A 0017E050 CDPCreateDedupedDeviceQuery
+         47   2B 0017E190 CDPCreateDedupedDeviceQueryForUser
+         48   2C 0017E2E0 CDPCreateDedupedDeviceQueryInternal
+         49   2D 00180340 CDPCreateDedupedDeviceQueryParameters
+         50   2E 00185F00 CDPCreateDeviceInternal
+         51   2F 001631F0 CDPCreateDeviceQuery
+         52   30 00163330 CDPCreateDeviceQueryForSessionInternal
+         53   31 00163540 CDPCreateDeviceQueryForUser
+         54   32 00163690 CDPCreateDeviceQueryInternal
+         55   33 00163810 CDPCreateDeviceQueryWithIdentity
+         56   34 00187690 CDPCreateDirectNotificationHost
+         57   35 000C8C00 CDPCreateEmptyAccountSettings
+         58   36 000CBF20 CDPCreateEnvironmentManagerInternal
+         59   37 000CE540 CDPCreateHttpRequestInternal
+         60   38 00188B30 CDPCreateMessagingHost
+         61   39 00188C80 CDPCreateMessagingHostInternal
+         62   3A 000AABE0 CDPCreateMicrosoftAccount
+         63   3B 0018A360 CDPCreateOrGetDdsRegistrationUserObjectInternal
+         64   3C 000CEB30 CDPCreatePlatformSettingsInternal
+         65   3D 0026B750 CDPCreateRemoteUserInternal
+         66   3E 000D6B40 CDPCreateResource
+         67   3F 000D6EF0 CDPCreateResourceCollection
+         68   40 000D79E0 CDPCreateSettingsInteropInternal
+         69   41 002CE6B0 CDPCreateTask
+         70   42 002CE980 CDPCreateTaskInternal
+         71   43 000D9B00 CDPCreateTelemetryTask
+         72   44 000D9C50 CDPCreateTelemetryTaskInternal
+         73   45 00059410 CDPCreateTestActivityAsset
+         74   46 000DC580 CDPCreateUserInternal
+         75   47 0018B230 CDPCreateUserNotificationClientInternal
+         76   48 0026C0D0 CDPCreateUserServiceNotificationClient
+         77   49 0004A240 CDPCreateUserServiceNotificationClientForUser
+         78   4A 0002B6A0 CDPCreateUuid
+         79   4B 0026D950 CDPFixAccounts
+         80   4C 002CF270 CDPGetAFCInitializer
+         81   4D 000DCE20 CDPGetAccountProviderInternal
+         82   4E 0026DC30 CDPGetAccountsNeedAttention
+         83   4F 000C8D30 CDPGetAccountsSettings
+         84   50 0004A820 CDPGetActivityStore
+         85   51 002D5AE0 CDPGetActivityStoreForAccount
+         86   52 002D5CA0 CDPGetActivityStoreForAccountInternal
+         87   53 002D5E20 CDPGetActivityStoreForStoreInfo
+         88   54 002D5F60 CDPGetActivityStoreForStoreInfoAndUser
+         89   55 002D6140 CDPGetActivityStoreForStoreInfoInternal
+         90   56 0004A890 CDPGetActivityStoreForUser
+         91   57 0004B050 CDPGetActivityStoreInternal
+         92   58 000DFF60 CDPGetCloudNotificationProviderInternal
+         93   59 000E0AD0 CDPGetCoreInitializer
+         94   5A 0018BEB0 CDPGetDeviceCache
+         95   5B 0018BFF0 CDPGetDeviceCacheInternal
+         96   5C 0018D200 CDPGetHost
+         97   5D 000E1CE0 CDPGetLogger
+         98   5E 000E6A20 CDPGetNearShareAuthorizationPolicyOfInteractiveUser
+         99   5F 0018D8F0 CDPGetRelayInitializer
+        100   60 000D7460 CDPGetResourceHandler
+        101   61 000D75E0 CDPGetResourceManager
+        102   62 000E6B90 CDPGetSDKAuthorizationPolicyOfInteractiveUser
+        103   63 0026E010 CDPGetSGSocket
+        104   64 000C2C70 CDPGetSystemAppId
+        105   65 00011760 CDPGetUserActivitySettings
+        106   66 000117D0 CDPGetUserActivitySettingsForUser
+        107   67 00048AA0 CDPGetUserActivitySettingsInternal
+        108   68 000E7BB0 CDPGetUserCollectionInternal
+        109   69 0003EAC0 CDPInitialize
+        110   6A 0018DCB0 CDPInitializeForService
+        111   6B 0026E650 CDPInitializeSGPowerOnPacket
+        112   6C 00275D00 CDPInitializeUserService
+        113   6D 00275DD0 CDPInitializeUserServicePhase2
+        114   6E 0026DE30 CDPIsEnabled
+        115   6F 000E8850 CDPPreShutdown
+        116   70 002D7820 CDPRegisterActivityConflictResolverInternal
+        117   71 000AA400 CDPReleaseNetworkingInternal
+        118   72 0018DE90 CDPResume
+        119   73 000DCFA0 CDPSetAccountProviderInternal
+        120   74 001930F0 CDPSetAppControlHostCallback
+        121   75 00186110 CDPSetExtendedLocalDeviceStatus
+        122   76 000EAA30 CDPSetResourceConfigProvider
+        123   77 00276BC0 CDPSetServicePid
+        124   78 0003E5A0 CDPShutdown
+        125   79 0018E0E0 CDPShutdownBluetooth
+        126   7A 0018E1B0 CDPStartCCSPolling
+        127   7B 0018E1E0 CDPStopCCSPolling
+        128   7C 0018E210 CDPSuspend
+        129   7D 00275E90 CDPUninitializeUserService
+        130   7E 000C91A0 CDPWriteAccountSettings
+        131   7F 0004C660 DllCanUnloadNow
+        132   80 0004BCF0 DllGetClassObject
+        133   81 000A7110 DllRegisterServer
+        134   82 000A7140 DllUnregisterServer
+          3   83 000A7170 GetProxyDllInfo
+
+  Summary
+
+        F000 .data
+        1000 .didat
+       30000 .pdata
+      12F000 .rdata
+        A000 .reloc
+        1000 .rsrc
+      350000 .text

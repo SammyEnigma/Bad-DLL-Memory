@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Microsoft.Uev.AppAgent.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Uev.AppAgent.dll
+
+    00000000 characteristics
+    FE952ECA time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00024EB0 OrdinalOne
+
+  Summary
+
+       11000 .data
+        3000 .detourc
+        1000 .detourd
+        1000 .didat
+        F000 .pdata
+       AC000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      17E000 .text

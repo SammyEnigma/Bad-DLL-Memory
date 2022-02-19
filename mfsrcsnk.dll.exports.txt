@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\mfsrcsnk.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfsrcsnk.dll
+
+    00000000 characteristics
+    37BF9604 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00023E20 DllCanUnloadNow
+          2    1 00020590 DllGetClassObject
+          3    2 000AC950 MFCreateAVIMediaSink
+          4    3 00089F40 MFCreateWAVEMediaSink
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        9000 .pdata
+       36000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      1CA000 .text

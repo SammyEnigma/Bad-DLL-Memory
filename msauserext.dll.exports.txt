@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\msauserext.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSAUSEREXT.dll
+
+    00000000 characteristics
+    14F98632 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001FA0 MsaUI_ClearThreadClientContext
+          2    1 00001FA0 MsaUI_CloseClientContext
+          3    2 00001FB0 MsaUI_CreateClientContext
+          4    3 00001F80 MsaUI_CredUIPromptForWindowsCredentials
+          5    4 00001FF0 MsaUI_LaunchWebAuthFlow
+          6    5 00001FA0 MsaUI_RunWizard
+          7    6 00001FA0 MsaUI_SetThreadClientContext
+          8    7 00001FD0 MsaUi_CreateClientContextFromWab
+          9    8 00001D90 MsaUser_CallerIsLoggedOnUser
+         10    9 00001AF0 MsaUser_CanSetParentWindow
+         11    A 00001B50 MsaUser_CheckIfAppTrusted
+         12    B 00001940 MsaUser_FormatUserDisplayName
+         13    C 00001D00 MsaUser_GetDeviceTelemetryInformation
+         14    D 00001C90 MsaUser_GetDeviceTypeParameterValue
+         15    E 00001C20 MsaUser_GetInlineUxParameterValue
+         16    F 00001A80 MsaUser_GetPlatformQualifier
+         17   10 00001BB0 MsaUser_GetUserRegistrySecurityDescriptor
+         18   11 000019C0 MsaUser_IsChildAccount
+         19   12 00001E50 MsaUser_LoadServiceConfiguration
+         20   13 00001DF0 MsaUser_OverrideTicketRequestForLegacyAdControl
+         21   14 00001A20 MsaUser_WinBioSetMSACredential
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

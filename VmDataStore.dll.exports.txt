@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\VmDataStore.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmDataStore.dll
+
+    00000000 characteristics
+    120948D3 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004EC0 DllCanUnloadNow
+          2    1 00004BE0 DllGetActivationFactory
+          3    2 00004DC0 DllGetClassObject
+
+  Summary
+
+       12000 .data
+        1000 .didat
+        4000 .pdata
+       23000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       40000 .text

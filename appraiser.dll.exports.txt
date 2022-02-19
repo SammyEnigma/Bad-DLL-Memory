@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\appraiser.dll
+
+File Type: DLL
+
+  Section contains the following exports for Appraiser.dll
+
+    00000000 characteristics
+    B18440C3 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005E70 ContainerSetupFunction
+          2    1 00005F00 ContainerSetupWrapper
+          3    2 00006090 DoScheduledTelemetryRun
+          4    3 00005FA0 DoScheduledTelemetryRunTC
+          5    4 000062E0 GetCtacProvider
+          6    5 00005E10 GetProvider
+          7    6 000063E0 GetTargetVersionList
+          8    7 00006160 RunTest
+          9    8 00006120 RunXml
+         10    9 00005E60 Sgd
+         11    A 000060A0 UpdateAvStatus
+         12    B 00005E60 UpdateCacheCompatStatuses
+         13    C 000062D0 UpdateExperienceIndicators
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        9000 .pdata
+       7F000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      165000 .text
+        1000 RT_CODE

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Speech\Common\sapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for sapi.dll
+
+    00000000 characteristics
+    241B22F6 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000319A0 DllCanUnloadNow
+          2    1 000319C0 DllGetClassObject
+          3    2 00031C20 DllRegisterServer
+          4    3 00031D20 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        A000 .pdata
+       25000 .rdata
+        4000 .reloc
+       5B000 .rsrc
+       F0000 .text

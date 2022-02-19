@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wfdprov.dll
+
+File Type: DLL
+
+  Section contains the following exports for Wfdprov.dll
+
+    00000000 characteristics
+    33F3BDF5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001930 WFDProvConfigureAndProvisionDevice
+          2    1 000018F0 WFDProvDeinitialize
+          3    2 00001870 WFDProvGetInfo
+          4    3 000018B0 WFDProvInitialize
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

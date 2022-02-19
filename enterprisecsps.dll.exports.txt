@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\enterprisecsps.dll
+
+File Type: DLL
+
+  Section contains the following exports for ENTERPRISECSPS.dll
+
+    00000000 characteristics
+    36DC19BD time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009FF0 DllCanUnloadNow
+          2    1 00009EC0 DllGetClassObject
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        C000 .pdata
+       5F000 .rdata
+        4000 .reloc
+        6000 .rsrc
+      13E000 .text

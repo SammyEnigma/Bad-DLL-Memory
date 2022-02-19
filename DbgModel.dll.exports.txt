@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DbgModel.dll
+
+File Type: DLL
+
+  Section contains the following exports for dbgmodel.dll
+
+    00000000 characteristics
+    15CB9512 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000119B0 CreateDataModelManager
+
+  Summary
+
+        2000 .data
+        3000 .mrdata
+        5000 .pdata
+       22000 .rdata
+        2000 .reloc
+        5000 .rsrc
+       80000 .text

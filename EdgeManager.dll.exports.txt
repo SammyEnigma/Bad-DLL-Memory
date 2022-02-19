@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\EdgeManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for edgemanager.dll
+
+    00000000 characteristics
+    E18B8958 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          6    0 000198D0 CreateCoreWebViewComponentAndUninitializedCoreWebViewComponentCallbackForWebInstance
+          7    1 00001830 CreateCoreWebViewControl
+          8    2 00019B60 CreateCoreWebViewHostProcess
+          9    3 00019C10 CreateCoreWebViewOOP
+          1    4 00079EA0 CreateEdgeIsoSession
+          2    5 0007E130 CreateWebRuntimeDebugTargetClient
+          3    6 00083CB0 CreateWebRuntimeDebugTargetManager
+          4    7 0007E260 CreateWebRuntimeDiagnosticsTarget
+         10    8 00019EA0 CreateWebViewControlAcceleratorKeyPressedEventArgs
+         11    9 00019FA0 CreateWebViewControlAndInitializeCoreWebViewComponentCallback
+         12    A 0001A3C0 CreateWebViewControlMoveFocusRequestedEventArgs
+         13    B 00015620 DllCanUnloadNow
+         14    C 00015680 DllGetActivationFactory
+         15    D 000156C0 DllGetClassObject
+         16    E 00015750 DllInstall
+         17    F 00015870 DllRegisterServer
+         18   10 000158E0 DllUnregisterServer
+         19   11 0004F9E0 EnsureServiceWorkerEnvironmentForWebView
+          5   12 0004F110 EnsureWebDriverForWebViewHost
+         20   13 0000E6D0 GetProxyDllInfo
+         21   14 00078400 GetWebDriverHostInstance
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       34000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       A3000 .text

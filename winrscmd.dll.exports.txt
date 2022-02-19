@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\winrscmd.dll
+
+File Type: DLL
+
+  Section contains the following exports for winrscmd.dll
+
+    00000000 characteristics
+    C0451748 time date stamp
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013B0 ??0?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ
+          2    1 00001590 ??0?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@AEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z
+          3    2 000016F0 ??0?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@AEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z
+          4    3 00001350 ??1?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ
+          5    4 000014F0 ??1?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@XZ
+          6    5 000016C0 ??1?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ
+          7    6 000011C0 ??1CWSManCriticalSectionWithConditionVar@@QEAA@XZ
+          8    7 00016A98 ??_7?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@6B@
+          9    8 000011E0 ?Acquire@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ
+         10    9 000017B0 ?Acquire@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAXXZ
+         11    A 000016B0 ?Acquired@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA_NXZ
+         12    B 000014D0 ?AsReference@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAAEAV1@XZ
+         13    C 000018C0 ?Data@?$SafeMap_Iterator@VKey@Locale@@K@@IEBAAEAV?$STLMap@VKey@Locale@@K@@XZ
+         14    D 000011F0 ?DeInitialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z
+         15    E 000011B0 ?GetInitError@CWSManCriticalSection@@QEBAKXZ
+         16    F 000017A0 ?GetMap@?$SafeMap_Iterator@VKey@Locale@@K@@QEBAAEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ
+         17   10 000017A0 ?GetMap@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEBAAEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ
+         18   11 00001270 ?Initialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z
+         19   12 000014E0 ?IsValid@?$SafeMap_Iterator@VKey@Locale@@K@@QEBA_NXZ
+         20   13 000011E0 ?Release@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ
+         21   14 00001730 ?Reset@?$SafeMap_Iterator@VKey@Locale@@K@@QEAAXXZ
+         22   15 00001810 ?SkipOrphans@?$SafeMap_Iterator@VKey@Locale@@K@@IEAAXXZ
+         23   16 00001EB0 WSManPluginCommand
+         24   17 00001ED0 WSManPluginReceive
+         25   18 000011E0 WSManPluginReleaseCommandContext
+         26   19 000011E0 WSManPluginReleaseShellContext
+         27   1A 00001EC0 WSManPluginSend
+         28   1B 00001EA0 WSManPluginShell
+         29   1C 00001D50 WSManPluginShutdown
+         30   1D 00001EE0 WSManPluginSignal
+         31   1E 00001B90 WSManPluginStartup
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

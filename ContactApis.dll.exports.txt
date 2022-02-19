@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ContactApis.dll
+
+File Type: DLL
+
+  Section contains the following exports for ContactApis.dll
+
+    00000000 characteristics
+    26647DEE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001D5E0 DllCanUnloadNow
+          2    1 00003D20 DllGetActivationFactory
+          3    2 0001D610 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        C000 .pdata
+       3A000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       AE000 .text

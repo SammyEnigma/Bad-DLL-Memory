@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wkspbrokerAx.dll
+
+File Type: DLL
+
+  Section contains the following exports for wkspbkAx.dll
+
+    00000000 characteristics
+    65CB14AE time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D6C0 DllCanUnloadNow
+          2    1 0000D710 DllGetClassObject
+          3    2 0000DA30 DllInstall
+          4    3 0000D790 DllRegisterServer
+          5    4 0000D910 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        B000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       14000 .text

@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\perfctrs.dll
+
+File Type: DLL
+
+  Section contains the following exports for perfctrs.dll
+
+    00000000 characteristics
+    CF207AC0 time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+         18    0 00005500 CloseDhcpPerformanceData
+          9    1 000023F0 CloseIPXPerformanceData
+         15    2 00002410 CloseNWNBPerformanceData
+          3    3 000023E0 CloseNbfPerformanceData
+         12    4 00002400 CloseSPXPerformanceData
+          6    5 00004EA0 CloseTcpIpPerformanceData
+         17    6 00005260 CollectDhcpPerformanceData
+          8    7 00001B10 CollectIPXPerformanceData
+         14    8 00001B50 CollectNWNBPerformanceData
+          2    9 00001AF0 CollectNbfPerformanceData
+         11    A 00001B30 CollectSPXPerformanceData
+          5    B 00003830 CollectTcpIpPerformanceData
+         16    C 00005030 OpenDhcpPerformanceData
+          7    D 00001020 OpenIPXPerformanceData
+         13    E 000010A0 OpenNWNBPerformanceData
+          1    F 00001010 OpenNbfPerformanceData
+         10   10 00001030 OpenSPXPerformanceData
+          4   11 00003610 OpenTcpIpPerformanceData
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        6000 .text

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\sbeio.dll
+
+File Type: DLL
+
+  Section contains the following exports for sbeio.dll
+
+    00000000 characteristics
+    FDDFF28C time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000018D0 DVRCreateDVRFileSink
+          2    1 00004670 DVRCreateDVRFileSource
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       29000 .text

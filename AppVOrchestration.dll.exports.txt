@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\AppVOrchestration.dll
+
+File Type: DLL
+
+  Section contains the following exports for APPVORCHESTRATION.dll
+
+    00000000 characteristics
+    77884770 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000173D0 Deinitialize
+          4    1 000174F0 GetControllerComponent
+          5    2 000175E0 GetControllerRequests
+          1    3 00017120 Initialize
+          2    4 00017270 InitializeISV
+
+  Summary
+
+        7000 .data
+        4000 .pdata
+       41000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       67000 .text

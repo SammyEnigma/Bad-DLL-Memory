@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\virtdisk.dll
+
+File Type: DLL
+
+  Section contains the following exports for VirtDisk.dll
+
+    00000000 characteristics
+    F7DE1B54 time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000039B0 AddVirtualDiskParent
+          2    1 00007350 ApplySnapshotVhdSet
+          3    2 000097A0 AttachVirtualDisk
+          4    3 00007410 BreakMirrorVirtualDisk
+          5    4 00007480 CompactVirtualDisk
+          6    5 00003130 CompleteForkVirtualDisk
+          7    6 00004520 CreateVirtualDisk
+          8    7 000075E0 DeleteSnapshotVhdSet
+          9    8 0000BA10 DeleteVirtualDiskMetadata
+         10    9 00009B60 DetachVirtualDisk
+         11    A 0000BAA0 EnumerateVirtualDiskMetadata
+         12    B 00007690 ExpandVirtualDisk
+         13    C 000031A0 ForkVirtualDisk
+         14    D 00005D20 GetAllAttachedVirtualDiskPhysicalPaths
+         15    E 00008700 GetStorageDependencyInformation
+         16    F 000062F0 GetVirtualDiskInformation
+         17   10 0000BB90 GetVirtualDiskMetadata
+         18   11 00008550 GetVirtualDiskOperationProgress
+         19   12 00006800 GetVirtualDiskPhysicalPath
+         20   13 00007780 MergeVirtualDisk
+         21   14 000078E0 MirrorVirtualDisk
+         22   15 00007AF0 ModifyVhdSet
+         23   16 00007FB0 OpenVirtualDisk
+         24   17 00006B20 QueryChangesVirtualDisk
+         25   18 0000AB70 RawSCSIVirtualDisk
+         26   19 00007C90 ResizeVirtualDisk
+         27   1A 00006F90 SetVirtualDiskInformation
+         28   1B 0000BCD0 SetVirtualDiskMetadata
+         29   1C 00007EA0 TakeSnapshotVhdSet
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        B000 .text

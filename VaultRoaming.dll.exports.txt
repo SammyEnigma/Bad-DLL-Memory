@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\VaultRoaming.dll
+
+File Type: DLL
+
+  Section contains the following exports for VaultRoaming.DLL
+
+    00000000 characteristics
+    A96CB154 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003BE0 DllCanUnloadNow
+          2    1 00003C20 DllGetClassObject
+          3    2 00003C40 DllInstall
+          4    3 00003D10 DllRegisterServer
+          5    4 00003D70 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       15000 .text

@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\rometadata.dll
+
+File Type: DLL
+
+  Section contains the following exports for RoMetadata.dll
+
+    00000000 characteristics
+    5BBBB6E4 time date stamp Mon Oct  8 21:58:28 2018
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001060 MetaDataGetDispenser
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       26000 .text

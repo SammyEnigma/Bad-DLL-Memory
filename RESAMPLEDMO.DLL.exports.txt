@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\RESAMPLEDMO.DLL
+
+File Type: DLL
+
+  Section contains the following exports for deffile.dll
+
+    00000000 characteristics
+    191BB0C5 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D920 CreateInstance
+          2    1 00008290 DllCanUnloadNow
+          3    2 00001BB0 DllGetClassObject
+          4    3 0000D1B0 DllRegisterServer
+          5    4 0000D3B0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+       26000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\ErrorDetails.dll
+
+File Type: DLL
+
+  Section contains the following exports for ErrorDetails.dll
+
+    00000000 characteristics
+    478C9183 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00004320 DllCanUnloadNow
+          1    1 000044D0 DllGetActivationFactory
+          3    2 000043A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1F000 .text

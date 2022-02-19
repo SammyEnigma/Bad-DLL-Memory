@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmsmb.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmsmb.dll
+
+    00000000 characteristics
+    C4C8DF61 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006300 DllCanUnloadNow
+          2    1 00006330 DllGetClassObject
+          3    2 00006350 DllRegisterServer
+          4    3 00006360 DllUnregisterServer
+
+  Summary
+
+        C000 .data
+        3000 .pdata
+       13000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       34000 .text

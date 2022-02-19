@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\cscdll.dll
+
+File Type: DLL
+
+  Section contains the following exports for CSCDLL.dll
+
+    00000000 characteristics
+    11EDCAA4 time date stamp
+        0.00 version
+           9 ordinal base
+          68 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+         45    0 00002280 CSCDeleteW
+         73    1 000022F0 CSCDisconnectPath
+         14    2 00002360 CSCDoEnableDisable
+         55    3 000023E0 CSCEnumForStatsExW
+         49    4 000023E0 CSCEnumForStatsW
+         10    5 000029A0 CSCFindClose
+         60    6 00002A10 CSCFindFirstFileForSidW
+         43    7 00002B00 CSCFindFirstFileW
+         44    8 00002BE0 CSCFindNextFileW
+          9    9 00002BF0 CSCIsCSCEnabled
+         75    A 00002C90 CSCIsPathOffline
+         50    B 00002D40 CSCIsServerOfflineW
+         40    C 00002EC0 CSCPinFileW
+         42    D 00002F70 CSCQueryFileStatusW
+         11    E 00003000 CSCSetMaxSpace
+         76    F 00003080 CSCTransitionPathOnline
+         52   10 000030F0 CSCTransitionServerOnlineW
+         41   11 00003100 CSCUnpinFileW
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

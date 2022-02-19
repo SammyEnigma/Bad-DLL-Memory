@@ -1,0 +1,60 @@
+
+Dump of file C:\Windows\System32\printui.dll
+
+File Type: DLL
+
+  Section contains the following exports for PRINTUI.dll
+
+    00000000 characteristics
+    66B238A4 time date stamp
+        0.00 version
+           1 ordinal base
+          41 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          7    0 00046C60 ConnectToPrinterDlg
+          1    1 00002B80 ConstructPrinterFriendlyName
+          8    2 0002FFE0 DllCanUnloadNow
+          9    3 0002FFF0 DllGetClassObject
+         10    4 00005660 DllMain
+         11    5 00003070 DllRegisterServer
+         12    6 00003070 DllUnregisterServer
+         13    7 000024F0 DocumentPropertiesWrap
+         14    8 000333D0 LaunchPlatformHelp
+          2    9 00021800 PnPInterface
+         15    A 00048F90 PrintNotifyTray_Exit
+         16    B 00048FC0 PrintNotifyTray_Init
+         17    C 00033520 PrintUIDownloadAndInstallLegacyDriver
+         33    D 00039FE0 PrintUIEntryDPIAwareW
+          3    E 0003A040 PrintUIEntryW
+          4    F 000447D0 PrinterPropPageProvider
+         18   10 00003070 RegisterPrintNotify
+          5   11 00043BA0 ReleaseArgv
+         19   12 000335D0 ShowErrorMessageHR
+         20   13 000336F0 ShowErrorMessageSC
+         21   14 000337D0 ShowHelpLinkDialog
+          6   15 00043C10 StringToArgv
+         22   16 00003070 UnregisterPrintNotify
+         23   17 00002E80 bFolderEnumPrinters
+         24   18 00002E80 bFolderGetPrinter
+         25   19 00002E80 bFolderRefresh
+         26   1A 0002E2D0 bPrinterSetup
+         27   1B 000157D0 vDocumentDefaults
+         28   1C 0001D870 vPrinterPropPages
+         29   1D 000303F0 vQueueCreate
+         30   1E 00014D50 vServerPropPages
+         39      00040680 [NONAME]
+         40      000407B0 [NONAME]
+         41      00030DB0 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       14000 .rdata
+        1000 .reloc
+       13000 .rsrc
+       80000 .text

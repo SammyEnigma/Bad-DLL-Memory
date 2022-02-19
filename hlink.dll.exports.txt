@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\hlink.dll
+
+File Type: DLL
+
+  Section contains the following exports for hlink.dll
+
+    00000000 characteristics
+    19912D1B time date stamp
+        0.00 version
+           3 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+         13    0 00002A70 DllCanUnloadNow
+         17    1 00002A10 DllGetClassObject
+         19    2 0000E370 DllRegisterServer
+         34    3 0000E4B0 DllUnregisterServer
+          7    4 00009CB0 HlinkClone
+          6    5 00008830 HlinkCreateBrowseContext
+         32    6 00009470 HlinkCreateExtensionServices
+          5    7 00008510 HlinkCreateFromData
+          3    8 00007F00 HlinkCreateFromMoniker
+          4    9 00007F80 HlinkCreateFromString
+         23    A 000094A0 HlinkCreateShortcut
+         29    B 000095E0 HlinkCreateShortcutFromMoniker
+         27    C 00009610 HlinkCreateShortcutFromString
+         22    D 00008CB0 HlinkGetSpecialReference
+         28    E 00009BC0 HlinkGetValueFromParams
+         25    F 00009820 HlinkIsShortcut
+         10   10 00009960 HlinkNavigate
+          8   11 000098B0 HlinkNavigateToStringReference
+          9   12 000088E0 HlinkOnNavigate
+         12   13 000089E0 HlinkOnRenameDocument
+         18   14 00009400 HlinkParseDisplayName
+         33   15 00009E80 HlinkPreprocessMoniker
+         20   16 00008740 HlinkQueryCreateFromData
+         14   17 00008FD0 HlinkResolveMonikerForData
+         24   18 00009620 HlinkResolveShortcut
+         30   19 000097A0 HlinkResolveShortcutToMoniker
+         26   1A 000097E0 HlinkResolveShortcutToString
+         15   1B 00009020 HlinkResolveStringForData
+         21   1C 00008A70 HlinkSetSpecialReference
+         31   1D 000101A0 HlinkTranslateURL
+         11   1E 00008970 HlinkUpdateStackItem
+         16   1F 00009140 OleSaveToStreamEx
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1D000 .text

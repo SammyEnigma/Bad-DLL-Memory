@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\dsquery.dll
+
+File Type: DLL
+
+  Section contains the following exports for dsquery.dll
+
+    00000000 characteristics
+    7F42DD95 time date stamp
+        0.00 version
+         256 ordinal base
+         266 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+        259    0 00001AD0 DllCanUnloadNow
+        260    1 00001AF0 DllGetClassObject
+        261    2 00001BD0 DllInstall
+        262    3 00001B90 DllRegisterServer
+        263    4 00001BB0 DllUnregisterServer
+        258    5 00001C70 OpenQueryWindow
+        256    6 00001DF0 OpenSavedDsQuery
+        257    7 00001DE0 OpenSavedDsQueryW
+        512      0000A2D0 [NONAME]
+        513      0000A420 [NONAME]
+        514      0000A650 [NONAME]
+        515      0000A850 [NONAME]
+        516      0000AE20 [NONAME]
+        517      0000AD90 [NONAME]
+        518      0000AF50 [NONAME]
+        519      0000AA60 [NONAME]
+        520      0000ACB0 [NONAME]
+        521      0000AE90 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text

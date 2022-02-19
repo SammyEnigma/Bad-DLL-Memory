@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\ipnathlp.dll
+
+File Type: DLL
+
+  Section contains the following exports for IPNATHLP.dll
+
+    00000000 characteristics
+    83201BAE time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+         16    0 00008D60 NatAcquirePortReservation
+         17    1 00009460 NatCancelDynamicRedirect
+         18    2 000094F0 NatCancelRedirect
+         19    3 00009640 NatCreateDynamicFullRedirect
+         20    4 00009890 NatCreateDynamicRedirect
+         21    5 00009900 NatCreateDynamicRedirectEx
+         22    6 00009980 NatCreateRedirect
+         23    7 00009A20 NatCreateRedirectEx
+         24    8 00008E90 NatInitializePortReservation
+         25    9 00009C70 NatInitializeTranslator
+         26    A 00009E40 NatLookupAndQueryInformationSessionMapping
+         27    B 0000A710 NatQueryInformationRedirect
+         28    C 0000A9C0 NatQueryInformationRedirectHandle
+         29    D 000092E0 NatReleasePortReservation
+         30    E 000093E0 NatShutdownPortReservation
+         31    F 0000AA30 NatShutdownTranslator
+          1   10 00005B60 NhAcceptStreamSocket
+          2   11 000013D0 NhAcquireFixedLengthBuffer
+          3   12 00001430 NhAcquireVariableLengthBuffer
+          4   13 00006310 NhCreateDatagramSocket
+          5   14 00006A00 NhCreateStreamSocket
+          6   15 00006D70 NhDeleteSocket
+          7   16 000016A0 NhInitializeBufferManagement
+          8   17 00004B90 NhInitializeTraceManagement
+          9   18 000071E0 NhReadDatagramSocket
+         10   19 00007530 NhReadStreamSocket
+         11   1A 00001750 NhReleaseBuffer
+         12   1B 00007860 NhWriteDatagramSocket
+         13   1C 00007AD0 NhWriteStreamSocket
+         14   1D 00004570 RegisterProtocol
+         32   1E 0003E810 ServiceMain
+         15   1F 0003E4C0 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       10000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       7E000 .text

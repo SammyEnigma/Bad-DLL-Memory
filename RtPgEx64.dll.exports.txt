@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\RtPgEx64.dll
+
+File Type: DLL
+
+  Section contains the following exports for RtkPgExt.DLL
+
+    00000000 characteristics
+    59085E6D time date stamp Tue May  2 12:24:45 2017
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00029FEC DllCanUnloadNow
+          2    1 0002A018 DllGetClassObject
+          3    2 0002A138 DllRegisterServer
+          4    3 0002A250 DllUnregisterServer
+
+  Summary
+
+       10000 .data
+        8000 .pdata
+        6000 .reloc
+      213000 .rsrc
+       DC000 .text

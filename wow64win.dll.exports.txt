@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\wow64win.dll
+
+File Type: DLL
+
+  Section contains the following exports for wow64win.dll
+
+    00000000 characteristics
+    B6983D95 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00050E90 sdwhcon
+          2    1 00050EC0 sdwhwin32
+
+  Summary
+
+        4000 .data
+        D000 .pdata
+       29000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       45000 .text

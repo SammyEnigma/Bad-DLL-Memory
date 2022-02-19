@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\Microsoft-Windows-MapControls.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       1C000 .rsrc

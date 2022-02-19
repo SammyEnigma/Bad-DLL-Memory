@@ -1,0 +1,52 @@
+
+Dump of file C:\Windows\System32\newdev.dll
+
+File Type: DLL
+
+  Section contains the following exports for newdev.dll
+
+    00000000 characteristics
+    70ABC341 time date stamp
+        0.00 version
+           1 ordinal base
+          26 number of functions
+          26 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00032390 CheckDriverSoftwareDependenciesSatisfied
+          2    1 000291C0 DeviceInternetSettingUiW
+          3    2 00017AD0 DiInstallDevice
+          4    3 00018170 DiInstallDriverA
+          5    4 00018210 DiInstallDriverW
+          6    5 00024580 DiRollbackDriver
+          7    6 00018520 DiShowUpdateDevice
+          8    7 00018740 DiShowUpdateDriver
+          9    8 00018910 DiUninstallDevice
+         10    9 00018AE0 DiUninstallDriverA
+         11    A 00018B80 DiUninstallDriverW
+         12    B 00026A10 GetInternetPolicies
+         13    C 00004490 InstallLegacyDeviceDriver
+         14    D 00018FD0 InstallNewDevice
+         15    E 00019080 InstallSelectedDriver
+         16    F 00019190 InstallWindowsUpdateDriver
+         17   10 000191C0 InstallWindowsUpdateDriverEx
+         18   11 00019350 InstallWindowsUpdateDrivers
+         19   12 00001CF0 QueryWindowsUpdateDriverStatus
+         20   13 00031470 SetDriverPackageRestorePoint
+         21   14 00028180 SetInternetPolicies
+         22   15 00019810 UpdateDriverForPlugAndPlayDevicesA
+         23   16 000198F0 UpdateDriverForPlugAndPlayDevicesW
+         24   17 00019FA0 pDiDoDeviceInstallAsAdmin
+         25   18 0001A100 pDiDoNullDriverInstall
+         26   19 0001A1D0 pDiRunFinishInstallOperations
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3D000 .text

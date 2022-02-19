@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\migration\AppManMigrationPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppManMigrationPlugin.dll
+
+    00000000 characteristics
+    162D86C6 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B570 DllCanUnloadNow
+          2    1 0000B260 DllGetClassObject
+          3    2 0000B5B0 DllMain
+          4    3 0000B3A0 DllRegisterServer
+          5    4 0000B4D0 DllUnregisterServer
+
+  Summary
+
+        A000 .data
+        9000 .pdata
+       4C000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       D2000 .text

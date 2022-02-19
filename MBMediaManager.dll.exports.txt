@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MBMediaManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for MBMediaManager.dll
+
+    00000000 characteristics
+    D31579ED time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007000 DllCanUnloadNow
+          2    1 00006D30 DllGetActivationFactory
+          3    2 00006F10 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        5000 .pdata
+       34000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       7B000 .text

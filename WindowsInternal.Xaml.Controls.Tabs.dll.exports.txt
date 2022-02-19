@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\ShellExperiences\WindowsInternal.Xaml.Controls.Tabs.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsInternal.Xaml.Controls.Tabs.dll
+
+    00000000 characteristics
+    6E9C213B time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00133040 DllCanUnloadNow
+          2    1 00133060 DllGetActivationFactory
+
+  Summary
+
+       14000 .data
+       10000 .pdata
+       3F000 .rdata
+        5000 .reloc
+        1000 .rsrc
+      13B000 .text

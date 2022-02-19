@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\bcryptprimitives.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcryptPrimitives.dll
+
+    00000000 characteristics
+    E9D3D417 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001F980 GetAsymmetricEncryptionInterface
+          2    1 00019910 GetCipherInterface
+          3    2 00014460 GetHashInterface
+          4    3 00025120 GetKeyDerivationInterface
+          5    4 00020940 GetRngInterface
+          6    5 0001EFF0 GetSecretAgreementInterface
+          7    6 00020A90 GetSignatureInterface
+          8    7 000436C0 MSCryptConvertRsaPrivateBlobToFullRsaBlob
+          9    8 00015010 ProcessPrng
+         10    9 00043570 ProcessPrngGuid
+
+  Summary
+
+        1000 .data
+        4000 .pdata
+       16000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       64000 .text

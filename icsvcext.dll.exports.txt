@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\icsvcext.dll
+
+File Type: DLL
+
+  Section contains the following exports for icsvcext.dll
+
+    00000000 characteristics
+    719BB39E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005580 DllRegisterServer
+          2    1 00005580 DllUnregisterServer
+          3    2 00005590 RdvServiceMain
+          4    3 000055B0 VssServiceMain
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        2000 .pdata
+       1E000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       28000 .text

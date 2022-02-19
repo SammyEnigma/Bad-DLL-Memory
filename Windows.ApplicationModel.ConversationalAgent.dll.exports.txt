@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.ApplicationModel.ConversationalAgent.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.ConversationalAgent.dll
+
+    00000000 characteristics
+    4D385425 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E50 DllCanUnloadNow
+          2    1 00001B80 DllGetActivationFactory
+          3    2 00001D60 DllGetClassObject
+
+  Summary
+
+       34000 .data
+        4000 .pdata
+       46000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       3F000 .text

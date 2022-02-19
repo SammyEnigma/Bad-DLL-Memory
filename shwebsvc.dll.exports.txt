@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\shwebsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for SHWEBSVC.dll
+
+    00000000 characteristics
+    CBCE7C84 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000045A0 AddNetPlaceRunDll
+          3    1 00004D60 DllCanUnloadNow
+          4    2 00004D80 DllGetClassObject
+          2    3 00009B30 PublishRunDll
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+       4B000 .rsrc
+       1D000 .text

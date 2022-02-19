@@ -1,0 +1,88 @@
+
+Dump of file C:\Windows\System32\SensorsUtilsV2.dll
+
+File Type: DLL
+
+  Section contains the following exports for SensorsUtilsV2.dll
+
+    00000000 characteristics
+    CEB0C82C time date stamp
+        0.00 version
+           1 ordinal base
+          62 number of functions
+          62 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007FE0 AddMillisecondsToFileTime
+          2    1 00009C40 CollectionsListAllocateBufferAndSerialize
+          3    2 00008F60 CollectionsListCopyAndMarshall
+          4    3 00009DE0 CollectionsListDeserializeFromBuffer
+          5    4 0000B740 CollectionsListGetFillableCount
+          6    5 00008F40 CollectionsListGetMarshalledSize
+          7    6 000093C0 CollectionsListGetMarshalledSizeWithoutSerialization
+          8    7 00009670 CollectionsListGetSerializedSize
+          9    8 00009110 CollectionsListMarshall
+         10    9 000098C0 CollectionsListSerializeToBuffer
+         11    A 0000C0D0 CollectionsListSortSubscribedActivitiesByConfidence
+         12    B 000092B0 CollectionsListUpdateMarshalledPointer
+         13    C 0000AE60 ConvertAccelerometerDataToCollection
+         14    D 0000A4B0 ConvertCollectionToAccelerometerData
+         15    E 0000A840 ConvertCollectionToGyroscopeData
+         16    F 0000A580 ConvertCollectionToLightSensorData
+         17   10 0000A5B0 ConvertCollectionToLightSensorDataWithColor
+         18   11 0000A8B0 ConvertCollectionToMagnetometerData
+         19   12 0000A960 ConvertCollectionToOrientationData
+         20   13 0000ACB0 ConvertCollectionToProximitySensorData
+         21   14 0000AD80 ConvertFloat3DDataToCollection
+         22   15 0000B140 ConvertGyroscopeDataToCollection
+         23   16 0000AF40 ConvertLightSensorDataToCollection
+         24   17 0000AFC0 ConvertLightSensorDataWithColorToCollection
+         25   18 0000B1B0 ConvertMagnetometerDataToCollection
+         26   19 0000B280 ConvertOrientationDataToCollection
+         27   1A 0000B580 ConvertProximitySensorDataToCollection
+         28   1B 0000B640 ConvertSimpleOrientationDataToCollection
+         29   1C 0000B9E0 EvaluateActivityThresholds
+         30   1D 00007F90 GetFileTimeDifference
+         31   1E 00007F70 GetFileTimeFromTimeStamp
+         32   1F 00007E80 GetPerformanceTime
+         33   20 00007AE0 GetSetting
+         34   21 00007F70 GetTimeStampFromFileTime
+         35   22 00008020 InitPropVariantFromCLSIDArray
+         36   23 000080C0 InitPropVariantFromFloat
+         37   24 00008BD0 IsCollectionListSame
+         38   25 0000C6F0 IsGUIDPresentInList
+         39   26 00008B20 IsKeyPresentInCollectionList
+         40   27 00008AC0 IsKeyPresentInPropertyList
+         41   28 0000C640 IsSensorSubscribed
+         42   29 0000B7A0 MapActivityConfidenceToState
+         43   2A 00008360 PropKeyFindKeyGetBool
+         44   2B 00008670 PropKeyFindKeyGetDouble
+         45   2C 000082D0 PropKeyFindKeyGetFileTime
+         46   2D 000085E0 PropKeyFindKeyGetFloat
+         47   2E 00008400 PropKeyFindKeyGetGuid
+         48   2F 00008710 PropKeyFindKeyGetInt32
+         49   30 000087B0 PropKeyFindKeyGetInt64
+         50   31 000089F0 PropKeyFindKeyGetNthInt64
+         51   32 00008850 PropKeyFindKeyGetNthUlong
+         52   33 00008920 PropKeyFindKeyGetNthUshort
+         53   34 000080F0 PropKeyFindKeyGetPropVariant
+         54   35 000084A0 PropKeyFindKeyGetUlong
+         55   36 00008540 PropKeyFindKeyGetUshort
+         56   37 000081E0 PropKeyFindKeySetPropVariant
+         57   38 00008D10 PropVariantGetInformation
+         58   39 00008E70 PropertiesListCopy
+         59   3A 0000B770 PropertiesListGetFillableCount
+         60   3B 0000B6C0 SensorCollectionGetAt
+         61   3C 000094C0 SerializationBufferAllocate
+         62   3D 00009530 SerializationBufferFree
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        9000 .rsrc
+       13000 .text

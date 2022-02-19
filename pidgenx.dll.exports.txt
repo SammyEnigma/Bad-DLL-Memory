@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\pidgenx.dll
+
+File Type: DLL
+
+  Section contains the following exports for pidgenx.dll
+
+    00000000 characteristics
+    2E62DC95 time date stamp
+        0.00 version
+         117 ordinal base
+           4 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+        118    0 00002F10 GetPKeyData
+        119    1 00001B70 PidGenX
+        120    2 000014F0 PidGenX2
+        117      00001C10 [NONAME]
+
+  Summary
+
+        2000 .data
+        5000 .pdata
+       3D000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       C3000 .text

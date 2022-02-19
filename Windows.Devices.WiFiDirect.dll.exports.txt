@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.WiFiDirect.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.WiFiDirect.dll
+
+    00000000 characteristics
+    E2757B4D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E50 DllCanUnloadNow
+          2    1 00001EC0 DllGetActivationFactory
+          3    2 000020A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       28000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       4C000 .text

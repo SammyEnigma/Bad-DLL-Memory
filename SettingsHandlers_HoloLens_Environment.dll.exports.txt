@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_HoloLens_Environment.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_HoloLens_Environment.dll
+
+    00000000 characteristics
+     62692B8 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008F10 GetSetting
+
+  Summary
+
+       10000 .data
+        4000 .pdata
+       1D000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       3F000 .text

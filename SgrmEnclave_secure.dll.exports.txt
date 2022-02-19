@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\SgrmEnclave_secure.dll
+
+File Type: DLL
+
+  Section contains the following exports for SgrmEnclave_secure.dll
+
+    00000000 characteristics
+    C714CA3B time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000F530 EngHostAttest
+          2    1 0000F1D0 EngHostCreateAttestationClient
+          3    2 0000F370 EngHostDestroyAttestationClient
+          4    3 0000E210 EngHostDispatchThread
+          5    4 0000E600 EngHostGetRuntimeReport
+          6    5 0000F0A0 EngHostGetSessionCertificate
+          7    6 0000E4D0 EngHostGetSessionReport
+          8    7 0000D8E0 EngHostInitialize
+          9    8 0000E3B0 EngHostNotify
+         10    9 0000DBB0 EngHostReinitialize
+         11    A 0000E140 EngHostShutdown
+
+  Summary
+
+        4000 .data
+        5000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       46000 .text
+        2000 PAGE
+        4000 PAGECONS
+        1000 PAGEDATA

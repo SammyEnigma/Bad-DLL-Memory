@@ -1,0 +1,10 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\Modules\UEV\Microsoft.Uev.Commands.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .reloc
+        2000 .rsrc
+       14000 .text

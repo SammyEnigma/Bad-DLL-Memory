@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\tellib.dll
+
+File Type: DLL
+
+  Section contains the following exports for TelLib.dll
+
+    00000000 characteristics
+    1CF9BA39 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012C60 TelLib_Cleanup
+          2    1 00013390 TelLib_ConfigureSetting
+          3    2 00013CC0 TelLib_EventWrite
+          4    3 00013C40 TelLib_ForceUpload
+          5    4 00012B60 TelLib_Initialize
+          6    5 00012BC0 TelLib_Initialize2
+          7    6 00013B70 TelLib_SetAgentConnectivityCallback
+          8    7 00013830 TelLib_SetBandwidthExceededChangedCallback
+          9    8 00013520 TelLib_SetBatteryState
+         10    9 00013680 TelLib_SetConnectedStandby
+         11    A 00012DA0 TelLib_SetDailyUploadQuota
+         12    B 000139D0 TelLib_SetDiskActivityCallback
+         13    C 00012E40 TelLib_SetDiskQuota
+         14    D 00013620 TelLib_SetGeneralQuietMode
+         15    E 00013900 TelLib_SetNetworkActivityCallback
+         16    F 00012F90 TelLib_SetNetworkImpersonationContext
+         17   10 000136E0 TelLib_SetNetworkState
+         18   11 00012FF0 TelLib_SetProxyInfo
+         19   12 00012EE0 TelLib_SetTenantToken
+         20   13 000137A0 TelLib_SetTimerValue
+         21   14 00013AA0 TelLib_SetUploadFailedCallback
+         22   15 00013120 TelLib_SetUploadUrls
+
+  Summary
+
+        D000 .data
+        1000 .didat
+       18000 .pdata
+       AA000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      2E4000 .text
+        1000 RT_CODE

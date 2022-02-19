@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\NetSetupEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetSetupEngine.dll
+
+    00000000 characteristics
+    4FDB0095 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00043EC0 NetSetupGetEngine
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        8000 .pdata
+       3A000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       78000 .text

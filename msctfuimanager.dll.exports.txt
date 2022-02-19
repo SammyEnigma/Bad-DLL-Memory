@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\msctfuimanager.dll
+
+File Type: DLL
+
+  Section contains the following exports for MsctfUIManager.dll
+
+    00000000 characteristics
+    F6E99BA7 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004E20 DllCanUnloadNow
+          2    1 00004CE0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       18000 .rdata
+        2000 .reloc
+       57000 .rsrc
+       4C000 .text

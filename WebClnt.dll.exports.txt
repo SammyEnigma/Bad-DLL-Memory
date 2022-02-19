@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\WebClnt.dll
+
+File Type: DLL
+
+  Section contains the following exports for webclnt.dll
+
+    00000000 characteristics
+    C9619E1F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000DB40 DavClose
+          2    1 0000D760 DavInit
+          3    2 000267F0 ServiceMain
+          4    3 000263B0 SvchostPushServiceGlobals
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       30000 .text

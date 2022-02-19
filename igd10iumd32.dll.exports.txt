@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igd10iumd32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igd10iumd32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0082FC00 GTPin_Init
+          1    1 0001B550 OpenAdapter10
+          2    2 0001B900 OpenAdapter10_2
+
+  Summary
+
+       3F000 .data
+      697000 .rdata
+       C6000 .reloc
+       4B000 .rsrc
+      973000 .text

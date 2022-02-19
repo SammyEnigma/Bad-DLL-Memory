@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\wpx.dll
+
+File Type: DLL
+
+  Section contains the following exports for wpx.dll
+
+    00000000 characteristics
+     B42C681 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001220 WpxCreateConfig
+          2    1 00052C00 WpxCreateWriteOpt
+          3    2 00053040 WpxGetAnswerFileType
+          4    3 0002AFD0 WpxGetDeplSettings
+          5    4 0002B280 WpxResetDeplSettings
+          6    5 0002B140 WpxSetDeplSettings
+          7    6 00006B30 WpxSetLogger
+          8    7 00007670 WpxSetScratchDirectory
+
+  Summary
+
+        7000 .data
+        5000 .pdata
+       5E000 .rdata
+        2000 .reloc
+       35000 .rsrc
+       A2000 .text
+        3000 PAGE

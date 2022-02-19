@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\XAudio2_9.dll
+
+File Type: DLL
+
+  Section contains the following exports for XAudio2_9.dll
+
+    00000000 characteristics
+    A602D00A time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0003EFE0 CreateAudioReverb
+          7    1 0003F060 CreateAudioReverbV2_8
+          3    2 0003EF00 CreateAudioVolumeMeter
+          4    3 00063B70 CreateFX
+          5    4 0003E940 X3DAudioCalculate
+          6    5 0003D330 X3DAudioInitialize
+          1    6 00003D50 XAudio2Create
+          8    7 00003D50 XAudio2CreateV2_9
+         10    8 00003D90 XAudio2CreateWithSharedContexts
+          9    9 00003D70 XAudio2CreateWithVersionInfo
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .no_bbt
+        4000 .pdata
+       24000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       6D000 .text

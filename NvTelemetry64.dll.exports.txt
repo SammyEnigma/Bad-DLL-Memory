@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\NvTelemetry64.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvTelemetry64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000673E0 DeviceId
+          2    1 000675B0 DeviceIdFree
+          3    2 00066D70 GetDeviceTelemetryConsent
+          4    3 00066700 GetUserTelemetryConsent
+          5    4 00064EF0 InitializeTelemetryStandalone
+          6    5 00065140 InitializeTelemetryStandaloneWithDeviceId
+          7    6 0005EBA0 NvPluginGetInfo
+          8    7 00065A60 NvTelemetrySendAnonymousEvent
+          9    8 000656B0 NvTelemetrySendEvent
+         10    9 00065E10 NvTelemetrySendFeedback
+         11    A 00065E30 NvTelemetrySendFeedback_2
+         12    B 00065490 NvTelemetrySetAbContext
+         13    C 00067110 SetDeviceTelemetryConsent
+         14    D 00066AA0 SetUserTelemetryConsent
+         15    E 000653E0 UninitializeTelemetry
+
+  Summary
+
+       2B000 .data
+       20000 .pdata
+       FD000 .rdata
+        8000 .reloc
+        1000 .rsrc
+      2F5000 .text
+        1000 _RDATA

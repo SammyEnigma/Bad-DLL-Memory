@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\oobe\oobecoreadapters.dll
+
+File Type: DLL
+
+  Section contains the following exports for oobecoreadapters.dll
+
+    00000000 characteristics
+    BECD67FD time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006240 DllCanUnloadNow
+          2    1 00005EF0 DllGetActivationFactory
+          3    2 000060D0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       2D000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       57000 .text

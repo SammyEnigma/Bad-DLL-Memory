@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\bisrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for bisrv.dll
+
+    00000000 characteristics
+    303EC2FC time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000373C0 PsmBiExtInitialize
+          2    1 0003C710 PsmBiExtNotifyAppState
+          3    2 0002CE30 PsmBiExtNotifySessionStateChange
+          4    3 000303B0 PsmBiExtNotifySessionUserStateChange
+          5    4 0005C590 PsmBiExtNotifyWerReportProgress
+          6    5 0005C5A0 PsmBiExtPrepareToSuspendPackage
+          7    6 0005C5B0 PsmBiExtResumePackage
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        8000 .pdata
+       2C000 .rdata
+        2000 .reloc
+        C000 .rsrc
+       8F000 .text

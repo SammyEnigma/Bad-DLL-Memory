@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ttdloader.dll
+
+File Type: DLL
+
+  Section contains the following exports for TTDLoader.dll
+
+    00000000 characteristics
+    1D320A17 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001330 InjectThread
+          2    1 00003018 ParametersBlock
+          3    2 00001010 StubDllEntry
+          4    3 00003010 ntdllLdrInitializeThunk
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

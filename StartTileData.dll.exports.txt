@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\StartTileData.dll
+
+File Type: DLL
+
+  Section contains the following exports for StartTileData.dll
+
+    00000000 characteristics
+     A80F7F1 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000CBA00 DllCanUnloadNow
+          2    1 000B5A80 DllGetActivationFactory
+          3    2 000D8AE0 DllGetClassObject
+          4    3 001FB980 GetSetting
+          5    4 001196E0 HasMigratedTDLData
+          6    5 00306010 TryMigrateTDLData
+
+  Summary
+
+       17000 .data
+        1000 .didat
+       42000 .pdata
+      110000 .rdata
+        E000 .reloc
+        1000 .rsrc
+      407000 .text

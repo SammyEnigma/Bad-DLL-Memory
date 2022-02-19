@@ -1,0 +1,52 @@
+
+Dump of file C:\Windows\System32\psapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for PSAPI.DLL
+
+    00000000 characteristics
+     F828C32 time date stamp
+        0.00 version
+           1 ordinal base
+          27 number of functions
+          27 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013C0 EmptyWorkingSet
+          2    1 00001090 EnumDeviceDrivers
+          3    2 000013E0 EnumPageFilesA
+          4    3 00001400 EnumPageFilesW
+          5    4 00001010 EnumProcessModules
+          6    5 00001420 EnumProcessModulesEx
+          7    6 00001030 EnumProcesses
+          8    7 00001440 GetDeviceDriverBaseNameA
+          9    8 000010B0 GetDeviceDriverBaseNameW
+         10    9 00001460 GetDeviceDriverFileNameA
+         11    A 00001480 GetDeviceDriverFileNameW
+         12    B 000014A0 GetMappedFileNameA
+         13    C 000014C0 GetMappedFileNameW
+         14    D 000014E0 GetModuleBaseNameA
+         15    E 000010D0 GetModuleBaseNameW
+         16    F 00001500 GetModuleFileNameExA
+         17   10 00001050 GetModuleFileNameExW
+         18   11 000010F0 GetModuleInformation
+         19   12 00001520 GetPerformanceInfo
+         20   13 00001540 GetProcessImageFileNameA
+         21   14 00001070 GetProcessImageFileNameW
+         22   15 00001560 GetProcessMemoryInfo
+         23   16 000015A0 GetWsChanges
+         24   17 00001580 GetWsChangesEx
+         25   18 000015C0 InitializeProcessForWsWatch
+         26   19 00001600 QueryWorkingSet
+         27   1A 000015E0 QueryWorkingSetEx
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

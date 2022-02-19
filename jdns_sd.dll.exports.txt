@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\jdns_sd.dll
+
+File Type: DLL
+
+  Section contains the following exports for jdns_sd.dll
+
+    00000000 characteristics
+    55CBCCF2 time date stamp Thu Aug 13 00:47:14 2015
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001530 Java_com_apple_dnssd_AppleBrowser_CreateBrowser
+          2    1 00002B70 Java_com_apple_dnssd_AppleDNSRecord_Remove
+          3    2 000028D0 Java_com_apple_dnssd_AppleDNSRecord_Update
+          4    3 000039D0 Java_com_apple_dnssd_AppleDNSSD_ConstructName
+          5    4 00003D10 Java_com_apple_dnssd_AppleDNSSD_GetIfIndexForName
+          6    5 00003C60 Java_com_apple_dnssd_AppleDNSSD_GetNameForIfIndex
+          7    6 00001000 Java_com_apple_dnssd_AppleDNSSD_InitLibrary
+          8    7 00003B60 Java_com_apple_dnssd_AppleDNSSD_ReconfirmRecord
+          9    8 00003700 Java_com_apple_dnssd_AppleDomainEnum_BeginEnum
+         10    9 00003310 Java_com_apple_dnssd_AppleQuery_CreateQuery
+         11    A 00002D60 Java_com_apple_dnssd_AppleRecordRegistrar_CreateConnection
+         12    B 00002E60 Java_com_apple_dnssd_AppleRecordRegistrar_RegisterRecord
+         13    C 00002680 Java_com_apple_dnssd_AppleRegistration_AddRecord
+         14    D 00002140 Java_com_apple_dnssd_AppleRegistration_BeginRegister
+         15    E 00001C00 Java_com_apple_dnssd_AppleResolver_CreateResolver
+         16    F 000011A0 Java_com_apple_dnssd_AppleService_BlockForData
+         17   10 00001080 Java_com_apple_dnssd_AppleService_HaltOperation
+         18   11 00001360 Java_com_apple_dnssd_AppleService_ProcessResults
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\Windows.StateRepository.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.StateRepository.dll
+
+    00000000 characteristics
+    91B511AC time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00042C40 ServiceMain
+          3    1 000921E0 StateRepository_DataAccessLayer_DatabaseCache_Add
+          4    2 00092220 StateRepository_DataAccessLayer_DatabaseCache_Get
+          5    3 00092270 StateRepository_Initialize
+          6    4 0009B370 StateRepository_Service_UpdateStatus
+          7    5 00092280 StateRepository_Shutdown
+          2    6 0005ACD0 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+       27000 .pdata
+      229000 .rdata
+       12000 .reloc
+        B000 .rsrc
+      31B000 .text

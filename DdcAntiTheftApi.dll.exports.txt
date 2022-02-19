@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DdcAntiTheftApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for DdcAntiTheftApi.dll
+
+    00000000 characteristics
+    AF1F5058 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001340 AntiTheftAckProtectionEnabled
+          2    1 000012C0 AntiTheftCheckProtectionStatus
+          3    2 00001150 AntiTheftProtectDevice
+          4    3 00001220 AntiTheftUnprotectDevice
+          5    4 000013E0 AntiTheftUnprotectDeviceFromOOBE
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

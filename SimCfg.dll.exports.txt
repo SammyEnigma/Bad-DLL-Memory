@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\SimCfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for SimPeerConfigDll.dll
+
+    00000000 characteristics
+    61B80CC0 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00004FA0 EapPeerConfigBlob2Xml
+          5    1 00004CC0 EapPeerConfigXml2Blob
+          6    2 00005250 EapPeerCredentialsXml2Blob
+          7    3 00004680 EapPeerFreeErrorMemory
+          8    4 000045D0 EapPeerFreeMemory
+          9    5 00006420 EapPeerGetConfigBlobAndUserBlob
+          1    6 00005B90 EapPeerGetIdentityPageGuid
+         10    7 000047A0 EapPeerInvokeConfigUI
+         11    8 000057A0 EapPeerInvokeIdentityUI
+         12    9 00005600 EapPeerInvokeInteractiveUI
+          2    A 00006830 InternalFunction01
+          3    B 000075B0 InternalFunction02
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

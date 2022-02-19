@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\AudioSes.dll
+
+File Type: DLL
+
+  Section contains the following exports for AudioSes.DLL
+
+    00000000 characteristics
+    63419A80 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          6    0 00010740 DllCanUnloadNow
+          8    1 0000F380 DllGetActivationFactory
+          9    2 000214B0 DllGetClassObject
+         10    3 0004A030 DllRegisterServer
+         11    4 0004A0E0 DllUnregisterServer
+          1      000B1AE0 [NONAME]
+          2      000B1BE0 [NONAME]
+          3      000B1B60 [NONAME]
+          4      000527A0 [NONAME]
+          5      000573E0 [NONAME]
+          7      0002B2D0 [NONAME]
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        F000 .pdata
+       57000 .rdata
+        6000 .reloc
+       10000 .rsrc
+       FF000 .text
+        1000 RT_BSS
+        1000 RT_CODE
+        1000 RT_CONST
+        1000 RT_DATA

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\comrepl.dll
+
+File Type: DLL
+
+  Section contains the following exports for ComRepl.DLL
+
+    00000000 characteristics
+    E346FA53 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011E0 DllCanUnloadNow
+          2    1 00001200 DllGetClassObject
+          3    2 00001220 DllRegisterServer
+          4    3 000012F0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       16000 .text

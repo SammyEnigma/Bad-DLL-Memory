@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MFMediaEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for MFMediaEngine.dll
+
+    00000000 characteristics
+    90F8ABE2 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000DC880 DllCanUnloadNow
+          2    1 000DDAD0 DllGetActivationFactory
+          3    2 0003F9B0 DllGetClassObject
+
+  Summary
+
+        5000 .data
+        1000 .didat
+       20000 .pdata
+       B8000 .rdata
+        8000 .reloc
+       15000 .rsrc
+      329000 .text

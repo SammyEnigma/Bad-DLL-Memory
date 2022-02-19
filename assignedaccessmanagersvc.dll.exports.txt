@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\assignedaccessmanagersvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for assignedaccessmanagersvc.dll
+
+    00000000 characteristics
+    C60F48BC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00009F30 DllCanUnloadNow
+          4    1 00009F60 DllGetClassObject
+          1    2 0000A880 ServiceMain
+          2    3 0000A0E0 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       33000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       9E000 .text

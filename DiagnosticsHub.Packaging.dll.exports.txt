@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DiagSvcs\DiagnosticsHub.Packaging.dll
+
+File Type: DLL
+
+  Section contains the following exports for Exports.dll
+
+    00000000 characteristics
+     63BBF2A time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00010C80 CreatePackageFactory
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\WFDSConMgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for WFDSConMgr.dll
+
+    00000000 characteristics
+    7AA1A011 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001CD0 WFDSConMgrCloseSessionContext
+          1    1 00002E20 WFDSConMgrConfigureFirewallForInfraCast
+          3    2 00001F60 WFDSConMgrConnect
+          4    3 000024B0 WFDSConMgrConnectTransport
+          5    4 00002BD0 WFDSConMgrDisconnect
+          6    5 00002CF0 WFDSConMgrDisconnectTransport
+          7    6 00002E30 WFDSConMgrFreeMemory
+          8    7 00001D80 WFDSConMgrGetOpenSessionList
+          9    8 00002ED0 WFDSConMgrGetTransportBitmaskFromMultistring
+         10    9 000025E0 WFDSConMgrIntCompleteInfracastConnection
+         11    A 00002700 WFDSConMgrIntGetInfracastBackchannelParams
+         12    B 00005FB0 WFDSConMgrNewDiscoveredEntryOverwritesOld
+         13    C 00001A50 WFDSConMgrOpenSessionContext
+         14    D 00001B30 WFDSConMgrOpenSessionContextForMacAddress
+         15    E 00001C00 WFDSConMgrOpenSessionContextForNotification
+         16    F 00002A50 WFDSConMgrQueryCorrelationId
+         17   10 000028A0 WFDSConMgrQueryStatus
+         18   11 00002310 WFDSConMgrReadCeremonyData
+         19   12 00002090 WFDSConMgrSetAllowRemoteInput
+         20   13 000021C0 WFDSConMgrWriteCeremonyData
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

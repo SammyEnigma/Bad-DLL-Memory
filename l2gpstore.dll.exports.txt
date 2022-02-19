@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\l2gpstore.dll
+
+File Type: DLL
+
+  Section contains the following exports for l2gpstore.dll
+
+    00000000 characteristics
+    C10355F1 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001BD0 L2GPPolicyDataDelete
+          2    1 00001C80 L2GPPolicyDataDeleteAll
+          3    2 000019B0 L2GPPolicyDataRead
+          4    3 00001B10 L2GPPolicyDataWrite
+          5    4 00001D20 L2GPPolicyFreeMem
+          6    5 00001870 L2GPPolicyStoreClose
+          7    6 00001520 L2GPPolicyStoreOpen
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

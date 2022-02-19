@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\rdpnano.dll
+
+File Type: DLL
+
+  Section contains the following exports for RdpNano.dll
+
+    00000000 characteristics
+    6077B6BC time date stamp Thu Apr 15 05:45:00 2021
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00013F70 CreateRdpUdpStreamWrapper
+          2    1 0002B1F0 CreateRdpWebSocketStreamWrapper
+          5    2 00002440 DllMain
+          3    3 00014AF0 FreeRdpUdpStreamWrapper
+          4    4 0002B270 FreeRdpWebSocketStreamWrapper
+
+  Summary
+
+       1B000 .data
+       13000 .pdata
+       A3000 .rdata
+        5000 .reloc
+        1000 .rsrc
+      171000 .text
+        1000 .tls

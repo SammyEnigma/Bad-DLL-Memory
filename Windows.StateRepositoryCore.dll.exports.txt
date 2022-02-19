@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\Windows.StateRepositoryCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.StateRepositoryCore.dll
+
+    00000000 characteristics
+    BAF38B6D time date stamp
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001630 SRCacheContext_Close
+          2    1 00002CD0 SRCacheContext_Create
+          3    2 00001C50 SRCacheContext_CreateSubContext
+          4    3 00007890 SRCacheContext_Delete
+          5    4 00007910 SRCacheContext_DeleteField
+          6    5 00007950 SRCacheContext_DeleteIfEmpty
+          7    6 000016E0 SRCacheContext_EnumerateData
+          8    7 00007990 SRCacheContext_EnumerateIndex
+          9    8 000079D0 SRCacheContext_GetField_MultiString
+         10    9 00001440 SRCacheContext_GetField_String
+         11    A 00001670 SRCacheContext_GetField_UInt32
+         12    B 00001860 SRCacheContext_GetField_UInt64
+         13    C 00007A50 SRCacheContext_HasSubKeys
+         14    D 00001B20 SRCacheContext_IsEmpty
+         15    E 000010C0 SRCacheContext_Open
+         16    F 00001970 SRCacheContext_OpenSubContext
+         17   10 00002E80 SRCacheContext_SetField_MultiString
+         18   11 00001BB0 SRCacheContext_SetField_String
+         19   12 00002DB0 SRCacheContext_SetField_UInt32
+         20   13 000030C0 SRCacheContext_SetField_UInt64
+         21   14 000017D0 SRCacheManager_Close
+         22   15 00007AB0 SRCacheManager_DeleteContext
+         23   16 00003120 SRCacheManager_GetProperty_UInt32
+         24   17 00007B50 SRCacheManager_GetProperty_UInt64
+         25   18 00001200 SRCacheManager_Open
+         26   19 000032E0 SRCacheManager_SetProperty_UInt32
+         27   1A 00003280 SRCacheManager_SetProperty_UInt64
+         28   1B 00002E10 SRCache_AllocStringBuffer
+         29   1C 00007CD0 SRCache_DuplicateString
+         30   1D 000018F0 SRCache_Free
+         31   1E 00007DA0 SRCache_GetDefaultAccountSid
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

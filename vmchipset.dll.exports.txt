@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\vmchipset.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmChipset.dll
+
+    00000000 characteristics
+    895AD8FB time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007250 DllCanUnloadNow
+          2    1 00007280 DllGetClassObject
+          3    2 000072A0 DllRegisterServer
+          4    3 000072B0 DllUnregisterServer
+
+  Summary
+
+       14000 .data
+        1000 .didat
+        8000 .pdata
+       36000 .rdata
+        2000 .reloc
+      561000 .rsrc
+       99000 .text

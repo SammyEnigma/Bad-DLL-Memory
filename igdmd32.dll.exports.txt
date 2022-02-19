@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdmd32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdmd32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 002DFF50 CloseMetricsDevice
+          2    1 002FB000 ClosePerformanceInterface
+          3    2 002E0010 OpenAdapterGroup
+          4    3 002E0030 OpenMetricsDevice
+          5    4 002E0150 OpenMetricsDeviceFromFile
+          6    5 002FB130 OpenPerformanceInterface
+
+  Summary
+
+        5000 .data
+       24000 .rdata
+       3D000 .reloc
+        1000 .rsrc
+      353000 .text

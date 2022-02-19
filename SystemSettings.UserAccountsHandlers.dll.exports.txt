@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SystemSettings.UserAccountsHandlers.dll
+
+File Type: DLL
+
+  Section contains the following exports for SystemSettings.UserAccountsHandlers.dll
+
+    00000000 characteristics
+    99122E70 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008AC0 DllCanUnloadNow
+          2    1 00008AD0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       20000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       57000 .text

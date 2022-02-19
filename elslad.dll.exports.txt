@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\elslad.dll
+
+File Type: DLL
+
+  Section contains the following exports for elslad.dll
+
+    00000000 characteristics
+    9A0D1E0A time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003F90 DoAction
+          2    1 000012F0 FreePropertyBag
+          3    2 00003FA0 FreeService
+          4    3 00004000 InitService
+          5    4 00001040 RecognizeText
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+       9D000 .rdata
+        9000 .reloc
+        1000 .rsrc
+        5000 .text

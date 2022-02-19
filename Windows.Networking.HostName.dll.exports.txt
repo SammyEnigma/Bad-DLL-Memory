@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.HostName.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.HostName.dll
+
+    00000000 characteristics
+    E138AC6A time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E270 CreateEndpointPairFromSockAddrs
+          2    1 0000E280 CreateHostNameFromSockAddr
+          3    2 0000E2A0 CreateHostNameFromString
+          4    3 00001900 CreateNetworkAdapterFromGuid
+          7    4 00002550 DllCanUnloadNow
+          8    5 0000E1D0 DllGetActivationFactory
+          9    6 00002350 DllGetClassObject
+         10    7 00003A30 DllMain
+         11    8 0000E210 DllRegisterServer
+         12    9 0000E240 DllUnregisterServer
+          5    A 0000E2B0 GetAllHostNames
+          6    B 0000E2C0 GetSortedEndpointPairs
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+       22000 .rdata
+        4000 .reloc
+        1000 .rsrc
+        E000 .text

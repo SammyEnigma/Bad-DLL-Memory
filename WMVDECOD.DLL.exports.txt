@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\WMVDECOD.DLL
+
+File Type: DLL
+
+  Section contains the following exports for wmvdecod.dll
+
+    00000000 characteristics
+    123BD2BE time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00067D80 CreateInstance
+          3    1 000286A0 DllCanUnloadNow
+          4    2 0000E4E0 DllGetClassObject
+          5    3 00061AC0 DllRegisterServer
+          6    4 00061DF0 DllUnregisterServer
+          1    5 000678C0 GetVC1DecoderFunctionTable
+
+  Summary
+
+       10000 .data
+        1000 .didat
+        2000 .no_bbt
+        9000 .pdata
+       51000 .rdata
+        1000 .reloc
+        4000 .rsrc
+      1FF000 .text

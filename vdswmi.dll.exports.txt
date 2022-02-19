@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\vdswmi.dll
+
+File Type: DLL
+
+  Section contains the following exports for vdswmi.dll
+
+    00000000 characteristics
+    46F8D804 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007CD0 DllCanUnloadNow
+          2    1 000076D0 DllGetClassObject
+          3    2 0000F280 DllRegisterServer
+          4    3 0000F540 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

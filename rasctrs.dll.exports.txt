@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\rasctrs.dll
+
+File Type: DLL
+
+  Section contains the following exports for rasctrs.dll
+
+    00000000 characteristics
+    5CD9CA7C time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00001E10 CloseRasPerformanceData
+          2    1 000018A0 CollectRasPerformanceData
+          1    2 00001880 OpenRasPerformanceData
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

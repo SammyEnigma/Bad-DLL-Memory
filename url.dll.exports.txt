@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\url.dll
+
+File Type: DLL
+
+  Section contains the following exports for URL.dll
+
+    00000000 characteristics
+    3DA34AA7 time date stamp
+        0.00 version
+         101 ordinal base
+          18 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+        102    0 000016A0 AddMIMEFileTypesPS
+        103    1 000010C0 AutodialHookCallback
+        104    2 000010E0 FileProtocolHandler
+        105    3 000010E0 FileProtocolHandlerA
+        106    4 00001010 InetIsOffline
+        107    5 00001670 MIMEAssociationDialogA
+        108    6 00001670 MIMEAssociationDialogW
+        109    7 00001180 MailToProtocolHandler
+        110    8 00001180 MailToProtocolHandlerA
+        111    9 00001730 OpenURL
+        112    A 00001730 OpenURLA
+        113    B 000012A0 TelnetProtocolHandler
+        114    C 000012A0 TelnetProtocolHandlerA
+        115    D 00001630 TranslateURLA
+        116    E 00001650 TranslateURLW
+        117    F 00001670 URLAssociationDialogA
+        118   10 00001670 URLAssociationDialogW
+        101      00001060 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+       37000 .rsrc
+        2000 .text

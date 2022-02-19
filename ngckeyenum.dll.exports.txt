@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\ngckeyenum.dll
+
+File Type: DLL
+
+  Section contains the following exports for ngckeyenum.dll
+
+    00000000 characteristics
+    F79347E1 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005230 NgcCredProvEnumLogonKeys
+          2    1 00005630 NgcCredProvFreeBuffer
+          3    2 00005500 NgcCredProvInvalidateLogonKeysCache
+          4    3 000044F0 NgcSerializeConvenienceCredential
+          5    4 00004C00 NgcSerializeConveniencePasswordChangeCredential
+          6    5 00004730 NgcSerializeKeyCredential
+          7    6 00004E10 NgcSerializeKeyPasswordChangeCredential
+          8    7 00005160 NgcSerializeKeySspiCredential
+          9    8 00004A90 NgcSerializeMsaPasswordCredential
+         10    9 000048D0 NgcSerializePasswordCredential
+         11    A 00005040 NgcSerializeSmartCardCredential
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

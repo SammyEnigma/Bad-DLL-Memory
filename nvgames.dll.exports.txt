@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvgames.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvGameS.DLL
+
+    00000000 characteristics
+    5FD40563 time date stamp Sat Dec 12 00:48:51 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00157770 DllCanUnloadNow
+          2    1 001577C0 DllGetClassObject
+          3    2 001577E0 DllRegisterServer
+          4    3 001577F0 DllUnregisterServer
+
+  Summary
+
+       38000 .data
+        1000 .didat
+       31000 .pdata
+      178000 .rdata
+       16000 .reloc
+      5D4000 .rsrc
+      40F000 .text
+        1000 .tls

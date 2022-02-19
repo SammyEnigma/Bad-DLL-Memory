@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\perceptionsimulationsixdof.inf_amd64_3ff016f4df6d2b8a\PerceptionSimulationSixDof.dll
+
+File Type: DLL
+
+  Section contains the following exports for PerceptionSimulationSixDof.dll
+
+    00000000 characteristics
+    87ABF7AA time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000026D0 FxDriverEntryUm
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        3000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvopencl64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvopencl64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00032B00 clGetExportTable
+          2    1 00024560 clGetExtensionFunctionAddress
+          3    2 000032E0 clGetPlatformInfo
+          4    3 00231600 cuGetExportTable
+
+  Summary
+
+      119000 .data
+       51000 .pdata
+      B39000 .rdata
+       16000 .reloc
+        7000 .rsrc
+      534000 .text
+        1000 _RDATA

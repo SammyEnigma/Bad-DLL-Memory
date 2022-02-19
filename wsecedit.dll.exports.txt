@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wsecedit.dll
+
+File Type: DLL
+
+  Section contains the following exports for WSECEDIT.DLL
+
+    00000000 characteristics
+    9DCCFB66 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00016C40 DllCanUnloadNow
+          4    1 00016CB0 DllGetClassObject
+          1    2 00032AF0 InvokeCAPEACLEditor
+          2    3 00032610 TranslateAceMasksAndCondition
+
+  Summary
+
+       10000 .data
+        1000 .didat
+        4000 .pdata
+       37000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       61000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\win32spl.dll
+
+File Type: DLL
+
+  Section contains the following exports for csrspl.dll
+
+    00000000 characteristics
+    47E1A048 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014B90 DllMain
+          2    1 0005E4B0 InitializePrintMonitor2
+          3    2 00001800 InitializePrintProvidor
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        A000 .pdata
+       30000 .rdata
+        2000 .reloc
+        3000 .rsrc
+       A3000 .text

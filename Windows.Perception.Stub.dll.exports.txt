@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Windows.Perception.Stub.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Perception.Stub.dll
+
+    00000000 characteristics
+    B04C1051 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000241A0 DllCanUnloadNow
+          2    1 00023B20 DllGetActivationFactory
+          3    2 00023B20 DllGetActivationFactoryPerceptionStub
+          4    3 00023E80 DllGetClassObject
+          5    4 0004E830 GetProxyDllInfo
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       95000 .rdata
+       11000 .reloc
+        1000 .rsrc
+       54000 .text

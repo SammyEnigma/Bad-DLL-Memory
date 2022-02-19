@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\cngcredui.dll
+
+File Type: DLL
+
+  Section contains the following exports for CNGCREDUI.DLL
+
+    00000000 characteristics
+    A95406E5 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001420 DllCanUnloadNow
+          2    1 00001260 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+       14000 .rsrc
+        4000 .text

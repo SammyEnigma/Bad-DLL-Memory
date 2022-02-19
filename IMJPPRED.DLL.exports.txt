@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\IMJPPRED.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imjppred.dll
+
+    00000000 characteristics
+    ED79C663 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00060CC0 DllCanUnloadNow
+          2    1 00024680 DllGetClassObject
+          3    2 00060CE0 DllRegisterServer
+          4    3 00060D40 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        A000 .pdata
+       35000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       8D000 .text

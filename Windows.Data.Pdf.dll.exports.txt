@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.Data.Pdf.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Data.Pdf.dll
+
+    00000000 characteristics
+    E7E30208 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000E0C20 DllCanUnloadNow
+          2    1 0012FAD0 DllGetActivationFactory
+          3    2 000DBAF0 DllGetClassObject
+          4    3 0012F2C0 PdfCreateRenderer
+
+  Summary
+
+        D000 .data
+        1000 .didat
+       39000 .pdata
+      193000 .rdata
+       14000 .reloc
+        1000 .rsrc
+      480000 .text

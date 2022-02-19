@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\DscCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for dsccore.DLL
+
+    00000000 characteristics
+    423DF127 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0004E290 CATraps
+          2    1 0004E230 CUTraps
+          3    2 0000BC50 CreateAuthenticationCertificateWrapper
+          4    3 00001680 DllCanUnloadNow
+          5    4 000016C0 DllGetClassObject
+          6    5 00001370 DllMain
+          7    6 000015E0 DllRegisterServer
+          8    7 00001630 DllUnregisterServer
+          9    8 000013D0 GetProviderClassID
+         10    9 0004E160 LCMTraps
+         11    A 00001310 MI_Main
+         12    B 000717C8 NITS_PRESENCE_STUB
+         13    C 0004E460 NITS_STUB
+         14    D 0000BBD0 SysPrep_Cleanup
+         15    E 0000BD20 ValidateCertificateExpirationWrapper
+         16    F 0004E218 ValidatorTraps
+
+  Summary
+
+       28000 .data
+        4000 .pdata
+       1D000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       4C000 .text

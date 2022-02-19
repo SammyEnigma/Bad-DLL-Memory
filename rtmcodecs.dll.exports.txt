@@ -1,0 +1,121 @@
+
+Dump of file C:\Windows\System32\rtmcodecs.dll
+
+File Type: DLL
+
+  Section contains the following exports for RtmCodecs.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          95 number of functions
+          95 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003E30 GetNumofSupportedMLDs
+          2    1 00003E80 MLDCallTestApi
+          3    2 00003EB0 MLDDestroy
+          4    3 00003F80 MLDEnumerate
+          5    4 00004050 MLDGetParameter
+          6    5 000040C0 MLDGetQueueStatus
+          7    6 000040D0 MLDInstantiate
+          8    7 000041D0 MLDInstantiateDecoder
+          9    8 000CB7A0 MLDIsHWDecoderResourceAvailable
+         10    9 00004250 MLDProcessInput
+         11    A 000042A0 MLDSetParameter
+         12    B 00004390 MLECallTestApi
+         13    C 000043B0 MLEDestroy
+         14    D 00004480 MLEEnumerate
+         15    E 00004600 MLEGetHeader
+         16    F 00004610 MLEGetParameter
+         17   10 00004620 MLEInitializeEncoder
+         18   11 00004630 MLEInstantiate
+         19   12 000047F0 MLEIsColorFormatSupported
+         20   13 00004800 MLEProcessInput
+         21   14 00004810 MLEProcessOutput
+         22   15 00004820 MLEQueryFrameBeingEncoded
+         23   16 00004830 MLEQuerySupportedInputFormats
+         24   17 00004840 MLESetParameter
+         25   18 000049A0 RtcPalGetComponentStateTrackerBlob
+         26   19 000049B0 RtcPalGetVirtualVideoSourceManager
+         27   1A 000049C0 RtcPalVideoConfigurationReset
+         28   1B 000049D0 RtcPalVideoConfigurationSetBoolean
+         29   1C 000049E0 RtcPalVideoConfigurationSetInteger
+         30   1D 000049F0 RtcPalVideoPlatformClose
+         31   1E 00004A00 RtcPalVideoPlatformCloseSource
+         32   1F 00004A10 RtcPalVideoPlatformGetMediaExtension
+         33   20 00004A20 RtcPalVideoPlatformOpen
+         34   21 00004A30 RtcPalVideoPlatformOpenSource
+         35   22 00004A40 RtcPalVideoPlatformQuerySourceList
+         36   23 00004A50 RtcPalVideoPlatformRegisterVirtualSource
+         37   24 00004A60 RtcPalVideoPlatformUnregisterVirtualSource
+         38   25 00004A70 RtcPalVideoPreviewGetCurrentFormat
+         39   26 00004AD0 RtcPalVideoPreviewGetSupportedFormatList
+         40   27 00004B30 RtcPalVideoPreviewSetCurrentFormat
+         41   28 00004B90 RtcPalVideoPreviewStart
+         42   29 00004BE0 RtcPalVideoPreviewStop
+         43   2A 000054E0 RtcPalVideoSourceApplyCurrentFormat
+         44   2B 00004C30 RtcPalVideoSourceCallRsmTestApi
+         45   2C 00004CF0 RtcPalVideoSourceControlGetState
+         46   2D 00004D00 RtcPalVideoSourceControlGetValue
+         47   2E 00004D10 RtcPalVideoSourceCreateAnalyzer
+         48   2F 00004DC0 RtcPalVideoSourceCreateEncoder
+         49   30 00004ED0 RtcPalVideoSourceCreatePreview
+         50   31 00004FD0 RtcPalVideoSourceDeleteAnalyzer
+         51   32 00005080 RtcPalVideoSourceDeleteEncoder
+         52   33 00005130 RtcPalVideoSourceDeletePreview
+         53   34 000051E0 RtcPalVideoSourceGetCurrentFormat
+         54   35 00005230 RtcPalVideoSourceGetDefaultRotationAngle
+         55   36 000052C0 RtcPalVideoSourceGetLastFrameInfo
+         56   37 00005310 RtcPalVideoSourceGetStatistics
+         57   38 00005360 RtcPalVideoSourceGetSupportedFormatList
+         58   39 000053D0 RtcPalVideoSourceIsScreenScraper
+         59   3A 00005440 RtcPalVideoSourceQueryEncodeCapabilities
+         60   3B 000054A0 RtcPalVideoSourceResetStatistics
+         61   3C 000054E0 RtcPalVideoSourceRestart
+         62   3D 00005520 RtcPalVideoSourceSetCurrentFormat
+         63   3E 00005570 RtcPalVideoSourceSetRotationAngle
+         64   3F 00005600 RtcPalVideoSourceSetVideoCropInfo
+         65   40 00005750 RtcPalVideoSourceStart
+         66   41 00005790 RtcPalVideoSourceStop
+         67   42 000057D0 RtmCodecGetFrameCountersFromPacsi
+         68   43 000CB7A0 RtmCodecsCloseVideoMomentConverter
+         69   44 000057F0 RtmCodecsCreateMjpegDec
+         70   45 000057E0 RtmCodecsCreateVideoMomentConverter
+         71   46 000057F0 RtmCodecsDecodeMjpegFrame
+         72   47 000057F0 RtmCodecsDestroyMjpegDec
+         73   48 00078EB0 RtmCodecsGetGfxMetrics
+         74   49 000057F0 RtmCodecsGetMjpegFrameInfo
+         75   4A 000057F0 RtmCodecsMjpegGetOutSize
+         76   4B 000C7C40 RtmCodecsMjpegIsFormatSupported
+         77   4C 00005800 RtmCodecsPalComplete
+         78   4D 00005870 RtmCodecsPalStartup
+         79   4E 00084D00 RtmCodecsQueryVideoProcessorCapability
+         80   4F 00005990 RtmCodecsUpdateMjpegMetrics
+         81   50 000059B0 RtmCodecsVideoFrameAllocateFrameWrapper
+         82   51 000059C0 RtmCodecsVideoFrameAllocateRawFrame
+         83   52 000CB7A0 RtmCodecsVideoMomentConvert
+         84   53 00005A40 RtmCodecsVscaCreateFecUtility
+         85   54 00005AB0 RtmCodecsVscaCreatePacsiGenerator
+         86   55 00005B20 RtmCodecsVscaDestroyEncodedUnit
+         87   56 00005B30 RtmCodecsVscaGetDecodingMetrics
+         88   57 00005B90 RtmCodecsVscaGetEncodingMetrics
+         89   58 00005BB0 RtmCodecsVscaGetManager
+         90   59 00005C70 RtmCodecsVscaGetPacsiInfo
+         91   5A 00005C80 RtmCodecsVscaGetStreamCountStatistics
+         92   5B 00005CC0 RtmVPConvert
+         93   5C 00005D30 RtmVPCreate
+         94   5D 00005D70 RtmVPDestroy
+         95   5E 00005DC0 RtmVideoAnalyzerEnumerate
+
+  Summary
+
+       15000 .data
+        1000 .didat
+        7000 .pdata
+       26000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       CF000 .text

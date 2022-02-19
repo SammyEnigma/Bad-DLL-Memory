@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\RTLCPAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for RtlCPAPI.DLL
+
+    00000000 characteristics
+    4EF03802 time date stamp Tue Dec 20 08:23:46 2011
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003440 DllCanUnloadNow
+          2    1 00003460 DllGetClassObject
+          3    2 00003550 DllRegisterServer
+          4    3 000035E0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        5000 .rdata
+        3000 .reloc
+        2000 .rsrc
+       13000 .text

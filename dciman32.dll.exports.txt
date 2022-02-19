@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\dciman32.dll
+
+File Type: DLL
+
+  Section contains the following exports for DCIMAN32.dll
+
+    00000000 characteristics
+    F389C465 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000018B0 DCIBeginAccess
+          2    1 000012C0 DCICloseProvider
+          3    2 000012E0 DCICreateOffscreen
+          4    3 000012E0 DCICreateOverlay
+          5    4 000012F0 DCICreatePrimary
+          6    5 00001BE0 DCIDestroy
+          7    6 000012E0 DCIDraw
+          8    7 00001B60 DCIEndAccess
+          9    8 000012E0 DCIEnum
+         10    9 000011A0 DCIOpenProvider
+         11    A 000012E0 DCISetClipList
+         12    B 000012E0 DCISetDestination
+         13    C 000012E0 DCISetSrcDestClip
+         14    D 00001800 GetDCRegionData
+         15    E 00001780 GetWindowRegionData
+         16    F 00001600 WinWatchClose
+         17   10 00001770 WinWatchDidStatusChange
+         18   11 00001690 WinWatchGetClipList
+         19   12 000018A0 WinWatchNotify
+         20   13 00001570 WinWatchOpen
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

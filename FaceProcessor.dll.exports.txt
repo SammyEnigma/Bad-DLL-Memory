@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\WinBioPlugIns\FaceDriver\amd64\FaceProcessor.dll
+
+File Type: DLL
+
+  Section contains the following exports for FaceProcessor.dll
+
+    00000000 characteristics
+    611C1466 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00056C00 CreateColorFaceProcessor
+          2    1 000571A0 CreateFacePreprocessorOutput
+          3    2 000580F0 FileInputManager_InitializeRuntime
+          4    3 00058100 FileInputManager_ReadSourceColorFrameData
+          5    4 00058120 FileInputManager_ReadSourceDeviceMetadata
+          6    5 00058140 FileInputManager_ReadSourceInfraredFrameData
+          7    6 00058170 FileInputManager_Reset
+          8    7 00058180 FileInputManager_SendColorFrameData
+          9    8 000581C0 FileInputManager_SendInfraredFrameData
+
+  Summary
+
+       21000 .data
+        7000 .pdata
+       6B000 .rdata
+        1000 .reloc
+       D0000 .text

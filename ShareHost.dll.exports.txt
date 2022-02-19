@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\ShareHost.dll
+
+File Type: DLL
+
+  Section contains the following exports for ShareHost.dll
+
+    00000000 characteristics
+    C42D2902 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000035C0 DllCanUnloadNow
+          2    1 00017A20 DllGetActivationFactory
+          3    2 00005170 DllGetClassObject
+          4    3 00024D20 ResolveConnectedSharePlatformToken
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       49000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       B9000 .text

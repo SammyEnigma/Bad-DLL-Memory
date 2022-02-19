@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.dll
+
+    00000000 characteristics
+    87E2DF82 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0006FE20 DllCanUnloadNow
+          3    1 0006FA30 DllGetActivationFactory
+          4    2 0006FC10 DllGetClassObject
+          5    3 0006FDA0 DllMain
+          6    4 0006FD70 DllRegisterServer
+          7    5 0006FD40 DllUnregisterServer
+          8    6 00070390 SetSocketMediaStreamingMode
+          1      000702D0 [NONAME]
+
+  Summary
+
+        C000 .data
+        1000 .didat
+        7000 .pdata
+       42000 .rdata
+        7000 .reloc
+        7000 .rsrc
+       90000 .text

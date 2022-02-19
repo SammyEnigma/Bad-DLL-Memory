@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\eShims.dll
+
+File Type: DLL
+
+  Section contains the following exports for EShims.dll
+
+    00000000 characteristics
+    C7DAB05A time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00013430 IEShims_CreateFileW
+          3    1 00013540 IEShims_FindClose
+          4    2 000135A0 IEShims_FindFirstFileW
+          5    3 00013130 IEShims_GetFileAttributesExW
+          6    4 00013650 IEShims_GetFileAttributesW
+          7    5 00013750 IEShims_GetFullPathNameW
+          8    6 00013930 IEShims_GetLongPathNameW
+          9    7 00002000 IEShims_Initialize
+         10    8 00012E60 IEShims_Uninitialize
+         11    9 00013290 IEShims_WNetGetConnectionW
+          1    A 00010440 RegisterFlashShimHandler
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .mrdata
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

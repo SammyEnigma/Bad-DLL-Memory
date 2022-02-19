@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\windowsperformancerecordercontrol.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsPerformanceRecorderControl.dll
+
+    00000000 characteristics
+     C2E5B48 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000DB80 DllCanUnloadNow
+          2    1 0000DBC0 DllGetClassObject
+          3    2 00001BB0 DllRegisterServer
+          4    3 00001BB0 DllUnregisterServer
+          5    4 0006C480 WPRCControlLogging
+          6    5 0006AB60 WPRCCreateInstance
+          7    6 0006AB90 WPRCCreateInstanceUnderInstanceName
+          8    7 0006AF60 WPRCDisableBuiltinProfiles
+          9    8 0006C260 WPRCFormatError
+         10    9 0006AE70 WPRCQueryBuiltInProfiles
+         11    A 0006AF80 WPRCReleaseInstanceByName
+         12    B 0006C680 WPRCRemoveLogging
+
+  Summary
+
+        4000 .data
+        7000 .pdata
+       2E000 .rdata
+        2000 .reloc
+       5A000 .rsrc
+       97000 .text

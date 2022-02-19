@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\wbem\WdacWmiProv.dll
+
+File Type: DLL
+
+  Section contains the following exports for WdacWmiProv.DLL
+
+    00000000 characteristics
+    F193A2DE time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001330 DllCanUnloadNow
+          2    1 00001370 DllGetClassObject
+          3    2 00001010 DllMain
+          4    3 00001280 DllRegisterServer
+          5    4 000012E0 DllUnregisterServer
+          6    5 000010B0 GetProviderClassID
+          7    6 00001780 MI_Main
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       14000 .text

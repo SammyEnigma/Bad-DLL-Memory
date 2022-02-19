@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\davclnt.dll
+
+File Type: DLL
+
+  Section contains the following exports for davclnt.dll
+
+    00000000 characteristics
+    79F7EBDA time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003AF0 DavCancelConnectionsToServer
+          2    1 00004D10 DavFreeUsedDiskSpace
+          3    2 00005410 DavGetDiskSpaceUsage
+          4    3 00005780 DavGetTheLockOwnerOfTheFile
+          5    4 00005BA0 DavInvalidateCache
+          6    5 00007150 DavRegisterAuthCallback
+          7    6 00007CB0 DavSetCookieW
+          8    7 00008740 DavUnregisterAuthCallback
+          9    8 00011100 DllCanUnloadNow
+         10    9 00011120 DllGetClassObject
+         11    A 000028E0 DllMain
+         12    B 000090A0 NPAddConnection
+         13    C 00009110 NPAddConnection3
+         14    D 0000ADB0 NPCancelConnection
+         15    E 0000B1B0 NPCloseEnum
+         16    F 0000B360 NPEnumResource
+         17   10 0000C240 NPFormatNetworkName
+         18   11 00001370 NPGetCaps
+         19   12 0000C3B0 NPGetConnection
+         20   13 0000C8F0 NPGetResourceInformation
+         21   14 0000D000 NPGetResourceParent
+         22   15 0000D590 NPGetUniversalName
+         23   16 0000DBA0 NPGetUser
+         24   17 00001010 NPOpenEnum
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

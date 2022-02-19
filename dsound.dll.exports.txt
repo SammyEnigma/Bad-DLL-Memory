@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\dsound.dll
+
+File Type: DLL
+
+  Section contains the following exports for DSOUND.dll
+
+    00000000 characteristics
+    784F4414 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          6    0 0001F190 DirectSoundCaptureCreate
+         12    1 0001F2E0 DirectSoundCaptureCreate8
+          7    2 0001F430 DirectSoundCaptureEnumerateA
+          8    3 0000EA70 DirectSoundCaptureEnumerateW
+          1    4 0001F450 DirectSoundCreate
+         11    5 000022E0 DirectSoundCreate8
+          2    6 0001F5A0 DirectSoundEnumerateA
+          3    7 00004DD0 DirectSoundEnumerateW
+         10    8 0001F5C0 DirectSoundFullDuplexCreate
+          4    9 0002A040 DllCanUnloadNow
+          5    A 00004300 DllGetClassObject
+          9    B 00006130 GetDeviceID
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       33000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5D000 .text
+        1000 RT_CODE

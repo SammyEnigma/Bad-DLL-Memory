@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\oobe\msoobeFirstLogonAnim.dll
+
+File Type: DLL
+
+  Section contains the following exports for msoobeFirstLogonAnim.dll
+
+    00000000 characteristics
+    7E62F92F time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          1      00008E60 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       12000 .text

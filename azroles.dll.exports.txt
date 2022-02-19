@@ -1,0 +1,70 @@
+
+Dump of file C:\Windows\System32\azroles.dll
+
+File Type: DLL
+
+  Section contains the following exports for azroles.DLL
+
+    00000000 characteristics
+    4DB39C95 time date stamp
+        0.00 version
+           1 ordinal base
+          44 number of functions
+          44 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00039110 AzAddPropertyItem
+          2    1 000280B0 AzApplicationClose
+          3    2 00027FA0 AzApplicationCreate
+          4    3 00028280 AzApplicationDelete
+          5    4 00028250 AzApplicationEnum
+          6    5 00027FE0 AzApplicationOpen
+          7    6 00025DE0 AzAuthorizationStoreDelete
+          8    7 00025E90 AzCloseHandle
+          9    8 000320F0 AzContextAccessCheck
+         10    9 000331E0 AzContextGetAssignedScopesPage
+         11    A 00034550 AzContextGetRoles
+         12    B 00026010 AzFreeMemory
+         13    C 00025DB0 AzGetProperty
+         14    D 0003C660 AzGroupCreate
+         15    E 0003C880 AzGroupDelete
+         16    F 0003C7C0 AzGroupEnum
+         17   10 0003C710 AzGroupOpen
+         18   11 00025750 AzInitialize
+         19   12 00031480 AzInitializeContextFromName
+         20   13 00030EB0 AzInitializeContextFromToken
+         21   14 0004AB70 AzOperationCreate
+         22   15 0004AC20 AzOperationDelete
+         23   16 0004ABF0 AzOperationEnum
+         24   17 0004ABB0 AzOperationOpen
+         25   18 000394E0 AzRemovePropertyItem
+         26   19 0003CD20 AzRoleCreate
+         27   1A 0003CF00 AzRoleDelete
+         28   1B 0003CE60 AzRoleEnum
+         29   1C 0003CDC0 AzRoleOpen
+         30   1D 000493A0 AzScopeCreate
+         31   1E 000494B0 AzScopeDelete
+         32   1F 00049480 AzScopeEnum
+         33   20 000493E0 AzScopeOpen
+         34   21 00025DD0 AzSetProperty
+         35   22 0004CA00 AzSubmit
+         36   23 0004A3C0 AzTaskCreate
+         37   24 0004A5A0 AzTaskDelete
+         38   25 0004A500 AzTaskEnum
+         39   26 0004A460 AzTaskOpen
+         40   27 00025D30 AzUpdateCache
+         41   28 00003B00 DllCanUnloadNow
+         42   29 00003B20 DllGetClassObject
+         43   2A 00003C50 DllRegisterServer
+         44   2B 00003D50 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       26000 .rdata
+        2000 .reloc
+        C000 .rsrc
+       62000 .text

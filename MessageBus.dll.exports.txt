@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\Display.NvContainer\MessageBus.dll
+
+File Type: DLL
+
+  Section contains the following exports for MessageBus.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0013FC60 generateMessageBusUniqueId
+          2    1 0013FD40 getMessageBusInterface
+          3    2 0013FD50 getMessageBusInterfaceWithConfig
+          4    3 0013FEB0 getSharedMessageBusInterface
+          5    4 0013FEC0 getSharedMessageBusInterfaceWithConfig
+          6    5 00142930 messageBusAddObserver
+          7    6 00142940 messageBusDelete
+          8    7 00142960 messageBusNew
+          9    8 001429D0 messageBusPostEncryptedMessage
+         10    9 00142A00 messageBusPostMessage
+         11    A 00142A30 messageBusRemoveObserver
+         12    B 001402F0 releaseMessageBusInterface
+
+  Summary
+
+       19000 .data
+       4E000 .pdata
+      1A7000 .rdata
+        B000 .reloc
+        1000 .rsrc
+      51B000 .text
+        1000 _RDATA

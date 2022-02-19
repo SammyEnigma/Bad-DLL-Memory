@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\FntCache.dll
+
+File Type: DLL
+
+  Section contains the following exports for FntCache.dll
+
+    00000000 characteristics
+    23225137 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005E0E0 ServiceMain
+          2    1 00062FB0 SvchostPushServiceGlobals
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        E000 .pdata
+       3E000 .rdata
+        1000 .reloc
+       2B000 .rsrc
+       E9000 .text

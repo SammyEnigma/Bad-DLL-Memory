@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\pid.dll
+
+File Type: DLL
+
+  Section contains the following exports for pid.dll
+
+    00000000 characteristics
+    F385CF53 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000018E0 DllCanUnloadNow
+          2    1 000018A0 DllGetClassObject
+          3    2 00005B40 PID_GetFFEffectSettingsFromMemory
+          4    3 00005B30 PID_WriteFFEffectSettingsToMemory
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text
+        7000 .text

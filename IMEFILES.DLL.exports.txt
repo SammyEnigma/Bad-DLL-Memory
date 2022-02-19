@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\IMEFILES.DLL
+
+File Type: DLL
+
+  Section contains the following exports for IMEFILES.DLL
+
+    00000000 characteristics
+    8FEC7752 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008800 DllCanUnloadNow
+          2    1 00008850 DllGetClassObject
+          3    2 000088D0 DllRegisterServer
+          4    3 00008A10 DllUnregisterServer
+          5    4 00008B50 FNRM_CleanupGarbageFiles
+          6    5 00008B00 FNRM_GetActiveFile
+          7    6 00008B60 FNRM_GetRegistrationLevel
+          8    7 00008B10 FNRM_SetActiveFile
+          9    8 00008B30 FNRM_UnregisterAllPerUserFilesExcept
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       22000 .text

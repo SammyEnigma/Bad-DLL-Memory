@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\migration\SxsMigPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for SxsMigPlugin.dll
+
+    00000000 characteristics
+    AC1DC5C1 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003BE0 DllCanUnloadNow
+          2    1 00003890 DllGetClassObject
+          3    2 00003C20 DllMain
+          4    3 000039D0 DllRegisterServer
+          5    4 00003B20 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

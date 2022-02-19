@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\InputMethod\CHS\ChsIFEComp.dll
+
+File Type: DLL
+
+  Section contains the following exports for fecomp.dll
+
+    00000000 characteristics
+    37D875B2 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C0B0 DllCanUnloadNow
+          2    1 0000BFB0 DllGetClassObject
+          3    2 0000C0D0 DllRegisterServer
+          4    3 0000C0F0 DllUnregisterServer
+
+  Summary
+
+        E000 .data
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

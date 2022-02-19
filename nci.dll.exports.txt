@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\nci.dll
+
+File Type: DLL
+
+  Section contains the following exports for NCI.dll
+
+    00000000 characteristics
+    DC201EE7 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003DD0 NciGetConnectionName
+          2    1 00003E50 NciSetConnectionName
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

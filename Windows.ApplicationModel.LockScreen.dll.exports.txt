@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.ApplicationModel.LockScreen.dll
+
+File Type: DLL
+
+  Section contains the following exports for windows.applicationmodel.lockscreen.dll
+
+    00000000 characteristics
+    9CC26000 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00020EF0 DllCanUnloadNow
+          2    1 0000D6D0 DllGetActivationFactory
+          3    2 0000A800 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       25000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       4A000 .text

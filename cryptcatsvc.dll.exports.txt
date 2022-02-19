@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\cryptcatsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for CRYPTCATSVC.dll
+
+    00000000 characteristics
+    6F597D20 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009430 CatDbOfflineRebuildDatabasesRundll32W
+          4    1 00009450 CatDbOfflineRebuildDatabasesW
+          2    2 00009440 CryptCATAdminCatalogDatabase
+          3    3 00001DE0 CryptsvcDllCtrl
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

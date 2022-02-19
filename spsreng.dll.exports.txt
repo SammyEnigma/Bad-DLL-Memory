@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech\Engines\SR\spsreng.dll
+
+File Type: DLL
+
+  Section contains the following exports for spsreng.DLL
+
+    00000000 characteristics
+    D5DD67A4 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000122E0 DllCanUnloadNow
+          2    1 00012300 DllGetClassObject
+          3    2 00012430 DllRegisterServer
+          4    3 00012520 DllUnregisterServer
+
+  Summary
+
+       21000 .data
+        7000 .pdata
+       1A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       C5000 .text

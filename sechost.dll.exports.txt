@@ -1,0 +1,243 @@
+
+Dump of file C:\Windows\System32\sechost.dll
+
+File Type: DLL
+
+  Section contains the following exports for SECHOST.dll
+
+    00000000 characteristics
+    51664345 time date stamp
+        0.00 version
+           1 ordinal base
+         217 number of functions
+         217 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0001BDD0 AuditComputeEffectivePolicyBySid
+          4    1 0004FF40 AuditEnumerateCategories
+          5    2 00050090 AuditEnumeratePerUserPolicy
+          6    3 00050120 AuditEnumerateSubCategories
+          7    4 0000E9A0 AuditFree
+          8    5 00050290 AuditLookupCategoryNameW
+          9    6 00050410 AuditLookupSubCategoryNameW
+         10    7 00050590 AuditQueryGlobalSaclW
+         11    8 0001A2B0 AuditQueryPerUserPolicy
+         12    9 00050600 AuditQuerySecurity
+         13    A 0001A400 AuditQuerySystemPolicy
+         14    B 000506D0 AuditSetGlobalSaclW
+         15    C 00050740 AuditSetPerUserPolicy
+         16    D 000507F0 AuditSetSecurity
+         17    E 00050950 AuditSetSystemPolicy
+         18    F 000196D0 BuildSecurityDescriptorForSharingAccess
+         19   10 00019040 BuildSecurityDescriptorForSharingAccessEx
+         20   11 0000D6A0 CapabilityCheck
+         21   12 00045400 CapabilityCheckForSingleSessionSku
+         22   13 00045CD0 ChangeServiceConfig2A
+         23   14 0001C7A0 ChangeServiceConfig2W
+         24   15 00045E80 ChangeServiceConfigA
+         25   16 0000E5C0 ChangeServiceConfigW
+         26   17 00008470 CloseServiceHandle
+         27   18 0000BA50 CloseTrace
+         28   19 0000E8D0 ControlService
+         29   1A 00046160 ControlServiceExA
+         30   1B 0000E300 ControlServiceExW
+         31   1C 0004B7A0 ControlTraceA
+         32   1D 00009290 ControlTraceW
+         33   1E 0002CB70 ConvertSDToStringSDRootDomainW
+         34   1F 00010FA0 ConvertSecurityDescriptorToStringSecurityDescriptorW
+         35   20 0000F050 ConvertSidToStringSidW
+         36   21 0002CBF0 ConvertStringSDToSDDomainA
+         37   22 0002CD30 ConvertStringSDToSDDomainW
+         38   23 0002CE00 ConvertStringSDToSDRootDomainW
+         39   24 00011040 ConvertStringSecurityDescriptorToSecurityDescriptorW
+         40   25 00011A70 ConvertStringSidToSidW
+         41   26 00061480 CreateIsolatedProcess
+         42   27 00061510 CreateIsolationContainer
+         43   28 000462C0 CreateServiceA
+         44   29 00046A20 CreateServiceEx
+         45   2A 00046F20 CreateServiceW
+         46   2B 00050C50 CredBackupCredentials
+         47   2C 00050DF0 CredDeleteA
+         48   2D 00050EE0 CredDeleteW
+         49   2E 00052290 CredEncryptAndMarshalBinaryBlob
+         50   2F 00050FD0 CredEnumerateA
+         51   30 0000F190 CredEnumerateW
+         52   31 00051130 CredFindBestCredentialA
+         53   32 00051270 CredFindBestCredentialW
+         54   33 0000E9A0 CredFree
+         55   34 000513B0 CredGetSessionTypes
+         56   35 00051440 CredGetTargetInfoA
+         57   36 00051580 CredGetTargetInfoW
+         58   37 000522C0 CredIsMarshaledCredentialW
+         59   38 00052300 CredIsProtectedA
+         60   39 00019900 CredIsProtectedW
+         61   3A 000523A0 CredMarshalCredentialA
+         62   3B 0001AE90 CredMarshalCredentialW
+         63   3C 000197F0 CredParseUserNameWithType
+         64   3D 000516C0 CredProfileLoaded
+         65   3E 0000EFF0 CredProfileLoadedEx
+         66   3F 0001A0E0 CredProfileUnloaded
+         67   40 00052410 CredProtectA
+         68   41 0001AC00 CredProtectEx
+         69   42 0001ABE0 CredProtectW
+         70   43 00051740 CredReadA
+         71   44 00051880 CredReadByTokenHandle
+         72   45 000519D0 CredReadDomainCredentialsA
+         73   46 00051B30 CredReadDomainCredentialsW
+         74   47 00051CA0 CredReadW
+         75   48 00051DE0 CredRestoreCredentials
+         76   49 00052590 CredUnmarshalCredentialA
+         77   4A 000199E0 CredUnmarshalCredentialW
+         78   4B 00052640 CredUnprotectA
+         79   4C 0001B550 CredUnprotectEx
+         80   4D 000527E0 CredUnprotectW
+         81   4E 00051F60 CredWriteA
+         82   4F 00052040 CredWriteDomainCredentialsA
+         83   50 00052170 CredWriteDomainCredentialsW
+         84   51 0000ED40 CredWriteW
+         85   52 0000EDF0 CredpConvertCredential
+         86   53 00010A10 CredpConvertOneCredentialSize
+         87   54 00052800 CredpConvertTargetInfo
+         88   55 00052A60 CredpDecodeCredential
+         89   56 00052AB0 CredpEncodeCredential
+         90   57 00052B30 CredpEncodeSecret
+         91   58 00061570 DeleteIsolationContainer
+         92   59 000473E0 DeleteService
+         93   5A 00009920 EnableTraceEx2
+         94   5B 0001A180 EnumDependentServicesW
+         95   5C 00007E20 EnumServicesStatusExW
+         96   5D 0000CA60 EnumerateIdentityProviders
+         97   5E 0000E7B0 EnumerateTraceGuidsEx
+         98   5F 0004AEF0 EtwQueryRealtimeConsumer
+         99   60 0004BE10 EventAccessControl
+        100   61 0004BE60 EventAccessQuery
+        101   62 0004C0B0 EventAccessRemove
+        102   63 00053660 FreeContainer
+        103   64 00018300 FreeTransientObjectSecurityDescriptor
+        104   65 0001BC50 GetDefaultIdentityProvider
+        105   66 000536B0 GetEmbeddedContainerIsolationPolicy
+        106   67 0000D820 GetEmbeddedImageMitigationPolicy
+        107   68 0001BAC0 GetIdentityProviderInfoByGUID
+        108   69 0002A180 GetIdentityProviderInfoByName
+        109   6A 0000E1C0 GetServiceDirectory
+        110   6B 00019CA0 GetServiceDisplayNameW
+        111   6C 00019D60 GetServiceKeyNameW
+        112   6D 00047460 GetServiceProcessToken
+        113   6E 0000E740 GetServiceRegistryStateKey
+        114   6F 000074B0 I_QueryTagInformation
+        115   70 0000E8B0 I_RegisterSvchostNotificationCallback
+        116   71 0001BB90 I_ScBroadcastServiceControlMessage
+        117   72 0001C8F0 I_ScIsSecurityProcess
+        118   73 0000AB90 I_ScPnPGetServiceName
+        119   74 00007390 I_ScQueryServiceConfig
+        120   75 0000BA70 I_ScRegisterDeviceNotification
+        121   76 000474F0 I_ScRegisterPreshutdownRestart
+        122   77 000475C0 I_ScReparseServiceDatabase
+        123   78 000490C0 I_ScRpcBindA
+        124   79 0001BD60 I_ScRpcBindW
+        125   7A 00007720 I_ScSendPnPMessage
+        126   7B 0001BB90 I_ScSendTSMessage
+          1   7C 00045B20 I_ScSetServiceBitsA
+          2   7D 0001C830 I_ScSetServiceBitsW
+        127   7E 0000E510 I_ScUnregisterDeviceNotification
+        128   7F 0000ABE0 I_ScValidatePnPService
+        129   80 000102F0 LocalGetConditionForString
+        130   81 0002E6A0 LocalGetReferencedTokenTypesForCondition
+        131   82 0002F520 LocalGetStringForCondition
+        132   83 00045610 LocalRpcBindingCreateWithSecurity
+        133   84 000457C0 LocalRpcBindingSetAuthInfoEx
+        134   85 0002A280 LookupAccountNameLocalA
+        135   86 00014EA0 LookupAccountNameLocalW
+        136   87 0002A400 LookupAccountSidLocalA
+        137   88 00015330 LookupAccountSidLocalW
+        138   89 0004E510 LsaAddAccountRights
+        139   8A 0000FBF0 LsaClose
+        140   8B 0004F090 LsaCreateSecret
+        141   8C 0004E740 LsaDelete
+        142   8D 0001A340 LsaEnumerateAccountRights
+        143   8E 0004E5B0 LsaEnumerateAccountsWithUserRight
+        144   8F 0000D800 LsaFreeMemory
+        145   90 0000F340 LsaICLookupNames
+        146   91 0004E7E0 LsaICLookupNamesWithCreds
+        147   92 0000F9B0 LsaICLookupSids
+        148   93 0004E9F0 LsaICLookupSidsWithCreds
+        149   94 00015840 LsaLookupClose
+        150   95 0000D800 LsaLookupFreeMemory
+        151   96 00014E00 LsaLookupGetDomainInfo
+        152   97 0000E0B0 LsaLookupManageSidNameMapping
+        153   98 0000F2D0 LsaLookupNames2
+        154   99 000158B0 LsaLookupOpenLocalPolicy
+        155   9A 0000F800 LsaLookupSids
+        156   9B 0004EC40 LsaLookupSids2
+        157   9C 0001BF90 LsaLookupTranslateNames
+        158   9D 0000D8D0 LsaLookupTranslateSids
+        159   9E 0000DA30 LsaLookupUserAccountType
+        160   9F 0000E9C0 LsaOpenPolicy
+        161   A0 0004F1A0 LsaOpenSecret
+        162   A1 0000F6C0 LsaQueryInformationPolicy
+        163   A2 0004F2B0 LsaQuerySecret
+        164   A3 0004E690 LsaRemoveAccountRights
+        165   A4 0001A480 LsaRetrievePrivateData
+        166   A5 0004EC50 LsaSetInformationPolicy
+        167   A6 0004F750 LsaSetSecret
+        168   A7 0004F9A0 LsaStorePrivateData
+        169   A8 00006A80 NotifyServiceStatusChange
+        170   A9 0001A0C0 NotifyServiceStatusChangeA
+        171   AA 00006A80 NotifyServiceStatusChangeW
+        172   AB 000081C0 OpenSCManagerA
+        173   AC 00008370 OpenSCManagerW
+        174   AD 00019FF0 OpenServiceA
+        175   AE 000082F0 OpenServiceW
+        176   AF 0000B020 OpenTraceW
+        177   B0 0000B6F0 ProcessTrace
+        178   B1 0004C2D0 QueryAllTracesA
+        179   B2 000013F0 QueryAllTracesW
+        180   B3 00047680 QueryLocalUserServiceName
+        181   B4 00047A00 QueryServiceConfig2A
+        182   B5 00007860 QueryServiceConfig2W
+        183   B6 00047E70 QueryServiceConfigA
+        184   B7 000080A0 QueryServiceConfigW
+        185   B8 000484A0 QueryServiceDynamicInformation
+        186   B9 00048000 QueryServiceObjectSecurity
+        187   BA 00007B40 QueryServiceStatus
+        188   BB 00008250 QueryServiceStatusEx
+        189   BC 0004AF70 QueryTraceProcessingHandle
+        190   BD 00018160 QueryTransientObjectSecurityDescriptor
+        191   BE 00007CA0 QueryUserServiceName
+        192   BF 000480E0 QueryUserServiceNameForContext
+        193   C0 00048540 RegisterServiceCtrlHandlerA
+        194   C1 00019EB0 RegisterServiceCtrlHandlerExA
+        195   C2 00005500 RegisterServiceCtrlHandlerExW
+        196   C3 0000E980 RegisterServiceCtrlHandlerW
+        197   C4          RegisterTraceGuidsA (forwarded to NTDLL.EtwRegisterTraceGuidsA)
+        198   C5 0000D460 ReleaseIdentityProviderEnumContext
+        199   C6 0004B190 RemoveTraceCallback
+        200   C7 0000D5C0 RpcClientCapabilityCheck
+        201   C8 000458D0 SetLocalRpcServerInterfaceSecurity
+        202   C9 000459B0 SetLocalRpcServerProtseqSecurity
+        203   CA 0001C690 SetServiceObjectSecurity
+        204   CB 00007BA0 SetServiceStatus
+        205   CC 0004B280 SetTraceCallback
+        206   CD 0001A060 StartServiceA
+        207   CE 000485B0 StartServiceCtrlDispatcherA
+        208   CF 00005A70 StartServiceCtrlDispatcherW
+        209   D0 00005490 StartServiceW
+        210   D1 0004C2E0 StartTraceA
+        211   D2 0000A3C0 StartTraceW
+        212   D3 0001BD40 StopTraceW
+        213   D4 0000DFB0 SubscribeServiceChangeNotifications
+        214   D5 0004C810 TraceQueryInformation
+        215   D6 0004CBC0 TraceSetInformation
+        216   D7 0000E940 UnsubscribeServiceChangeNotifications
+        217   D8 0000DC40 WaitServiceState
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       28000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       65000 .text

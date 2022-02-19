@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\HolographicRuntimes.dll
+
+File Type: DLL
+
+  Section contains the following exports for HolographicRuntimes.dll
+
+    00000000 characteristics
+    1694FCD5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000076E0 DllCanUnloadNow
+          2    1 00007410 DllGetActivationFactory
+          3    2 000075F0 DllGetClassObject
+          4    3 000075F0 DllGetClassObjectRuntime
+
+  Summary
+
+        2000 .data
+        5000 .pdata
+       15000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5D000 .text

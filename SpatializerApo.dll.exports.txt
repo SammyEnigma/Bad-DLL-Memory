@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\SpatializerApo.dll
+
+File Type: DLL
+
+  Section contains the following exports for Spatializer.dll
+
+    00000000 characteristics
+    8A4F9E74 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005240 DllCanUnloadNow
+          2    1 00004F70 DllGetActivationFactory
+          3    2 00005150 DllGetClassObject
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       20000 .text
+        2000 RT_CODE

@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\raschapext.dll
+
+File Type: DLL
+
+  Section contains the following exports for RASCHAPEXT.dll
+
+    00000000 characteristics
+    6CB4D96C time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009FB0 DllCanUnloadNow
+          2    1 00009FD0 DllGetClassObject
+          3    2 0000A100 DllRegisterServer
+          4    3 0000A1F0 DllUnregisterServer
+          5    4 00001160 RasChapExt_FreeMemory
+          6    5 00001150 RasChapExt_GetConfigForceNotDomainJoined
+          7    6 00001150 RasChapExt_GetConfigIgnoreIASLogon
+          8    7 00001150 RasChapExt_GetConfigKeepCredentialsOnFailure
+          9    8 00001180 RasChapExt_GetUserCredentials
+         10    9 00001650 RasChapExt_InvokeConfigUI
+         11    A 00001660 RasChapExt_InvokeInteractiveUI
+         12    B 00001150 RasChapExt_ShowHelp
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

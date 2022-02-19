@@ -1,0 +1,53 @@
+
+Dump of file C:\Windows\System32\dnssd.dll
+
+File Type: DLL
+
+  Section contains the following exports for dnssd.dll
+
+    00000000 characteristics
+    55CBCCE1 time date stamp Thu Aug 13 00:46:57 2015
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000040C0 DNSServiceAddRecord
+          2    1 00003540 DNSServiceBrowse
+          3    2 00001220 DNSServiceConstructFullName
+          4    3 00003D70 DNSServiceCreateConnection
+          5    4 00003B50 DNSServiceEnumerateDomains
+          6    5 000032A0 DNSServiceGetAddrInfo
+          7    6 00002920 DNSServiceGetProperty
+          8    7 000048E0 DNSServiceNATPortMappingCreate
+          9    8 000024D0 DNSServiceProcessResult
+         10    9 00002F30 DNSServiceQueryRecord
+         11    A 00004610 DNSServiceReconfirmRecord
+         12    B 000027B0 DNSServiceRefDeallocate
+         13    C 00002450 DNSServiceRefSockFD
+         14    D 000037E0 DNSServiceRegister
+         15    E 00003E50 DNSServiceRegisterRecord
+         16    F 00004450 DNSServiceRemoveRecord
+         17   10 00002BF0 DNSServiceResolve
+         18   11 000042E0 DNSServiceUpdateRecord
+         19   12 00001600 TXTRecordContainsKey
+         20   13 000014C0 TXTRecordCreate
+         21   14 000014E0 TXTRecordDeallocate
+         22   15 000015F0 TXTRecordGetBytesPtr
+         23   16 00001780 TXTRecordGetCount
+         24   17 000017C0 TXTRecordGetItemAtIndex
+         25   18 000015E0 TXTRecordGetLength
+         26   19 000016C0 TXTRecordGetValuePtr
+         27   1A 00001500 TXTRecordRemoveValue
+         28   1B 000018D0 TXTRecordSetValue
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

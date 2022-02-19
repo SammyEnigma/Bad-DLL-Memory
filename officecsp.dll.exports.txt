@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\officecsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for OFFICECSP.dll
+
+    00000000 characteristics
+    A4E6E839 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001A30 DllCanUnloadNow
+          2    1 00001BE0 DllGetClassObject
+          3    2 00001A70 DllRegisterServer
+          4    3 00001B70 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       10000 .text

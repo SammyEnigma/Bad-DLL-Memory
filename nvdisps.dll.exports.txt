@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvdisps.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvDispS.DLL
+
+    00000000 characteristics
+    5FD4055A time date stamp Sat Dec 12 00:48:42 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0010CBD0 DllCanUnloadNow
+          2    1 0010CC20 DllGetClassObject
+          3    2 0010CC40 DllRegisterServer
+          4    3 0010CC50 DllUnregisterServer
+
+  Summary
+
+       2B000 .data
+        1000 .didat
+       2E000 .pdata
+      16B000 .rdata
+       16000 .reloc
+      575000 .rsrc
+      3CF000 .text
+        1000 .tls

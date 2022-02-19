@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\FXSCOMEX.dll
+
+File Type: DLL
+
+  Section contains the following exports for FxsComEx.dll
+
+    00000000 characteristics
+    17C33B44 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002CC0 DllCanUnloadNow
+          2    1 00002CE0 DllGetClassObject
+          3    2 00002E10 DllRegisterServer
+          4    3 00002E10 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+       1A000 .rdata
+        2000 .reloc
+       22000 .rsrc
+       56000 .text

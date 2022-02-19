@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\MTFFuzzyDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for MTFFuzzyDS.dll
+
+    00000000 characteristics
+    3AD71B2E time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000023B0 DllCanUnloadNow
+          2    1 000022D0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       1E000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Usb.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Usb.dll
+
+    00000000 characteristics
+    197FBB77 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005880 DllCanUnloadNow
+          2    1 00005910 DllGetActivationFactory
+          3    2 00005AF0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       24000 .rdata
+        5000 .reloc
+        2000 .rsrc
+       3B000 .text

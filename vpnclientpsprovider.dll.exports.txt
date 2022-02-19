@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\wbem\vpnclientpsprovider.dll
+
+File Type: DLL
+
+  Section contains the following exports for VpnClientPSProvider.DLL
+
+    00000000 characteristics
+    4F3064A9 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A8D0 DllCanUnloadNow
+          2    1 0000A910 DllGetClassObject
+          3    2 0000A5C0 DllMain
+          4    3 0000A830 DllRegisterServer
+          5    4 0000A880 DllUnregisterServer
+          6    5 0000A620 GetProviderClassID
+          7    6 0000A560 MI_Main
+
+  Summary
+
+        A000 .data
+        1000 .didat
+        6000 .pdata
+       25000 .rdata
+        4000 .reloc
+        2000 .rsrc
+       64000 .text

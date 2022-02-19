@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\d3d12SDKLayers.dll
+
+File Type: DLL
+
+  Section contains the following exports for d3dSDKLayers.dll
+
+    00000000 characteristics
+    314091BA time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000F1A0 D3D12RegisterLayers
+          2    1 0035D350 D3D12SDKVersion
+          3    2 0000F2E0 D3D12TranslateCreateDevice
+          4    3 0000F290 SetD3DDebugLayerStartupOptions
+
+  Summary
+
+       11000 .data
+       24000 .pdata
+      14A000 .rdata
+        8000 .reloc
+        1000 .rsrc
+      31E000 .text

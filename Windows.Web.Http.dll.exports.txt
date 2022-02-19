@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Windows.Web.Http.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Web.Http.dll
+
+    00000000 characteristics
+    978A3876 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004990 DllCanUnloadNow
+          2    1 00033DB0 DllGetActivationFactory
+          3    2 000C20F0 DllGetClassObject
+          4    3 0003A2E0 DllMain
+          5    4 000C2180 DllRegisterServer
+          6    5 000C21B0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        E000 .pdata
+       88000 .rdata
+        F000 .reloc
+        4000 .rsrc
+       CA000 .text

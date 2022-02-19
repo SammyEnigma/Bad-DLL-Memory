@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\VAN.dll
+
+File Type: DLL
+
+  Section contains the following exports for van.dll
+
+    00000000 characteristics
+    CE0640B8 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0001F750 DllCanUnloadNow
+          6    1 0001F790 DllGetClassObject
+          7    2 0001F7B0 DllRegisterServer
+          8    3 0001F810 DllUnregisterServer
+          1    4 0001E580 HideVAN
+          9    5 0001F980 RunVANW
+          2    6 0001F1F0 ShowVAN
+          3    7 0001F4E0 ShutdownVAN
+          4    8 0001F700 VanUIManager_CreateInstance
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       16000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       37000 .text

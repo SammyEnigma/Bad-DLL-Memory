@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.Proximity.dll
+
+File Type: DLL
+
+  Section contains the following exports for dll.dll
+
+    00000000 characteristics
+    9BE03444 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001470 DllCanUnloadNow
+          3    1 000011A0 DllGetActivationFactory
+          4    2 00001380 DllGetClassObject
+          1    3 00001560 ProximityConnect
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       46000 .text

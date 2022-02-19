@@ -1,0 +1,74 @@
+
+Dump of file C:\Windows\System32\UserDataTimeUtil.dll
+
+File Type: DLL
+
+  Section contains the following exports for UserDataTimeUtil.dll
+
+    00000000 characteristics
+    8D004D9B time date stamp
+        0.00 version
+           1 ordinal base
+          48 number of functions
+          48 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00002B20 AdjustForAllDayAppts
+          4    1 00002330 AdjustForBias
+          5    2 00002A90 AdjustGMTForAllDayAppts
+          6    3 00001560 CmpDateST
+          7    4 000014F0 CmpST
+          8    5 000015B0 CmpYMD
+          9    6 00002480 ConvertFileTimeToLocalVariantTime
+         10    7 00002A00 ConvertLocalVariantTimeToFileTime
+         11    8 00002070 ConvertSchedPlusToRenTz
+         12    9 00002230 ConvertTimeZone
+         13    A 00002940 ConvertVariantTimeToFileTime
+         14    B 00001890 DaysBetweenDates
+         15    C 000016A0 DaysBetweenFT
+         16    D 00001AB0 DowFromDate
+         17    E 00001790 DurationBetweenFT
+         18    F 00002EB0 ExpandRtm
+         19   10 000026F0 FileTimeAdjustTzToUTC
+         20   11 00002640 FileTimeAdjustUTCToTz
+         21   12 000027A0 FileTimeToLocalFileTimeEx
+         22   13 00002590 FileTimeToTzSpecificVariantTime
+         23   14 00002510 FileTimeToVariantTime
+         24   15 000030D0 GetCurrentLocalTime
+         25   16 00003B70 GetDaysForLunarMonthOfCalendar
+          1   17 00001120 GetDaysForMonth
+         26   18 00003A30 GetLeapMonthOfLunarYear
+         27   19 000049B0 GetLocalIANAName
+         28   1A 000035F0 GetLunarDate
+         29   1B 00003660 GetLunarDateOfCalendar
+         30   1C 000039A0 GetSolarDateOfCalendar
+         31   1D 00001BC0 GetStartEndTime
+         32   1E 00001210 IncrSystemTime
+         33   1F 00003A90 IsSupportedLunarCalendarType
+          2   20 000011B0 LIncrWord
+         34   21 00002C00 LegacyTimezoneInformationToTimezoneInformation
+         35   22 00002870 LocalFileTimeToFileTimeEx
+         36   23 00003C60 MapIANATZNameToTZInfo
+         37   24 000045C0 MapTZInfoToIANAName
+         38   25 00001710 MinutesBetweenFT
+         39   26 00001600 MinutesBetweenST
+         40   27 00002F80 PimGet24HourFormat
+         41   28 00001C60 PimGetDateFormat
+         42   29 00002ED0 PimGetLocaleInfo
+         43   2A 00002FE0 PimGetTimeFormat
+         44   2B 00001E80 RenFromStdTimeZoneInfo
+         45   2C 00001D90 RoundEventTime
+         46   2D 00001810 SecondsBetweenFT
+         47   2E 00001EB0 StdTimeZoneInfoFromRen
+         48   2F 00002E20 TruncFt
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+       15000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        7000 .text

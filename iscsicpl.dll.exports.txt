@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\iscsicpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for ISCSICPL.CPL
+
+    00000000 characteristics
+    F4EC425F time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001630 CPlApplet
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

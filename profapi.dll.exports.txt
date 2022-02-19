@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\profapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for profapi.dll
+
+    00000000 characteristics
+    793B0534 time date stamp
+        0.00 version
+         101 ordinal base
+          17 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+        101      00002AA0 [NONAME]
+        102      00006EE0 [NONAME]
+        103      00002920 [NONAME]
+        104      00002B30 [NONAME]
+        105      000012D0 [NONAME]
+        106      000011D0 [NONAME]
+        107      00001CB0 [NONAME]
+        108      00010130 [NONAME]
+        109      00010610 [NONAME]
+        110      00010490 [NONAME]
+        111      00001B50 [NONAME]
+        112      00001630 [NONAME]
+        113      000016D0 [NONAME]
+        114      000027F0 [NONAME]
+        115      00010510 [NONAME]
+        116      0000FF90 [NONAME]
+        117      000056E0 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

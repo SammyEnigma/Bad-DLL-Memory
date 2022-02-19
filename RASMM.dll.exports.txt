@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RASMM.dll
+
+File Type: DLL
+
+  Section contains the following exports for RasMM.dll
+
+    00000000 characteristics
+    4495B0AD time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001B00 DllCanUnloadNow
+          2    1 00001B40 DllGetClassObject
+          3    2 000019B0 DllRegisterServer
+          4    3 00001A90 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+       33000 .rsrc
+       12000 .text

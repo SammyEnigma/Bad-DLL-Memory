@@ -1,0 +1,82 @@
+
+Dump of file C:\Windows\System32\WinFax.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINFAX.dll
+
+    00000000 characteristics
+     1E5EEBF time date stamp
+        0.00 version
+           1 ordinal base
+          56 number of functions
+          56 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013A0 FaxAbort
+          2    1 000013C0 FaxAccessCheck
+          3    2 000013E0 FaxClose
+          4    3 00001400 FaxCompleteJobParamsA
+          5    4 00001420 FaxCompleteJobParamsW
+          6    5 00001440 FaxConnectFaxServerA
+          7    6 000015C0 FaxConnectFaxServerW
+          8    7 00001650 FaxEnableRoutingMethodA
+          9    8 00001670 FaxEnableRoutingMethodW
+         10    9 00001690 FaxEnumGlobalRoutingInfoA
+         11    A 000016B0 FaxEnumGlobalRoutingInfoW
+         12    B 000016D0 FaxEnumJobsA
+         13    C 000016F0 FaxEnumJobsW
+         14    D 00001710 FaxEnumPortsA
+         15    E 00001730 FaxEnumPortsW
+         16    F 00001750 FaxEnumRoutingMethodsA
+         17   10 00001770 FaxEnumRoutingMethodsW
+         18   11 00001790 FaxFreeBuffer
+         19   12 000017B0 FaxGetConfigurationA
+         20   13 000017D0 FaxGetConfigurationW
+         21   14 000017F0 FaxGetDeviceStatusA
+         22   15 00001810 FaxGetDeviceStatusW
+         23   16 00001830 FaxGetJobA
+         24   17 00001850 FaxGetJobW
+         25   18 00001870 FaxGetLoggingCategoriesA
+         26   19 00001890 FaxGetLoggingCategoriesW
+         27   1A 000018B0 FaxGetPageData
+         28   1B 000018D0 FaxGetPortA
+         29   1C 000018F0 FaxGetPortW
+         30   1D 00001910 FaxGetRoutingInfoA
+         31   1E 00001930 FaxGetRoutingInfoW
+         32   1F 00001950 FaxInitializeEventQueue
+         33   20 00001970 FaxOpenPort
+         34   21 00001990 FaxPrintCoverPageA
+         35   22 000019B0 FaxPrintCoverPageW
+         36   23 00002150 FaxRegisterRoutingExtensionW
+         37   24 000019D0 FaxRegisterServiceProviderW
+         38   25 00002170 FaxSendDocumentA
+         39   26 000021B0 FaxSendDocumentForBroadcastA
+         40   27 000021D0 FaxSendDocumentForBroadcastW
+         41   28 00002190 FaxSendDocumentW
+         42   29 000021F0 FaxSetConfigurationA
+         43   2A 00002210 FaxSetConfigurationW
+         44   2B 00002230 FaxSetGlobalRoutingInfoA
+         45   2C 00002250 FaxSetGlobalRoutingInfoW
+         46   2D 00002270 FaxSetJobA
+         47   2E 00002290 FaxSetJobW
+         48   2F 000022B0 FaxSetLoggingCategoriesA
+         49   30 000022D0 FaxSetLoggingCategoriesW
+         50   31 000022F0 FaxSetPortA
+         51   32 00002310 FaxSetPortW
+         52   33 00002330 FaxSetRoutingInfoA
+         53   34 00002350 FaxSetRoutingInfoW
+         54   35 00002370 FaxStartPrintJobA
+         55   36 00002390 FaxStartPrintJobW
+         56   37 00001F90 FaxUnregisterServiceProviderW
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

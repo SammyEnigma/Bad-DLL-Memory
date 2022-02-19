@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.AccountsControl.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.AccountsControl.dll
+
+    00000000 characteristics
+     A34736B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000054A0 DllCanUnloadNow
+          2    1 00005190 DllGetActivationFactory
+          3    2 00005370 DllGetClassObject
+          4    3 00002C60 GetProxyDllInfo
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       60000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       99000 .text

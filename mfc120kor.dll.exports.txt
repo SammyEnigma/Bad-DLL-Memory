@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\mfc120kor.dll
+
+File Type: DLL
+
+  Summary
+
+        9000 .rsrc

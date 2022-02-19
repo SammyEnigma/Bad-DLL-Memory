@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\cmifw.dll
+
+File Type: DLL
+
+  Section contains the following exports for cmifw.DLL
+
+    00000000 characteristics
+    7FAC3FFC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00001290 DllCanUnloadNow
+          4    1 000012B0 DllGetClassObject
+          1    2 0000A830 EnableGroupW
+          2    3 0000A3E0 unattendW
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\IMJPTIP.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imtipjpn.dll
+
+    00000000 characteristics
+    1DF8EFBB time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0006E8A0 DllCanUnloadNow
+          2    1 0002E410 DllGetClassObject
+          3    2 0006E900 DllRegisterServer
+          4    3 0006E970 DllUnregisterServer
+
+  Summary
+
+       11000 .data
+        1000 .didat
+        9000 .pdata
+       41000 .rdata
+        2000 .reloc
+      1C7000 .rsrc
+       9C000 .text

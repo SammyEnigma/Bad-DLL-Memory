@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvxdapix.dll
+
+File Type: DLL
+
+  Section contains the following exports for NVXDApiX.DLL
+
+    00000000 characteristics
+    5FD401A6 time date stamp Sat Dec 12 00:32:54 2020
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0040C5B0 DllCanUnloadNow
+          2    1 0040C5F0 DllGetClassObject
+          3    2 0040C610 DllInstall
+          4    3 0040C690 DllRegisterServer
+          5    4 0040C6E0 DllUnregisterServer
+
+  Summary
+
+       FD000 .data
+        1000 .didat
+        1000 .orpc
+       35000 .pdata
+      271000 .rdata
+        8000 .reloc
+        E000 .rsrc
+      57C000 .text
+        1000 .tls

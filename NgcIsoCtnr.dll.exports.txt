@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\NgcIsoCtnr.dll
+
+File Type: DLL
+
+  Section contains the following exports for NgcIsoCtnr.dll
+
+    00000000 characteristics
+    5F061AA9 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EA60 DllCanUnloadNow
+          2    1 0000E970 DllGetClassObject
+          3    2 0000EAC0 NgcIsoCtnrInitialize
+          4    3 0000EB10 NgcIsoCtnrInitializePregenPool
+          5    4 0000EC70 NgcIsoCtnrTriggerPregen
+          6    5 0000EBC0 NgcIsoCtnrUninitializePregenPool
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       29000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       74000 .text

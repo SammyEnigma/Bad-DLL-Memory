@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\iscsiwmiv2.dll
+
+File Type: DLL
+
+  Section contains the following exports for iscsiwmiv2.DLL
+
+    00000000 characteristics
+    9A5952F6 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002E00 DllCanUnloadNow
+          2    1 00002E40 DllGetClassObject
+          3    2 00002B00 DllMain
+          4    3 00002D60 DllRegisterServer
+          5    4 00002DB0 DllUnregisterServer
+          6    5 00002B60 GetProviderClassID
+          7    6 00002AA0 MI_Main
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+       10000 .rdata
+        3000 .reloc
+        1000 .rsrc
+        A000 .text

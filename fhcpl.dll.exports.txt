@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\fhcpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for FHCPL.dll
+
+    00000000 characteristics
+    C7242322 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007AB0 DllCanUnloadNow
+          2    1 00007AD0 DllGetClassObject
+          3    2 000058E0 DllRegisterServer
+          4    3 000058E0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+       22000 .rsrc
+       2B000 .text

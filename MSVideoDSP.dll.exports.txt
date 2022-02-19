@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\MSVideoDSP.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSVideoDSP.dll
+
+    00000000 characteristics
+    B5827A9B time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001BA0 DllCanUnloadNow
+          1    1 000019C0 DllGetActivationFactory
+          3    2 00001BF0 DllGetClassObject
+          4    3 00001470 DllRegisterServer
+          5    4 00001470 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        4000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       97000 .text

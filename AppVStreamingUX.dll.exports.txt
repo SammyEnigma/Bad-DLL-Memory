@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\AppVStreamingUX.dll
+
+File Type: DLL
+
+  Section contains the following exports for APPVSTREAMINGUX.dll
+
+    00000000 characteristics
+    C1B5080B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000053A0 Deinitialize
+          4    1 000054E0 GetComponent
+          1    2 00005330 Initialize
+          2    3 00005340 InitializeISV
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+       1C000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        E000 .text

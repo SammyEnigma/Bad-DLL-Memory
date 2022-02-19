@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\F12\DiagnosticsHub.DataWarehouse.dll
+
+File Type: DLL
+
+  Section contains the following exports for DiagnosticsHub.DataWarehouse.dll
+
+    00000000 characteristics
+    ABA5B03F time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002AE10 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        6000 .pdata
+       19000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       78000 .text

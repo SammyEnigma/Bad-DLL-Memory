@@ -1,0 +1,256 @@
+
+Dump of file C:\Windows\System32\mfplat.dll
+
+File Type: DLL
+
+  Section contains the following exports for MFPlat.DLL
+
+    00000000 characteristics
+    FD3FB2F7 time date stamp
+        0.00 version
+           1 ordinal base
+         230 number of functions
+         230 number of names
+
+    ordinal hint RVA      name
+
+         10    0 00024E00 CopyPropVariant
+         11    1 00015140 CreatePropVariant
+         12    2 0002F690 CreatePropertyStore
+         13    3 00019A30 DestroyPropVariant
+          1    4 0003A540 FormatTagFromWfx
+         14    5 00038670 GetAMSubtypeFromD3DFormat
+         15    6 00038200 GetD3DFormatFromMFSubtype
+         16    7          MFAddPeriodicCallback (forwarded to RTWorkQ.RtwqAddPeriodicCallback)
+         17    8          MFAllocateSerialWorkQueue (forwarded to RTWorkQ.RtwqAllocateSerialWorkQueue)
+         18    9 00022960 MFAllocateWorkQueue
+         19    A          MFAllocateWorkQueueEx (forwarded to RTWorkQ.RtwqAllocateWorkQueue)
+         20    B 000AA9B0 MFAppendCollection
+         21    C 0003AD30 MFAverageTimePerFrameToFrameRate
+         22    D 00005220 MFBeginCreateFile
+         23    E 0006F5B0 MFBeginGetHostByName
+         24    F 0006BF90 MFBeginRegisterWorkQueueWithMMCSS
+         25   10          MFBeginRegisterWorkQueueWithMMCSSEx (forwarded to RTWorkQ.RtwqBeginRegisterWorkQueueWithMMCSS)
+         26   11          MFBeginUnregisterWorkQueueWithMMCSS (forwarded to RTWorkQ.RtwqBeginUnregisterWorkQueueWithMMCSS)
+         27   12 000A1AA0 MFCalculateBitmapImageSize
+         28   13 00022180 MFCalculateImageSize
+         29   14 0006BFC0 MFCallStackTracingClearSnapshot
+         30   15 0006BFE0 MFCallStackTracingLogSessionErrors
+         31   16 0006C020 MFCallStackTracingRestoreSnapshot
+         32   17 0006C040 MFCallStackTracingTakeSnapshot
+         33   18 0006EB00 MFCancelCreateFile
+         34   19          MFCancelWorkItem (forwarded to RTWorkQ.RtwqCancelWorkItem)
+         35   1A 000D18C0 MFCheckEnabledViaAppService
+         36   1B 000A0A10 MFClearLocalMFTs
+         37   1C 00005B50 MFCombineSamples
+         38   1D 0001AAF0 MFCompareFullToPartialMediaType
+         39   1E 0006F870 MFCompareSockaddrAddresses
+         40   1F 000A3780 MFConvertColorInfoFromDXVA
+         41   20 000A3790 MFConvertColorInfoToDXVA
+         42   21 000A37A0 MFConvertFromFP16Array
+         43   22 000A37F0 MFConvertToFP16Array
+         44   23 00003010 MFCopyImage
+         45   24 000AA9C0 MFCreate2DMediaBuffer
+         46   25 000AA9D0 MFCreate2DMediaBufferOn1DMediaBuffer
+         47   26 00036160 MFCreateAMMediaTypeFromMFMediaType
+         48   27 00004700 MFCreateAlignedMemoryBuffer
+         49   28 000AA9E0 MFCreateAlignedSharedMemoryBuffer
+         50   29          MFCreateAsyncResult (forwarded to RTWorkQ.RtwqCreateAsyncResult)
+         51   2A 000337B0 MFCreateAttributes
+         52   2B 0009E5A0 MFCreateAudioMediaType
+         53   2C 000D3F00 MFCreateByteStreamHandlerAppServiceActivate
+         54   2D 00018D90 MFCreateCollection
+         55   2E 00126650 MFCreateContentDecryptorContext
+         56   2F 00126F40 MFCreateContentProtectionDevice
+         57   30 00080DA0 MFCreateD3D12SynchronizationObject
+         58   31 0001A240 MFCreateDXGIDeviceManager
+         59   32 000039F0 MFCreateDXGISurfaceBuffer
+         60   33 00003DE0 MFCreateDXSurfaceBuffer
+         61   34 000B7380 MFCreateEMEStoreObject
+         62   35 00035FF0 MFCreateEventQueue
+         63   36 0006EB70 MFCreateFile
+         64   37 00013F00 MFCreateFileFromHandle
+         65   38 00014910 MFCreateLegacyMediaBufferOnMFMediaBuffer
+         66   39 000256C0 MFCreateMFByteStreamOnIStreamWithFlags
+         67   3A 000256B0 MFCreateMFByteStreamOnStream
+         68   3B 000145B0 MFCreateMFByteStreamOnStreamEx
+         69   3C 001006B0 MFCreateMFByteStreamWrapper
+         70   3D 00004C40 MFCreateMFVideoFormatFromMFMediaType
+         71   3E 000AAB00 MFCreateMediaBufferFromMediaType
+         72   3F 00034440 MFCreateMediaBufferWrapper
+         73   40 00016B40 MFCreateMediaEvent
+         74   41 00018C20 MFCreateMediaEventResult
+         75   42 000128D0 MFCreateMediaExtensionActivate
+         76   43 00013190 MFCreateMediaExtensionActivateNoInit
+         77   44 000D3FD0 MFCreateMediaExtensionAppServiceActivate
+         78   45 000392F0 MFCreateMediaExtensionInprocActivate
+         79   46 0002B2F0 MFCreateMediaType
+         80   47 00119100 MFCreateMediaTypeFromProperties
+         81   48 0002B570 MFCreateMediaTypeFromRepresentation
+         82   49 00022980 MFCreateMemoryBuffer
+         83   4A 000AAB30 MFCreateMemoryBufferFromRawBuffer
+         84   4B 0001CB60 MFCreateMemoryStream
+         85   4C 00083D00 MFCreateMuxStreamAttributes
+         86   4D 00083ED0 MFCreateMuxStreamMediaType
+         87   4E 000840F0 MFCreateMuxStreamSample
+         88   4F 000DD510 MFCreateOOPMFTProxy
+         89   50 000E2D40 MFCreateOOPMFTRemote
+         90   51 00008C00 MFCreatePathFromURL
+         91   52 00026550 MFCreatePresentationDescriptor
+         92   53 00119860 MFCreatePropertiesFromMediaType
+         93   54 00100840 MFCreateReusableByteStream
+         94   55 00100870 MFCreateReusableByteStreamWithSharedLock
+         95   56 000184C0 MFCreateSample
+         96   57 000AAB70 MFCreateSecureBufferAllocator
+         97   58 000AAB80 MFCreateSharedMemoryMediaBufferFromMediaType
+         98   59 0006F900 MFCreateSocket
+         99   5A 00072AF0 MFCreateSocketListener
+        100   5B 000216D0 MFCreateSourceResolver
+        101   5C 00020D10 MFCreateSourceResolverInternal
+        102   5D 000AABC0 MFCreateStagingSurfaceWrapper
+        103   5E 00026F40 MFCreateStreamDescriptor
+        104   5F 00085A60 MFCreateStreamOnMFByteStream
+        105   60 0010F470 MFCreateStreamOnMFByteStreamEx
+        106   61 000752C0 MFCreateSystemTimeSource
+        107   62 00034FE0 MFCreateTelemetrySession
+        108   63 0006EBA0 MFCreateTempFile
+        109   64 00006780 MFCreateTrackedSample
+        110   65 0002DFB0 MFCreateTransformActivate
+        111   66 00008B30 MFCreateURLFromPath
+        112   67 0006FA90 MFCreateUdpSockets
+        113   68 00126650 MFCreateVideoDecryptorContext
+        114   69 00011290 MFCreateVideoMediaType
+        115   6A 000A1B80 MFCreateVideoMediaTypeFromBitMapInfoHeader
+        116   6B 00039D70 MFCreateVideoMediaTypeFromBitMapInfoHeaderEx
+        117   6C 000A1B90 MFCreateVideoMediaTypeFromSubtype
+        118   6D 000369D0 MFCreateVideoMediaTypeFromVideoInfoHeader
+        119   6E 000A1C40 MFCreateVideoMediaTypeFromVideoInfoHeader2
+        120   6F 00001D50 MFCreateVideoSampleAllocatorEx
+        121   70 000AABD0 MFCreateWICBitmapBuffer
+        122   71 000F00D0 MFCreateWICDecoderProxy
+        123   72 00037E50 MFCreateWaveFormatExFromMFMediaType
+        124   73 0000E0E0 MFDeserializeAttributesFromStream
+        125   74 000AABE0 MFDeserializeEvent
+        126   75 00021BE0 MFDeserializeMediaTypeFromStream
+        127   76 0001B2C0 MFDeserializePresentationDescriptor
+        128   77 00021930 MFEndCreateFile
+        129   78 00070120 MFEndGetHostByName
+        130   79          MFEndRegisterWorkQueueWithMMCSS (forwarded to RTWorkQ.RtwqEndRegisterWorkQueueWithMMCSS)
+        131   7A          MFEndUnregisterWorkQueueWithMMCSS (forwarded to RTWorkQ.RtwqEndUnregisterWorkQueueWithMMCSS)
+          2   7B 0001F1A0 MFEnumLocalMFTRegistrations
+        132   7C 000A1CF0 MFFrameRateToAverageTimePerFrame
+        133   7D 000759B0 MFFreeAdaptersAddresses
+        134   7E 000759D0 MFGetAdaptersAddresses
+        135   7F 0000CB90 MFGetAttributesAsBlob
+        136   80 0000CB40 MFGetAttributesAsBlobSize
+        137   81 00036730 MFGetCallStackTracingWeakReference
+        138   82 00030260 MFGetConfigurationDWORD
+        139   83 0006C060 MFGetConfigurationPolicy
+        140   84 0006C090 MFGetConfigurationStore
+        141   85 000161E0 MFGetConfigurationString
+        142   86 0006C0C0 MFGetContentProtectionSystemCLSID
+        143   87 00085C10 MFGetMFTMerit
+        144   88 000702A0 MFGetNumericNameFromSockaddr
+        145   89 000A38D0 MFGetPlaneSize
+          3   8A 0006BAB0 MFGetPlatformFlags
+          4   8B 000224E0 MFGetPlatformVersion
+        146   8C 0003ABE0 MFGetPluginControl
+          5   8D 00020DD0 MFGetRandomNumber
+        147   8E 000705D0 MFGetSockaddrFromNumericName
+        148   8F 00004360 MFGetStrideForBitmapInfoHeader
+        149   90 000F71D0 MFGetSupportedMimeTypes
+        150   91 000F7670 MFGetSupportedSchemes
+        151   92 000295F0 MFGetSystemTime
+        152   93 000218A0 MFGetTimerPeriodicity
+        153   94 00004B00 MFGetUncompressedVideoFormat
+        154   95          MFGetWorkQueueMMCSSClass (forwarded to RTWorkQ.RtwqGetWorkQueueMMCSSClass)
+        155   96          MFGetWorkQueueMMCSSPriority (forwarded to RTWorkQ.RtwqGetWorkQueueMMCSSPriority)
+        156   97          MFGetWorkQueueMMCSSTaskId (forwarded to RTWorkQ.RtwqGetWorkQueueMMCSSTaskId)
+        157   98 000F8660 MFHasLocallyRegisteredByteStreamHandlers
+        158   99 00021FC0 MFHasLocallyRegisteredSchemeHandlers
+        159   9A 00075A40 MFHeapAlloc
+        160   9B 00075A80 MFHeapFree
+        161   9C 0002A650 MFInitAMMediaTypeFromMFMediaType
+        162   9D 00033BD0 MFInitAttributesFromBlob
+        163   9E 0002ABF0 MFInitMediaTypeFromAMMediaType
+        164   9F 00010B80 MFInitMediaTypeFromMFVideoFormat
+        165   A0 0003AC00 MFInitMediaTypeFromMPEG1VideoInfo
+        166   A1 0001D100 MFInitMediaTypeFromMPEG2VideoInfo
+        167   A2 00036B20 MFInitMediaTypeFromVideoInfoHeader
+        168   A3 00036D10 MFInitMediaTypeFromVideoInfoHeader2
+        169   A4 0002C3F0 MFInitMediaTypeFromWaveFormatEx
+        170   A5 000A3900 MFInitVideoFormat
+        171   A6 0001DC20 MFInitVideoFormat_RGB
+        172   A7 000A8A50 MFInvalidateMFTEnumCache
+        173   A8          MFInvokeCallback (forwarded to RTWorkQ.RtwqInvokeCallback)
+        174   A9 000A2B90 MFIsBottomUpFormat
+        175   AA 00126FB0 MFIsContentProtectionDeviceSupported
+          6   AB 0006BAD0 MFIsFeatureEnabled
+        176   AC 000F8740 MFIsLocallyRegisteredMimeType
+        177   AD 000F8880 MFIsLocallyRegisteredSchemeHandler
+        178   AE          MFJoinWorkQueue (forwarded to RTWorkQ.RtwqJoinWorkQueue)
+        179   AF 0001A250 MFLockDXGIDeviceManager
+        180   B0          MFLockPlatform (forwarded to RTWorkQ.RtwqLockPlatform)
+        181   B1          MFLockSharedWorkQueue (forwarded to RTWorkQ.RtwqLockSharedWorkQueue)
+        182   B2          MFLockWorkQueue (forwarded to RTWorkQ.RtwqLockWorkQueue)
+        183   B3 0001D680 MFMapDX9FormatToDXGIFormat
+        184   B4 000046D0 MFMapDXGIFormatToDX9Format
+          7   B5 000387E0 MFPlatformBigEndian
+          8   B6 0003A5F0 MFPlatformLittleEndian
+        185   B7          MFPutWaitingWorkItem (forwarded to RTWorkQ.RtwqPutWaitingWorkItem)
+        186   B8 000087E0 MFPutWorkItem
+        187   B9 0002FD80 MFPutWorkItem2
+        188   BA 00021C80 MFPutWorkItemEx
+        189   BB 00018CD0 MFPutWorkItemEx2
+        190   BC 00008B80 MFRegisterLocalByteStreamHandler
+        191   BD 000F89C0 MFRegisterLocalSchemeHandler
+        192   BE          MFRegisterPlatformWithMMCSS (forwarded to RTWorkQ.RtwqRegisterPlatformWithMMCSS)
+        193   BF          MFRemovePeriodicCallback (forwarded to RTWorkQ.RtwqRemovePeriodicCallback)
+        194   C0 00019BD0 MFScheduleWorkItem
+        195   C1          MFScheduleWorkItemEx (forwarded to RTWorkQ.RtwqScheduleWorkItem)
+        196   C2 0000C930 MFSerializeAttributesToStream
+        197   C3 000AAC70 MFSerializeEvent
+        198   C4 00021C30 MFSerializeMediaTypeToStream
+        199   C5 0001B200 MFSerializePresentationDescriptor
+        200   C6 0006B3C0 MFSetMinimumMemoryAlignment
+        201   C7 00070870 MFSetSockaddrAny
+        202   C8 00021660 MFSetWindowForContentProtection
+        203   C9 00035C20 MFShutdown
+        204   CA 000057C0 MFSplitSample
+        205   CB 00033A50 MFStartup
+        206   CC 000A5550 MFStreamDescriptorProtectMediaType
+        207   CD 000A8A60 MFTEnum
+        208   CE 000A96F0 MFTEnum2
+        209   CF 000236E0 MFTEnumEx
+        210   D0 0003A320 MFTGetInfo
+        211   D1 000A8D50 MFTRegister
+        212   D2 000A0B00 MFTRegisterLocal
+        213   D3 000A0B70 MFTRegisterLocalByCLSID
+        214   D4 000A8F00 MFTUnregister
+        215   D5 000A0BE0 MFTUnregisterLocal
+        216   D6 000A0BF0 MFTUnregisterLocalByCLSID
+        217   D7 00031BC0 MFTraceError
+        218   D8 00031BC0 MFTraceFuncEnter
+        219   D9          MFUnjoinWorkQueue (forwarded to RTWorkQ.RtwqUnjoinWorkQueue)
+        220   DA 00022860 MFUnlockDXGIDeviceManager
+        221   DB          MFUnlockPlatform (forwarded to RTWorkQ.RtwqUnlockPlatform)
+        222   DC          MFUnlockWorkQueue (forwarded to RTWorkQ.RtwqUnlockWorkQueue)
+        223   DD          MFUnregisterPlatformFromMMCSS (forwarded to RTWorkQ.RtwqUnregisterPlatformFromMMCSS)
+        224   DE 000A2DB0 MFUnwrapMediaType
+        225   DF 0002AF10 MFValidateMediaTypeSize
+        226   E0 000A2F20 MFWrapMediaType
+        227   E1 00070A30 MFWrapSocket
+        228   E2 00029650 MFllMulDiv
+        229   E3 000A0C10 PropVariantFromStream
+        230   E4 000A0FC0 PropVariantToStream
+          9   E5 0003A4F0 ValidateWaveFormat
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        F000 .pdata
+       46000 .rdata
+        5000 .reloc
+        1000 .rsrc
+      159000 .text

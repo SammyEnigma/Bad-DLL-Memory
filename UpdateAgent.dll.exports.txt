@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\UpdateAgent.dll
+
+File Type: DLL
+
+  Section contains the following exports for UpdateAgent.dll
+
+    00000000 characteristics
+    14BA30C6 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00045540 CreateDeploymentSession
+          2    1 000454F0 CreateDeploymentSessionEx
+          3    2 000454A0 CreateOfflineDeploymentSession
+          4    3 00014050 UA_CommitActionList
+          5    4 00012B20 UA_CreateActionList
+          6    5 00012DA0 UA_CreateDownloadList
+          7    6 00013AE0 UA_CreateDownloadListFromActionList
+          8    7 00012FB0 UA_CreatePackageListFromDownloadList
+          9    8 00013EA0 UA_InstallActionList
+         10    9 00013C20 UA_ReleaseDownloadList
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        C000 .pdata
+       95000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      1CD000 .text
+        3000 PAGE

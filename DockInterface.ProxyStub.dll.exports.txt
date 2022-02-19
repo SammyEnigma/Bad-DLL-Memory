@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DockInterface.ProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for DockInterface.ProxyStub.dll
+
+    00000000 characteristics
+    6D6648D4 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010E0 DllCanUnloadNow
+          2    1 000010A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

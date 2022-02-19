@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\rasgcw.dll
+
+File Type: DLL
+
+  Section contains the following exports for rasgcw.dll
+
+    00000000 characteristics
+     80E8D77 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006160 DllCanUnloadNow
+          2    1 000061A0 DllGetClassObject
+          3    2 00006260 DllRegisterServer
+          4    3 000062C0 DllUnregisterServer
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        4000 .pdata
+       26000 .rdata
+        2000 .reloc
+        8000 .rsrc
+       4F000 .text

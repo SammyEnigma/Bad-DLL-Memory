@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\dnsrslvr.dll
+
+File Type: DLL
+
+  Section contains the following exports for dnsrslvr.dll
+
+    00000000 characteristics
+    38A6A458 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00021B70 LoadGPExtension
+          2    1 0000C770 Reg_DoRegisterAdapter
+          3    2 00010B10 ServiceMain
+          4    3 000144C0 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       39000 .text
+        7000 .wpp_sf

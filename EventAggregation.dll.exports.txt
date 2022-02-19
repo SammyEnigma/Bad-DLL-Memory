@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\EventAggregation.dll
+
+File Type: DLL
+
+  Section contains the following exports for EventAggregation.dll
+
+    00000000 characteristics
+    C0A8AF63 time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006F20 BriAllocateRpcBuffer
+          2    1 00007020 BriCleanup
+          3    2 000072B0 BriCreateBrokeredEvent
+          4    3 00007300 BriCreateBrokeredEventEx
+          5    4 00007D20 BriDeleteBrokeredEvent
+          6    5 00007EA0 BriFreeRpcBuffer
+          7    6 00008940 BriGetBrokerAvailabilityChangeStamp
+          8    7 00006F30 BriIsBrokerRegistered
+          9    8 00008A90 BriRegisterToBrokerAvailability
+         10    9 000088A0 BriResolveBrokerIdByEventId
+         11    A 00008BF0 BriUnregisterFromBrokerAvailability
+         12    B 00003E50 EACreateAggregateEvent
+         13    C 000045C0 EADeleteAggregateEvent
+         14    D 00004630 EAEnumerateAggregateEvents
+         15    E 000047E0 EAQueryAggregateEventData
+         16    F 00006E50 EaCreateAggregatedEvent
+         17   10 000051F0 EaCreateAggregation
+         18   11 00008F90 EaDecodeBrokeredEvent
+         19   12 00006830 EaDeleteAggregatedEvent
+         20   13 0000B410 EaDeleteAggregatedEventParameters
+         21   14 00005B80 EaDeleteAggregation
+         22   15 00006160 EaDisableAggregatedEvent
+         23   16 00005F20 EaEnableAggregatedEvent
+         24   17 00008EA0 EaEncodeBrokeredEvent
+         25   18 00009E20 EaFreeAggregatedEventParameters
+         26   19 00008910 EaFreeBuffer
+         27   1A 00005F10 EaGetAggregation
+         28   1B 000064A0 EaQueryAggregateEventConditionState
+         29   1C 00004C70 EaQueryAggregatedEvent
+         30   1D 0000AFC0 EaQueryAggregatedEventParameters
+         31   1E 00004A00 EaSignalAggregatedEvent
+         32   1F 0000AD50 EaStoreAggregatedEventParameters
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\EhStorPwdMgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for EhStorPwdMgr.DLL
+
+    00000000 characteristics
+    FA96BEEC time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000010E0 DllMain
+          3    1 000012A0 EnhancedStoragePasswordConfig
+          1    2 00001430 EnhancedStoragePasswordInitDisk
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+       12000 .rsrc
+        8000 .text

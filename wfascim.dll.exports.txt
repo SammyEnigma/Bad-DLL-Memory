@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\wfascim.dll
+
+File Type: DLL
+
+  Section contains the following exports for wfascim.dll
+
+    00000000 characteristics
+    D997276C time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A810 DllCanUnloadNow
+          2    1 0000A850 DllGetClassObject
+          3    2 0000A540 DllMain
+          4    3 0000A760 DllRegisterServer
+          5    4 0000A7C0 DllUnregisterServer
+          6    5 0000A5B0 GetProviderClassID
+          7    6 00001280 MI_Main
+
+  Summary
+
+       13000 .data
+        4000 .pdata
+       5E000 .rdata
+        F000 .reloc
+        1000 .rsrc
+       59000 .text

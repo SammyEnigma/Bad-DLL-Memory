@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\easwrt.dll
+
+File Type: DLL
+
+  Section contains the following exports for easwrt.dll
+
+    00000000 characteristics
+    D6FF7706 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000054D0 DllCanUnloadNow
+          2    1 00005530 DllGetActivationFactory
+          3    2 00005570 DllGetClassObject
+          4    3 000042F0 EasClientSecurityPolicyApply
+          5    4 00004390 EasClientSecurityPolicyCheckCompliance
+          6    5 00004430 EasGetClientDeviceInformation
+          7    6 000127A0 EasRegisterEncryptionProvider
+          8    7 00004450 EasShowConsentDialog
+          9    8 00012830 EasUnRegisterEncryptionProvider
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

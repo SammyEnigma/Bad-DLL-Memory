@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_f3a64c75ee4defb7\igfxexps32.dll
+
+File Type: DLL
+
+  Section contains the following exports for IgfxExps.dll
+
+    00000000 characteristics
+    561FA25D time date stamp Thu Oct 15 14:55:57 2015
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001040 DllCanUnloadNow
+          2    1 00001000 DllGetClassObject
+          3    2 000010F0 DllRegisterServer
+          4    3 00001130 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .orpc
+        2000 .rdata
+        1000 .reloc
+        5000 .rsrc
+        2000 .text

@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\usocoreps.dll
+
+File Type: DLL
+
+  Section contains the following exports for UsoCorePS.dll
+
+    00000000 characteristics
+    C5A685BC time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003E10 DllCanUnloadNow
+          2    1 00003CA0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        5000 .text

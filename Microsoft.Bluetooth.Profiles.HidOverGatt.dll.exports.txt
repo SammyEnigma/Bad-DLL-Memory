@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hidbthle.inf_amd64_bfb3ee8e5a97c3be\Microsoft.Bluetooth.Profiles.HidOverGatt.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Bluetooth.Profiles.HidOverGatt.dll
+
+    00000000 characteristics
+    3232D007 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000025B0 FxDriverEntryUm
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       24000 .text
+        1000 PAGE

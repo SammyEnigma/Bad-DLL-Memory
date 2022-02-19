@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Dism\ProvProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for ProvProvider.DLL
+
+    00000000 characteristics
+    FE8EC3D9 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000049F0 DLLGetDISMProviderCLSID
+          2    1 00004A20 DllCanUnloadNow
+          3    2 00004A60 DllGetClassObject
+          4    3 00004BA0 DllRegisterServer
+          5    4 00004CA0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        5000 .pdata
+       26000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       8B000 .text

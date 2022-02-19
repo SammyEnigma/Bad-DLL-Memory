@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\winnsi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINNSI.DLL
+
+    00000000 characteristics
+    7EAEF63E time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001BF0 NsiConnectToServer
+          2    1 00001E50 NsiDisconnectFromServer
+          3    2 00001010 NsiRpcDeregisterChangeNotification
+          4    3 00001050 NsiRpcDeregisterChangeNotificationEx
+          5    4 00002EB0 NsiRpcEnumerateObjectsAllParameters
+          6    5 000032B0 NsiRpcGetAllParameters
+          7    6 00003370 NsiRpcGetAllParametersEx
+          8    7 00003530 NsiRpcGetParameter
+          9    8 000035C0 NsiRpcGetParameterEx
+         10    9 00001490 NsiRpcRegisterChangeNotification
+         11    A 00001500 NsiRpcRegisterChangeNotificationEx
+         12    B 00003770 NsiRpcSetAllParameters
+         13    C 000037F0 NsiRpcSetAllParametersEx
+         14    D 000039B0 NsiRpcSetParameter
+         15    E 00003A40 NsiRpcSetParameterEx
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

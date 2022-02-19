@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\rdpencom.dll
+
+File Type: DLL
+
+  Section contains the following exports for rdpcomapi.DLL
+
+    00000000 characteristics
+    F674EE6F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007850 DllCanUnloadNow
+          2    1 00007870 DllGetClassObject
+          3    2 000079A0 DllRegisterServer
+          4    3 00007AA0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       13000 .rdata
+        1000 .reloc
+        8000 .rsrc
+       4B000 .text

@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\mfasfsrcsnk.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfasfsrcsnk.dll
+
+    00000000 characteristics
+    37BA4BD2 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007C80 DllCanUnloadNow
+          2    1 00006250 DllGetClassObject
+          3    2 000CC890 MFCreateASFContentInfo
+          4    3 000384A0 MFCreateASFIndexer
+          5    4 000D6900 MFCreateASFIndexerByteStream
+          6    5 00108980 MFCreateASFMediaSink
+          7    6 001115C0 MFCreateASFMediaSinkActivate
+          8    7 00111830 MFCreateASFMediaSinkActivateFromByteStream
+          9    8 00111B90 MFCreateASFMediaSinkActivateNoInit
+         10    9 000DE9B0 MFCreateASFMultiplexer
+         11    A 000E54F0 MFCreateASFMutex
+         12    B 000E8000 MFCreateASFProfile
+         13    C 00041900 MFCreateASFProfileFromPresentationDescriptor
+         14    D 000375F0 MFCreateASFSplitter
+         15    E 000E9E00 MFCreateASFStreamConfig
+         16    F 000EA870 MFCreateASFStreamPrioritization
+         17   10 00037FB0 MFCreateASFStreamSelector
+         18   11 00117910 MFCreateASFStreamingMediaSink
+         19   12 00111D00 MFCreateASFStreamingMediaSinkActivate
+         20   13 00111F70 MFCreateASFStreamingMediaSinkActivateNoInit
+         21   14 000E8010 MFCreatePresentationDescriptorFromASFProfile
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        C000 .pdata
+       2E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      19C000 .text

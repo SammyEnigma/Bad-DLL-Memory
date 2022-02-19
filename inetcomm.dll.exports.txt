@@ -1,0 +1,142 @@
+
+Dump of file C:\Windows\System32\inetcomm.dll
+
+File Type: DLL
+
+  Section contains the following exports for INETCOMM.dll
+
+    00000000 characteristics
+    347F3BCC time date stamp
+        0.00 version
+           1 ordinal base
+         708 number of functions
+         108 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00005D70 CreateCommunityTransport
+          4    1 00005DD0 CreateIMAPTransport
+          5    2 00005DD0 CreateIMAPTransport2
+          6    3 00005E20 CreateNNTPTransport
+          7    4 00005E70 CreatePOP3Transport
+          8    5 00005EC0 CreateRASTransport
+          9    6 00005F20 CreateRangeList
+         10    7 00005F70 CreateSMTPTransport
+         11    8 00005480 DllCanUnloadNow
+         12    9 00005FD0 DllGetClassObject
+         13    A 00086030 EssContentHintDecodeEx
+         14    B 00086130 EssContentHintEncodeEx
+         15    C 00086240 EssKeyExchPreferenceDecodeEx
+         16    D 000864B0 EssKeyExchPreferenceEncodeEx
+         17    E 00086650 EssMLHistoryDecodeEx
+         18    F 000868D0 EssMLHistoryEncodeEx
+         19   10 00086B40 EssReceiptDecodeEx
+         20   11 00086CA0 EssReceiptEncodeEx
+         21   12 00086DB0 EssReceiptRequestDecodeEx
+         22   13 00086FF0 EssReceiptRequestEncodeEx
+         23   14 000871C0 EssSecurityLabelDecodeEx
+         24   15 000873F0 EssSecurityLabelEncodeEx
+         25   16 000875D0 EssSignCertificateDecodeEx
+         26   17 00087690 EssSignCertificateEncodeEx
+         27   18 000012C0 GetDllMajorVersion
+         28   19 00082030 HrAthGetFileName
+         29   1A 00082160 HrAthGetFileNameW
+         30   1B 00082210 HrAttachDataFromBodyPart
+         31   1C 000823B0 HrAttachDataFromFile
+         32   1D 00082550 HrCreateDisplayNameWithSizeForFile
+         33   1E 00082670 HrDoAttachmentVerb
+         34   1F 000829B0 HrFreeAttachData
+         35   20 00082A10 HrGetAttachIcon
+         36   21 00082AD0 HrGetAttachIconByFile
+         37   22 00082BD0 HrGetDisplayNameWithSizeForFile
+         38   23 00082C90 HrGetLastOpenFileDirectory
+         39   24 00082D30 HrGetLastOpenFileDirectoryW
+         40   25 00082D90 HrSaveAttachToFile
+         41   26 00082F90 HrSaveAttachmentAs
+         42   27 00056B80 MimeEditCreateMimeDocument
+         43   28 00056CA0 MimeEditDocumentFromStream
+         44   29 00056CC0 MimeEditGetBackgroundImageUrl
+         45   2A 00056D40 MimeEditIsSafeToRun
+         46   2B 00056DA0 MimeEditViewSource
+         47   2C 00007B80 MimeGetAddressFormatW
+         48   2D 0000BC70 MimeOleAlgNameFromSMimeCap
+         49   2E 0000BEA0 MimeOleAlgStrengthFromSMimeCap
+         50   2F 00007CE0 MimeOleClearDirtyTree
+         51   30 0000D130 MimeOleConvertEnrichedToHTML
+         52   31 00007EE0 MimeOleCreateBody
+         53   32 00007F40 MimeOleCreateByteStream
+         54   33 00007FB0 MimeOleCreateHashTable
+         55   34 00008060 MimeOleCreateHeaderTable
+         56   35 00008110 MimeOleCreateMessage
+         57   36 000081A0 MimeOleCreateMessageParts
+         58   37 00008210 MimeOleCreatePropertySet
+         59   38 000082B0 MimeOleCreateSecurity
+         60   39 00008310 MimeOleCreateVirtualStream
+         61   3A 00008360 MimeOleDecodeHeader
+         62   3B 000083A0 MimeOleEncodeHeader
+         63   3C 0000D930 MimeOleFileTimeToInetDate
+         64   3D 000083E0 MimeOleFindCharset
+         65   3E 00008410 MimeOleGenerateCID
+         66   3F 00008450 MimeOleGenerateFileName
+         67   40 00008810 MimeOleGenerateMID
+         68   41 00008860 MimeOleGetAllocator
+         69   42 000088D0 MimeOleGetBodyPropA
+         70   43 00008930 MimeOleGetBodyPropW
+         71   44 00008990 MimeOleGetCertsFromThumbprints
+         72   45 00008B10 MimeOleGetCharsetInfo
+         73   46 00008B40 MimeOleGetCodePageCharset
+         74   47 00008B70 MimeOleGetCodePageInfo
+         75   48 00008BA0 MimeOleGetContentTypeExt
+         76   49 00008D00 MimeOleGetDefaultCharset
+         77   4A 00008D20 MimeOleGetExtContentType
+         78   4B 00008F50 MimeOleGetFileExtension
+         79   4C 00008FC0 MimeOleGetFileInfo
+         80   4D 00009330 MimeOleGetFileInfoW
+         81   4E 000095C0 MimeOleGetInternat
+         82   4F 00009730 MimeOleGetPropA
+         83   50 00009780 MimeOleGetPropW
+         84   51 000097D0 MimeOleGetPropertySchema
+         85   52 00009820 MimeOleGetRelatedSection
+         86   53 0000DB00 MimeOleInetDateToFileTime
+         87   54 00009DD0 MimeOleObjectFromMoniker
+         88   55 00009E20 MimeOleOpenFileStream
+         89   56 00009E50 MimeOleParseMhtmlUrl
+         90   57 0000A290 MimeOleParseRfc822Address
+         91   58 0000A320 MimeOleParseRfc822AddressW
+         92   59 0000C270 MimeOleSMimeCapAddCert
+         93   5A 0000C2C0 MimeOleSMimeCapAddSMimeCap
+         94   5B 0000C2E0 MimeOleSMimeCapGetEncAlg
+         95   5C 0000C310 MimeOleSMimeCapGetHashAlg
+         96   5D 0000C340 MimeOleSMimeCapInit
+         97   5E 0000C590 MimeOleSMimeCapRelease
+         98   5F 0000C5C0 MimeOleSMimeCapsFromDlg
+         99   60 0000C9A0 MimeOleSMimeCapsFull
+        100   61 0000CB30 MimeOleSMimeCapsToDlg
+        101   62 0000A3A0 MimeOleSetBodyPropA
+        102   63 0000A3F0 MimeOleSetBodyPropW
+        103   64 0000A440 MimeOleSetCompatMode
+        104   65 0000A450 MimeOleSetDefaultCharset
+        105   66 0000A470 MimeOleSetPropA
+        106   67 0000A4B0 MimeOleSetPropW
+        107   68 0000B1C0 MimeOleStripHeaders
+        108   69 0000B470 MimeOleUnEscapeStringInPlace
+        109   6A 0000B4E0 MimeOleUnEscapeStringInPlaceW
+          2   6B 000549C0 RichMimeEdit_CreateInstance
+          1      00053060 [NONAME]
+        702      00005460 [NONAME]
+        703      00006100 [NONAME]
+        704      000062C0 [NONAME]
+        705      00006060 [NONAME]
+        706      00006490 [NONAME]
+        707      00006180 [NONAME]
+        708      00006350 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        9000 .pdata
+       20000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       CD000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\FluencyDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for FluencyDS.dll
+
+    00000000 characteristics
+    CE5ABCA7 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000270F0 DllCanUnloadNow
+          2    1 00026E20 DllGetActivationFactory
+          3    2 00027000 DllGetClassObject
+
+  Summary
+
+       19000 .data
+        1000 .didat
+       1C000 .pdata
+       BD000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      202000 .text

@@ -1,0 +1,89 @@
+
+Dump of file C:\Windows\System32\wwapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for wwapi.dll
+
+    00000000 characteristics
+    B0C3C65D time date stamp
+        0.00 version
+           1 ordinal base
+          64 number of functions
+          64 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004010 Wwan2CloseDeviceServiceCommandSession
+          2    1 000041C0 Wwan2CloseDeviceServiceDataSession
+          3    2 00004370 Wwan2CloseHandle
+          4    3 000045C0 Wwan2EnumerateDeviceServices
+          5    4 000047B0 Wwan2OpenDeviceServiceCommandSession
+          6    5 00004960 Wwan2OpenDeviceServiceDataSession
+          7    6 00004B20 Wwan2OpenHandle
+          8    7 00004DB0 Wwan2QueryDeviceServiceSupportedCommands
+          9    8 00004F60 Wwan2QueryInterfaces
+         10    9 000050C0 Wwan2RegisterNotification
+         11    A 00005290 Wwan2SendDeviceServiceCommand
+         12    B 00005470 Wwan2SubscribePowerStateEvents
+         13    C 00005600 Wwan2WriteDeviceServiceData
+         14    D 000057C0 WwanActivateNotification
+         15    E 00005960 WwanAllocateMemory
+         16    F 00005970 WwanAuthChallenge
+         17   10 00005B90 WwanCloseHandle
+         18   11 00005E30 WwanConnect
+         19   12 00005E70 WwanConnectAdditionalPdpContext
+         20   13 00006080 WwanConnectByActivityId
+         21   14 0000BAF0 WwanConvertToInterfaceObject
+         22   15 00006310 WwanDeleteDMConfigProfile
+         23   16 000064D0 WwanDeleteProfile
+         24   17 000066A0 WwanDisconnect
+         25   18 00006890 WwanEnumerateInterfaces
+         26   19 00006A50 WwanFreeMemory
+         27   1A 00006A80 WwanGetDMConfigBinary
+         28   1B 00006C40 WwanGetDMConfigProfile
+         29   1C 00006E20 WwanGetDMConfigProfileList
+         30   1D 00006FE0 WwanGetInfGuidAndProfileByProfileIndex
+         31   1E 00006FE0 WwanGetInterfaceGuid
+         32   1F 00006FF0 WwanGetProfile
+         33   20 000071F0 WwanGetProfileHomeProviderName
+         34   21 000073D0 WwanGetProfileIndex
+         35   22 00007530 WwanGetProfileIstream
+         36   23 00007730 WwanGetProfileList
+         37   24 00007900 WwanGetProfileListByPurpose
+         38   25 00007AE0 WwanGetProfileMetaData
+         39   26 00007D10 WwanGetProfileState
+         40   27 00007EF0 WwanModemLogging
+         41   28 000012B0 WwanOpenHandle
+         42   29 000080E0 WwanQueryIPv6eHRPDControl
+         43   2A 000082A0 WwanQueryInterface
+         44   2B 000084D0 WwanQueryInterfaceEx
+         45   2C 00008700 WwanRegister
+         46   2D 00008920 WwanRegisterNotification
+         47   2E 00008AF0 WwanScan
+         48   2F 00008CF0 WwanSearchProfile
+         49   30 00008ED0 WwanSetDMConfigBinary
+         50   31 000090D0 WwanSetDMConfigProfile
+         51   32 000092D0 WwanSetIPv6eHRPDControl
+         52   33 000094C0 WwanSetInterface
+         53   34 000096E0 WwanSetNetworkQuietMode
+         54   35 00009890 WwanSetProfile
+         55   36 00009AD0 WwanSetProfileMetaData
+         56   37 00009CF0 WwanSetSmsConfiguration
+         57   38 00009EF0 WwanSmsDelete
+         58   39 0000A0F0 WwanSmsRead
+         59   3A 0000A2F0 WwanSmsSend
+         60   3B 0000A510 WwanUiccCloseChannel
+         61   3C 0000A6F0 WwanUiccOpenChannel
+         62   3D 0000A8E0 WwanUiccSendApdu
+         63   3E 0000AAE0 WwanUiccSetTerminalCapability
+         64   3F 0000ACB0 WwanUssdRequest
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

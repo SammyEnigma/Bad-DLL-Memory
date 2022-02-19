@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\drivers\UMDF\NfcCx.dll
+
+File Type: DLL
+
+  Section contains the following exports for NfcCx.DLL
+
+    00000000 characteristics
+    72236DCE time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002B670 FxDriverEntryUm
+
+  Summary
+
+        2000 .data
+        6000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       A9000 .text

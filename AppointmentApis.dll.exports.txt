@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\AppointmentApis.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppointmentApis.dll
+
+    00000000 characteristics
+    1EF00C1C time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000336C0 CreatePropertiesFromRecurrencePattern
+          2    1 00033F40 CreateRecurrencePatternFromProperties
+          3    2 00032A00 DllCanUnloadNow
+          4    3 00032A60 DllGetActivationFactory
+          5    4 00032AA0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        9000 .pdata
+       2F000 .rdata
+        6000 .reloc
+        4000 .rsrc
+       81000 .text

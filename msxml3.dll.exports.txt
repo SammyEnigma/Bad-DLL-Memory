@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\msxml3.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSXML3.dll
+
+    00000000 characteristics
+    DFFBC5A7 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00055120 DllCanUnloadNow
+          2    1 0001F310 DllGetClassObject
+          3    2 00029090 DllMain
+          4    3 00029020 DllRegisterServer
+          5    4 00029020 DllUnregisterServer
+
+  Summary
+
+       70000 .data
+        1000 .didat
+       12000 .pdata
+       44000 .rdata
+        7000 .reloc
+       18000 .rsrc
+      125000 .text

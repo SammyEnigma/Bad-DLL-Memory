@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\migwiz\replacementmanifests\microsoft-windows-shmig\shmig.dll
+
+File Type: DLL
+
+  Section contains the following exports for SHMIG.DLL
+
+    00000000 characteristics
+    A9E1DFB5 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00018910 DllCanUnloadNow
+          2    1 00018870 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

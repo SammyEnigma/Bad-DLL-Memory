@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\autopilot.dll
+
+File Type: DLL
+
+  Section contains the following exports for AutoPilot.dll
+
+    00000000 characteristics
+    7C68FDD2 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006E30 AutoPilotClearNetworkRequiredFlag
+          2    1 00006F60 AutoPilotDisable
+          3    2 00007090 AutoPilotGetOobeSettingsOverride
+          4    3 000071C0 AutoPilotGetPolicyDwordByName
+          5    4 00007300 AutoPilotGetPolicyStringByName
+          6    5 00007530 AutoPilotGetProfileState
+          7    6 00007C60 AutoPilotGetSetting
+          8    7 00007560 AutoPilotIsDisabled
+          9    8 00007590 AutoPilotIsLocalProfileAvailable
+         10    9 000075C0 AutoPilotIsNetworkRequired
+         11    A 000077B0 AutoPilotPerformDeviceEnrollment
+         12    B 000079E0 AutoPilotRenameDevice
+         13    C 00007B30 AutoPilotRetrieveSettings
+         14    D 00007E90 AutoPilotStoreSetting
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

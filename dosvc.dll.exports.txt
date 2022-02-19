@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\dosvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for dosvc.dll
+
+    00000000 characteristics
+    909F1939 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000231A0 ServiceMain
+
+  Summary
+
+       10000 .data
+        1000 .didat
+        F000 .pdata
+       69000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       E3000 .text

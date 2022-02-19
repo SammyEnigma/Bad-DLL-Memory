@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DXGIDebug.dll
+
+File Type: DLL
+
+  Section contains the following exports for dxgidebug.dll
+
+    00000000 characteristics
+    4CD14055 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001990 DXGIGetDebugInterface
+          1    1 00001A70 DXGI_SDK_MESSAGE
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       18000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       36000 .text

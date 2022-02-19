@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Perception.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Perception.dll
+
+    00000000 characteristics
+    BA76A498 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E5D0 DllCanUnloadNow
+          2    1 0000E240 DllGetActivationFactory
+          3    2 0000E420 DllGetClassObject
+
+  Summary
+
+       12000 .data
+        1000 .didat
+       11000 .pdata
+       D4000 .rdata
+        9000 .reloc
+        1000 .rsrc
+      14D000 .text

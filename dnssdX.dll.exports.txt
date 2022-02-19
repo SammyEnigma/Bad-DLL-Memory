@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\dnssdX.dll
+
+File Type: DLL
+
+  Section contains the following exports for dnssdX.DLL
+
+    00000000 characteristics
+    55CBCCED time date stamp Thu Aug 13 00:47:09 2015
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002140 DllCanUnloadNow
+          2    1 00004340 DllGetClassObject
+          3    2 00004A90 DllRegisterServer
+          4    3 00004AC0 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        1000 .orpc
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       1B000 .text

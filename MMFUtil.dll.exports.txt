@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\MMFUtil.dll
+
+File Type: DLL
+
+  Section contains the following exports for MMFUtil.DLL
+
+    00000000 characteristics
+    58D0A9ED time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002270 DisplayAVIBox
+          2    1 000022D0 DisplayUserMessage
+          3    2 000026E0 DllCanUnloadNow
+          4    3 00002700 DllGetClassObject
+          5    4 00002730 DllRegisterServer
+          6    5 00002750 DllUnregisterServer
+          7    6 00001E90 ErrorStringEx
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        3000 .rsrc
+        2000 .text

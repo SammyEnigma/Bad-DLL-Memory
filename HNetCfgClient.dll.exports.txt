@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\HNetCfgClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for HNetCfgClient.dll
+
+    00000000 characteristics
+    1610EAA8 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004910 DllCanUnloadNow
+          2    1 000049A0 DllGetClassObject
+          3    2 00004AA0 DllRegisterServer
+          4    3 00004B80 DllUnregisterServer
+          5    4 000092F0 HNetCfgGetDhcpScopeAddress
+          6    5 00008CC0 HNetCfgGetPrivateIndex
+          7    6 00008DC0 HNetCfgGetPublicIndex
+          8    7 000093F0 HNetCfgSetDhcpScopeAddress
+          9    8 00008EC0 HNetCfgStartSharing
+         10    9 00008FA0 HNetCfgStartSharingEx
+         11    A 00009090 HNetCfgStopSharing
+         12    B 00009210 HNetCfgUpdateSharingSettingsFromStorage
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       30000 .text

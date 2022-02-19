@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.ApplicationModel.Background.SystemEventsBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.Background.SystemEventsBroker.dll
+
+    00000000 characteristics
+    F41781B0 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001BB0 DllCanUnloadNow
+          2    1 000018E0 DllGetActivationFactory
+          3    2 00001AC0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

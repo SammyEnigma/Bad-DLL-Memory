@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\mscandui.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSCANDUI.dll
+
+    00000000 characteristics
+    2C117F29 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001080 DllCanUnloadNow
+          2    1 00001070 DllGetClassObject
+          3    2 000010A0 DllRegisterServer
+          4    3 00001160 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+        E000 .rdata
+        2000 .reloc
+        3000 .rsrc
+       39000 .text

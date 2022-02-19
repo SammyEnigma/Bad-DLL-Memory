@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\wbemcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for WBEMCORE.DLL
+
+    00000000 characteristics
+    793E5198 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002E750 DllCanUnloadNow
+          2    1 0002C790 DllGetClassObject
+          3    2 000B27E0 DllRegisterServer
+          4    3 000B29F0 DllUnregisterServer
+          5    4 0002F5A0 Reinitialize
+          6    5 000B2B30 Shutdown
+
+  Summary
+
+        C000 .data
+        1000 .didat
+        8000 .pdata
+       DC000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       F5000 .text

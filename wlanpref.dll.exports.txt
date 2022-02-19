@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wlanpref.dll
+
+File Type: DLL
+
+  Section contains the following exports for wlanpref.dll
+
+    00000000 characteristics
+    EC1EFD4A time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002DA0 DllCanUnloadNow
+          2    1 00002F90 DllGetClassObject
+          3    2 00002AE0 DllMain
+          4    3 00002DC0 DllRegisterServer
+          5    4 00002EC0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       11000 .rdata
+        1000 .reloc
+       77000 .rsrc
+       33000 .text

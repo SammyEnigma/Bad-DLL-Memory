@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\xwizards.dll
+
+File Type: DLL
+
+  Section contains the following exports for xwizards.dll
+
+    00000000 characteristics
+    23F32722 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004830 DllCanUnloadNow
+          2    1 00004890 DllGetClassObject
+          3    2 000064A0 ProcessXMLFileA
+          4    3 000065A0 ProcessXMLFileW
+          5    4 00005D40 ResetRegistrationA
+          6    5 00005E40 ResetRegistrationW
+          7    6 00007600 RunPropertySheetA
+          8    7 00007700 RunPropertySheetW
+          9    8 00006BA0 RunWizardA
+         10    9 00006CA0 RunWizardW
+         11    A 00004D80 XWProcessXMLFile
+         12    B 00004DA0 XWRegisterHost
+         13    C 000051C0 XWRegisterPageWithPage
+         14    D 00005050 XWRegisterPageWithTask
+         15    E 00004EE0 XWRegisterTaskWithHost
+         16    F 00005330 XWUnregisterHost
+         17   10 000056C0 XWUnregisterHostTaskLink
+         18   11 00005590 XWUnregisterPage
+         19   12 00005920 XWUnregisterPagesLink
+         20   13 00005460 XWUnregisterTask
+         21   14 000057F0 XWUnregisterTaskPageLink
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        3000 .pdata
+       16000 .rdata
+        1000 .reloc
+       1C000 .rsrc
+       37000 .text

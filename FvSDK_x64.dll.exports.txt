@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\FvSDK_x64.dll
+
+File Type: DLL
+
+  Section contains the following exports for FvSDK_x64.dll
+
+    00000000 characteristics
+    5F8D6D4F time date stamp Mon Oct 19 12:41:19 2020
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009F10 fv_QueryInterface
+
+  Summary
+
+        1000 .data
+        1000 .gfids
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

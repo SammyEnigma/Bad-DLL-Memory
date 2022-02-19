@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Search.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Search.dll
+
+    00000000 characteristics
+    97B33499 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000187B0 DllCanUnloadNow
+          2    1 0001BB40 DllGetActivationFactory
+          3    2 00020EE0 DllGetClassObject
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        A000 .pdata
+       40000 .rdata
+        4000 .reloc
+        3000 .rsrc
+       8A000 .text

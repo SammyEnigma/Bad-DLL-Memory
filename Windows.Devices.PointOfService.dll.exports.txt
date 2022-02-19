@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.PointOfService.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.PointOfService.dll
+
+    00000000 characteristics
+    D6A50940 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005C70 DllCanUnloadNow
+          2    1 000057E0 DllGetActivationFactory
+          3    2 00005CF0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        D000 .pdata
+       B2000 .rdata
+       13000 .reloc
+        2000 .rsrc
+      128000 .text

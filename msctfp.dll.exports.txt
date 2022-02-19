@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\msctfp.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSCTFP.dll
+
+    00000000 characteristics
+    98C72F13 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000018C0 DllCanUnloadNow
+          2    1 00001880 DllGetClassObject
+          3    2 00001950 DllRegisterServer
+          4    3 00001980 DllUnregisterServer
+          5    4 00001860 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       2E000 .rdata
+        5000 .reloc
+        1000 .rsrc
+        3000 .text

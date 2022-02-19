@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nvhda.inf_amd64_8f9fd1f8d8d7e923\nvhdap64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvhdap64.dll
+
+    00000000 characteristics
+    5EDF17B1 time date stamp Tue Jun  9 07:01:37 2020
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000289C NvHDADlgProc
+          2    1 00002C90 NvHDAPropPageProvider
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

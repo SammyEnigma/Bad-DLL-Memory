@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvdevtools.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvDevTools.DLL
+
+    00000000 characteristics
+    5FD404EA time date stamp Sat Dec 12 00:46:50 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005B590 DllCanUnloadNow
+          2    1 0005B5E0 DllGetClassObject
+          3    2 0005B600 DllRegisterServer
+          4    3 0005B610 DllUnregisterServer
+
+  Summary
+
+       21000 .data
+        1000 .didat
+       1E000 .pdata
+       E8000 .rdata
+       11000 .reloc
+       AE000 .rsrc
+      27D000 .text
+        1000 .tls

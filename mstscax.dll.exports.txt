@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\mstscax.dll
+
+File Type: DLL
+
+  Section contains the following exports for mstscax.dll
+
+    00000000 characteristics
+    38EFA989 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000C1CF0 DllCanUnloadNow
+          2    1 000C1D00 DllCancelAuthentication
+          3    2 000C1D10 DllDeleteSavedCreds
+          4    3 000C1D20 DllGetClaimsToken
+          5    4 000C1D80 DllGetClassObject
+          6    5 000C1D90 DllGetTscCtlVer
+          7    6 000C1DB0 DllLogoffClaimsToken
+          8    7 000C1DC0 DllRegisterServer
+          9    8 000C1DD0 DllSetAuthProperties
+         10    9 000C1DE0 DllSetClaimsToken
+         11    A 000C1DF0 DllUnregisterServer
+
+  Summary
+
+       1A000 .data
+        1000 .didat
+       2D000 .pdata
+      1B8000 .rdata
+        D000 .reloc
+       14000 .rsrc
+      5CB000 .text

@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wmidcom.dll
+
+File Type: DLL
+
+  Section contains the following exports for wmidcom.dll
+
+    00000000 characteristics
+    EA2797AE time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005E40 ??0CCritSec@@QEAA@XZ
+          2    1 00006000 ??1CCritSec@@QEAA@XZ
+          3    2 000062A0 ??4CAutoSetActivityId@@QEAAAEAV0@AEBV0@@Z
+          4    3 000062C0 ??4CCritSec@@QEAAAEAV0@AEBV0@@Z
+          5    4 00001920 MI_Application_InitializeV1
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       17000 .text

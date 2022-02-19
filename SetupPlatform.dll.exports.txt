@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\oobe\SetupPlatform\SetupPlatform.dll
+
+File Type: DLL
+
+  Section contains the following exports for SetupPlatform.dll
+
+    00000000 characteristics
+    E04221AC time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012D60 CreateSetupPlatform
+          2    1 000134E0 CreateSetupPlatformOnline
+          3    2 000134B0 GetSetupPlatformVersion
+          4    3 00012E10 ResurrectSetupPlatform
+          5    4 000829B0 _CreateDeploymentProject
+          6    5 00013F70 _CreateSetupPlatformPrivate
+          7    6 00013560 _ExecuteRollback
+          8    7 00014540 _FinalizeUninstall
+          9    8 00082A70 _GetMetaDeploymentVersion
+         10    9 00014030 _GetUninstallInterface
+         11    A 00014550 _RemoveSnapshot
+
+  Summary
+
+       62000 .data
+        1000 .didat
+       27000 .pdata
+      2F5000 .rdata
+       11000 .reloc
+        1000 .rsrc
+      592000 .text

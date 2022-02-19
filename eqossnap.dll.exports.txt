@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\eqossnap.dll
+
+File Type: DLL
+
+  Section contains the following exports for eqossnap.dll
+
+    00000000 characteristics
+    A3F3CC0E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013D0 DllCanUnloadNow
+          2    1 00001290 DllGetClassObject
+          3    2 00001400 DllRegisterServer
+          4    3 00001400 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        4000 .rsrc
+        D000 .text

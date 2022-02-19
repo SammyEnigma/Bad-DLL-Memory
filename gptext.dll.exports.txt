@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\gptext.dll
+
+File Type: DLL
+
+  Section contains the following exports for GPTEXT.DLL
+
+    00000000 characteristics
+    8B403907 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00002D40 DllRegisterServer
+          6    1 00002D70 DllUnregisterServer
+          1    2 000012A0 ProcessConnectivityPlatformPolicy
+          2    3 000028C0 ProcessEQoSPolicy
+          3    4 00003070 ProcessPSCHEDPolicy
+          4    5 000012A0 ProcessTCPIPPolicy
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

@@ -1,0 +1,84 @@
+
+Dump of file C:\Windows\System32\bcrypt.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcrypt.dll
+
+    00000000 characteristics
+    5ECCDEFC time date stamp
+        0.00 version
+           1 ordinal base
+          58 number of functions
+          58 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000150D0 BCryptAddContextFunction
+          2    1 00015440 BCryptAddContextFunctionProvider
+          3    2 00002DA0 BCryptCloseAlgorithmProvider
+          4    3 000157E0 BCryptConfigureContext
+          5    4 00015B30 BCryptConfigureContextFunction
+          6    5 00015EA0 BCryptCreateContext
+          7    6 000038B0 BCryptCreateHash
+          8    7 0000DC00 BCryptCreateMultiHash
+          9    8 000019B0 BCryptDecrypt
+         10    9 000161F0 BCryptDeleteContext
+         11    A 00002300 BCryptDeriveKey
+         12    B 000033D0 BCryptDeriveKeyCapi
+         13    C 00007140 BCryptDeriveKeyPBKDF2
+         14    D 00003680 BCryptDestroyHash
+         15    E 00006A50 BCryptDestroyKey
+         16    F 00002690 BCryptDestroySecret
+         17   10 00001760 BCryptDuplicateHash
+         18   11 0000DE20 BCryptDuplicateKey
+         19   12 000015B0 BCryptEncrypt
+         20   13 0000E060 BCryptEnumAlgorithms
+         21   14 00007C30 BCryptEnumContextFunctionProviders
+         22   15 00007530 BCryptEnumContextFunctions
+         23   16 00016530 BCryptEnumContexts
+         24   17 0000E4A0 BCryptEnumProviders
+         25   18 00016810 BCryptEnumRegisteredProviders
+         26   19 00001220 BCryptExportKey
+         27   1A 00002760 BCryptFinalizeKeyPair
+         28   1B 00003760 BCryptFinishHash
+         29   1C 00003370 BCryptFreeBuffer
+         30   1D 00003070 BCryptGenRandom
+         31   1E 00002550 BCryptGenerateKeyPair
+         32   1F 00003BF0 BCryptGenerateSymmetricKey
+         33   20 00006510 BCryptGetFipsAlgorithmMode
+         34   21 00003E90 BCryptGetProperty
+         35   22 000035E0 BCryptHash
+         36   23 00003810 BCryptHashData
+         37   24 00002C10 BCryptImportKey
+         38   25 00001010 BCryptImportKeyPair
+         39   26 000018C0 BCryptKeyDerivation
+         40   27 000051E0 BCryptOpenAlgorithmProvider
+         41   28 0000E800 BCryptProcessMultiOperations
+         42   29 00016A60 BCryptQueryContextConfiguration
+         43   2A 00016DF0 BCryptQueryContextFunctionConfiguration
+         44   2B 000171F0 BCryptQueryContextFunctionProperty
+         45   2C 00007750 BCryptQueryProviderRegistration
+         46   2D 00007F30 BCryptRegisterConfigChangeNotify
+         47   2E 00017640 BCryptRegisterProvider
+         48   2F 00017A10 BCryptRemoveContextFunction
+         49   30 00017D80 BCryptRemoveContextFunctionProvider
+         50   31 00004CE0 BCryptResolveProviders
+         51   32 00002410 BCryptSecretAgreement
+         52   33 00008160 BCryptSetAuditingInterface
+         53   34 00018110 BCryptSetContextFunctionProperty
+         54   35 00002F20 BCryptSetProperty
+         55   36 00006D00 BCryptSignHash
+         56   37 000184C0 BCryptUnregisterConfigChangeNotify
+         57   38 00018590 BCryptUnregisterProvider
+         58   39 000027F0 BCryptVerifySignature
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

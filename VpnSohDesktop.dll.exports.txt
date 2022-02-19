@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\VpnSohDesktop.dll
+
+File Type: DLL
+
+  Section contains the following exports for VpnSohDesktop.dll
+
+    00000000 characteristics
+    2C2816CC time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012D0 VpnWscFreeProductInfo
+          2    1 00001130 VpnWscGetProductInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

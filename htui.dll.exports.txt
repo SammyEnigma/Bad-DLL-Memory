@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\htui.dll
+
+File Type: DLL
+
+  Section contains the following exports for htUI.dll
+
+    00000000 characteristics
+    CD579C50 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001010 DllMain
+          2    1 00001390 HTUI_ColorAdjustment
+          3    2 00001200 HTUI_ColorAdjustmentA
+          4    3 000010A0 HTUI_ColorAdjustmentW
+          5    4 000015F0 HTUI_DeviceColorAdjustment
+          6    5 00001530 HTUI_DeviceColorAdjustmentA
+          7    6 000013A0 HTUI_DeviceColorAdjustmentW
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

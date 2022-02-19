@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\usbvideo.inf_amd64_16aab9c2171830d2\SecureUSBVideo.dll
+
+File Type: DLL
+
+  Section contains the following exports for SecureUSBVideo.dll
+
+    00000000 characteristics
+    8C8FEB6A time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004770 FxDriverEntryUm
+          2    1 0000C060 __ImagePolicyMetadata
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .tPolicy
+        5000 .text

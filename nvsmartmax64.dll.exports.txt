@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvsmartmax64.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvSmartMax64.dll
+
+    00000000 characteristics
+    5FD3FDF3 time date stamp Sat Dec 12 00:17:07 2020
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014010 GetMaxToGridRect
+          2    1 00017CD0 NVSetHooks
+          3    2 00017C50 NVUnHook
+          4    3 00018390 NvIsNvSmartMaxEnabled
+          5    4 00018FE0 NvSmartMaxEntryPoint
+          6    5 0001A3A0 NvSmartMaxGetState
+          7    6 0001DE30 NvSmartMaxGetTaskbarDisplayIndex
+          8    7 0001F990 NvSmartMaxGetTaskbarRect
+          9    8 00018D30 NvSmartMaxNotifyAppHWND
+         10    9 000184B0 NvSmartMaxSetDeviceGrids
+         11    A 00018410 NvSmartMaxSetMaximized
+         12    B 000196E0 NvSmartMaxSetState
+         13    C 0001FF80 NvSmartMaxSetTaskbarRect
+         14    D 00018E60 NvSmartMaxShutdown
+         15    E 000197A0 NvSmartMaxUseDynamicDeviceGrids
+         16    F 000189B0 NvSmartMax_OnSetWorkArea
+         17   10 00018A30 SmartMaxLookupProcessName
+
+  Summary
+
+        7000 .data
+        1000 .gfids
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text

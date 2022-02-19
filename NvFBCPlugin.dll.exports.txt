@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\Display.NvContainer\plugins\Session\NvFBCPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvFBCPlugin.dll
+
+    00000000 characteristics
+    5FD3FE61 time date stamp Sat Dec 12 00:18:57 2020
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EC10 NvFBCPluginGetDiagnostics
+          2    1 0000EC60 NvFBCPluginReleaseDiagnostics
+          3    2 0000EC00 NvPluginGetInfo
+
+  Summary
+
+        B000 .data
+       19000 .pdata
+       3F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       ED000 .text

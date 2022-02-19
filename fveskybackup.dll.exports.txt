@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\fveskybackup.dll
+
+File Type: DLL
+
+  Section contains the following exports for FVESKYBACKUP.dll
+
+    00000000 characteristics
+    1B56B57F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003630 FveBackupRecoveryPasswordToCloudDomain
+          2    1 00001450 FveBackupRecoveryPasswordToSkyDrive
+          3    2 00006260 FveDeleteRecoveryPasswordsFromCloudDomain
+          4    3 00006BC0 FveGetAllRecoveryPasswordsFromCloudDomain
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

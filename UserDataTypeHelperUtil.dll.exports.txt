@@ -1,0 +1,73 @@
+
+Dump of file C:\Windows\System32\UserDataTypeHelperUtil.dll
+
+File Type: DLL
+
+  Section contains the following exports for UserDataTypeHelperUtil.dll
+
+    00000000 characteristics
+    8359F333 time date stamp
+        0.00 version
+           1 ordinal base
+          47 number of functions
+          47 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002C20 BytesToDigits
+          3    1 00003CD0 ComparePropVals
+          4    2 00002E00 CompressWhitespaceNW
+          5    3 000048C0 ConvertUnicodeToUtf8
+          6    4 00004B30 ConvertUnicodeToUtf8Sz
+          7    5 00004D60 ConvertUtf8ToUnicode
+          8    6 00003D40 CopyPropValue
+          9    7 000056F0 CopyStream
+         10    8 00001AE0 CreateTempFileStm
+         11    9 00002020 CreateWrapFileNameStm
+         12    A 00001F20 CreateWrapFileStm
+         13    B 00002120 CreateWrapFileStreamFromDssToken
+         14    C 000027D0 DupString
+         15    D 00002920 DupStringA
+         16    E 00002A90 DupStringNA
+         17    F 00002730 DupStringRes
+         18   10 00003FE0 DuplicateCEPROPVALArray
+         19   11 00003EA0 DuplicateCEPROPVALArrayNoAlloc
+         20   12 00005E90 EcGlobalObjIdToUid
+         21   13 00005B30 EcUidToGlobalObjId
+         22   14 00004FC0 EscapeURL
+         23   15 000065E0 FileTimeToISO8601String
+         24   16 00003AA0 FindProp
+         25   17 00003420 FormatPoomIdToString
+          1   18 00001BB0 GetFilePathFromStream
+         26   19 00003AD0 GetPropMemSize
+         27   1A 000057F0 GetStreamSize
+         28   1B 00006EC0 ISO8601StringToFileTime
+         29   1C 000066B0 ISO8601StringToSystemTime
+         30   1D 00007020 MapiIdToEmailUdmId
+         31   1E 000041B0 ParseDelimitedString
+         32   1F 000034C0 ParsePoomIdFromString
+         33   20 00005430 ReadStreamContent
+         34   21 000055A0 ReadStreamContentA
+         35   22 00003240 RemoveLeadingAndTrailingSpace
+         36   23 00002BF0 ReplaceChar
+         37   24 00003B40 SafeLPWSTR
+         38   25 00007190 SafeStrDup
+         39   26 000030C0 SplitString
+         40   27 000022A0 StreamCopyTo
+         41   28 00005940 StreamFromStringW
+         42   29 00002D00 StringToBytes
+         43   2A 00006450 SystemTimeToISO8601String
+         44   2B 000072D0 TrimWhiteSpaces
+         45   2C 000070A0 UsOidToCalendarUdmId
+         46   2D 000070F0 UsOidToContactUdmId
+         47   2E 00007150 UsOidToTaskUdmId
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

@@ -1,0 +1,78 @@
+
+Dump of file C:\Windows\System32\puiapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for puiapi.dll
+
+    00000000 characteristics
+    EF8F9A56 time date stamp
+        0.00 version
+           1 ordinal base
+          52 number of functions
+          52 number of names
+
+    ordinal hint RVA      name
+
+         49    0 00001240 DllCanUnloadNow
+         50    1 000012E0 DllGetClassObject
+         51    2 000012F0 DllRegisterServer
+         52    3 000012F0 DllUnregisterServer
+          1    4 00001300 PUIAPI_CreateInstance
+          2    5 0000B080 PUIAPI_GetErrorString
+          3    6 00001390 PUIAPI_GetPrinter
+          4    7 00001EB0 PUIAPI_IWaitNotify_CreateInstance
+          5    8 00001F00 PUIAPI_IWaitNotify_RegisterTimer
+          6    9 00001EC0 PUIAPI_IWaitNotify_RegisterWaitObject
+          7    A 00001F40 PUIAPI_IWaitNotify_UnregisterCookie
+          8    B 0000B160 PUIAPI_ShowBrowseForPrinterDialog
+          9    C 0000AF50 PUIAPI_ShowDetailsMessageBox
+         10    D 0000BE80 PUIAPI_ShowDriverPackageRemovalUI
+         11    E 00002AF0 STRAPI_ConvertCase
+         12    F 000034A0 STRAPI_CrackPrintUNCName
+         13   10 000022D0 STRAPI_FindAndReplace
+         14   11 000024B0 STRAPI_Format
+         15   12 000025B0 STRAPI_FormatMsg
+         16   13 000024E0 STRAPI_FormatMsgV
+         17   14 000023E0 STRAPI_FormatV
+         18   15 000028B0 STRAPI_GUID2String
+         19   16 000033B0 STRAPI_GetJobStatusString
+         20   17 00003330 STRAPI_GetPrinterStatusString
+         21   18 00002200 STRAPI_LoadString
+         22   19 00002110 STRAPI_MultiCat
+         23   1A 00002950 STRAPI_String2GUID
+         24   1B 000029A0 STRAPI_TrimString
+         25   1C 000025E0 STRAPI_XMLSafeText
+         26   1D 00003860 STRBUF_AppendString
+         27   1E 00003670 STRBUF_Create
+         28   1F 00003750 STRBUF_CreateBSTR
+         29   20 00003930 STRBUF_DeleteSubstring
+         30   21 000037B0 STRBUF_Destroy
+         31   22 000039B0 STRBUF_FindAndReplace
+         32   23 00003B30 STRBUF_Format
+         33   24 00003900 STRBUF_InsertString
+         34   25 00003890 STRBUF_MultiCat
+         35   26 00003AF0 STRBUF_ToLower
+         36   27 00003AB0 STRBUF_ToUpper
+         37   28 000039E0 STRBUF_TrimLeft
+         38   29 00003A40 STRBUF_TrimRight
+         39   2A 00003960 STRBUF_Truncate
+         40   2B 00003830 STRBUF_Update
+         41   2C 00004000 XMLAPI_GetAttributeDouble
+         42   2D 00003CE0 XMLAPI_GetAttributeLong
+         43   2E 00004190 XMLAPI_GetAttributeString
+         44   2F 00003E70 XMLAPI_GetAttributeULongLong
+         45   30 00003F00 XMLAPI_SetAttributeDouble
+         46   31 00003BF0 XMLAPI_SetAttributeLong
+         47   32 00004100 XMLAPI_SetAttributeString
+         48   33 00003DE0 XMLAPI_SetAttributeULongLong
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+       13000 .rsrc
+       17000 .text

@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\dot3msm.dll
+
+File Type: DLL
+
+  Section contains the following exports for dot3msm.dll
+
+    00000000 characteristics
+    CC54DD78 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003EB0 DllMain
+          2    1 00008340 Dot3MsmConnect
+          3    2 00007E20 Dot3MsmCreateDefaultProfile
+          4    3 00007CA0 Dot3MsmDeInit
+          5    4 00008200 Dot3MsmDeInitAdapter
+          6    5 00008580 Dot3MsmDisconnect
+          7    6 00008700 Dot3MsmFreeMemory
+          8    7 00008830 Dot3MsmFreeProfile
+          9    8 00008980 Dot3MsmIndicateSessionChange
+         10    9 00007B20 Dot3MsmInit
+         11    A 00008090 Dot3MsmInitAdapter
+         12    B 0000ADB0 Dot3MsmOnMediaStateChange
+         13    C 000092F0 Dot3MsmQueryMediaState
+         14    D 00008F00 Dot3MsmQueryPendingUIRequest
+         15    E 00009130 Dot3MsmQueryState
+         16    F 0000A940 Dot3MsmReAuthenticate
+         17   10 0000A740 Dot3MsmSetRuntimeState
+         18   11 00008AA0 Dot3MsmUIResponse
+         19   12 00007F90 Dot3MsmValidateProfile
+         20   13 0000EB00 Dot3ReasonCodeMsmToString
+         21   14 0000A4B0 Dot3SetPortAuthenticationState
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

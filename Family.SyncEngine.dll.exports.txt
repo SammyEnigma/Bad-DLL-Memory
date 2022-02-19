@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Family.SyncEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for Family.SyncEngine.dll
+
+    00000000 characteristics
+    2AB88627 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004620 DllCanUnloadNow
+          2    1 00004310 DllGetActivationFactory
+          3    2 000044F0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       18000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       2A000 .text

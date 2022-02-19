@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\IMELM.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imelm.dll
+
+    00000000 characteristics
+    8EA27927 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00020B70 DllCanUnloadNow
+          2    1 00012E70 DllGetClassObject
+          3    2 00020B90 DllRegisterServer
+          4    3 00020C20 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        4000 .pdata
+       15000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       37000 .text

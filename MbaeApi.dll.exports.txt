@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\MbaeApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for MbaeApi.DLL
+
+    00000000 characteristics
+    492CBF93 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006B40 DllCanUnloadNow
+          2    1 00006BC0 DllGetClassObject
+          3    2 00006C80 DllRegisterServer
+          4    3 00006DF0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        5000 .pdata
+       39000 .rdata
+        2000 .reloc
+       13000 .rsrc
+       8C000 .text

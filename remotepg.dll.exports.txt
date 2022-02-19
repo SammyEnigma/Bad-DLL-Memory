@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\remotepg.dll
+
+File Type: DLL
+
+  Section contains the following exports for RemotePage.dll
+
+    00000000 characteristics
+    E47E736A time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000011C0 DllCanUnloadNow
+          3    1 000010B0 DllGetClassObject
+          4    2 000011F0 DllRegisterServer
+          5    3 00001200 DllUnregisterServer
+          1    4 00001030 LaunchRemoteUsersDialog
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

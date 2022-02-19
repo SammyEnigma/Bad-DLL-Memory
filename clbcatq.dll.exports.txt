@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\clbcatq.dll
+
+File Type: DLL
+
+  Section contains the following exports for CLBCatQ.DLL
+
+    00000000 characteristics
+    DB9F728A time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002A420 ActivatorUpdateForIsRouterChanges
+          8    1 0002A000 CLSIDFromStringByBitness
+          9    2 00029240 CheckMemoryGates
+          2    3 00030BF0 CoRegCleanup
+         10    4 0001E940 ComPlusEnablePartitions
+         11    5 0001EA30 ComPlusEnableRemoteAccess
+         12    6 0002DC30 ComPlusMigrate
+         13    7 0001EAF0 ComPlusPartitionsEnabled
+         14    8 0001EC20 ComPlusRemoteAccessEnabled
+         15    9 00030CB0 CreateComponentLibraryEx
+          3    A 0002A8A0 DeleteAllActivatorsForClsid
+         16    B 0001D6F0 DllCanUnloadNow
+         17    C 0001C550 DllGetClassObject
+         18    D 0001EF50 DllRegisterServer
+         19    E 0001F020 DllUnregisterServer
+          4    F 0002BD90 DowngradeAPL
+         20   10 000170E0 GetCatalogObject
+         21   11 000175A0 GetCatalogObject2
+         22   12 0001F070 GetComputerObject
+          5   13 0001F870 GetGlobalBabyJITEnabled
+         23   14 000197B0 GetSimpleTableDispenser
+         24   15 0002A1C0 InprocServer32FromString
+         25   16 00005370 OpenComponentLibraryEx
+         26   17 00030D40 OpenComponentLibraryOnMemEx
+         27   18 00030DD0 OpenComponentLibraryOnStreamEx
+         28   19 0002A270 ServerGetApplicationType
+         29   1A 0002A3E0 SetSetupOpen
+         30   1B 0002A3F0 SetSetupSave
+         31   1C 0002A400 SetupOpen
+         32   1D 0002A410 SetupSave
+          6   1E 0002B220 UpdateFromAppChange
+          7   1F 0002B820 UpdateFromComponentChange
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        5000 .pdata
+       2D000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       6B000 .text

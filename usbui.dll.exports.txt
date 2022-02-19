@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\usbui.dll
+
+File Type: DLL
+
+  Section contains the following exports for usbui.dll
+
+    00000000 characteristics
+    47D68677 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000021C0 CPlApplet
+          2    1 00002630 DllCanUnloadNow
+          3    2 00002650 DllGetClassObject
+          4    3 00002620 DllRegisterServer
+          5    4 00002620 DllUnregisterServer
+          6    5 000021C0 USBControllerBandwidthPage
+          7    6 00002C50 USBControllerPropPageProvider
+          8    7 00002FD0 USBDevicePropPageProvider
+          9    8 00003370 USBErrorHandler
+         10    9 000021C0 USBHubPowerPage
+         11    A 000030A0 USBHubPropPageProvider
+         12    B 000021C0 UsbControlPanelApplet
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        4000 .rsrc
+        E000 .text

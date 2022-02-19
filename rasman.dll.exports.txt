@@ -1,0 +1,212 @@
+
+Dump of file C:\Windows\System32\rasman.dll
+
+File Type: DLL
+
+  Section contains the following exports for rasman.dll
+
+    00000000 characteristics
+    CB8A4B20 time date stamp
+        0.00 version
+           1 ordinal base
+         186 number of functions
+         186 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004800 IsRasmanProcess
+          2    1 00004A50 RasActivateRoute
+          3    2 00004B90 RasActivateRouteEx
+          4    3 00004CE0 RasActivateRouteEx2
+          5    4 00004E30 RasAddConnectionPort
+          6    5 00004F20 RasAddNotification
+          7    6 00005120 RasAddNotificationEx
+          8    7 00005290 RasAllocInterfaceLuidIndex
+          9    8 000053E0 RasAllocateRoute
+         10    9 00005520 RasApplyPostConnectActions
+         11    A 000055F0 RasBundleClearStatistics
+         12    B 00005700 RasBundleClearStatisticsEx
+         13    C 00005810 RasBundleGetPort
+         14    D 000058F0 RasBundleGetStatistics
+         15    E 00005A20 RasBundleGetStatisticsEx
+         16    F 00005B50 RasClearPortUserData
+         17   10 00005C20 RasCompressionGetInfo
+         18   11 00005D50 RasCompressionSetInfo
+         19   12 00005E80 RasConnectionEnum
+         20   13 00005F70 RasConnectionGetStatistics
+         21   14 00006050 RasCreateConnection
+         22   15 000061C0 RasDeAllocateRoute
+         23   16 000062A0 RasDeleteIkev2PskPolicy
+         24   17 00006370 RasDestroyConnection
+         25   18 00006630 RasDeviceConnect
+         26   19 000067C0 RasDeviceEnum
+         27   1A 00006940 RasDeviceGetInfo
+         28   1B 00006A80 RasDeviceSetInfo
+         29   1C 00006BC0 RasDeviceSetInfoSafe
+         30   1D 00006D00 RasDoIke
+         31   1E 00006F90 RasEnableIpSec
+         32   1F 00007100 RasEnumConnectionPorts
+         33   20 00007210 RasEnumLanNets
+         34   21 000072F0 RasFindPrerequisiteEntry
+         35   22 000073D0 RasFreeBuffer
+         36   23 00007470 RasFreeInterfaceLuidIndex
+         37   24 000075C0 RasGetAutoTriggerData
+         38   25 000076D0 RasGetBuffer
+         39   26 00007840 RasGetCalledIdInfo
+         40   27 00007970 RasGetConnectInfo
+         41   28 00007AA0 RasGetConnectionParams
+         42   29 00007B80 RasGetConnectionUserData
+         43   2A 00007C80 RasGetCustomScriptDll
+         44   2B 00007DB0 RasGetDevConfig
+         45   2C 00008080 RasGetDevConfigEx
+         46   2D 00008190 RasGetDeviceConfigInfo
+         47   2E 000082E0 RasGetDeviceName
+         48   2F 00008400 RasGetDeviceNameW
+         49   30 00008510 RasGetDialMachineEventContext
+         50   31 000085F0 RasGetDialParams
+         51   32 000086E0 RasGetEapUIData
+         52   33 00008800 RasGetEapUserInfo
+         53   34 00008910 RasGetFramingCapabilities
+         54   35 00008A30 RasGetHConnFromEntry
+         55   36 00008B20 RasGetHportFromConnection
+         56   37 00008C00 RasGetInfo
+         57   38 00008D60 RasGetInfoEx
+         58   39 00008DB0 RasGetKey
+         59   3A 00008EB0 RasGetNdiswanDriverCaps
+         60   3B 00009000 RasGetNotificationEntry
+         61   3C 000090E0 RasGetNumPortOpen
+         62   3D 000091B0 RasGetPortDialParams
+         63   3E 000092B0 RasGetPortUserData
+         64   3F 000093B0 RasGetProtocolInfo
+         65   40 000094E0 RasGetTimeSinceLastActivity
+         66   41 00009630 RasGetTriggerAuthData
+         67   42 00009720 RasGetUnicodeDeviceName
+         68   43 00009800 RasGetUserCredentials
+         69   44 00009920 RasInitialize
+         70   45 0000F870 RasInitializeNoWait
+         71   46 0000FD20 RasIsPulseDial
+         72   47 0000FE00 RasIsTrustedCustomDll
+         73   48 00010020 RasLinkGetStatistics
+         74   49 00010120 RasNQMEnterNotify
+         75   4A 000101F0 RasPlumbIkev2PskPolicy
+         76   4B 00010300 RasPortBundle
+         77   4C 000104C0 RasPortCancelReceive
+         78   4D 00010600 RasPortClearStatistics
+         79   4E 00010710 RasPortClose
+         80   4F 000108A0 RasPortConnectComplete
+         81   50 000109E0 RasPortDisconnect
+         82   51 00010C00 RasPortEnum
+         83   52 00010F90 RasPortEnumProtocols
+         84   53 000110C0 RasPortFree
+         85   54 00011250 RasPortGetBundle
+         86   55 000113B0 RasPortGetBundledPort
+         87   56 00011500 RasPortGetFramingEx
+         88   57 00011620 RasPortGetInfo
+         89   58 00011750 RasPortGetProtocolCompression
+         90   59 00011890 RasPortGetStatistics
+         91   5A 000119C0 RasPortGetStatisticsEx
+         92   5B 00011AF0 RasPortListen
+         93   5C 00011CB0 RasPortOpen
+         94   5D 00011DF0 RasPortOpenEx
+         95   5E 00012020 RasPortReceive
+         96   5F 00012200 RasPortReceiveEx
+         97   60 00012360 RasPortReserve
+         98   61 000124A0 RasPortRetrieveUserData
+         99   62 000125D0 RasPortSend
+        100   63 00012730 RasPortSetFraming
+        101   64 00012990 RasPortSetFramingEx
+        102   65 00012AB0 RasPortSetInfo
+        103   66 00012C00 RasPortSetProtocolCompression
+        104   67 00012D40 RasPortStoreUserData
+        105   68 00012E70 RasProtocolCallback
+        106   69 00012F90 RasProtocolChangePassword
+        107   6A 000130D0 RasProtocolEnum
+        108   6B 000131C0 RasProtocolGetInfo
+        109   6C 000132E0 RasProtocolRetry
+        110   6D 00013420 RasProtocolStart
+        111   6E 00013A40 RasProtocolStarted
+        112   6F 00013B10 RasProtocolStop
+        113   70 00013C20 RasProtocolUpdateConnection
+        114   71 00019100 RasRPCBind
+        115   72 00013E20 RasRefConnection
+        116   73 00013F20 RasReferenceCustomCount
+        117   74 00014030 RasReferenceRasman
+        118   75 00014400 RasRegisterPnPEvent
+        119   76 00014520 RasRegisterPnPHandler
+        120   77 00014610 RasRegisterRedialCallback
+        121   78 000146C0 RasRemoveNotificationEx
+        122   79 00014790 RasRequestNotification
+        123   7A 00019230 RasRpcConnect
+        124   7B 00019310 RasRpcConnectServer
+        125   7C 00019E60 RasRpcDeleteEntry
+        126   7D 00019EA0 RasRpcDeviceEnum
+        127   7E 000193F0 RasRpcDisconnect
+        128   7F 00019480 RasRpcDisconnectServer
+        129   80 00019EF0 RasRpcEnumConnections
+        130   81 00019F40 RasRpcGetCountryInfo
+        131   82 00019F80 RasRpcGetDevConfig
+        132   83 00019FD0 RasRpcGetErrorString
+        133   84 0001A010 RasRpcGetInstalledProtocols
+        134   85 0001A040 RasRpcGetInstalledProtocolsEx
+        135   86 0001A080 RasRpcGetSystemDirectory
+        136   87 0001A0C0 RasRpcGetUserPreferences
+        137   88 0001A100 RasRpcGetVersion
+        138   89 0001A140 RasRpcPortEnum
+        139   8A 0001A180 RasRpcPortGetInfo
+        140   8B 00019520 RasRpcRemoteGetSystemDirectory
+        141   8C 00019620 RasRpcRemoteGetUserPreferences
+        142   8D 00019690 RasRpcRemoteRasDeleteEntry
+        143   8E 000197C0 RasRpcRemoteSetUserPreferences
+        144   8F 0001A1C0 RasRpcSetUserPreferences
+        145   90 00019830 RasRpcUnloadDll
+        146   91 00014900 RasSecurityDialogGetInfo
+        147   92 00014A80 RasSecurityDialogReceive
+        148   93 00014CA0 RasSecurityDialogSend
+        149   94 00014E50 RasSendCreds
+        150   95 00014F40 RasSendNotification
+        151   96 00015010 RasSendProtocolResultToRasman
+        152   97 000150F0 RasServerPortClose
+        153   98 00015280 RasSetAddressDisable
+        154   99 00015360 RasSetAdvConnectionParams
+        155   9A 00015430 RasSetCachedCredentials
+        156   9B 00015520 RasSetCalledIdInfo
+        157   9C 00015690 RasSetCommSettings
+        158   9D 00015830 RasSetConnectionParams
+        159   9E 00015910 RasSetConnectionUserData
+        160   9F 00015A10 RasSetDevConfig
+        161   A0 00015B80 RasSetDeviceConfigInfo
+        162   A1 00015CC0 RasSetDialMachineEventHandle
+        163   A2 00015DE0 RasSetDialParams
+        164   A3 00015EE0 RasSetEapInfo
+        165   A4 00016060 RasSetEapUIData
+        166   A5 00016160 RasSetEapUserInfo
+        167   A6 00016280 RasSetEncPassword
+        168   A7 000163E0 RasSetIPAddresses
+        169   A8 000165D0 RasSetKey
+        170   A9 000166D0 RasSetPortUserData
+        171   AA 000167D0 RasSetRouterUsage
+        172   AB 000168B0 RasSetTriggerAuthData
+        173   AC 000169C0 RasSetTunnelEndPoints
+        174   AD 00016AF0 RasSetVpnClientConnectionType
+        175   AE 00016C00 RasSignalActionRequired
+        176   AF 00018C00 RasSignalMonitorThreadExit
+        177   B0 00016D10 RasSignalNewConnection
+        178   B1 00016DE0 RasStartProtocolRenegotiation
+        179   B2 00016EB0 RasStartRasAutoIfRequired
+        180   B3 00017380 RasUpdateAutoTriggerRegKeys
+        181   B4 00017500 RasUpdateAutoTriggerRegKeysEx
+        182   B5 000176B0 RasUpdateDefaultRouteSettings
+        183   B6 000177B0 RasUpdateQoSPolicies
+        184   B7 00017880 RasVpnIkeGetNewTunnelId
+        185   B8 000024B0 RasVpnIkeGetPCscf
+        186   B9 000179B0 RasmanUninitialize
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       27000 .text

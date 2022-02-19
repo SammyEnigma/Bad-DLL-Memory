@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingSyncCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for SETTINGSYNCCORE.dll
+
+    00000000 characteristics
+    C445D744 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000555E0 DllCanUnloadNow
+          2    1 00061220 DllGetActivationFactory
+          3    2 00008670 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        B000 .pdata
+       41000 .rdata
+        3000 .reloc
+       10000 .rsrc
+       B4000 .text

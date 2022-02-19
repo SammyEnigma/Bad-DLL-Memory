@@ -1,0 +1,186 @@
+
+Dump of file C:\Windows\System32\vnetlib64.dll
+
+File Type: DLL
+
+  Section contains the following exports for vnetlib64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         159 number of functions
+         159 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00022B60 VNL_AdapterCoinstaller
+          2    1 00023980 VNL_AssignSubnetAddressToVnet
+          3    2 000262E0 VNL_BackupDatabase
+          4    3 00026500 VNL_BackupDatabaseInRegistry
+          5    4 00029400 VNL_CheckHostPacketFilterLog
+          6    5 0002A050 VNL_CloseHostPacketFilter
+          7    6 00029890 VNL_CloseHostPacketFilterLog
+          8    7 00030300 VNL_ConnectVnetAdapter
+          9    8 00030470 VNL_ConnectVnetSwitch
+         10    9 000265D0 VNL_DeleteNetLibDatabase
+         11    A 00026850 VNL_DeleteVnetFromDatabase
+         12    B 00033B80 VNL_DisableIntelRLB
+         13    C 00036470 VNL_DisableNetworkAdapter
+         14    D 000365D0 VNL_EnableNetworkAdapter
+         15    E 00037A20 VNL_EnumDHCPIPToMAC
+         16    F 00038C10 VNL_EnumNATPortForward
+         17   10 00039060 VNL_EnumNATPrivPort
+         18   11 000269A0 VNL_ExportDatabaseToFile
+         19   12 00030650 VNL_FindVNetWithFeatures
+         20   13 00036730 VNL_GetAdapterActualAddr
+         21   14 0003C0C0 VNL_GetBridgeHints
+         22   15 0003C540 VNL_GetBridgeState
+         23   16 0003FBA0 VNL_GetBridgeStatus
+         24   17 00030840 VNL_GetCurrentLogLevel
+         25   18 00041490 VNL_GetDHCPConfigFilePath
+         26   19 00037DB0 VNL_GetDHCPIPToMAC
+         27   1A 00041610 VNL_GetDHCPLeaseFilePath
+         28   1B 000380E0 VNL_GetDHCPParam
+         29   1C 00041790 VNL_GetDHCPStatus
+         30   1D 00030870 VNL_GetDefaultLogLevel
+         31   1E 00036900 VNL_GetHostAdapterName
+         32   1F 00029B30 VNL_GetHostPacketFilterLogEvent
+         33   20 00026B30 VNL_GetInstallBridge
+         34   21 00026BE0 VNL_GetInstallCustomNetworkConfig
+         35   22 00026C80 VNL_GetInstallDHCPOnlyIfUsed
+         36   23 00026D20 VNL_GetInstallNATOnlyIfUsed
+         37   24 00042CE0 VNL_GetIsHost64Bit
+         38   25 000308B0 VNL_GetIsHostVista
+         39   26 00030900 VNL_GetIsHostWXP
+         40   27 00044000 VNL_GetNATConfigFilePath
+         41   28 000440A0 VNL_GetNATLeaseFilePath
+         42   29 00039380 VNL_GetNATParam
+         43   2A 00039AD0 VNL_GetNATPortForward
+         44   2B 00039FB0 VNL_GetNATPrivPort
+         45   2C 00044140 VNL_GetNATStatus
+         46   2D 00030970 VNL_GetNumberOfVnets
+         47   2E 00026DE0 VNL_GetProductInstallPath
+         48   2F 00027060 VNL_GetSuppressDriverPrompt
+         49   30 00027120 VNL_GetUsbProductInstallPath
+         50   31 00044E40 VNL_GetUserIfStatus
+         51   32 00030AD0 VNL_GetVNetFeatures
+         52   33 00027210 VNL_GetVnetAdapterAddr
+         53   34 000274A0 VNL_GetVnetAdapterConfigured
+         54   35 00036A00 VNL_GetVnetAdapterStatus
+         55   36 00036BE0 VNL_GetVnetAdapterUserSpecifiedName
+         56   37 00027660 VNL_GetVnetDisplayName
+         57   38 00027760 VNL_GetVnetSubnetAddr
+         58   39 00027860 VNL_GetVnetSubnetMask
+         59   3A 000417E0 VNL_GetVnetUseDHCP
+         60   3B 00044190 VNL_GetVnetUseNAT
+         61   3C 00030C60 VNL_HasSufficientRightsToInstall
+         62   3D 000279F0 VNL_ImportDatabaseFromFile
+         63   3E 00041840 VNL_InstallDHCP
+         64   3F 00049A50 VNL_InstallHcmon
+         65   40 00049B00 VNL_InstallHcmonInf
+         66   41 00049B80 VNL_InstallHostDrivers
+         67   42 0004BD20 VNL_InstallInfW2K
+         68   43 000441F0 VNL_InstallNAT
+         69   44 00036E80 VNL_InstallNetworkAdapter
+         70   45 0003C5E0 VNL_InstallNetworkBridge
+         71   46 0004C070 VNL_InstallUSB
+         72   47 00044E90 VNL_InstallUserIf
+         73   48 00049D50 VNL_InstallVMCI
+         74   49 00049EB0 VNL_InstallVMX86
+         75   4A 00049F70 VNL_InstallVMX86Inf
+         76   4B 00049FF0 VNL_InstallVmkbd
+         77   4C 0004A090 VNL_InstallVmkbdInf
+         78   4D 0004A110 VNL_InstallVmparportInf
+         79   4E 0004C280 VNL_InstallVmusb
+         80   4F 0002A240 VNL_OpenHostPacketFilter
+         81   50 00029BB0 VNL_OpenHostPacketFilterLog
+         82   51 00027B70 VNL_ParseBackupDatabase
+         83   52 00029D50 VNL_PauseHostPacketFilterLog
+         84   53 00034130 VNL_QueryTeaming
+         85   54 000344F0 VNL_QueryTeamingState
+         86   55 00030DF0 VNL_ReinstallNetworkComponents
+         87   56 0004E660 VNL_RemoveAllNetworkDevices
+         88   57 0002A300 VNL_RemoveHostPacketFilter
+         89   58 00027C70 VNL_RestoreDatabase
+         90   59 00027F80 VNL_RestoreDatabaseFromRegistry
+         91   5A 00029E90 VNL_ResumeHostPacketFilterLog
+         92   5B 00031260 VNL_SafeToInstallNetworkComponents
+         93   5C 0003C8B0 VNL_SafeToStopBridge
+         94   5D 0003C190 VNL_SetBridgeHints
+         95   5E 0003CA60 VNL_SetBridgeState
+         96   5F 00031500 VNL_SetCurrentLogLevel
+         97   60 00041CE0 VNL_SetDHCPFilePaths
+         98   61 00038360 VNL_SetDHCPIPToMAC
+         99   62 00038750 VNL_SetDHCPParam
+        100   63 00031540 VNL_SetDefaultLogLevel
+        101   64 0002A480 VNL_SetHostPacketFilter
+        102   65 00028180 VNL_SetInstallBridge
+        103   66 00028230 VNL_SetInstallCustomNetworkConfig
+        104   67 000282E0 VNL_SetInstallDHCPOnlyIfUsed
+        105   68 00028390 VNL_SetInstallNATOnlyIfUsed
+        106   69 0003A230 VNL_SetNATParam
+        107   6A 0003A870 VNL_SetNATPortForward
+        108   6B 0003AD50 VNL_SetNATPrivPort
+        109   6C 00028440 VNL_SetProductInstallPath
+        110   6D 00028500 VNL_SetSuppressDriverPrompt
+        111   6E 00028670 VNL_SetVnetAdapterAddr
+        112   6F 000371F0 VNL_SetVnetAdapterUserSpecifiedName
+        113   70 000287A0 VNL_SetVnetDisplayName
+        114   71 00028930 VNL_SetVnetSubnetAddr
+        115   72 00028A50 VNL_SetVnetSubnetMask
+        116   73 00041E90 VNL_SetVnetUseDHCP
+        117   74 000447B0 VNL_SetVnetUseNAT
+        118   75 0003FBF0 VNL_StartBridge
+        119   76 00042060 VNL_StartDHCP
+        120   77 0004A1E0 VNL_StartHcmon
+        121   78 000449B0 VNL_StartNAT
+        122   79 00044F40 VNL_StartUserIf
+        123   7A 0004A230 VNL_StartVMCI
+        124   7B 0004A2D0 VNL_StartVMX86
+        125   7C 0004A320 VNL_StartVmkbd
+        126   7D 0004A390 VNL_StartVmparport
+        127   7E 0003FC40 VNL_StopBridge
+        128   7F 00042110 VNL_StopDHCP
+        129   80 0004A430 VNL_StopHcmon
+        130   81 00044A60 VNL_StopNAT
+        131   82 00044F90 VNL_StopUserIf
+        132   83 0004A480 VNL_StopVMCI
+        133   84 0004A520 VNL_StopVMX86
+        134   85 0004A570 VNL_StopVmkbd
+        135   86 0004A5F0 VNL_StopVmparport
+        136   87 00042160 VNL_UninstallDHCP
+        137   88 0004A780 VNL_UninstallHcmon
+        138   89 0004A850 VNL_UninstallHcmonInf
+        139   8A 0004A8F0 VNL_UninstallHostDrivers
+        140   8B 000315A0 VNL_UninstallLegacyNetwork
+        141   8C 00044AB0 VNL_UninstallNAT
+        142   8D 000372E0 VNL_UninstallNetworkAdapter
+        143   8E 0003CAF0 VNL_UninstallNetworkBridge
+        144   8F 000318D0 VNL_UninstallNetworkComponents
+        145   90 00031D60 VNL_UninstallNetworkInfFiles
+        146   91 0004CB20 VNL_UninstallUSB
+        147   92 00044FE0 VNL_UninstallUserIf
+        148   93 0004AB10 VNL_UninstallVMCI
+        149   94 0004ACB0 VNL_UninstallVMX86
+        150   95 0004AD90 VNL_UninstallVMX86Inf
+        151   96 0004AE30 VNL_UninstallVmkbd
+        152   97 0004AEB0 VNL_UninstallVmkbdInf
+        153   98 0004AF30 VNL_UninstallVmparportInf
+        154   99 0004CD70 VNL_UninstallVmusb
+        155   9A 00037530 VNL_UpdateAdapterFromConfig
+        156   9B 000422C0 VNL_UpdateDHCPFromConfig
+        157   9C 0004BE40 VNL_UpdateDriverW2K
+        158   9D 00044BC0 VNL_UpdateNATFromConfig
+        159   9E 00031DD0 VNL_Version
+
+  Summary
+
+       18000 .data
+        1000 .didat
+        8000 .pdata
+       6C000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       B0000 .text
+        1000 _RDATA

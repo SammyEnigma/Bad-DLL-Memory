@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\EmojiDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for EmojiDS.dll
+
+    00000000 characteristics
+    E6F8BE8A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001EE0 DllCanUnloadNow
+          2    1 00001C10 DllGetActivationFactory
+          3    2 00001DF0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

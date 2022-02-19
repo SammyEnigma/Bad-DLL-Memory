@@ -1,0 +1,22 @@
+
+Dump of file C:\Windows\System32\f1db7d81-95be-4911-935a-8ab71629112a_vmsvcext_sys.dll
+
+File Type: DLL
+
+  Section contains the following exports for f1db7d81-95be-4911-935a-8ab71629112a_vmsvcext_sys.dll
+
+    00000000 characteristics
+    6F90EC41 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        1000 .apiset
+        1000 .rdata
+        1000 .rsrc

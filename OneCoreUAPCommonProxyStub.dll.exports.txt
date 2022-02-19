@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for OneCoreUAPCommonProxyStub.dll
+
+    00000000 characteristics
+    3BED6975 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00015E50 DllCanUnloadNow
+          2    1 00015DA0 DllGetClassObject
+          3    2 00017970 GetProxyDllInfo
+
+  Summary
+
+        E000 .data
+        1000 .didat
+        2000 .pdata
+      6B5000 .rdata
+       B8000 .reloc
+        1000 .rsrc
+       18000 .text

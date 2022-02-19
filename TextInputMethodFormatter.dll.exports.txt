@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\TextInputMethodFormatter.dll
+
+File Type: DLL
+
+  Section contains the following exports for TextInputMethodFormatter.dll
+
+    00000000 characteristics
+    A26698DB time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001B760 ??0TextInputMethodFormatter@@QEAA@XZ
+          2    1 0001B800 ??1TextInputMethodFormatter@@QEAA@XZ
+          3    2 000229F0 ?ConnectToHost@TextInputMethodFormatter@@IEAAJXZ
+          4    3 00022BB0 ?DataReceived@TextInputMethodFormatter@@UEAAJIAEAV?$vector@DV?$allocator@D@std@@@std@@@Z
+          5    4 000229D0 ?GetCIVMSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputViewManager@@@Z
+          6    5 000229B0 ?GetCIVSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputView@@@Z
+          7    6 0001BA60 ?GetIsHost@TextInputMethodFormatter@@UEAA_NXZ
+          8    7 00022930 ?GetTICImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputClient@@@Z
+          9    8 00022950 ?GetTISImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputServer@@@Z
+         10    9 00022970 ?GetTVIImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationInternal@@@Z
+         11    A 00022990 ?GetTVKRImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationKeyRouting@@@Z
+         12    B 00022970 ?GetVirtTIS@TextInputMethodFormatter@@QEAAJPEAPEAUIRemoteTextInputServer@@@Z
+         13    C 00021730 ?Initialize@TextInputMethodFormatter@@QEAAJPEAUIMessagePort@@W4VirtualizationEnvironment@@PEAUIVirtualizedTextDataSender@@U_GUID@@@Z
+         14    D 000216F0 ?Initialize@TextInputMethodFormatter@@UEAAJPEAUIMessagePort@@@Z
+         15    E 00022A60 ?ProcessQueue@TextInputMethodFormatter@@QEAAJXZ
+         16    F 00022630 ?SetCIVMTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputViewManager@@@Z
+         17   10 00022270 ?SetCIVTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputView@@PEAVVirtCoreInputViewForwarder@@@Z
+         18   11 00022170 ?SetTICTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputClient@@PEAVVirtTextInputClient@@@Z
+         19   12 00022370 ?SetTISTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputServer@@@Z
+         20   13 00022870 ?SetTVKRTarget@TextInputMethodFormatter@@UEAAJPEAUITextVirtualizationKeyRouting@@@Z
+         21   14 00022130 ?Uninitialize@TextInputMethodFormatter@@UEAAJXZ
+
+  Summary
+
+       1F000 .data
+        1000 .didat
+       10000 .pdata
+       6D000 .rdata
+        2000 .reloc
+      1AA000 .text

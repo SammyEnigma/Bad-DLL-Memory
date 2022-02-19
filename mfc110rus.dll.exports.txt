@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\mfc110rus.dll
+
+File Type: DLL
+
+  Summary
+
+        E000 .rsrc

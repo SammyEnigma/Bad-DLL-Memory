@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvptxJitCompiler32.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvptxJitCompiler.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000022D0 __cuda_CallJitEntryPoint
+          2    1 00071560 nvLinkerAddCubin
+          3    2 000718A0 nvLinkerCreate
+          4    3 00071AA0 nvLinkerDestroy
+          5    4 00071D30 nvLinkerFinish
+          6    5 00071EE0 nvLinkerGetErrorLog
+          7    6 00071F20 nvLinkerGetErrorLogSize
+          8    7 00071F50 nvLinkerGetInfoLog
+          9    8 00071F90 nvLinkerGetInfoLogSize
+         10    9 00071FC0 nvLinkerGetLinkedCubin
+         11    A 00071FF0 nvLinkerGetLinkedCubinSize
+         12    B 00070850 nvPTXCompilerCompile
+         13    C 00070BB0 nvPTXCompilerCreate
+         14    D 00070D90 nvPTXCompilerDestroy
+         15    E 00070F40 nvPTXCompilerGetCompiledProgram
+         16    F 00070F80 nvPTXCompilerGetCompiledProgramSize
+         17   10 00070FB0 nvPTXCompilerGetErrorLog
+         18   11 00070FF0 nvPTXCompilerGetErrorLogSize
+         19   12 00071020 nvPTXCompilerGetInfoLog
+         20   13 00071060 nvPTXCompilerGetInfoLogSize
+         21   14 00071090 nvPTXCompilerGetVersion
+
+  Summary
+
+       24000 .data
+      273000 .rdata
+       1D000 .reloc
+        1000 .rsrc
+      474000 .text

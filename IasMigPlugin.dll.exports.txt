@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\IasMigPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for IasMigPlugin.dll
+
+    00000000 characteristics
+     DF69579 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001CB0 DllCanUnloadNow
+          3    1 000019A0 DllGetClassObject
+          4    2 00001CF0 DllMain
+          5    3 00001AE0 DllRegisterServer
+          6    4 00001C10 DllUnregisterServer
+          1    5 0000E740 IasUpgradeComplianceCheck
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+       15000 .rdata
+        1000 .reloc
+       48000 .rsrc
+       48000 .text

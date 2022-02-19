@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\netplwiz.dll
+
+File Type: DLL
+
+  Section contains the following exports for NETPLWIZ.dll
+
+    00000000 characteristics
+    2EE317FA time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007DD0 ClearAutoLogon
+          2    1 00006840 DllCanUnloadNow
+          3    2 00006860 DllGetClassObject
+          4    3 0000FFA0 NetAccessWizard
+          5    4 0000A850 NetPlacesWizardDoModal
+          6    5 00006400 SHDisconnectNetDrives
+          7    6 00013CD0 UsersRunDllW
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       19000 .rdata
+        2000 .reloc
+       13000 .rsrc
+       20000 .text

@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wsdchngr.dll
+
+File Type: DLL
+
+  Section contains the following exports for WSDChngr.dll
+
+    00000000 characteristics
+    9C09C333 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004120 WSDCHNGRChallengeDeviceClass
+          2    1 00003E70 WSDCHNGRInitialize
+          3    2 00003F10 WSDCHNGRRegisterDeviceToChallenge
+          4    3 000040D0 WSDCHNGRRegisterDeviceToChallengeByGlobalId
+          5    4 00004180 WSDCHNGRRemoveDevice
+          6    5 00003EC0 WSDCHNGRShutdown
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

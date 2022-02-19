@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\BTAGService.dll
+
+File Type: DLL
+
+  Section contains the following exports for BTAGService.dll
+
+    00000000 characteristics
+     BC72178 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00015230 DllCanUnloadNow
+          3    1 000151F0 DllGetClassObject
+          4    2 000096E0 ServiceMain
+          1    3 00009690 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        9000 .pdata
+       30000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       BA000 .text
+        3000 PAGE

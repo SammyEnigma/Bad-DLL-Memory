@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\UIManagerBrokerps.dll
+
+File Type: DLL
+
+  Section contains the following exports for uimanagerbrokerps.dll
+
+    00000000 characteristics
+    A1AEB6C4 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010D0 DllCanUnloadNow
+          2    1 00001080 DllGetClassObject
+          3    2 00001140 DllRegisterServer
+          4    3 00001180 DllUnregisterServer
+          5    4 00001050 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

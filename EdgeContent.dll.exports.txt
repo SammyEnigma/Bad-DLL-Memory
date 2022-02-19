@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\EdgeContent.dll
+
+File Type: DLL
+
+  Section contains the following exports for EdgeContent.dll
+
+    00000000 characteristics
+    6FF379F7 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          9    0 00060070 DllCanUnloadNow
+         10    1 0006FA70 DllGetActivationFactory
+         11    2 000A7650 DllGetClassObject
+         12    3 000EAF60 IEGetWriteableFolderPath
+          8    4 000EAF40 IEIsInPrivateBrowsing
+         13    5 000EB030 IEIsProtectedModeProcess
+         14    6 0006FDD0 IERefreshElevationPolicy
+          1      00064F30 [NONAME]
+          2      00068DE0 [NONAME]
+          3      000699F0 [NONAME]
+          4      0006EC40 [NONAME]
+          5      00068BE0 [NONAME]
+          6      000663F0 [NONAME]
+          7      000B97B0 [NONAME]
+
+  Summary
+
+        8000 .data
+        1000 .didat
+       22000 .pdata
+      102000 .rdata
+        D000 .reloc
+       16000 .rsrc
+        1000 .ssm_url
+      249000 .text
+        1000 .wpp_sf

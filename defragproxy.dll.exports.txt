@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\defragproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for defragproxy.dll
+
+    00000000 characteristics
+    57C2A5BC time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001160 DllCanUnloadNow
+          2    1 00001180 DllGetClassObject
+          3    2 000011D0 DllRegisterServer
+          4    3 00001210 DllUnregisterServer
+          5    4 000010E0 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

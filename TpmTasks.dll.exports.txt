@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\TpmTasks.dll
+
+File Type: DLL
+
+  Section contains the following exports for TpmTasks.dll
+
+    00000000 characteristics
+    E481DFE5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00010390 DllCanUnloadNow
+          2    1 000103B0 DllGetClassObject
+          3    2 00007C70 DllRegisterServer
+          4    3 00007C70 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       14000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       31000 .text

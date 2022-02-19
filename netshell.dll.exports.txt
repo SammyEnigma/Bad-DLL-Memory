@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\netshell.dll
+
+File Type: DLL
+
+  Section contains the following exports for netshell.dll
+
+    00000000 characteristics
+    A4DDA5B0 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000F0A0 DllCanUnloadNow
+          2    1 0000F0E0 DllGetClassObject
+          3    2 00001FE0 DllRegisterServer
+          4    3 00001FE0 DllUnregisterServer
+          5    4 0000F190 HrCreateDesktopIcon
+          6    5 0000F2A0 HrGetIconFromMediaType
+          7    6 0000F310 HrGetIconFromMediaTypeEx
+          8    7 0000F370 HrLaunchConnection
+          9    8 0000F460 HrLaunchConnectionEx
+         10    9 0000F600 HrRenameConnection
+         11    A 0000F820 NcFreeNetconProperties
+         12    B 0000F830 NcIsValidConnectionName
+         13    C 000020A0 StartNCW
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        5000 .pdata
+       29000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       5A000 .text

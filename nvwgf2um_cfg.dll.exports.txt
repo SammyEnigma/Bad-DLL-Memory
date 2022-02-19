@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvwgf2um_cfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvwgf2um_cfg.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0024BB90 NVAPI_Thunk
+          1    1 00252360 NVDEV_Thunk
+          2    2 0020E770 NVENCODEAPI_Thunk
+          4    3 00EA6440 OpenAdapter10
+          5    4 00EA6330 OpenAdapter10_2
+          6    5 00FBD840 OpenAdapter12
+
+  Summary
+
+      ACB000 .data
+      477000 .rdata
+       DA000 .reloc
+        1000 .rsrc
+     1542000 .text
+        9000 PAGE
+        B000 PAGECONS
+        3000 PAGEDATA

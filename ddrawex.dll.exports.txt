@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\ddrawex.dll
+
+File Type: DLL
+
+  Section contains the following exports for DDRAWEX.DLL
+
+    00000000 characteristics
+    D34A4868 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002A60 DllCanUnloadNow
+          2    1 00002860 DllGetClassObject
+          3    2 00004440 DllRegisterServer
+          4    3 000046A0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

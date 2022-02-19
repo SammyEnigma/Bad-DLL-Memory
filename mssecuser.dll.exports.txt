@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\mssecuser.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSSECUSER.dll
+
+    00000000 characteristics
+    2414557A time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003160 SecClearRegistryOperations
+          2    1 00002730 SecCreateSessionFilter
+          3    2 000027E0 SecDeleteSessionFilter
+          4    3 00002DA0 SecGetCiInformation
+          5    4 00002650 SecGetDriverVersion
+          6    5 00002310 SecGetFileHashes
+          7    6 00002840 SecGetProcessInfo
+          8    7 00002700 SecGetUserLibVersion
+          9    8 000026C0 SecIsKernelIntegrityEnabled
+         10    9 00001A90 SecRegisterConsumer
+         11    A 00002CB0 SecRequestOplock
+         12    B 0000A5B0 SecSetConfiguration
+         13    C 0000AB80 SecSetDlpConfiguration
+         14    D 0000D260 SecSetFileMonitorOperations
+         15    E 00002ED0 SecSetProcessInfo
+         16    F 000030F0 SecSetRegistryOperations
+         17   10 00001CF0 SecUninitializeDriver
+         18   11 00001BE0 SecUnregisterConsumer
+         19   12 00002B30 SecWriteFileDlpEA
+         20   13 000029F0 SecWriteFileHashEA
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

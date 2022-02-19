@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\xmllite.dll
+
+File Type: DLL
+
+  Section contains the following exports for XmlLite.dll
+
+    00000000 characteristics
+    1BFB31AD time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A490 CreateXmlReader
+          2    1 000015A0 CreateXmlReaderInputWithEncodingCodePage
+          3    2 0000D780 CreateXmlReaderInputWithEncodingName
+          4    3 0000C460 CreateXmlWriter
+          5    4 00022070 CreateXmlWriterOutputWithEncodingCodePage
+          6    5 0000EE90 CreateXmlWriterOutputWithEncodingName
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       27000 .text

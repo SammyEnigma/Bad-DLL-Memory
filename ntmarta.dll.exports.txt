@@ -1,0 +1,77 @@
+
+Dump of file C:\Windows\System32\ntmarta.dll
+
+File Type: DLL
+
+  Section contains the following exports for NTMARTA.dll
+
+    00000000 characteristics
+    3D60AD04 time date stamp
+        0.00 version
+           1 ordinal base
+          50 number of functions
+          50 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000128A0 AccConvertAccessMaskToActrlAccess
+          4    1 00012A20 AccConvertAccessToSD
+          5    2 00012BE0 AccConvertAccessToSecurityDescriptor
+          6    3 00012D40 AccConvertAclToAccess
+          7    4 00012DE0 AccConvertSDToAccess
+          8    5 000210C0 AccFreeIndexArray
+          9    6 000130C0 AccGetAccessForTrustee
+         10    7 000131B0 AccGetExplicitEntries
+         11    8 000211F0 AccGetInheritanceSource
+         12    9 00013280 AccLookupAccountName
+         13    A 00013600 AccLookupAccountSid
+         14    B 00013A40 AccLookupAccountTrustee
+         15    C 0001B5E0 AccProvCancelOperation
+         16    D 0001B670 AccProvGetAccessInfoPerObjectType
+         17    E 0001B720 AccProvGetAllRights
+         18    F 00006480 AccProvGetCapabilities
+         19   10 0001B930 AccProvGetOperationResults
+         20   11 0001BAB0 AccProvGetTrusteesAccess
+         21   12 0001BBD0 AccProvGrantAccessRights
+         22   13 0001BD60 AccProvHandleGetAccessInfoPerObjectType
+         23   14 0001BE60 AccProvHandleGetAllRights
+         24   15 0001C000 AccProvHandleGetTrusteesAccess
+          1   16 0001AF60 AccProvHandleGrantAccessRights
+         25   17 0001C080 AccProvHandleIsAccessAudited
+         26   18 0001C120 AccProvHandleIsObjectAccessible
+         27   19 0001C290 AccProvHandleRevokeAccessRights
+         28   1A 0001C370 AccProvHandleRevokeAuditRights
+         29   1B 0001C450 AccProvHandleSetAccessRights
+         30   1C 0001C550 AccProvIsAccessAudited
+         31   1D 0001C680 AccProvIsObjectAccessible
+         32   1E 0001CB30 AccProvRevokeAccessRights
+         33   1F 0001CC80 AccProvRevokeAuditRights
+         34   20 0001CDD0 AccProvSetAccessRights
+         35   21 000191E0 AccRewriteGetExplicitEntriesFromAcl
+         36   22 00002EA0 AccRewriteGetHandleRights
+         37   23 00021890 AccRewriteGetNamedRights
+         38   24 00004180 AccRewriteSetEntriesInAcl
+         39   25 000022A0 AccRewriteSetHandleRights
+         40   26 000024B0 AccRewriteSetNamedRights
+         41   27 00013B60 AccSetEntriesInAList
+         42   28 000011D0 AccTreeResetNamedSecurityInfo
+         43   29 0000BAA0 EventGuidToName
+         44   2A 0000BB40 EventNameFree
+         45   2B 00011D10 GetExplicitEntriesFromAclW
+          2   2C 00005E60 GetMartaExtensionInterface
+         46   2D 00003000 GetNamedSecurityInfoW
+         47   2E 00002DF0 GetSecurityInfo
+         48   2F 00004170 SetEntriesInAclW
+         49   30 00002180 SetNamedSecurityInfoW
+         50   31 00002210 SetSecurityInfo
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text
+        1000 ERRATA

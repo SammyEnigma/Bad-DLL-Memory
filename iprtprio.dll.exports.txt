@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\iprtprio.dll
+
+File Type: DLL
+
+  Section contains the following exports for iprtprio.dll
+
+    00000000 characteristics
+    BC353EA3 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001440 CleanUpIpPriority
+          2    1 000010A0 ComputeRouteMetric
+          3    2 000010B0 ComputeRouteMetricEx
+          4    3 00001340 GetPriorityInfo
+          5    4 00001150 SetPriorityInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

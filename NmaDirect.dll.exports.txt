@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\NmaDirect.dll
+
+File Type: DLL
+
+  Section contains the following exports for NmaDirect.dll
+
+    00000000 characteristics
+    15BCF720 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016A0 DllCanUnloadNow
+          2    1 000013D0 DllGetActivationFactory
+          3    2 000015B0 DllGetClassObject
+          4    3 00002C70 NmaDirect_OverrideUserLocation
+          5    4 00002B60 NmaDirect_StartGuidanceWithSimulatedRoute
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+       11000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2B000 .text

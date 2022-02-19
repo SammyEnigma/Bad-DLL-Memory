@@ -1,0 +1,96 @@
+
+Dump of file C:\Windows\System32\samlib.dll
+
+File Type: DLL
+
+  Section contains the following exports for SAMLIB.dll
+
+    00000000 characteristics
+    D1EEB11E time date stamp
+        0.00 version
+           1 ordinal base
+          70 number of functions
+          70 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009C00 OnMachineUILanguageInit
+          2    1 00003910 SamAddMemberToAlias
+          3    2 0000A7D0 SamAddMemberToGroup
+          4    3 0000A980 SamAddMultipleMembersToAlias
+          5    4 0000AB50 SamChangePasswordUser
+          6    5 0000AE70 SamChangePasswordUser2
+          7    6 00002FB0 SamCloseHandle
+          8    7 00002AB0 SamConnect
+          9    8 000128F0 SamConnectWithCreds
+         10    9 0000B0B0 SamCreateAliasInDomain
+         11    A 0000B2F0 SamCreateGroupInDomain
+         12    B 0000B530 SamCreateUser2InDomain
+         13    C 0000B940 SamCreateUserInDomain
+         14    D 0000BB70 SamDeleteAlias
+         15    E 0000BD10 SamDeleteGroup
+         16    F 0000BEB0 SamDeleteUser
+         17   10 0000C050 SamEnumerateAliasesInDomain
+         18   11 000019E0 SamEnumerateDomainsInSamServer
+         19   12 0000C270 SamEnumerateGroupsInDomain
+         20   13 00001520 SamEnumerateUsersInDomain
+         21   14 00001830 SamEnumerateUsersInDomain2
+         22   15 00001010 SamFreeMemory
+         23   16 00001E00 SamGetAliasMembership
+         24   17 00001260 SamGetCompatibilityMode
+         25   18 0000C490 SamGetDisplayEnumerationIndex
+         26   19 000016E0 SamGetGroupsForUser
+         27   1A 00003590 SamGetMembersInAlias
+         28   1B 0000C680 SamGetMembersInGroup
+         29   1C 000018D0 SamLookupDomainInSamServer
+         30   1D 00001FB0 SamLookupIdsInDomain
+         31   1E 00001B50 SamLookupNamesInDomain
+         32   1F 00002260 SamLookupNamesInDomain2
+         33   20 000036C0 SamOpenAlias
+         34   21 00002D60 SamOpenDomain
+         35   22 0000C8A0 SamOpenGroup
+         36   23 000027C0 SamOpenUser
+         37   24 00001430 SamPerformGenericOperation
+         38   25 0000CAC0 SamQueryDisplayInformation
+         39   26 0000CDE0 SamQueryInformationAlias
+         40   27 00012AF0 SamQueryInformationDomain
+         41   28 0000CF90 SamQueryInformationGroup
+         42   29 000029B0 SamQueryInformationUser
+         43   2A 0000D250 SamQueryLocalizableAccountsInDomain
+         44   2B 000015C0 SamQuerySecurityObject
+         45   2C 00001350 SamRegisterObjectChangeNotification
+         46   2D 0000D440 SamRemoveMemberFromAlias
+         47   2E 0000D5D0 SamRemoveMemberFromForeignDomain
+         48   2F 0000D760 SamRemoveMemberFromGroup
+         49   30 0000D900 SamRemoveMultipleMembersFromAlias
+         50   31 000022F0 SamRidToSid
+         51   32 0000DAD0 SamSetInformationAlias
+         52   33 0000DC80 SamSetInformationDomain
+         53   34 0000DE30 SamSetInformationGroup
+         54   35 0000DFE0 SamSetInformationUser
+         55   36 0000EB60 SamSetMemberAttributesOfGroup
+         56   37 0000ED10 SamSetSecurityObject
+         57   38 0000EF80 SamShutdownSamServer
+         58   39 0000F010 SamTestPrivateFunctionsDomain
+         59   3A 0000F050 SamTestPrivateFunctionsUser
+         60   3B 000012F0 SamUnregisterObjectChangeNotification
+         61   3C 0000F090 SamValidatePassword
+         62   3D 0000F330 SamiChangeKeys
+         63   3E 0000F780 SamiChangePasswordUser
+         64   3F 0000FC80 SamiChangePasswordUser2
+         65   40 00009860 SamiEncryptPasswords
+         66   41 000100C0 SamiLmChangePasswordUser
+         67   42 000102D0 SamiSetBootKeyInformation
+         68   43 00010490 SamiSetDSRMPassword
+         69   44 00010500 SamiSetDSRMPasswordOWF
+         70   45 00010570 SamiSyncDSRMPasswordFromAccount
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

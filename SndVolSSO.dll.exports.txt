@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\SndVolSSO.dll
+
+File Type: DLL
+
+  Section contains the following exports for SndVolSSO.DLL
+
+    00000000 characteristics
+    55E74CB9 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00002EA0 DllCanUnloadNow
+          6    1 0000AA20 DllGetClassObject
+          7    2 0000CE90 DllMain
+          1      00005440 [NONAME]
+          2      000217E0 [NONAME]
+          3      00021740 [NONAME]
+          4      000216C0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\dwmcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for dwmcore.dll
+
+    00000000 characteristics
+    81225559 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000D6260 MilCompositionEngine_GetComposedEventId
+          2    1 000D66D0 MilCompositionEngine_Initialize
+          3    2 00150880 MilCompositionEngine_Uninitialize
+          4    3 000306B0 MilConnection_CreateChannel
+          5    4 000D90B0 MilTransport_AddRef
+          6    5 00018B40 MilTransport_Release
+
+  Summary
+
+        8000 .data
+        1000 .didat
+       21000 .pdata
+       D6000 .rdata
+        6000 .reloc
+        1000 .rsrc
+      26B000 .text

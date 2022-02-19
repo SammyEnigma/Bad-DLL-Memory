@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\VIDRESZR.DLL
+
+File Type: DLL
+
+  Section contains the following exports for deffile.dll
+
+    00000000 characteristics
+    BC8047D2 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012310 CreateInstance
+          2    1 000124A0 DllCanUnloadNow
+          3    2 000123A0 DllGetClassObject
+          4    3 00006570 DllRegisterServer
+          5    4 000068F0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

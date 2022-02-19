@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\deviceaccess.dll
+
+File Type: DLL
+
+  Section contains the following exports for deviceaccess.dll
+
+    00000000 characteristics
+    409138D1 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00006E00 BrokeredOpenCommPort
+          4    1 0000C620 CreateDeviceAccessInstance
+          5    2 00002770 DllCanUnloadNow
+          6    3 0000ADA0 DllGetActivationFactory
+          7    4 00002030 DllGetClassObject
+          8    5 000198F0 ProcessTrackerInsertOrWait
+          9    6 00019930 ProcessTrackerRemove
+          1    7 0000A400 ServiceMain
+          2    8 0000A7F0 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       23000 .text

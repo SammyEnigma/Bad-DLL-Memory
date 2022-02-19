@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\microsoft-windows-kernel-processor-power-events.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       29000 .rsrc

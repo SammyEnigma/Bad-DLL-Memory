@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\HrtfApo.dll
+
+File Type: DLL
+
+  Section contains the following exports for HrtfApo.dll
+
+    00000000 characteristics
+    A05CE2A7 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005C40 CreateHrtfApo
+          2    1 00005C20 CreateHrtfApoWithDatasetType
+          3    2 00008FB0 CreateHrtfEngineFactory
+          5    3 00005D40 GetHrtfEngineMinFrameCount
+          4    4 00005C60 IsHrtfApoAvailable
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        4000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5D000 .text

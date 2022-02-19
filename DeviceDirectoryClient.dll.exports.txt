@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DeviceDirectoryClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for DeviceDirectoryClient.dll
+
+    00000000 characteristics
+    DCE37D0A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001C40 DllCanUnloadNow
+          2    1 00001C60 DllGetClassObject
+          3    2 00001530 DllRegisterServer
+          4    3 00001530 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       1D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

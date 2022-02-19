@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\mciavi32.dll
+
+File Type: DLL
+
+  Section contains the following exports for MCIAVI32.dll
+
+    00000000 characteristics
+    1E94A63D time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D040 DriverProc
+          2    1 00011DB0 KeyboardHookProc
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       12000 .text

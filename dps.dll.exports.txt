@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\dps.dll
+
+File Type: DLL
+
+  Section contains the following exports for dps.dll
+
+    00000000 characteristics
+    EFC2B8B9 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009CE0 ServiceMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       1E000 .text

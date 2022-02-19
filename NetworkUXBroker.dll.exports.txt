@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\NetworkUXBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetworkUXBroker.dll
+
+    00000000 characteristics
+    ED464522 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002D40 DllCanUnloadNow
+          2    1 00002750 DllGetActivationFactory
+          3    2 00002930 DllGetClassObject
+          4    3 00002B60 DllMain
+          5    4 00002A90 DllRegisterServer
+          6    5 00002A60 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       38000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       29000 .text

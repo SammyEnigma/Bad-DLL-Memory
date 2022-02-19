@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\RCoInstII64.dll
+
+File Type: DLL
+
+  Section contains the following exports for RTKCOINST.dll
+
+    00000000 characteristics
+    5979AB7B time date stamp Thu Jul 27 10:59:39 2017
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001C250 CoInstallerRunOnce
+          2    1 0000AD60 RtkCoInstaller
+
+  Summary
+
+        C000 .data
+        1000 .pdata
+        3000 .reloc
+      1C4000 .rsrc
+       49000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\EasPolicyManagerBrokerPS.dll
+
+File Type: DLL
+
+  Section contains the following exports for EasPolicyManagerBrokerPS.dll
+
+    00000000 characteristics
+    D7D4D1B7 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010B0 DllCanUnloadNow
+          2    1 00001070 DllGetClassObject
+          3    2 00001050 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

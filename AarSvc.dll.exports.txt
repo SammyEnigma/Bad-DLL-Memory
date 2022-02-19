@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\AarSvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for AarSvc.dll
+
+    00000000 characteristics
+    D4573DE8 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005560 DllCanUnloadNow
+          2    1 00005290 DllGetActivationFactory
+          3    2 00005470 DllGetClassObject
+          4    3 00005710 ServiceMain
+
+  Summary
+
+       14000 .data
+        3000 .pdata
+       25000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       36000 .text

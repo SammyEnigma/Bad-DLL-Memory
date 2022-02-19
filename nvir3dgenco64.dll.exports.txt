@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nvstusb.inf_amd64_13f03faeef8601fe\nvir3dgenco64.dll
+
+File Type: DLL
+
+  Section contains the following exports for NVGenCo64.DLL
+
+    00000000 characteristics
+    5797F297 time date stamp Wed Jul 27 01:30:31 2016
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00056F30 NvGenericCoInstall
+
+  Summary
+
+        E000 .data
+       1C000 .pdata
+       57000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      100000 .text
+        1000 .tls

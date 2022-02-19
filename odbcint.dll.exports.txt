@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\odbcint.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       37000 .rsrc

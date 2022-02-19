@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\wmp.dll
+
+File Type: DLL
+
+  Section contains the following exports for wmp.DLL
+
+    00000000 characteristics
+    AB42791C time date stamp
+        0.00 version
+        3000 ordinal base
+           8 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+       3001    0 000338B0 DllCanUnloadNow
+       3005    1 00034540 DllGetClassObject
+       3006    2 0026A690 DllRegisterServer
+       3007    3 0026A700 DllUnregisterServer
+       3000      0012A0A0 [NONAME]
+       3002      0026BBA0 [NONAME]
+       3003      0026A4B0 [NONAME]
+       3004      00250F20 [NONAME]
+
+  Summary
+
+       2B000 .data
+        1000 .didat
+       54000 .pdata
+      1C9000 .rdata
+       1A000 .reloc
+       CF000 .rsrc
+      7CA000 .text
+        2000 PAGELK

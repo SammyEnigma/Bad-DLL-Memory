@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\iepeers.dll
+
+File Type: DLL
+
+  Section contains the following exports for iepeers.DLL
+
+    00000000 characteristics
+    B17F49A3 time date stamp
+        0.00 version
+           5 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          6    0 00006730 DllCanUnloadNow
+          5    1 00006840 DllEnumClassObjects
+          7    2 00006750 DllGetClassObject
+          8    3 00006770 DllRegisterServer
+          9    4 000067F0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        A000 .rsrc
+       12000 .text

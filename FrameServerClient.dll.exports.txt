@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\FrameServerClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for FrameServerClient.dll
+
+    00000000 characteristics
+     5265E79 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004B80 DllCanUnloadNow
+          2    1 000048B0 DllGetActivationFactory
+          3    2 00004A90 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       54000 .text

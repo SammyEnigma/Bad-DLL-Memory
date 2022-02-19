@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\lvco1380853.dll
+
+File Type: DLL
+
+  Section contains the following exports for lvcoin64.dll
+
+    00000000 characteristics
+    5085FC8A time date stamp Tue Oct 23 04:10:18 2012
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005EA0 LvCoInstaller
+          2    1 00006230 SetupEntryPoint
+
+  Summary
+
+        4000 .data
+        3000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2E000 .text

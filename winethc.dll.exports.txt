@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\winethc.dll
+
+File Type: DLL
+
+  Section contains the following exports for winetHC.DLL
+
+    00000000 characteristics
+    6077DA91 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0000C990 DllCanUnloadNow
+          4    1 0000C9D0 DllGetClassObject
+          5    2 0000CB10 DllRegisterServer
+          6    3 0000CC40 DllUnregisterServer
+          1    4 0000A590 ForceProxyDetectionOnNextRun
+          2    5 0000A420 SetAutoDetectProxyFlagForUser
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

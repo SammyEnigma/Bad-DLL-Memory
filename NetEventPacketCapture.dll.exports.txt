@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\NetEventPacketCapture.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetEventPacketCapture.DLL
+
+    00000000 characteristics
+    910ABF19 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000049F0 DllCanUnloadNow
+          2    1 00004A30 DllGetClassObject
+          3    2 000045F0 DllMain
+          4    3 00004950 DllRegisterServer
+          5    4 000049A0 DllUnregisterServer
+          6    5 00004740 GetProviderClassID
+          7    6 00002C90 MI_Main
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+       14000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2F000 .text

@@ -1,0 +1,53 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x86\OclCpuBackend32.dll
+
+File Type: DLL
+
+  Section contains the following exports for OclCpuBackEnd32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00068FA0 GetDeviceBackendFactory
+          2    1 00068FB0 InitDeviceBackend
+          3    2 00124A20 RegisterGlobalAtExitNotification
+          4    3 000690C0 TerminateDeviceBackend
+          5    4 00069150 __opencl_dbg_declare_global
+          6    5 000691C0 __opencl_dbg_declare_local
+          7    6 00069230 __opencl_dbg_enter_function
+          8    7 000692A0 __opencl_dbg_exit_function
+          9    8 00069310 __opencl_dbg_stoppoint
+         10    9 000689C0 cpu_dbg_print
+         11    A 000689F0 cpu_get_time_counter
+         12    B 00068A00 cpu_lprefetch
+         13    C 000694F0 ocl20_capture_event_profiling_info
+         14    D 00069520 ocl20_create_user_event
+         15    E 00069550 ocl20_enqueue_kernel_basic
+         16    F 000695A0 ocl20_enqueue_kernel_events
+         17   10 00069600 ocl20_enqueue_kernel_events_localmem
+         18   11 00069660 ocl20_enqueue_kernel_localmem
+         19   12 000696C0 ocl20_enqueue_marker
+         20   13 000696F0 ocl20_get_default_queue
+         21   14 00069710 ocl20_get_kernel_preferred_wg_size_multiple
+         22   15 00069760 ocl20_get_kernel_wg_size
+         23   16 000697B0 ocl20_is_valid_event
+         24   17 000697D0 ocl20_release_event
+         25   18 000697F0 ocl20_retain_event
+         26   19 00069810 ocl20_set_user_event_status
+         27   1A 00069840 opencl_printf
+         28   1B 0006A680 opencl_snprintf
+
+  Summary
+
+       6A000 .data
+        1000 .didat
+      4A0000 .rdata
+       71000 .reloc
+        1000 .rsrc
+      CD3000 .text

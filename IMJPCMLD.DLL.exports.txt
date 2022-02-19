@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\IMEJP\IMJPCMLD.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imjpcmntl.dll
+
+    00000000 characteristics
+    8DA31C9A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008A40 DllCanUnloadNow
+          2    1 00008A80 DllGetClassObject
+          3    2 00008BC0 DllRegisterServer
+          4    3 00008CC0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       35000 .text

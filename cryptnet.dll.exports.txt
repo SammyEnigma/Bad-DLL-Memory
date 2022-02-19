@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\cryptnet.dll
+
+File Type: DLL
+
+  Section contains the following exports for CRYPTNET.dll
+
+    00000000 characteristics
+    F30FC478 time date stamp
+        0.00 version
+           1 ordinal base
+          23 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00016370 CertDllVerifyCTLUsage
+          2    1 00009C20 CertDllVerifyRevocation
+          6    2 00018890 CryptCancelAsyncRetrieval
+          7    3 0001B410 CryptFlushTimeValidObject
+          8    4 0001B500 CryptGetObjectUrl
+          9    5 000014C0 CryptGetTimeValidObject
+         10    6 0001B790 CryptInstallCancelRetrieval
+         11    7 00018920 CryptRetrieveObjectByUrlA
+         12    8 00008560 CryptRetrieveObjectByUrlW
+         13    9 0001B830 CryptUninstallCancelRetrieval
+         14    A 000162D0 DllRegisterServer
+         15    B 00016320 DllUnregisterServer
+          3    C 00017120 I_CryptConvertIriToAsciiOrUnicode
+          4    D 00017140 I_CryptConvertIriToAsciiOrUnicodeWithFlags
+         16    E 0001B4E0 I_CryptNetAutoFlush
+         17    F 0001BBF0 I_CryptNetEnumUrlCacheEntry
+         18   10 0001C9C0 I_CryptNetFlushOfflineUrl
+         19   11 00004AC0 I_CryptNetGetConnectivity
+         20   12 00017950 I_CryptNetGetHostNameFromUrl
+         21   13 000184B0 I_CryptNetGetUserDsStoreUrl
+         22   14 00003960 I_CryptNetSetUrlCacheFlushInfo
+         23   15 00001DA0 I_CryptNetSetUrlCachePreFetchInfo
+          5   16 00017F00 LdapProvOpenStore
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

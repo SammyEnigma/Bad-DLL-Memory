@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Speech_OneCore\Engines\TTS\MSTTSEngine_OneCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSTTSEngine_OneCore.DLL
+
+    00000000 characteristics
+    CBBD0359 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00098C30 DllCanUnloadNow
+          2    1 00099690 DllGetClassObject
+          3    2 000E20F0 DllRegisterServer
+          4    3 000E2160 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        1000 .didat
+       13000 .pdata
+       68000 .rdata
+        3000 .reloc
+        8000 .rsrc
+      178000 .text

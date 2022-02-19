@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ig9icd32.dll
+
+File Type: DLL
+
+  Section contains the following exports for ig9icd32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000FD30 DrvCopyContext
+          2    1 00010160 DrvCreateContext
+          3    2 0000ECB0 DrvCreateLayerContext
+          4    3 0000EAA0 DrvDeleteContext
+          5    4 0000FE60 DrvDescribeLayerPlane
+          6    5 0000FE70 DrvDescribePixelFormat
+          7    6 000101A0 DrvGetLayerPaletteEntries
+          8    7 00010080 DrvGetProcAddress
+          9    8 000101B0 DrvPresentBuffers
+         10    9 00010180 DrvRealizeLayerPalette
+         11    A 0000F4B0 DrvReleaseContext
+         12    B 00010350 DrvSetCallbackProcs
+         13    C 0000F050 DrvSetContext
+         14    D 00010190 DrvSetLayerPaletteEntries
+         15    E 0000FF10 DrvSetPixelFormat
+         16    F 0000F6E0 DrvShareLists
+         17   10 0000E950 DrvSwapBuffers
+         18   11 0000FD10 DrvSwapLayerBuffers
+         19   12 0000EC80 DrvValidateVersion
+         21   13 00011600 DumpRegistryKeyDefinitions
+         20   14 00011610 DumpRegistryKeyDefinitions2
+         22   15 000514B0 RegisterProcTableCallback
+
+  Summary
+
+      11D000 .data
+      19A000 .rdata
+       9E000 .reloc
+        1000 .rsrc
+      89C000 .text

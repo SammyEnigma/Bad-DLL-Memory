@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\FXST30.dll
+
+File Type: DLL
+
+  Section contains the following exports for FXST30.dll
+
+    00000000 characteristics
+    68FD5D92 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000088A0 DllMain
+          2    1 00001190 FaxDevAbortOperation
+          3    2 00001040 FaxDevEndJob
+          4    3 00001020 FaxDevInitialize
+          5    4 000010F0 FaxDevReceive
+          6    5 00001170 FaxDevReportStatus
+          7    6 00001050 FaxDevSend
+          8    7 00001180 FaxDevShutdown
+          9    8 00001030 FaxDevStartJob
+         10    9 0000C8B0 FaxExtInitializeConfig
+
+  Summary
+
+        7000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       34000 .text

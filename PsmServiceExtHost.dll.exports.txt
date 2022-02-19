@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\PsmServiceExtHost.dll
+
+File Type: DLL
+
+  Section contains the following exports for PsmServiceExtHost.dll
+
+    00000000 characteristics
+    24D02C47 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0003BDC0 PsmApplicationStateNotification
+          2    1 00063860 PsmCrmCleanup
+          3    2 0003E650 PsmCrmSessionUserNotification
+          4    3 00043030 PsmCrmStart
+          5    4 0003CCD0 PsmCrmSuspendNotification
+          6    5 00025830 PsmHamGetPackageDebugMode
+          7    6 00037500 PsmHamRegisterProcess
+          8    7 00063870 PsmHamTerminateApplication
+          9    8 000638B0 PsmHamTerminateHost
+         10    9 000638E0 PsmHamTerminatePackage
+         11    A 0003BDC0 PsmHangNotification
+         12    B 0003BDC0 PsmHangNotification2
+         13    C 0003BDC0 PsmHostStateNotification
+         14    D 0000BD60 PsmHostStateNotification2
+         15    E 0003BDC0 PsmInitializeServiceExtension
+         16    F 0003BDC0 PsmInitializeServiceExtension2
+         17   10 0003BDC0 PsmInitializeServiceExtension3
+         18   11 0003FDD0 PsmInitializeServiceExtension4
+         19   12 0003BDC0 PsmMemoryLimitNotification
+         20   13 00033C70 PsmMemoryLimitNotification2
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        8000 .pdata
+       2C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       88000 .text

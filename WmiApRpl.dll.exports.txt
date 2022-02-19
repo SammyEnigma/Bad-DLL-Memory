@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wbem\WmiApRpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for WmiApRpl.dll
+
+    00000000 characteristics
+    122C0B86 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00001B70 DllRegisterServer
+          5    1 00001BF0 DllUnregisterServer
+          1    2 00001CC0 WmiClosePerfData
+          2    3 00001E50 WmiCollectPerfData
+          3    4 00001C20 WmiOpenPerfData
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\RltkAPO64.dll
+
+File Type: DLL
+
+  Section contains the following exports for RtkAPODll.dll
+
+    00000000 characteristics
+    5993B07C time date stamp Wed Aug 16 04:39:56 2017
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000B9390 DllCanUnloadNow
+          2    1 000B93BC DllGetClassObject
+          3    2 000B94DC DllRegisterServer
+          4    3 000B94F4 DllUnregisterServer
+
+  Summary
+
+       ED000 .data
+        F000 .pdata
+        9000 .reloc
+        D000 .rsrc
+      1A3000 .text
+        9000 CODE
+       E9000 RT_CODE
+        9000 RT_CONST
+       4C000 RT_DATA

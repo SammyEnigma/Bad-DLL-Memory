@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\PimIndexMaintenanceClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for PimIndexMaintenanceClient.DLL
+
+    00000000 characteristics
+    F3C6E5F5 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000015B0 CreateIndexedFilterClient
+          5    1 00004210 CreatePOOMSortedAggregateDataSource
+          2    2 00003EE0 GetDefaultContactsFilterSupplierSortOrder
+          6    3 00008B50 PimIMClient_CacheAggregateCacheFileMapping
+          7    4 00003CB0 PimIMClient_Free
+          8    5 00008B80 PimIMClient_LoadAggregateCache
+          9    6 00008AA0 PimIMClient_RebuildAggregateCache
+         10    7 00003E70 PimIMClient_ResetInprocService
+         11    8 00008B10 PimIMClient_Resume
+         12    9 00008AD0 PimIMClient_Suspend
+         13    A 00008A60 PimIMClient_UpdateItems
+         14    B 00008A30 PimIMClient_UpdateStores
+         15    C 00003BE0 PimIM_RpcConnect
+         16    D 00003C70 PimIM_RpcDisconnect
+          3    E 00003CF0 WaitForCookie
+          4    F 00003DC0 WaitForCookieValueToSet
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

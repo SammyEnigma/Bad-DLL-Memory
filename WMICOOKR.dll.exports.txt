@@ -1,0 +1,109 @@
+
+Dump of file C:\Windows\System32\wbem\WMICOOKR.dll
+
+File Type: DLL
+
+  Section contains the following exports for WMICooker.DLL
+
+    00000000 characteristics
+    3012060B time date stamp
+        0.00 version
+           1 ordinal base
+          83 number of functions
+          83 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001070 ??0CArena@@QEAA@$$QEAV0@@Z
+          2    1 00001070 ??0CArena@@QEAA@AEBV0@@Z
+          3    2 00001070 ??0CArena@@QEAA@XZ
+          4    3 000012D0 ??0CCheckedInCritSec@@QEAA@PEAVCCritSec@@@Z
+          5    4 00001160 ??0CCritSec@@QEAA@XZ
+          6    5 00001560 ??0CEnterWbemCriticalSection@@QEAA@PEAVCWbemCriticalSection@@K@Z
+          7    6 000013D0 ??0CHaltable@@QEAA@AEBV0@@Z
+          8    7 00001240 ??0CInCritSec@@QEAA@PEAU_RTL_CRITICAL_SECTION@@@Z
+          9    8 000010A0 ??0CWin32DefaultArena@@QEAA@AEBV0@@Z
+         10    9 000010A0 ??0CWin32DefaultArena@@QEAA@XZ
+         11    A 00001A10 ??0WString@@QEAA@AEBV0@@Z
+         12    B 00001300 ??1CCheckedInCritSec@@QEAA@XZ
+         13    C 000011A0 ??1CCritSec@@QEAA@XZ
+         14    D 000015A0 ??1CEnterWbemCriticalSection@@QEAA@XZ
+         15    E 00001280 ??1CInCritSec@@QEAA@XZ
+         16    F 000010C0 ??1CWin32DefaultArena@@QEAA@XZ
+         17   10 00001A40 ??1WString@@QEAA@XZ
+         18   11 00001090 ??4CArena@@QEAAAEAV0@$$QEAV0@@Z
+         19   12 00001090 ??4CArena@@QEAAAEAV0@AEBV0@@Z
+         20   13 000013B0 ??4CCheckedInCritSec@@QEAAAEAV0@AEBV0@@Z
+         21   14 00001210 ??4CCritSec@@QEAAAEAV0@AEBV0@@Z
+         22   15 000013B0 ??4CEnterWbemCriticalSection@@QEAAAEAV0@AEBV0@@Z
+         23   16 00001540 ??4CFlexQueue@@QEAAAEAV0@AEBV0@@Z
+         24   17 00001430 ??4CHaltable@@QEAAAEAV0@AEBV0@@Z
+         25   18 000012B0 ??4CInCritSec@@QEAAAEAV0@AEBV0@@Z
+         26   19 00001790 ??4CSmallArrayBlob@@QEAAAEAV0@$$QEAV0@@Z
+         27   1A 000013B0 ??4CSmallArrayBlob@@QEAAAEAV0@AEBV0@@Z
+         28   1B 00001540 ??4CWbemCriticalSection@@QEAAAEAV0@AEBV0@@Z
+         29   1C 00001090 ??4CWin32DefaultArena@@QEAAAEAV0@AEBV0@@Z
+         30   1D 00001770 ??ACSmallArrayBlob@@QEBAPEAXH@Z
+         31   1E 00001630 ??ACWStringArray@@QEBAPEAGH@Z
+         32   1F 00001A90 ??BWString@@QEAAPEAGXZ
+         33   20 00001A90 ??BWString@@QEBAPEBGXZ
+         34   21 00001B00 ??MWString@@QEBAHPEBG@Z
+         35   22 00001B60 ??NWString@@QEBAHPEBG@Z
+         36   23 00001B30 ??OWString@@QEBAHPEBG@Z
+         37   24 00001B90 ??PWString@@QEBAHPEBG@Z
+         38   25 0000EAA0 ??_7CArena@@6B@
+         39   26 0000EA98 ??_7CHaltable@@6B@
+         40   27 0000EAB8 ??_7CWin32DefaultArena@@6B@
+         41   28 00001610 ??_FCFlexArray@@QEAAXXZ
+         42   29 00001750 ??_FCFlexQueue@@QEAAXXZ
+         43   2A 00001670 ??_FCWStringArray@@QEAAXXZ
+         44   2B 000015D0 ?Add@CFlexArray@@QEAAHPEAX@Z
+         45   2C 000010E0 ?Alloc@CWin32DefaultArena@@UEAAPEAX_K@Z
+         46   2D 00001BC0 ?BindPtr@WString@@QEAAXPEAG@Z
+         47   2E 00001650 ?Compress@CWStringArray@@QEAAXXZ
+         48   2F 000016E0 ?DecrementIndex@CFlexQueue@@IEAAXAEAH@Z
+         49   30 00001340 ?Enter@CCheckedInCritSec@@QEAAXXZ
+         50   31 000011D0 ?Enter@CCritSec@@QEAAXXZ
+         51   32 00001AA0 ?Equal@WString@@QEBAHPEBG@Z
+         52   33 00001AD0 ?EqualNoCase@WString@@QEBAHPEBG@Z
+         53   34 00001120 ?Free@CWin32DefaultArena@@UEAAHPEAX@Z
+         54   35 00001600 ?GetArrayPtr@CFlexArray@@QEAAPEAPEAXXZ
+         55   36 00001600 ?GetArrayPtr@CFlexArray@@QEBAPEBQEAXXZ
+         56   37 00001780 ?GetArrayPtr@CSmallArrayBlob@@QEAAPEAPEAXXZ
+         57   38 00001780 ?GetArrayPtr@CSmallArrayBlob@@QEBAPEBQEAXXZ
+         58   39 00001600 ?GetArrayPtr@CWStringArray@@QEAAPEAPEBGXZ
+         59   3A 00001770 ?GetAt@CSmallArrayBlob@@QEBAPEAXH@Z
+         60   3B 00001630 ?GetAt@CWStringArray@@QEBAPEAGH@Z
+         61   3C 00001520 ?GetLockCount@CWbemCriticalSection@@QEAAJXZ
+         62   3D 000013A0 ?GetOwningThreadId@CWbemCriticalSection@@QEAAKXZ
+         63   3E 00001690 ?GetQueueSize@CFlexQueue@@QEBAHXZ
+         64   3F 00001530 ?GetRecursionCount@CWbemCriticalSection@@QEAAJXZ
+         65   40 00001090 ?GetStringPointerByRef@WString@@QEBAAEBQEBGXZ
+         66   41 000016C0 ?IncrementIndex@CFlexQueue@@IEAAXAEAH@Z
+         67   42 000013A0 ?IsEntered@CCheckedInCritSec@@QEAAHXZ
+         68   43 000013A0 ?IsEntered@CEnterWbemCriticalSection@@QEAAHXZ
+         69   44 00001370 ?Leave@CCheckedInCritSec@@QEAAXXZ
+         70   45 000011F0 ?Leave@CCritSec@@QEAAXXZ
+         71   46 00001A70 ?Length@WString@@QEBAHXZ
+         72   47 00001100 ?Realloc@CWin32DefaultArena@@UEAAPEAXPEAX_K@Z
+         73   48 000015F0 ?SetSize@CFlexArray@@QEAAXH@Z
+         74   49 00001520 ?Size@CFlexArray@@QEBAHXZ
+         75   4A 00001520 ?Size@CSmallArrayBlob@@QEBAHXZ
+         76   4B 00001520 ?Size@CWStringArray@@QEBAHXZ
+         77   4C 00001700 ?Unqueue@CFlexQueue@@QEAAPEAXXZ
+         78   4D 00001140 ?WbemSysFreeString@CWin32DefaultArena@@SAXPEAG@Z
+         79   4E 00001510 ?isValid@CHaltable@@QEAA_NXZ
+         80   4F 00007D00 DllCanUnloadNow
+         81   50 00007C10 DllGetClassObject
+         82   51 00007D20 DllRegisterServer
+         83   52 00007FB0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

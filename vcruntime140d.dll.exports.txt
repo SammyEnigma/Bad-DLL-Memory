@@ -1,0 +1,97 @@
+
+Dump of file C:\Windows\System32\vcruntime140d.dll
+
+File Type: DLL
+
+  Section contains the following exports for VCRUNTIME140D.dll
+
+    00000000 characteristics
+    60247893 time date stamp Thu Feb 11 01:21:39 2021
+        0.00 version
+           1 ordinal base
+          71 number of functions
+          71 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001DD60 _CreateFrameInfo
+          2    1 0000B340 _CxxThrowException
+          3    2 0001DDD0 _FindAndUnlinkFrame
+          4    3 000034E0 _IsExceptionObjectToBeDestroyed
+          5    4 00003530 _SetWinRTOutOfMemoryExceptionCallback
+          6    5 00003550 __AdjustPointer
+          7    6 00009040 __BuildCatchObject
+          8    7 00009080 __BuildCatchObjectHelper
+          9    8 0001C6C0 __C_specific_handler
+         10    9 0001C230 __C_specific_handler_noexcept
+         11    A 00009110 __CxxDetectRethrow
+         12    B 000091B0 __CxxExceptionFilter
+         13    C 0001DED0 __CxxFrameHandler
+         14    D 0001DF10 __CxxFrameHandler2
+         15    E 0001DF50 __CxxFrameHandler3
+         16    F 000094E0 __CxxQueryExceptionSize
+         17   10 000094F0 __CxxRegisterExceptionObject
+         18   11 00009670 __CxxUnregisterExceptionObject
+         19   12 00003300 __DestructExceptionObject
+         20   13 000035D0 __FrameUnwindFilter
+         21   14 00003680 __GetPlatformExceptionInfo
+         22   15 00001140 __NLG_Dispatch2
+         23   16 00001150 __NLG_Return2
+         24   17 0000A5F0 __RTCastToVoid
+         25   18 0000A640 __RTDynamicCast
+         26   19 0000A840 __RTtypeid
+         27   1A 000090C0 __TypeMatch
+         28   1B 00003730 __current_exception
+         29   1C 00003750 __current_exception_context
+         30   1D 0001EF40 __intrinsic_setjmp
+         31   1E 0001F000 __intrinsic_setjmpex
+         32   1F 00003770 __processing_throw
+         33   20 0001EC50 __report_gsfailure
+         34   21 0000AA40 __std_exception_copy
+         35   22 0000AB80 __std_exception_destroy
+         36   23 00003790 __std_terminate
+         37   24 0000AF30 __std_type_info_compare
+         38   25 0000AF70 __std_type_info_destroy_list
+         39   26 0000AFD0 __std_type_info_hash
+         40   27 0000B080 __std_type_info_name
+         41   28 0000C580 __telemetry_main_invoke_trigger
+         42   29 0000C590 __telemetry_main_return_trigger
+         43   2A 0001C040 __unDName
+         44   2B 0001C0A0 __unDNameEx
+         45   2C 0000B470 __uncaught_exception
+         46   2D 0000B4C0 __uncaught_exceptions
+         47   2E 0000C440 __vcrt_GetModuleFileNameW
+         48   2F 0000C470 __vcrt_GetModuleHandleW
+         49   30 0000C3D0 __vcrt_InitializeCriticalSectionEx
+         50   31 0000C490 __vcrt_LoadLibraryExW
+         51   32 0000C500 _get_purecall_handler
+         52   33 0000B540 _get_unexpected
+         53   34 000037A0 _is_exception_typeof
+         54   35 00001D10 _local_unwind
+         55   36 0000C520 _purecall
+         56   37 0000C560 _set_purecall_handler
+         57   38 0000B5E0 _set_se_translator
+         58   39 00001CE0 longjmp
+         59   3A 00001170 memchr
+         60   3B 000011F0 memcmp
+         61   3C 000012F0 memcpy
+         62   3D 000012F0 memmove
+         63   3E 000019A0 memset
+         64   3F 0000B560 set_unexpected
+         65   40 00001D40 strchr
+         66   41 00001ED0 strrchr
+         67   42 000022F0 strstr
+         68   43 0000B5A0 unexpected
+         69   44 00002930 wcschr
+         70   45 00002A90 wcsrchr
+         71   46 00002CA0 wcsstr
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1F000 .text
+        1000 _RDATA

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_Fonts.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_Fonts.dll
+
+    00000000 characteristics
+    1F3C27A1 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005810 DllCanUnloadNow
+          2    1 00005710 DllGetClassObject
+          3    2 00005890 GetSetting
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       1E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       3A000 .text

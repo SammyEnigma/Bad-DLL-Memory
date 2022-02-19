@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\computestorage.dll
+
+File Type: DLL
+
+  Section contains the following exports for computestorage.dll
+
+    00000000 characteristics
+    AD90459A time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C6D0 HcsAttachLayerStorageFilter
+          2    1 0000BD50 HcsDestroyLayer
+          3    2 0000CC50 HcsDetachLayerStorageFilter
+          4    3 0000B720 HcsExportLayer
+          5    4 0000BAD0 HcsExportLegacyWritableLayer
+          6    5 0000CE10 HcsFormatWritableLayerVhd
+          7    6 0000D120 HcsGetLayerVhdMountPath
+          8    7 0000B410 HcsImportLayer
+          9    8 0000C440 HcsInitializeLegacyWritableLayer
+         10    9 0000C1B0 HcsInitializeWritableLayer
+         11    A 0000BEC0 HcsSetupBaseOSLayer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       30000 .text
+        3000 PAGE

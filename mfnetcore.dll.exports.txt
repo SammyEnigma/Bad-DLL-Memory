@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\mfnetcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfnetcore.dll
+
+    00000000 characteristics
+    669FCB3E time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0003F1F0 DllCanUnloadNow
+          6    1 0003ADF0 DllGetClassObject
+          1    2 000B7B00 IsLicensedComponentAC3_ENC
+          2    3 000B7B80 IsLicensedComponentDOLBY
+          3    4 000B7C00 IsLicensedComponentMPEG2
+          4    5 000B7C80 IsLicensedComponentMPEG2_ENC
+          7    6 000C4760 MFCreateByteCacheFile
+          8    7 000A00D0 MFCreateCredentialCache
+          9    8 0002E100 MFCreateFileBlockMap
+         10    9 0008CA20 MFCreatePartialSeekableByteStream
+         11    A 000A7970 MFCreateProxyLocator
+         12    B 000B8E30 MFGetSupportedDLNAProfileInfo
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        9000 .pdata
+       2D000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       EF000 .text

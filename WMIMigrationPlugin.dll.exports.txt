@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\migwiz\dlmanifests\Microsoft-Windows-WMI-Core\WMIMigrationPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for WMIMigrationPlugin.dll
+
+    00000000 characteristics
+    AE7E9B6B time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00002330 DllCanUnloadNow
+          4    1 00002000 DllGetClassObject
+          5    2 00002370 DllMain
+          6    3 00002160 DllRegisterServer
+          7    4 00002290 DllUnregisterServer
+          1    5 0000CF80 RebuildApply
+          2    6 0000CC20 RebuildGather
+
+  Summary
+
+        A000 .data
+        1000 .didat
+        2000 .pdata
+       93000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       1A000 .text

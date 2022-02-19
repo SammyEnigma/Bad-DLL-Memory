@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\fcon.dll
+
+File Type: DLL
+
+  Section contains the following exports for fcon.dll
+
+    00000000 characteristics
+    907C6C5D time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000A5A0 DllCanUnloadNow
+          3    1 0000A3C0 DllGetActivationFactory
+          4    2 0000A160 DllGetClassObject
+          5    3 0000A610 GetCtacPropertyAlloc
+          1    4 0000A780 ModifyStagingControls
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       2E000 .text

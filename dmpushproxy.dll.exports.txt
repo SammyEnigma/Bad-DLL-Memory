@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\dmpushproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMPushProxy.dll
+
+    00000000 characteristics
+    69F4AF86 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002370 PushRouter_Close
+         11    1 00002E40 PushRouter_FreeGetMessageEventName
+          8    2 00002D30 PushRouter_FreeMessage
+         10    3 00002DA0 PushRouter_FreeMessageEx
+          2    4 000029E0 PushRouter_GetMessage
+          9    5 00002A50 PushRouter_GetMessageEx
+          3    6 000021E0 PushRouter_Open
+          6    7 00002AE0 PushRouter_SubmitPush
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

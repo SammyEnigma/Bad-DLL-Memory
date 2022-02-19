@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\pnpclean.dll
+
+File Type: DLL
+
+  Section contains the following exports for PNPCLEAN.dll
+
+    00000000 characteristics
+    FAB9745E time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002020 DllCanUnloadNow
+          2    1 00002060 DllGetClassObject
+          3    2 000021A0 DllRegisterServer
+          4    3 00002280 DllUnregisterServer
+          5    4 00001160 RunDLL_PnpClean
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        D000 .rsrc
+       10000 .text

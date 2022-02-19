@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\bderepair.dll
+
+File Type: DLL
+
+  Section contains the following exports for BDEREPAIR.dll
+
+    00000000 characteristics
+    2E41E628 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001600 FveAuthWithClearKey
+          2    1 00001930 FveAuthWithKey
+          3    2 000016A0 FveAuthWithPassphraseW
+          4    3 00001820 FveAuthWithPasswordW
+          5    4 000010E0 FveCreateRestoreContext
+          6    5 00001AF0 FveDecryptData
+          7    6 00001C30 FveDestroyRestoreContext
+          8    7 00001DD0 FveGetConvLogOffset
+          9    8 00002090 FveGetInterruptedRangeOffset
+         10    9 00001D90 FveGetMetadataFromRestoreContext
+         11    A 00001ED0 FveLoadConvLog
+         12    B 000021C0 FveRecoverBlock
+         13    C 000013B0 FveSupplyInformationBlock
+         14    D 000012A0 FveSupplyKeyPackage
+         15    E 000011B0 FveSupplyWatermark
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

@@ -1,0 +1,62 @@
+
+Dump of file C:\Windows\System32\winusb.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINUSB.DLL
+
+    00000000 characteristics
+    F06DE61F time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000033A0 WinUsb_AbortPipe
+          2    1 00003320 WinUsb_AbortPipeAsync
+          3    2 00002FA0 WinUsb_ControlTransfer
+          4    3 00003490 WinUsb_FlushPipe
+          5    4 00001B00 WinUsb_Free
+          6    5 00003760 WinUsb_GetAdjustedFrameNumber
+          7    6 00001BE0 WinUsb_GetAssociatedInterface
+          8    7 00002360 WinUsb_GetCurrentAlternateSetting
+          9    8 00003600 WinUsb_GetCurrentFrameNumber
+         10    9 00004320 WinUsb_GetCurrentFrameNumberAndQpc
+         11    A 00001FC0 WinUsb_GetDescriptor
+         12    B 000035C0 WinUsb_GetOverlappedResult
+         13    C 00002750 WinUsb_GetPipePolicy
+         14    D 00002AA0 WinUsb_GetPowerPolicy
+         15    E 000013A0 WinUsb_Initialize
+         16    F 00001080 WinUsb_ParseConfigurationDescriptor
+         17   10 00001010 WinUsb_ParseDescriptors
+         18   11 00001E80 WinUsb_QueryDeviceInformation
+         19   12 00001DE0 WinUsb_QueryInterfaceSettings
+         20   13 00002480 WinUsb_QueryPipe
+         21   14 00001210 WinUsb_QueryPipeEx
+         22   15 00004180 WinUsb_ReadIsochPipe
+         23   16 00004130 WinUsb_ReadIsochPipeAsap
+         24   17 00002C00 WinUsb_ReadPipe
+         25   18 00003800 WinUsb_RegisterIsochBuffer
+         26   19 00003230 WinUsb_ResetPipe
+         27   1A 000031B0 WinUsb_ResetPipeAsync
+         28   1B 00002270 WinUsb_SetCurrentAlternateSetting
+         29   1C 00002130 WinUsb_SetCurrentAlternateSettingAsync
+         30   1D 00002580 WinUsb_SetPipePolicy
+         31   1E 000028C0 WinUsb_SetPowerPolicy
+         32   1F 000041D0 WinUsb_StartTrackingForTimeSync
+         33   20 00004470 WinUsb_StopTrackingForTimeSync
+         34   21 000039B0 WinUsb_UnregisterIsochBuffer
+         35   22 00003DA0 WinUsb_WriteIsochPipe
+         36   23 00003D70 WinUsb_WriteIsochPipeAsap
+         37   24 00002DD0 WinUsb_WritePipe
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\prnge001.inf_amd64_1daeee8f3aa30fcb\Amd64\TTYRES.DLL
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       11000 .rsrc

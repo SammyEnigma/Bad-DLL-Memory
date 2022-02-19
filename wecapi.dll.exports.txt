@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\wecapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WecApi.dll
+
+    00000000 characteristics
+    2F635350 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00003750 EcClose
+          4    1 00002B00 EcDeleteSubscription
+          5    2 00002180 EcEnumNextSubscription
+          6    3 00002F80 EcGetObjectArrayProperty
+          7    4 00002C70 EcGetObjectArraySize
+          8    5 000027B0 EcGetSubscriptionProperty
+          9    6 00003300 EcGetSubscriptionRunTimeStatus
+         10    7 000031C0 EcInsertObjectArrayElement
+          1    8 000038F0 EcIsConfigRequired
+         11    9 00002360 EcOpenSubscription
+         12    A 00001ED0 EcOpenSubscriptionEnum
+          2    B 000038A0 EcQuickConfig
+         13    C 00003260 EcRemoveObjectArrayElement
+         14    D 000035E0 EcRetrySubscription
+         15    E 000029E0 EcSaveSubscription
+         16    F 00002DE0 EcSetObjectArrayProperty
+         17   10 00002620 EcSetSubscriptionProperty
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\ReportingCSP.dll
+
+File Type: DLL
+
+  Section contains the following exports for ReportingCSP.dll
+
+    00000000 characteristics
+    41423425 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000086D0 DllCanUnloadNow
+          2    1 000086F0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

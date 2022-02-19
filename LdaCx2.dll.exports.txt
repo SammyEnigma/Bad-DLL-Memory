@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lda_0892_0883_0894.inf_amd64_ea5e2e29a6245484\x64\LdaCx2.dll
+
+File Type: DLL
+
+  Section contains the following exports for SPHlpr.dll
+
+    00000000 characteristics
+    50526319 time date stamp Fri Sep 14 00:50:01 2012
+        0.00 version
+           2 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00002470 CloseMetroToast
+          2    1 00002B30 DisplayMetroToast
+
+  Summary
+
+       15000 .data
+       14000 .pdata
+       91000 .rdata
+       14000 .reloc
+        1000 .rsrc
+      196000 .text
+        1000 minATL

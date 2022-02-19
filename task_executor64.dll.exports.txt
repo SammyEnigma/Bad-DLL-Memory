@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x64\task_executor64.dll
+
+File Type: DLL
+
+  Section contains the following exports for task_executor64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006170 ?GetTaskExecutor@TaskExecutor@OpenCL@Intel@@YAPEAVITaskExecutor@123@XZ
+          2    1 00017300 ?TE_RegisterGlobalAtExitNotification@TaskExecutor@OpenCL@Intel@@YAXPEAVIAtExitCentralPoint@Utils@23@@Z
+          3    2 0001AE20 RegisterGlobalAtExitNotification
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        4000 .pdata
+       1F000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       40000 .text

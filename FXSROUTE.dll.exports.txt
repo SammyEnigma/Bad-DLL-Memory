@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\FXSROUTE.dll
+
+File Type: DLL
+
+  Section contains the following exports for FxsRoute.dll
+
+    00000000 characteristics
+    E9E91C6B time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00004150 FaxExtInitializeConfig
+          1    1 00002980 FaxRouteConfigure
+          6    2 00002AA0 FaxRouteDeviceChangeNotification
+          7    3 00002990 FaxRouteDeviceEnable
+          2    4 00002660 FaxRouteEmail
+          8    5 00005660 FaxRouteGetRoutingInfo
+          9    6 000014D0 FaxRouteInitialize
+          3    7 00001710 FaxRoutePrint
+         10    8 000054A0 FaxRouteSetRoutingInfo
+          4    9 00001990 FaxRouteStore
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

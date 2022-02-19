@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.HumanInterfaceDevice.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.HumanInterfaceDevice.dll
+
+    00000000 characteristics
+    6EA67D36 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001950 DllCanUnloadNow
+          1    1 00001770 DllGetActivationFactory
+          3    2 000019C0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       1E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       24000 .text

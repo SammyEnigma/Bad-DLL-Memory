@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\wpdmtp.inf_amd64_42b97498c7087292\WpdMtpIP.dll
+
+File Type: DLL
+
+  Section contains the following exports for wpdmtpip.dll
+
+    00000000 characteristics
+    CF7C3DAB time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004860 DllCanUnloadNow
+          2    1 00004880 DllGetClassObject
+          3    2 000049B0 DllRegisterServer
+          4    3 00004AA0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

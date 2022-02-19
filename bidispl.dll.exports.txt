@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\bidispl.dll
+
+File Type: DLL
+
+  Section contains the following exports for bidispl.DLL
+
+    00000000 characteristics
+    BCF0058A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008120 DllCanUnloadNow
+          2    1 00008150 DllGetClassObject
+          3    2 00008290 DllRegisterServer
+          4    3 00008320 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        B000 .text

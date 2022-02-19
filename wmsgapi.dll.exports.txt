@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wmsgapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WMsgAPI.dll
+
+    00000000 characteristics
+    64275BBC time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000026F0 WmsgBroadcastMessage
+          2    1 00002750 WmsgBroadcastNotifyMessage
+          3    2 000027C0 WmsgPostMessage
+          4    3 00002820 WmsgPostNotifyMessage
+          5    4 00001010 WmsgSendMessage
+          6    5 00002890 WmsgSendPSPMessage
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

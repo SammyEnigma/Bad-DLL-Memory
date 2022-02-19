@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\NAPCRYPT.DLL
+
+File Type: DLL
+
+  Section contains the following exports for crypthlp.dll
+
+    00000000 characteristics
+    4D8E9DE9 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        1000 .data
+        1000 .nep
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\WindowsCodecsRaw.dll
+
+File Type: DLL
+
+  Section contains the following exports for FSixCodec.dll
+
+    00000000 characteristics
+    D7493965 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000BAE20 DllCanUnloadNow
+          2    1 000BAF10 DllGetClassObject
+
+  Summary
+
+     1B86000 .data
+        1000 .didat
+        E000 .pdata
+       C3000 .rdata
+       26000 .reloc
+        1000 .rsrc
+      257000 .text

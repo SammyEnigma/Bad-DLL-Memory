@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvapi64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvapi64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00148D10 nvapi_QueryInterface
+
+  Summary
+
+       6B000 .data
+       3D000 .pdata
+       C9000 .rdata
+        5000 .reloc
+        A000 .rsrc
+      56E000 .text
+        1000 _RDATA

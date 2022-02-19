@@ -1,0 +1,96 @@
+
+Dump of file C:\Windows\System32\winhttp.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINHTTP.dll
+
+    00000000 characteristics
+     B85B43C time date stamp
+        0.00 version
+           1 ordinal base
+          69 number of functions
+          69 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0007B030 DllCanUnloadNow
+          3    1 0007B040 DllGetClassObject
+          4    2 0007B630 Private1
+          5    3 00086EB0 SvchostPushServiceGlobals
+          6    4 00037E00 WinHttpAddRequestHeaders
+          7    5 0007BA90 WinHttpAddRequestHeadersEx
+          8    6 00086EC0 WinHttpAutoProxySvcMain
+          9    7 0007B030 WinHttpCheckPlatform
+         10    8 00035920 WinHttpCloseHandle
+         11    9 0002CFB0 WinHttpConnect
+         12    A 00080D60 WinHttpConnectionDeletePolicyEntries
+         13    B 00082D80 WinHttpConnectionDeleteProxyInfo
+         14    C 00082E40 WinHttpConnectionFreeNameList
+         15    D 00082EC0 WinHttpConnectionFreeProxyInfo
+         16    E 00082F40 WinHttpConnectionFreeProxyList
+         17    F 00082FC0 WinHttpConnectionGetNameList
+         18   10 00083050 WinHttpConnectionGetProxyInfo
+         19   11 000830E0 WinHttpConnectionGetProxyList
+         20   12 00081080 WinHttpConnectionSetPolicyEntries
+         21   13 00083170 WinHttpConnectionSetProxyInfo
+         22   14 0004BB10 WinHttpConnectionUpdateIfIndexTable
+         23   15 000296D0 WinHttpCrackUrl
+         24   16 00039D30 WinHttpCreateProxyResolver
+         25   17 0002A740 WinHttpCreateUrl
+         26   18 000813A0 WinHttpDetectAutoProxyConfigUrl
+         27   19 00081610 WinHttpFreeProxyResult
+         28   1A 0000A390 WinHttpFreeProxyResultEx
+         29   1B 00081680 WinHttpFreeProxySettings
+         30   1C 00005AE0 WinHttpGetDefaultProxyConfiguration
+         31   1D 00005F50 WinHttpGetIEProxyConfigForCurrentUser
+         32   1E 000406E0 WinHttpGetProxyForUrl
+         33   1F 00081730 WinHttpGetProxyForUrlEx
+         34   20 00024430 WinHttpGetProxyForUrlEx2
+         35   21 00081840 WinHttpGetProxyForUrlHvsi
+         36   22 00081910 WinHttpGetProxyResult
+         37   23 00003BF0 WinHttpGetProxyResultEx
+         38   24 0001FE60 WinHttpGetProxySettingsVersion
+         39   25 00083380 WinHttpGetTunnelSocket
+         40   26 00031520 WinHttpOpen
+         41   27 00039780 WinHttpOpenRequest
+          1   28 00080C20 WinHttpPacJsWorkerMain
+         42   29 0007D550 WinHttpProbeConnectivity
+         43   2A 000839C0 WinHttpQueryAuthSchemes
+         44   2B 00041180 WinHttpQueryDataAvailable
+         45   2C 00033270 WinHttpQueryHeaders
+         46   2D 00041510 WinHttpQueryOption
+         47   2E 00032AA0 WinHttpReadData
+         48   2F 00017ED0 WinHttpReadProxySettings
+         49   30 00081930 WinHttpReadProxySettingsHvsi
+         50   31 00038DE0 WinHttpReceiveResponse
+         51   32 0004BE20 WinHttpResetAutoProxy
+         52   33 0007D600 WinHttpSaveProxyCredentials
+         53   34 000384F0 WinHttpSendRequest
+         54   35 00083BB0 WinHttpSetCredentials
+         55   36 000827B0 WinHttpSetDefaultProxyConfiguration
+         56   37 000324A0 WinHttpSetOption
+         57   38 00081A70 WinHttpSetProxySettingsPerUser
+         58   39 00037200 WinHttpSetStatusCallback
+         59   3A 000378D0 WinHttpSetTimeouts
+         60   3B 00008770 WinHttpTimeFromSystemTime
+         61   3C 00008550 WinHttpTimeToSystemTime
+         62   3D 0008D320 WinHttpWebSocketClose
+         63   3E 0008D750 WinHttpWebSocketCompleteUpgrade
+         64   3F 0008D420 WinHttpWebSocketQueryCloseStatus
+         65   40 0008E250 WinHttpWebSocketReceive
+         66   41 0008EA30 WinHttpWebSocketSend
+         67   42 0008EEC0 WinHttpWebSocketShutdown
+         68   43 00002190 WinHttpWriteData
+         69   44 00081D00 WinHttpWriteProxySettings
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       24000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       C6000 .text
+        B000 .wpp_sf

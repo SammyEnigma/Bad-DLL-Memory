@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ApplicationFrame.dll
+
+File Type: DLL
+
+  Section contains the following exports for frame.dll
+
+    00000000 characteristics
+    D55AEC6C time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002F900 DllCanUnloadNow
+          2    1 00046550 DllGetActivationFactory
+          3    2 00031420 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       21000 .rdata
+        2000 .reloc
+       16000 .rsrc
+       65000 .text

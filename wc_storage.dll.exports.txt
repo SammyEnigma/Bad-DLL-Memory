@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\wc_storage.dll
+
+File Type: DLL
+
+  Section contains the following exports for wc_storage.dll
+
+    00000000 characteristics
+    AA3A2A16 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00018580 WcAttachFilterEx
+          2    1 00018DE0 WcCreateSandboxStubFiles
+          3    2 00017DB0 WcDestroyLayer
+          4    3 00018770 WcDetachFilterEx
+          5    4 00015C90 WcExportLayerEx
+          6    5 00016CD0 WcImportLayerEx
+          7    6 00017F20 WcInitializeSandbox
+          8    7 00018070 WcInitializeSandboxEx
+          9    8 000188E0 WcPopulateNewLayer
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text
+        3000 PAGE

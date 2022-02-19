@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdext32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdext32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00033B70 @D3D11CreateDeviceExtensionContext1@24
+          2    1 00033C10 @D3D11CreateDeviceExtensionContext@20
+          3    2 000339B0 @D3D11DestroyDeviceExtensionContext@4
+          4    3 000339E0 @D3D11GetSupportedVersions@12
+          5    4 00033900 @D3D12CreateDeviceExtensionContext@24
+          6    5 000336A0 @D3D12DestroyDeviceExtensionContext@4
+          7    6 000336E0 @D3D12GetSupportedVersions@12
+
+  Summary
+
+        3000 .data
+        F000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       35000 .text

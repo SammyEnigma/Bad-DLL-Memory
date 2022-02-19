@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\efswrt.dll
+
+File Type: DLL
+
+  Section contains the following exports for efswrt.dll
+
+    00000000 characteristics
+    F8BDCB87 time date stamp
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00018B30 CdplGetFileProtectionLevel
+          2    1 00018F70 CdplIsAppAllowedToRun
+          3    2 0000EBE0 CdplIsAppDataProtectionSupported
+          4    3 000198E0 CdplIsSupported
+          5    4 000189F0 CdplProtectFileToLevel
+          6    5 00018880 CdplProtectFileToLevelWithResult
+          7    6 00018B80 CdplProtectKnownUserFolders
+          8    7 00018E90 CdplProtectSecretToLevel
+          9    8 00018F50 CdplUnprotectSecret
+         10    9 00005B50 DllCanUnloadNow
+         11    A 00005BC0 DllGetActivationFactory
+         12    B 00005DA0 DllGetClassObject
+         13    C 0000EAB0 DpmBufferFree
+         14    D 0000E6E0 DpmProtectSecretToIdentity
+         15    E 0000EAA0 DpmStreamClose
+         16    F 0000E8C0 DpmStreamOpenToProtectToIdentity
+         17   10 0000E9B0 DpmStreamOpenToUnprotect
+         18   11 0000EA90 DpmStreamUpdate
+         19   12 0000E840 DpmUnprotectSecret
+         20   13 0000D070 EnterpriseDataCopyProtection
+         21   14 0000D940 EnterpriseDataGetStatus
+         22   15 0000CA80 EnterpriseDataProtect
+         23   16 0000D440 EnterpriseDataRevoke
+         24   17 0000E6B0 FreeIdentityProtectorList
+         25   18 0000DEE0 GetEnterpriseActionForCopy
+         26   19 0000DCB0 GetEnterpriseIdForNetworkPath
+         27   1A 0000EAC0 ProtectFileToEnterpriseIdentity
+         28   1B 0000CEF0 ProtectFileToIdentity
+         29   1C 0000EB10 ProtectOrReprotectFileToIdentity
+         30   1D 0000E480 QueryIdentityProtectors
+         31   1E 0000EAE0 UnprotectFile
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       46000 .rdata
+        5000 .reloc
+        2000 .rsrc
+       87000 .text

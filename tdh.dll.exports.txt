@@ -1,0 +1,61 @@
+
+Dump of file C:\Windows\System32\tdh.dll
+
+File Type: DLL
+
+  Section contains the following exports for tdh.dll
+
+    00000000 characteristics
+     293F854 time date stamp
+        0.00 version
+           1 ordinal base
+          35 number of functions
+          35 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012340 DllCanUnloadNow
+          2    1 00012360 DllGetClassObject
+          3    2 00012510 TdhAggregatePayloadFilters
+          4    3 0001A6A0 TdhApplyPayloadFilter
+          5    4 00012560 TdhCleanupPayloadEventFilterDescriptor
+          6    5 0001FE20 TdhCloseDecodingHandle
+          7    6 000125D0 TdhCreatePayloadFilter
+          8    7 00012610 TdhDeletePayloadFilter
+          9    8 00012F40 TdhEnumerateManifestProviderEvents
+         10    9 00012F70 TdhEnumerateProviderFieldInformation
+         11    A 00012680 TdhEnumerateProviderFilters
+         12    B 0000B190 TdhEnumerateProviders
+         13    C 0001EE30 TdhEnumerateRemoteWBEMProviderFieldInformation
+         14    D 0001EF30 TdhEnumerateRemoteWBEMProviders
+         15    E 00013070 TdhFormatProperty
+         16    F 000126E0 TdhGetAllEventsInformation
+         17   10 0001FE40 TdhGetDecodingParameter
+         18   11 00004AD0 TdhGetEventInformation
+         19   12 00013270 TdhGetEventMapInformation
+         20   13 00013300 TdhGetManifestEventInformation
+         21   14 000044C0 TdhGetProperty
+         22   15 00012770 TdhGetPropertyOffsetAndSize
+         23   16 00003ED0 TdhGetPropertySize
+         24   17 0001FEB0 TdhGetWppMessage
+         25   18 0001FEE0 TdhGetWppProperty
+         26   19 00013360 TdhLoadManifest
+         27   1A 00012820 TdhLoadManifestFromBinary
+         28   1B 000133B0 TdhLoadManifestFromMemory
+         29   1C 0001FFA0 TdhOpenDecodingHandle
+         30   1D 0000B0E0 TdhQueryProviderFieldInformation
+         31   1E 0001F0C0 TdhQueryRemoteWBEMProviderFieldInformation
+         32   1F 00020050 TdhSetDecodingParameter
+         33   20 000133D0 TdhUnloadManifest
+         34   21 00013420 TdhUnloadManifestFromMemory
+         35   22 0001AF80 TdhValidatePayloadFilter
+
+  Summary
+
+       37000 .data
+        1000 .didat
+        4000 .pdata
+       82000 .rdata
+        7000 .reloc
+        1000 .rsrc
+       54000 .text

@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\mfc100jpn.dll
+
+File Type: DLL
+
+  Summary
+
+        A000 .rsrc

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Graphics.Printing.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Graphics.Printing.dll
+
+    00000000 characteristics
+    559E134A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003C10 DllCanUnloadNow
+          2    1 00003DC0 DllGetActivationFactory
+          3    2 00003C90 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       3F000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       7F000 .text

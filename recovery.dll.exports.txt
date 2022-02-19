@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\recovery.dll
+
+File Type: DLL
+
+  Section contains the following exports for RECOVERY.dll
+
+    00000000 characteristics
+    985FBAD2 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002060 DllCanUnloadNow
+          2    1 00002390 DllGetClassObject
+          3    2 000020A0 DllRegisterServer
+          4    3 000020A0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       13000 .text

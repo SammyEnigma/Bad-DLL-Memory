@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\tsgenericusbdriver.inf_amd64_bcfa5f586783921d\TsUsbGDCoInstaller.dll
+
+File Type: DLL
+
+  Section contains the following exports for TsUsbGDCoInstaller.dll
+
+    00000000 characteristics
+    33608224 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010B0 TsUsbGDCoInstaller
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

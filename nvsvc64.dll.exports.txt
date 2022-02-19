@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvsvc64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvsvc64.dll
+
+    00000000 characteristics
+    5FD4027A time date stamp Sat Dec 12 00:36:26 2020
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00088240 DllRegisterServer
+          6    1 00088370 DllUnregisterServer
+          1    2 00087720 nvsvcErrorReportW
+          2    3 000877B0 nvsvcInitialize
+          3    4 00087A80 nvsvcShellExecuteW
+          4    5 00098560 nvsvcStereoLaunchW
+
+  Summary
+
+       13000 .data
+        1000 .didat
+        E000 .pdata
+       6D000 .rdata
+        3000 .reloc
+       F6000 .rsrc
+      104000 .text
+        1000 .tls

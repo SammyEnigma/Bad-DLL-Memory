@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\nshipsec.dll
+
+File Type: DLL
+
+  Section contains the following exports for NSHIPSEC.DLL
+
+    00000000 characteristics
+    C42A7A9F time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001270 InitHelperDll
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        3000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       52000 .text

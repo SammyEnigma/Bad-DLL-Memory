@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\diagtrack.dll
+
+File Type: DLL
+
+  Section contains the following exports for diagtrack.dll
+
+    00000000 characteristics
+    D70CA83F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00170050 RunDll32Main
+          1    1 0016F130 ServiceMain
+          2    2 0016FC40 SvchostPushServiceGlobals
+          4    3 001701F0 UtcSysprepGeneralize
+
+  Summary
+
+        D000 .data
+        1000 .didat
+       1E000 .pdata
+       AD000 .rdata
+        4000 .reloc
+        5000 .rsrc
+      2CB000 .text
+        1000 RT_CODE

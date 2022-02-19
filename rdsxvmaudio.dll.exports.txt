@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\rdsxvmaudio.dll
+
+File Type: DLL
+
+  Section contains the following exports for rdsxvmaudio.dll
+
+    00000000 characteristics
+    A54A8B24 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000047E0 DllCanUnloadNow
+          4    1 00004830 DllGetClassObject
+          1    2 000053F0 SetDVCCallbackInformation
+          2    3 000074E0 VirtualChannelGetInstance
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        C000 .text

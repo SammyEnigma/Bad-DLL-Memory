@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\oleacc.dll
+
+File Type: DLL
+
+  Section contains the following exports for OLEACC.dll
+
+    00000000 characteristics
+    24CDD509 time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0003D9E0 AccGetRunningUtilityState
+          4    1 0003E570 AccNotifyTouchInteraction
+          5    2 0003E600 AccSetRunningUtilityState
+          6    3 0000A370 AccessibleChildren
+          7    4 0003E650 AccessibleObjectFromEvent
+          8    5 0003E6B0 AccessibleObjectFromPoint
+          9    6 00005320 AccessibleObjectFromWindow
+         10    7 00002C00 AccessibleObjectFromWindowTimeout
+         11    8 0000E230 CreateStdAccessibleObject
+         12    9 0003E700 CreateStdAccessibleProxyA
+         13    A 00009A20 CreateStdAccessibleProxyW
+         14    B 0000C490 DllCanUnloadNow
+         15    C 000034A0 DllGetClassObject
+          1    D 0000CB10 DllRegisterServer
+          2    E 0000CB10 DllUnregisterServer
+         16    F 0003E750 GetOleaccVersionInfo
+         17   10 0000C7C0 GetProcessHandleFromHwnd
+         18   11 0003E7A0 GetRoleTextA
+         19   12 00003290 GetRoleTextW
+         20   13 0003E7F0 GetStateTextA
+         21   14 0003E840 GetStateTextW
+         22   15 0004BB40 IID_IAccessible
+         23   16 0004CAF8 IID_IAccessibleHandler
+         24   17 0004EAC0 LIBID_Accessibility
+         25   18 000081D0 LresultFromObject
+         26   19 0000E310 ObjectFromLresult
+         27   1A 000017B0 PropMgrClient_LookupProp
+         28   1B 0000A210 WindowFromAccessibleObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       17000 .rdata
+        2000 .reloc
+        6000 .rsrc
+       40000 .text

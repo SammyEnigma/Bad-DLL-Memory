@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Xaml.Maps.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Xaml.Maps.dll
+
+    00000000 characteristics
+    F48B8544 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0008F5E0 DllCanUnloadNow
+          2    1 00006C30 DllGetActivationFactory
+          3    2 0008F620 DllGetClassObject
+          4    3 000051D0 GetDependencyLocatorStorage
+          5    4 00026180 XamlTestHookFreeMapsResourceLibrary
+
+  Summary
+
+        2000 .data
+        F000 .pdata
+       4D000 .rdata
+        7000 .reloc
+        6000 .rsrc
+       E5000 .text

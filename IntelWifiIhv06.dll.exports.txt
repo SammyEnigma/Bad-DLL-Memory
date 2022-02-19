@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\netwtw06.inf_amd64_2edd50e7a54d503b\IntelWifiIhv06.dll
+
+File Type: DLL
+
+  Section contains the following exports for IntelWifiIhv06.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001A80 Dot11ExtIhvGetVersionInfo
+          2    1 00001110 Dot11ExtIhvInitService
+          3    2 00004D50 Dot11ExtIhvInitVirtualStation
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

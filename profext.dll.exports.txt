@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\profext.dll
+
+File Type: DLL
+
+  Section contains the following exports for PROFEXT.dll
+
+    00000000 characteristics
+    85ED656D time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006D10 CreateAppContainerProfileWorker
+          2    1 000157B0 CreateDirectoryJunctionsForSystemWorker
+          3    2 00015C30 CreateDirectoryJunctionsForUserProfileWorker
+          4    3 00017760 CreateGroupExWorker
+          5    4 00017920 CreateLinkFileExWorker
+          6    5 00011450 DeleteAppContainerProfileWorker
+          7    6 00017ED0 DeleteGroupWorker
+          8    7 000182B0 DeleteLinkFileWorker
+          9    8 00007120 DeriveAppContainerSidFromAppContainerNameWorker
+         10    9 00005DF0 DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedNameWorker
+         11    A 00005C60 GetAppContainerFolderPathWorker
+         12    B 00005E50 GetAppContainerRegistryLocationWorker
+         13    C 000126D0 IsAppContainerProfilePresentWorker
+         14    D 00012AB0 LookupAppContainerDisplayNameWorker
+         15    E 00016C60 ProcessGroupPolicyCompletedExWorker
+         16    F 00016CD0 ProcessGroupPolicyCompletedWorker
+         17   10 00016D30 RsopAccessCheckByTypeWorker
+         18   11 00016DF0 RsopFileAccessCheckWorker
+         19   12 00016E60 RsopResetPolicySettingStatusWorker
+         20   13 00016EC0 RsopSetPolicySettingStatusWorker
+         21   14 00014710 UpdateAppContainerProfileWorker
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

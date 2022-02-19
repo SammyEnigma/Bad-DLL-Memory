@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MapsBtSvcProxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for mapsbtsvcproxy.dll
+
+    00000000 characteristics
+    5D1D037F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010A0 DllCanUnloadNow
+          2    1 00001050 DllGetClassObject
+          3    2 00001110 DllRegisterServer
+          4    3 00001150 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

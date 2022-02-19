@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\ContactHarvesterDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for ContactHarvesterDS.dll
+
+    00000000 characteristics
+    CDC373FB time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006530 DllCanUnloadNow
+          2    1 00006380 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       12000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       20000 .text

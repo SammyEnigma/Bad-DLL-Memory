@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\dot3hc.dll
+
+File Type: DLL
+
+  Section contains the following exports for dot3HC.DLL
+
+    00000000 characteristics
+     680D788 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006010 DllCanUnloadNow
+          2    1 00006050 DllGetClassObject
+          3    2 00006190 DllRegisterServer
+          4    3 000062C0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

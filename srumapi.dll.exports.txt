@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\srumapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for SrumAPI.dll
+
+    00000000 characteristics
+    EE7E0A27 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004500 DllCanUnloadNow
+          2    1 00001CB0 DllGetClassObject
+          3    2 00004520 DllRegisterServer
+          4    3 00004560 DllUnregisterServer
+          5    4 00004840 SruCreateCheckpoint
+          6    5 00004930 SruCreateEnergyNotificationServer
+          7    6 00004A10 SruDeleteStatsByAppName
+          8    7 000020D0 SruFreeRecordSet
+          9    8 00002220 SruQueryStats
+         10    9 00004B00 SruQueryStatsBySeqNumber
+         11    A 00002250 SruQueryStatsEx
+         12    B 00001290 SruRegisterRealTimeStats
+         13    C 00004C20 SruRetrieveEnergyRecord
+         14    D 00004D30 SruUnregisterRealTimeStats
+         15    E 00004DF0 SruUpdateStats
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        7000 .text

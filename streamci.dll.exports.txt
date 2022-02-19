@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\streamci.dll
+
+File Type: DLL
+
+  Section contains the following exports for streamci.dll
+
+    00000000 characteristics
+    AE49870F time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000024B0 StreamingDeviceClassInstaller
+          2    1 00001E90 StreamingDeviceRemove
+          3    2 00001E90 StreamingDeviceRemoveA
+          4    3 000021C0 StreamingDeviceRemoveW
+          5    4 00001E90 StreamingDeviceSetup
+          6    5 00001E90 StreamingDeviceSetupA
+          7    6 00001EA0 StreamingDeviceSetupW
+          8    7 000027C0 SwEnumCoInstaller
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

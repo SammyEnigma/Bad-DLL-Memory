@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\networkitemfactory.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetworkItemFactory.dll
+
+    00000000 characteristics
+    6A70188E time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006840 DllCanUnloadNow
+          2    1 000069A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

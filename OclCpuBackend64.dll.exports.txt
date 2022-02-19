@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x64\OclCpuBackend64.dll
+
+File Type: DLL
+
+  Section contains the following exports for OclCpuBackEnd64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0007BC10 GetDeviceBackendFactory
+          2    1 0007BC20 InitDeviceBackend
+          3    2 00168C50 RegisterGlobalAtExitNotification
+          4    3 0007BD10 TerminateDeviceBackend
+          5    4 0007BDC0 __opencl_dbg_declare_global
+          6    5 0007BE60 __opencl_dbg_declare_local
+          7    6 0007BF10 __opencl_dbg_enter_function
+          8    7 0007BFB0 __opencl_dbg_exit_function
+          9    8 0007C050 __opencl_dbg_stoppoint
+         10    9 0007B0C0 cpu_dbg_print
+         11    A 0007B120 cpu_get_time_counter
+         12    B 0007B130 cpu_lprefetch
+         13    C 0007C370 ocl20_capture_event_profiling_info
+         14    D 0007C3A0 ocl20_create_user_event
+         15    E 0007C3D0 ocl20_enqueue_kernel_basic
+         16    F 0007C430 ocl20_enqueue_kernel_events
+         17   10 0007C4A0 ocl20_enqueue_kernel_events_localmem
+         18   11 0007C520 ocl20_enqueue_kernel_localmem
+         19   12 0007C590 ocl20_enqueue_marker
+         20   13 0007C5C0 ocl20_get_default_queue
+         21   14 0007C5D0 ocl20_get_kernel_preferred_wg_size_multiple
+         22   15 0007C620 ocl20_get_kernel_wg_size
+         23   16 0007C670 ocl20_is_valid_event
+         24   17 0007C690 ocl20_release_event
+         25   18 0007C6B0 ocl20_retain_event
+         26   19 0007C6D0 ocl20_set_user_event_status
+         27   1A 0007C6F0 opencl_printf
+         28   1B 0007D450 opencl_snprintf
+
+  Summary
+
+       AF000 .data
+        1000 .didat
+       9A000 .pdata
+      5CA000 .rdata
+       2F000 .reloc
+        1000 .rsrc
+      FE2000 .text

@@ -1,0 +1,52 @@
+
+Dump of file C:\Windows\System32\credssp.dll
+
+File Type: DLL
+
+  Section contains the following exports for CREDSSP.dll
+
+    00000000 characteristics
+    1334B2C6 time date stamp
+        0.00 version
+           1 ordinal base
+          26 number of functions
+          26 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000025D0 InitSecurityInterfaceW
+          2    1 00001BC0 SpAcceptSecurityContext
+          3    2 00001030 SpAcquireCredentialsHandleW
+          4    3 00002290 SpAddCredentialsW
+          5    4 000023B0 SpApplyControlToken
+          6    5 00002290 SpChangeAccountPasswordW
+          7    6 00002290 SpCompleteAuthToken
+          8    7 00002570 SpDecryptMessage
+          9    8 000022A0 SpDeleteSecurityContext
+         10    9 00002540 SpEncryptMessage
+         11    A 00002110 SpEnumerateSecurityPackagesW
+         12    B 00002290 SpExportSecurityContext
+         13    C 000024A0 SpFreeContextBuffer
+         14    D 00002210 SpFreeCredentialsHandle
+         15    E 000023E0 SpImpersonateSecurityContext
+         16    F 00002290 SpImportSecurityContextW
+         17   10 000012A0 SpInitializeSecurityContextW
+         18   11 00002440 SpMakeSignature
+         19   12 00002160 SpQueryContextAttributesW
+         20   13 00002290 SpQueryCredentialsAttributesW
+         21   14 00002510 SpQuerySecurityContextToken
+         22   15 000024C0 SpQuerySecurityPackageInfoW
+         23   16 00002410 SpRevertSecurityContext
+         24   17 00002290 SpSetContextAttributesW
+         25   18 000025A0 SpSetCredentialsAttributesW
+         26   19 00002470 SpVerifySignature
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

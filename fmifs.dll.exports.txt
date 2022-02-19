@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\fmifs.dll
+
+File Type: DLL
+
+  Section contains the following exports for FMIFS.dll
+
+    00000000 characteristics
+    469C11B1 time date stamp
+        0.00 version
+           1 ordinal base
+          25 number of functions
+          25 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00007040 Chkdsk
+          3    1 00007480 ChkdskEx
+          4    2 000046F0 ComputeFmMediaType
+          5    3 00006E30 DiskCopy
+          6    4 00004840 EnableVolumeCompression
+          7    5 000048F0 EnableVolumeIntegrity
+          8    6 00009280 Extend
+          9    7 000049C0 Format
+         10    8 000050A0 FormatEx
+         11    9 00005870 FormatEx2
+         12    A 00008620 FreeCorruptionInfo
+         13    B 00008660 GetCorruptionInfoClose
+         14    C 000061C0 GetDefaultFileSystem
+          1    D 00006E70 GetFirstCorruptionInfo
+         15    E 000086E0 GetNextCorruptionInfo
+         16    F 000061E0 QueryAvailableFileSystemFormat
+         17   10 00008A90 QueryCorruptionState
+         18   11 00008B20 QueryCorruptionStateByHandle
+         19   12 000062A0 QueryDeviceInformation
+         20   13 00006460 QueryDeviceInformationByHandle
+         21   14 000064B0 QueryFileSystemName
+         22   15 00001010 QueryIsDiskCheckScheduledForNextBoot
+         23   16 00006920 QueryLatestFileSystemVersion
+         24   17 000069D0 QuerySupportedMedia
+         25   18 00006B70 SetLabel
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

@@ -1,0 +1,86 @@
+
+Dump of file C:\Windows\System32\wimgapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WIMGAPI.DLL
+
+    00000000 characteristics
+    3B8DC7AF time date stamp
+        0.00 version
+           1 ordinal base
+          60 number of functions
+          60 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001050 DllCanUnloadNow
+          2    1 00001010 DllMain
+          3    2 00001E20 WIMAddImagePath
+          4    3 00002530 WIMAddImagePaths
+          5    4 00002EF0 WIMAddWimbootEntry
+          6    5 000052F0 WIMApplyImage
+          7    6 00009BA0 WIMCaptureImage
+          8    7 0000AEB0 WIMCloseHandle
+          9    8 0000F7B0 WIMCommitImageHandle
+         10    9 00012290 WIMCopyFile
+         11    A 0000A220 WIMCreateFile
+         12    B 00017250 WIMCreateImageFile
+         13    C 00005560 WIMCreateWofCompressedFile
+         14    D 00017E60 WIMDeleteImage
+         15    E 0000E410 WIMDeleteImageMounts
+         16    F 00017020 WIMEnumImageFiles
+         17   10 00018EC0 WIMExportImage
+         18   11 0001A4B0 WIMExtractImageDirectory
+         19   12 00019CA0 WIMExtractImagePath
+         20   13 00016BF0 WIMFindFirstImageFile
+         21   14 00016EA0 WIMFindNextImageFile
+         22   15 0000B5F0 WIMGetAttributes
+         23   16 0000B5A0 WIMGetImageCount
+         24   17 0001C690 WIMGetImageInformation
+         25   18 0001DDA0 WIMGetMessageCallbackCount
+         26   19 00011CC0 WIMGetMountedImageHandle
+         27   1A 000116C0 WIMGetMountedImageInfo
+         28   1B 00011940 WIMGetMountedImageInfoFromHandle
+         29   1C 00011C00 WIMGetMountedImages
+         30   1D 00002D10 WIMGetWIMBootEntries
+         31   1E 00002950 WIMGetWIMBootWIMPath
+         32   1F 0001F140 WIMInitFileIOCallbacks
+         33   20 00003F20 WIMInitializeWofDriver
+         34   21 000030A0 WIMIsCurrentSystemWimboot
+         35   22 00017870 WIMIsReferenceWim
+         36   23 0001F640 WIMLoadImage
+         37   24 000104B0 WIMMountImage
+         38   25 0000E900 WIMMountImageHandle
+         39   26 00025FF0 WIMProcessCustomImage
+         40   27 0000BA20 WIMReadFileEx
+         41   28 00016070 WIMReadImageFile
+         42   29 00005220 WIMRedirectFolderBeforeApply
+         43   2A 00028400 WIMRegisterLogFile
+         44   2B 0001DE30 WIMRegisterMessageCallback
+         45   2C 00010760 WIMRemountImage
+         46   2D 0000B070 WIMSetBootImage
+         47   2E 0001F1A0 WIMSetFileIOCallbackTemporaryPath
+         48   2F 0001C9B0 WIMSetImageInformation
+         49   30 00009E80 WIMSetImageUserSpecifiedCreationTime
+         50   31 0000B330 WIMSetReferenceFile
+         51   32 0000AF70 WIMSetTemporaryPath
+         52   33 00009E30 WIMSetWimGuid
+         53   34 00017420 WIMSingleInstanceFile
+         54   35 000297E0 WIMSplitFile
+         55   36 00010C30 WIMUnmountImage
+         56   37 0000FFA0 WIMUnmountImageHandle
+         57   38 00028650 WIMUnregisterLogFile
+         58   39 0001DFB0 WIMUnregisterMessageCallback
+         59   3A 00002B90 WIMUpdateWIMBootEntry
+         60   3B 000159B0 WIMWriteFileWithIntegrity
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       1F000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       92000 .text

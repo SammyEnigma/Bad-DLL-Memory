@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Search.ProtocolHandler.MAPI2.dll
+
+File Type: DLL
+
+  Section contains the following exports for Search.ProtocolHandler.MAPI2.DLL
+
+    00000000 characteristics
+    D011D420 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004470 DllCanUnloadNow
+          2    1 00004490 DllGetClassObject
+          3    2 000045C0 DllRegisterServer
+          4    3 000046B0 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        3000 .pdata
+       1E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       3D000 .text

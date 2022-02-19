@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WindowsInternal.ComposableShell.ComposerFramework.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsInternal.ComposableShell.ComposerFramework.dll
+
+    00000000 characteristics
+    E55C50BB time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          5    0 000765E0 DllCanUnloadNow
+          6    1 00076600 DllGetActivationFactory
+          1      000305D0 [NONAME]
+          2      00030680 [NONAME]
+          3      00055A50 [NONAME]
+          4      00055BB0 [NONAME]
+
+  Summary
+
+        D000 .data
+        7000 .pdata
+       23000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       7A000 .text

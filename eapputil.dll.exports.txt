@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\eapputil.dll
+
+File Type: DLL
+
+  Section contains the following exports for eapputil.dll
+
+    00000000 characteristics
+    11030A83 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004AB0 DllCanUnloadNow
+          2    1 00004B40 DllGetActivationFactory
+          3    2 00004B50 EapConvertHostToWireFormat16
+          4    3 00004B90 EapConvertHostToWireFormat24
+          5    4 00004BD0 EapConvertHostToWireFormat32
+          6    5 00004B70 EapConvertWireToHostFormat16
+          7    6 00004BB0 EapConvertWireToHostFormat24
+          8    7 00004C00 EapConvertWireToHostFormat32
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

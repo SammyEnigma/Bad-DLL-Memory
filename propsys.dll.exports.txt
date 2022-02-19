@@ -1,0 +1,293 @@
+
+Dump of file C:\Windows\System32\propsys.dll
+
+File Type: DLL
+
+  Section contains the following exports for PROPSYS.dll
+
+    00000000 characteristics
+    5F3C9ACE time date stamp
+        0.00 version
+           3 ordinal base
+         445 number of functions
+         223 number of names
+
+    ordinal hint RVA      name
+
+          4    0 000819D0 ClearPropVariantArray
+          5    1 000924B0 ClearVariantArray
+          6    2 00036440 DllCanUnloadNow
+          7    3 0000B820 DllGetClassObject
+          8    4 0007ABD0 DllRegisterServer
+          9    5 0007AC00 DllUnregisterServer
+          3    6 0007AC50 GetProxyDllInfo
+         10    7 00081AF0 InitPropVariantFromBooleanVector
+         11    8 00033440 InitPropVariantFromBuffer
+         12    9 0002C600 InitPropVariantFromCLSID
+         13    A 00081B10 InitPropVariantFromDoubleVector
+         14    B 0002CB60 InitPropVariantFromFileTime
+         15    C 00081B20 InitPropVariantFromFileTimeVector
+         16    D 00081B30 InitPropVariantFromGUIDAsString
+         17    E 00081BB0 InitPropVariantFromInt16Vector
+         18    F 00081BC0 InitPropVariantFromInt32Vector
+         19   10 00081BD0 InitPropVariantFromInt64Vector
+         20   11 000222F0 InitPropVariantFromPropVariantVectorElem
+         21   12 00081BE0 InitPropVariantFromResource
+         22   13 00081C60 InitPropVariantFromStrRet
+         23   14 00026210 InitPropVariantFromStringAsVector
+         24   15 00012D40 InitPropVariantFromStringVector
+         25   16 00081DA0 InitPropVariantFromUInt16Vector
+         26   17 00081DB0 InitPropVariantFromUInt32Vector
+         27   18 00081DC0 InitPropVariantFromUInt64Vector
+         28   19 00081DD0 InitPropVariantVectorFromPropVariant
+         29   1A 000924F0 InitVariantFromBooleanArray
+         30   1B 000344A0 InitVariantFromBuffer
+         31   1C 00032400 InitVariantFromDoubleArray
+         32   1D 00092520 InitVariantFromFileTime
+         33   1E 00092560 InitVariantFromFileTimeArray
+         34   1F 00036C20 InitVariantFromGUIDAsString
+         35   20 00092650 InitVariantFromInt16Array
+         36   21 00040580 InitVariantFromInt32Array
+         37   22 00092680 InitVariantFromInt64Array
+         38   23 000926B0 InitVariantFromResource
+         39   24 00092740 InitVariantFromStrRet
+         40   25 000927C0 InitVariantFromStringArray
+         41   26 000928C0 InitVariantFromUInt16Array
+         42   27 000928F0 InitVariantFromUInt32Array
+         43   28 00092920 InitVariantFromUInt64Array
+         44   29 00092950 InitVariantFromVariantArrayElem
+         45   2A 0000DE00 PSCoerceToCanonicalValue
+         46   2B 00004000 PSCreateAdapterFromPropertyStore
+         47   2C 000359B0 PSCreateDelayedMultiplexPropertyStore
+         48   2D 0001D440 PSCreateMemoryPropertyStore
+         49   2E 0000BA70 PSCreateMultiplexPropertyStore
+         50   2F 00033960 PSCreatePropertyChangeArray
+         51   30 0000BBF0 PSCreatePropertyStoreFromObject
+         52   31 00037A90 PSCreatePropertyStoreFromPropertySetStorage
+         53   32 0006E780 PSCreateSimplePropertyChange
+         54   33 000056B0 PSEnumeratePropertyDescriptions
+         55   34 00032EB0 PSFormatForDisplay
+         56   35 00010400 PSFormatForDisplayAlloc
+         57   36 00074500 PSFormatPropertyValue
+         58   37 000745A0 PSGetImageReferenceForValue
+         59   38 00065320 PSGetItemPropertyHandler
+         60   39 00065340 PSGetItemPropertyHandlerWithCreateObject
+         61   3A 0000F9F0 PSGetNameFromPropertyKey
+         62   3B 00004EF0 PSGetNamedPropertyFromPropertyStorage
+         63   3C 0000F230 PSGetPropertyDescription
+         64   3D 0000FDB0 PSGetPropertyDescriptionByName
+         65   3E 000336F0 PSGetPropertyDescriptionListFromString
+         66   3F 0001C0A0 PSGetPropertyFromPropertyStorage
+         67   40 0000E430 PSGetPropertyKeyFromName
+         68   41 00010190 PSGetPropertySystem
+         69   42 00074630 PSGetPropertyValue
+         70   43 00065350 PSLookupPropertyHandlerCLSID
+         71   44 00037FD0 PSPropertyBag_Delete
+         72   45 00020E90 PSPropertyBag_ReadBOOL
+         73   46 00021150 PSPropertyBag_ReadBSTR
+         74   47 00020F00 PSPropertyBag_ReadDWORD
+         75   48 00021460 PSPropertyBag_ReadGUID
+         76   49 00037DB0 PSPropertyBag_ReadInt
+         77   4A 00040BE0 PSPropertyBag_ReadLONG
+         78   4B 00040AB0 PSPropertyBag_ReadPOINTL
+         79   4C 0006E8C0 PSPropertyBag_ReadPOINTS
+         80   4D 0006E910 PSPropertyBag_ReadPropertyKey
+         81   4E 00040970 PSPropertyBag_ReadRECTL
+         82   4F 0006E9F0 PSPropertyBag_ReadSHORT
+         83   50 000210C0 PSPropertyBag_ReadStr
+         84   51 00020FC0 PSPropertyBag_ReadStrAlloc
+         85   52 00040FF0 PSPropertyBag_ReadStream
+         86   53 000211C0 PSPropertyBag_ReadType
+         87   54 0006EA60 PSPropertyBag_ReadULONGLONG
+         88   55 00021020 PSPropertyBag_ReadUnknown
+         89   56 00037820 PSPropertyBag_WriteBOOL
+         90   57 00027690 PSPropertyBag_WriteBSTR
+         91   58 00036B30 PSPropertyBag_WriteDWORD
+         92   59 00036B90 PSPropertyBag_WriteGUID
+         93   5A 00037F70 PSPropertyBag_WriteInt
+         94   5B 00037F70 PSPropertyBag_WriteLONG
+         95   5C 0006EAD0 PSPropertyBag_WritePOINTL
+         96   5D 0006ECC0 PSPropertyBag_WritePOINTS
+         97   5E 00036A80 PSPropertyBag_WritePropertyKey
+         98   5F 0006ED00 PSPropertyBag_WriteRECTL
+         99   60 0006F0B0 PSPropertyBag_WriteSHORT
+        100   61 00027620 PSPropertyBag_WriteStr
+        101   62 000370F0 PSPropertyBag_WriteStream
+        102   63 0006F110 PSPropertyBag_WriteULONGLONG
+        103   64 000370F0 PSPropertyBag_WriteUnknown
+        104   65 0000BE80 PSPropertyKeyFromString
+        105   66 000746B0 PSRefreshPropertySchema
+        106   67 00074720 PSRegisterPropertySchema
+        107   68 000747A0 PSSetPropertyValue
+        108   69 000328B0 PSStringFromPropertyKey
+        109   6A 00074820 PSUnregisterPropertySchema
+        110   6B 000165F0 PropVariantChangeType
+        111   6C 00017EB0 PropVariantCompareEx
+        112   6D 00082000 PropVariantGetBooleanElem
+        113   6E 00082060 PropVariantGetDoubleElem
+        114   6F 00019020 PropVariantGetElementCount
+        115   70 00082080 PropVariantGetFileTimeElem
+        116   71 000820A0 PropVariantGetInt16Elem
+        117   72 000820C0 PropVariantGetInt32Elem
+        118   73 000820E0 PropVariantGetInt64Elem
+        119   74 00082100 PropVariantGetStringElem
+        120   75 00082300 PropVariantGetUInt16Elem
+        121   76 00082320 PropVariantGetUInt32Elem
+        122   77 00082340 PropVariantGetUInt64Elem
+        123   78 0002D440 PropVariantToBSTR
+        124   79 000384A0 PropVariantToBoolean
+        125   7A 00082360 PropVariantToBooleanVector
+        126   7B 00082370 PropVariantToBooleanVectorAlloc
+        127   7C 00038370 PropVariantToBooleanWithDefault
+        128   7D 00036470 PropVariantToBuffer
+        129   7E 0003F9D0 PropVariantToDouble
+        130   7F 00082380 PropVariantToDoubleVector
+        131   80 00082390 PropVariantToDoubleVectorAlloc
+        132   81 000823A0 PropVariantToDoubleWithDefault
+        133   82 0002C710 PropVariantToFileTime
+        134   83 000823E0 PropVariantToFileTimeVector
+        135   84 000823F0 PropVariantToFileTimeVectorAlloc
+        136   85 00033330 PropVariantToGUID
+        137   86 00082400 PropVariantToInt16
+        138   87 000824D0 PropVariantToInt16Vector
+        139   88 000824E0 PropVariantToInt16VectorAlloc
+        140   89 000824F0 PropVariantToInt16WithDefault
+        141   8A 0002E610 PropVariantToInt32
+        142   8B 00082530 PropVariantToInt32Vector
+        143   8C 00082540 PropVariantToInt32VectorAlloc
+        144   8D 0002E5D0 PropVariantToInt32WithDefault
+        145   8E 00082550 PropVariantToInt64
+        146   8F 00082660 PropVariantToInt64Vector
+        147   90 00082670 PropVariantToInt64VectorAlloc
+        148   91 00082680 PropVariantToInt64WithDefault
+        149   92 000826C0 PropVariantToStrRet
+        150   93 0002D150 PropVariantToString
+        151   94 00013930 PropVariantToStringAlloc
+        152   95 00082860 PropVariantToStringVector
+        153   96 00012BC0 PropVariantToStringVectorAlloc
+        154   97 00020480 PropVariantToStringWithDefault
+        155   98 00082BC0 PropVariantToUInt16
+        156   99 00082CA0 PropVariantToUInt16Vector
+        157   9A 00082CB0 PropVariantToUInt16VectorAlloc
+        158   9B 00082CC0 PropVariantToUInt16WithDefault
+        159   9C 00014760 PropVariantToUInt32
+        160   9D 00082D00 PropVariantToUInt32Vector
+        161   9E 00082D10 PropVariantToUInt32VectorAlloc
+        162   9F 00029320 PropVariantToUInt32WithDefault
+        163   A0 00034390 PropVariantToUInt64
+        164   A1 00082D20 PropVariantToUInt64Vector
+        165   A2 00082D30 PropVariantToUInt64VectorAlloc
+        166   A3 00082D40 PropVariantToUInt64WithDefault
+        167   A4 00021310 PropVariantToVariant
+        435   A5 000251C0 PropVariantToWinRTPropertyValue
+        168   A6 0001DD50 StgDeserializePropVariant
+        169   A7 00003B90 StgSerializePropVariant
+        170   A8 00014AD0 VariantCompare
+        171   A9 00092AE0 VariantGetBooleanElem
+        172   AA 00092B40 VariantGetDoubleElem
+        173   AB 00092B60 VariantGetElementCount
+        174   AC 00092BD0 VariantGetInt16Elem
+        175   AD 00092BF0 VariantGetInt32Elem
+        176   AE 00092C10 VariantGetInt64Elem
+        177   AF 00092C30 VariantGetStringElem
+        178   B0 00092D90 VariantGetUInt16Elem
+        179   B1 00092DB0 VariantGetUInt32Elem
+        180   B2 00092DD0 VariantGetUInt64Elem
+        181   B3 000371A0 VariantToBoolean
+        182   B4 00092DF0 VariantToBooleanArray
+        183   B5 00092E50 VariantToBooleanArrayAlloc
+        184   B6 00005670 VariantToBooleanWithDefault
+        185   B7 000205E0 VariantToBuffer
+        186   B8 00092EB0 VariantToDosDateTime
+        187   B9 00092FE0 VariantToDouble
+        188   BA 000930E0 VariantToDoubleArray
+        189   BB 00093140 VariantToDoubleArrayAlloc
+        190   BC 000931A0 VariantToDoubleWithDefault
+        191   BD 000931E0 VariantToFileTime
+        192   BE 00021C30 VariantToGUID
+        193   BF 000932B0 VariantToInt16
+        194   C0 00093390 VariantToInt16Array
+        195   C1 000933F0 VariantToInt16ArrayAlloc
+        196   C2 00093450 VariantToInt16WithDefault
+        197   C3 0002E4D0 VariantToInt32
+        198   C4 0003F8C0 VariantToInt32Array
+        199   C5 00093490 VariantToInt32ArrayAlloc
+        200   C6 0002E490 VariantToInt32WithDefault
+        201   C7 000934F0 VariantToInt64
+        202   C8 00093610 VariantToInt64Array
+        203   C9 00093670 VariantToInt64ArrayAlloc
+        204   CA 000936D0 VariantToInt64WithDefault
+        205   CB 0002E7A0 VariantToPropVariant
+        206   CC 00093710 VariantToStrRet
+        207   CD 00036060 VariantToString
+        208   CE 000422A0 VariantToStringAlloc
+        209   CF 00093760 VariantToStringArray
+        210   D0 000938F0 VariantToStringArrayAlloc
+        211   D1 000204D0 VariantToStringWithDefault
+        212   D2 00093AA0 VariantToUInt16
+        213   D3 00093B90 VariantToUInt16Array
+        214   D4 00093BF0 VariantToUInt16ArrayAlloc
+        215   D5 00093C50 VariantToUInt16WithDefault
+        216   D6 000048D0 VariantToUInt32
+        217   D7 00093C90 VariantToUInt32Array
+        218   D8 00093CF0 VariantToUInt32ArrayAlloc
+        219   D9 00004890 VariantToUInt32WithDefault
+        220   DA 00037250 VariantToUInt64
+        221   DB 00093D50 VariantToUInt64Array
+        222   DC 00093DB0 VariantToUInt64ArrayAlloc
+        223   DD 00093E10 VariantToUInt64WithDefault
+        436   DE 0002B930 WinRTPropertyValueToPropVariant
+        400      0000B4A0 [NONAME]
+        402      00081B00 [NONAME]
+        403      00091590 [NONAME]
+        404      00082A80 [NONAME]
+        405      0006E550 [NONAME]
+        406      0006E670 [NONAME]
+        407      00020B70 [NONAME]
+        408      0000B140 [NONAME]
+        409      00004EF0 [NONAME]
+        410      0001C0A0 [NONAME]
+        411      00081CA0 [NONAME]
+        412      000827B0 [NONAME]
+        413      00060AB0 [NONAME]
+        414      0006D7D0 [NONAME]
+        415      0005F550 [NONAME]
+        416      00038060 [NONAME]
+        417      0000C580 [NONAME]
+        418      0003BFE0 [NONAME]
+        420      00091380 [NONAME]
+        421      00063680 [NONAME]
+        422      00063890 [NONAME]
+        423      00035180 [NONAME]
+        424      0000D680 [NONAME]
+        425      00078190 [NONAME]
+        426      000782D0 [NONAME]
+        427      000902F0 [NONAME]
+        428      000902E0 [NONAME]
+        429      000034A0 [NONAME]
+        430      0003BFE0 [NONAME]
+        431      0007AC30 [NONAME]
+        432      000341C0 [NONAME]
+        433      0006C080 [NONAME]
+        434      0001B8B0 [NONAME]
+        437      000032D0 [NONAME]
+        438      0006C190 [NONAME]
+        439      00021700 [NONAME]
+        440      0002A620 [NONAME]
+        441      0002A9C0 [NONAME]
+        442      00079360 [NONAME]
+        443      00079290 [NONAME]
+        444      000305A0 [NONAME]
+        445      00033B90 [NONAME]
+        446      00011D10 [NONAME]
+        447      0006E810 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        A000 .pdata
+       47000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       9B000 .text

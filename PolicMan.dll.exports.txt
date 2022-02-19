@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wbem\PolicMan.dll
+
+File Type: DLL
+
+  Section contains the following exports for POLICMAN.DLL
+
+    00000000 characteristics
+    7352152F time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009BC0 CreateADContainers
+          2    1 0000C7F0 DllCanUnloadNow
+          3    2 0000C6B0 DllGetClassObject
+          4    3 0000C8D0 DllRegisterServer
+          5    4 0000CA90 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

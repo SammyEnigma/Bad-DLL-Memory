@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\PointOfService\ProtocolProviders\BarcodeScannerProtocolProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for BarcodeScannerProtocolProvider.dll
+
+    00000000 characteristics
+    7FC17BB8 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00004EB0 DllCanUnloadNow
+          3    1 00004DC0 DllGetClassObject
+          1    2 00005020 GetPointOfServiceProtocolMetadata
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

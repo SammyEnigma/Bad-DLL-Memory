@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvofapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvofapi.dll
+
+    00000000 characteristics
+    5FD3FFD3 time date stamp Sat Dec 12 00:25:07 2020
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000340E NvOFAPICreateInstanceCuda
+          2    1 00001BF4 NvOFAPICreateInstanceD3D11
+          3    2 00001B1D NvOFGetMaxSupportedApiVersion
+
+  Summary
+
+        1000 .00cfg
+        3000 .data
+        1000 .gfids
+        2000 .idata
+        D000 .rdata
+        4000 .reloc
+       6F000 .text
+        1000 .tls

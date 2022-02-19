@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\IMETIP.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imetip.dll
+
+    00000000 characteristics
+    6C0769F5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0007F830 DllCanUnloadNow
+          2    1 0003EBC0 DllGetClassObject
+          3    2 0007F940 DllRegisterServer
+          4    3 0007F9D0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        C000 .pdata
+       52000 .rdata
+        2000 .reloc
+        C000 .rsrc
+       D2000 .text

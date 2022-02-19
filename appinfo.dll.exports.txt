@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\appinfo.dll
+
+File Type: DLL
+
+  Section contains the following exports for appinfo.dll
+
+    00000000 characteristics
+    C41D1C4B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00026400 AiDisableDesktopRpcInterface
+          2    1 000040E0 AiEnableDesktopRpcInterface
+          3    2 00003420 ServiceMain
+          4    3 00003410 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       26000 .text

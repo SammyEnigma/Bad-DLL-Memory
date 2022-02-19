@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\wbem\NetPeerDistCim.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetPeerDistCim.DLL
+
+    00000000 characteristics
+    1F7A80D5 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002290 DllCanUnloadNow
+          2    1 000022D0 DllGetClassObject
+          3    2 00001F80 DllMain
+          4    3 000021F0 DllRegisterServer
+          5    4 00002240 DllUnregisterServer
+          6    5 00001FE0 GetProviderClassID
+          7    6 00002930 MI_Main
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        A000 .pdata
+       5D000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      114000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CoreShell.dll
+
+File Type: DLL
+
+  Section contains the following exports for CoreShell.dll
+
+    00000000 characteristics
+    22206D34 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009FA0 DllCanUnloadNow
+          2    1 00009CA0 DllGetActivationFactory
+          3    2 00009E80 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+       11000 .pdata
+       6A000 .rdata
+        9000 .reloc
+        1000 .rsrc
+      16F000 .text

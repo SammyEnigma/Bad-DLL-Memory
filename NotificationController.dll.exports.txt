@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\NotificationController.dll
+
+File Type: DLL
+
+  Section contains the following exports for NotificationController.dll
+
+    00000000 characteristics
+    90707A1E time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00019090 DllCanUnloadNow
+          2    1 00082470 DllGetActivationFactory
+          3    2 00047830 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        D000 .pdata
+       39000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       E0000 .text

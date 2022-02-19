@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\WlanMediaManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for WlanMediaManager.dll
+
+    00000000 characteristics
+    C2C0510B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005E10 DllCanUnloadNow
+          2    1 00005B40 DllGetActivationFactory
+          3    2 00005D20 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       29000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       85000 .text

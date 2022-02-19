@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ipsecsnp.dll
+
+File Type: DLL
+
+  Section contains the following exports for IPSECSNP.DLL
+
+    00000000 characteristics
+    F6F63813 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00029310 DllCanUnloadNow
+          2    1 00029380 DllGetClassObject
+          3    2 000293A0 DllRegisterServer
+          4    3 000298A0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        4000 .pdata
+       1F000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       41000 .text

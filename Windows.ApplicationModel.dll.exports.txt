@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.ApplicationModel.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.dll
+
+    00000000 characteristics
+    F4C30F1F time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EB40 DllCanUnloadNow
+          2    1 0000DF80 DllGetActivationFactory
+          3    2 0000F4A0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        9000 .pdata
+       4B000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       85000 .text

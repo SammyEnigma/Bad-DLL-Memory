@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\UNIDRV.DLL
+
+File Type: DLL
+
+  Section contains the following exports for unidrv.dll
+
+    00000000 characteristics
+    3915E079 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00017900 DllMain
+          2    1 00016CD0 DrvDisableDriver
+          3    2 00016C20 DrvEnableDriver
+          4    3 00023B30 DrvQueryDriverInfo
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       6A000 .text

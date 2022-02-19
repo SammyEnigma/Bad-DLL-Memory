@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_QuickActions.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_QuickActions.dll
+
+    00000000 characteristics
+    AF201BC5 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001CD0 GetSetting
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

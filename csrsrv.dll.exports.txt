@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\csrsrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for CSRSRV.dll
+
+    00000000 characteristics
+    FEE04A7E time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006D10 CsrAddStaticServerThread
+          2    1 00002B10 CsrCallServerFromServer
+          3    2 00006C80 CsrConnectToUser
+          4    3 00001AF0 CsrCreateProcess
+          5    4 00009260 CsrCreateRemoteThread
+          6    5 00001800 CsrCreateThread
+          7    6 00009430 CsrDeferredCreateProcess
+          8    7 000012C0 CsrDereferenceProcess
+          9    8 00003420 CsrDereferenceThread
+         10    9 00009460 CsrDestroyProcess
+         11    A 000094F0 CsrDestroyThread
+         12    B 00005EC0 CsrExecServerThread
+         13    C 000034D0 CsrGetProcessLuid
+         14    D 000029A0 CsrImpersonateClient
+         15    E 00009580 CsrIsClientSandboxed
+         16    F 00001A60 CsrLockProcessByClientId
+         17   10 00001010 CsrLockThreadByClientId
+         18   11 000095C0 CsrLockedReferenceProcess
+         19   12 00007270 CsrQueryApiPort
+         20   13 000034C0 CsrReferenceThread
+         21   14 00007250 CsrRegisterClientThreadSetup
+         22   15 00008E00 CsrReplyToMessage
+         23   16 00002870 CsrRevertToSelf
+         24   17 00003800 CsrServerInitialization
+         25   18 00005DD0 CsrSetBackgroundPriority
+         26   19 00009BB0 CsrSetForegroundPriority
+         27   1A 00002C90 CsrShutdownProcesses
+         28   1B 00008C40 CsrUnhandledExceptionFilter
+         29   1C 00002AD0 CsrUnlockProcess
+         30   1D 00002C00 CsrUnlockThread
+         31   1E 00002730 CsrValidateMessageBuffer
+         32   1F 00008E50 CsrValidateMessageString
+
+  Summary
+
+        5000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        3000 .rsrc
+        9000 .text

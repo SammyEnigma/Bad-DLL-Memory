@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wbem\wbemdisp.dll
+
+File Type: DLL
+
+  Section contains the following exports for wbemdisp.dll
+
+    00000000 characteristics
+    75D3CE54 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00029070 DllCanUnloadNow
+          2    1 000290F0 DllGetClassObject
+          3    2 000293F0 DllRegisterServer
+          4    3 000295B0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       34000 .text

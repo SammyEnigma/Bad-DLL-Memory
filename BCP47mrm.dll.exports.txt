@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\BCP47mrm.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcp47mrm.dll
+
+    00000000 characteristics
+    51A46698 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011AF0 Bcp47GetDistanceCString
+          2    1 00011C80 Bcp47GetNeutralFormCString
+          3    2 00001570 Bcp47IsValid
+          4    3 00012680 CompareBcp47Tags
+          5    4 000127B0 FormatLanguageList
+          6    5 000128A0 FormatLanguageTag
+          7    6 000010D0 GetApplicationLanguagesWithUserLanguagesFallback
+          8    7 00002260 GetApplicationLayoutDirection
+          9    8 00012930 GetClosenessOfUnIsoRegionTags
+         10    9 000129A0 GetCompositeRegionCode
+         11    A 000058D0 GetDistanceOfClosestLanguageInList
+         12    B 00002660 GetLanguageDirectionality
+         13    C 00011E90 GetMrtDisplayLanguageList
+         14    D 000129E0 GetParentCompositeRegionCode
+         15    E 000129F0 IsValidTag
+         16    F 00012A00 IsValidUnIsoRegionTag
+         17   10 00006090 IsWellFormedTag
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\rpcss.dll
+
+File Type: DLL
+
+  Section contains the following exports for RPCSS.dll
+
+    00000000 characteristics
+    A5462CE6 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+         15    0 00099A00 CoGetComCatalog
+         16    1 00099A10 GetRPCSSInfo
+         14    2 000563F0 ServiceMain
+         17    3 0005CB60 WhichService
+          1      0009A1A0 [NONAME]
+          2      0009A090 [NONAME]
+          3      0009A0E0 [NONAME]
+          4      0009A070 [NONAME]
+          5      0009A0B0 [NONAME]
+          6      0009A050 [NONAME]
+          7      0013C950 [NONAME]
+          8      00099BE0 [NONAME]
+          9      000D2D00 [NONAME]
+         10      000D2CF0 [NONAME]
+         11      000D4290 [NONAME]
+         12      000D1CF0 [NONAME]
+         13      00099B60 [NONAME]
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        C000 .pdata
+       41000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       F9000 .text

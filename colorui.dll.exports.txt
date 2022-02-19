@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\colorui.dll
+
+File Type: DLL
+
+  Section contains the following exports for colorui.dll
+
+    00000000 characteristics
+    E763ECB5 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00003B70 DllCanUnloadNow
+          3    1 00003BC0 DllGetClassObject
+          4    2 00003DC0 DllMain
+          5    3 00003D40 DllRegisterServer
+          6    4 00003D80 DllUnregisterServer
+          1    5 00003F30 LaunchColorCpl
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

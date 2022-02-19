@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RegCtrl.dll
+
+File Type: DLL
+
+  Section contains the following exports for RegisterControl.DLL
+
+    00000000 characteristics
+    7E3CC421 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000019E0 DllCanUnloadNow
+          2    1 00001A20 DllGetClassObject
+          3    2 00001B60 DllRegisterServer
+          4    3 00001CA0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        8000 .text

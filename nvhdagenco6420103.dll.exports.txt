@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\nvhdagenco6420103.dll
+
+File Type: DLL
+
+  Section contains the following exports for NVGenCo64.DLL
+
+    00000000 characteristics
+    5C8F56EF time date stamp Mon Mar 18 09:29:35 2019
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005B070 NvGenericCoInstall
+
+  Summary
+
+        F000 .data
+       1E000 .pdata
+       5C000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      10D000 .text
+        1000 .tls

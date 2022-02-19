@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DWrite.dll
+
+File Type: DLL
+
+  Section contains the following exports for DWrite.dll
+
+    00000000 characteristics
+    A4B961FD time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00043F60 DWriteCreateFactory
+
+  Summary
+
+        9000 .data
+        1000 .didat
+       16000 .pdata
+       91000 .rdata
+        2000 .reloc
+       44000 .rsrc
+      18A000 .text
+        1000 RT_CODE

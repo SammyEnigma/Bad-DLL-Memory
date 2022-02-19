@@ -1,0 +1,168 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\libGLESv1_CM.dll
+
+File Type: DLL
+
+  Section contains the following exports for libGLESv1_CM.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         145 number of functions
+         145 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001350 glActiveTexture
+          2    1 00001390 glAlphaFunc
+          3    2 000013D0 glAlphaFuncx
+          4    3 00001490 glBindBuffer
+          5    4 00001550 glBindTexture
+          6    5 00001650 glBlendFunc
+          7    6 000016D0 glBufferData
+          8    7 00001710 glBufferSubData
+          9    8 00001790 glClear
+         10    9 000017D0 glClearColor
+         11    A 00001830 glClearColorx
+         12    B 000018B0 glClearDepthf
+         13    C 00001930 glClearDepthx
+         14    D 000019B0 glClearStencil
+         15    E 000019F0 glClientActiveTexture
+         16    F 00001A30 glClipPlanef
+         17   10 00001AB0 glClipPlanex
+         18   11 00001B30 glColor4f
+         19   12 00001B90 glColor4ub
+         20   13 00001BD0 glColor4x
+         21   14 00001C50 glColorMask
+         22   15 00001C90 glColorPointer
+         23   16 00001CD0 glCompressedTexImage2D
+         24   17 00001D70 glCompressedTexSubImage2D
+         25   18 00001E10 glCopyTexImage2D
+         26   19 00001E60 glCopyTexSubImage2D
+         27   1A 00001F40 glCullFace
+         28   1B 00002040 glDeleteBuffers
+         29   1C 00002140 glDeleteTextures
+         30   1D 000021C0 glDepthFunc
+         31   1E 00002200 glDepthMask
+         32   1F 00002240 glDepthRangef
+         33   20 000022E0 glDepthRangex
+         34   21 00002360 glDisable
+         35   22 000023A0 glDisableClientState
+         36   23 00002420 glDrawArrays
+         37   24 00002460 glDrawElements
+         38   25 00002790 glEnable
+         39   26 000027D0 glEnableClientState
+         40   27 00002850 glFinish
+         41   28 00002880 glFlush
+         42   29 000028F0 glFogf
+         43   2A 00002930 glFogfv
+         44   2B 00002970 glFogx
+         45   2C 000029F0 glFogxv
+         46   2D 00002B30 glFrontFace
+         47   2E 00002B70 glFrustumf
+         48   2F 00002C70 glFrustumx
+         49   30 00002CF0 glGenBuffers
+         50   31 00002DB0 glGenTextures
+         51   32 00002E70 glGetBooleanv
+         52   33 00002EB0 glGetBufferParameteriv
+         53   34 00002F30 glGetClipPlanef
+         54   35 00002FB0 glGetClipPlanex
+         55   36 00003080 glGetError
+         56   37 000030F0 glGetFixedv
+         57   38 00003170 glGetFloatv
+         58   39 00003220 glGetIntegerv
+         59   3A 00003260 glGetLightfv
+         60   3B 000032A0 glGetLightxv
+         61   3C 00003320 glGetMaterialfv
+         62   3D 00003360 glGetMaterialxv
+         63   3E 000035C0 glGetPointerv
+         64   3F 00003680 glGetString
+         65   40 000036C0 glGetTexEnvfv
+         66   41 00003700 glGetTexEnviv
+         67   42 00003740 glGetTexEnvxv
+         68   43 00003880 glGetTexParameterfv
+         69   44 000038C0 glGetTexParameteriv
+         70   45 00003900 glGetTexParameterxv
+         71   46 00003A00 glHint
+         72   47 00003A80 glIsBuffer
+         73   48 00003AC0 glIsEnabled
+         74   49 00003B80 glIsTexture
+         75   4A 00003C00 glLightModelf
+         76   4B 00003C40 glLightModelfv
+         77   4C 00003C80 glLightModelx
+         78   4D 00003D00 glLightModelxv
+         79   4E 00003D80 glLightf
+         80   4F 00003DC0 glLightfv
+         81   50 00003E00 glLightx
+         82   51 00003E80 glLightxv
+         83   52 00003F00 glLineWidth
+         84   53 00003F40 glLineWidthx
+         85   54 00003FC0 glLoadIdentity
+         86   55 00003FF0 glLoadMatrixf
+         87   56 00004030 glLoadMatrixx
+         88   57 000040B0 glLogicOp
+         89   58 00004170 glMaterialf
+         90   59 000041B0 glMaterialfv
+         91   5A 000041F0 glMaterialx
+         92   5B 00004270 glMaterialxv
+         93   5C 000042F0 glMatrixMode
+         94   5D 00004330 glMultMatrixf
+         95   5E 00004370 glMultMatrixx
+         96   5F 000046F0 glMultiTexCoord4f
+         97   60 00004750 glMultiTexCoord4x
+         98   61 000047D0 glNormal3f
+         99   62 00004830 glNormal3x
+        100   63 000048B0 glNormalPointer
+        101   64 00004970 glOrthof
+        102   65 00004A70 glOrthox
+        103   66 00004AF0 glPixelStorei
+        104   67 00004B30 glPointParameterf
+        105   68 00004B70 glPointParameterfv
+        106   69 00004BB0 glPointParameterx
+        107   6A 00004C30 glPointParameterxv
+        108   6B 00004CB0 glPointSize
+        109   6C 00004CF0 glPointSizePointerOES
+        110   6D 00004D30 glPointSizex
+        111   6E 00004DB0 glPolygonOffset
+        112   6F 00004E60 glPolygonOffsetx
+        113   70 00004F40 glPopMatrix
+        114   71 00004FF0 glPushMatrix
+        115   72 00005060 glReadPixels
+        116   73 00005140 glRotatef
+        117   74 000051A0 glRotatex
+        118   75 00005220 glSampleCoverage
+        119   76 00005260 glSampleCoveragex
+        120   77 000052E0 glScalef
+        121   78 00005340 glScalex
+        122   79 000053C0 glScissor
+        123   7A 00005440 glShadeModel
+        124   7B 00005480 glStencilFunc
+        125   7C 000054C0 glStencilMask
+        126   7D 00005500 glStencilOp
+        127   7E 000056C0 glTexCoordPointer
+        128   7F 00005700 glTexEnvf
+        129   80 00005740 glTexEnvfv
+        130   81 00005780 glTexEnvi
+        131   82 000057C0 glTexEnviv
+        132   83 00005800 glTexEnvx
+        133   84 00005880 glTexEnvxv
+        134   85 00005A80 glTexImage2D
+        135   86 00005B20 glTexParameterf
+        136   87 00005B60 glTexParameterfv
+        137   88 00005BA0 glTexParameteri
+        138   89 00005BE0 glTexParameteriv
+        139   8A 00005C20 glTexParameterx
+        140   8B 00005CA0 glTexParameterxv
+        141   8C 00005DA0 glTexSubImage2D
+        142   8D 00005E40 glTranslatef
+        143   8E 00005EA0 glTranslatex
+        144   8F 000060E0 glVertexPointer
+        145   90 00006120 glViewport
+
+  Summary
+
+        2000 .data
+        7000 .rdata
+        2000 .reloc
+       11000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\MXDWDRV.DLL
+
+File Type: DLL
+
+  Section contains the following exports for mxdwdrv.dll
+
+    00000000 characteristics
+     B37C075 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001C00 DllMain
+          2    1 000021F0 DrvDisableDriver
+          3    2 00002310 DrvEnableDriver
+          4    3 00001FE0 DrvQueryDriverInfo
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        7000 .pdata
+       34000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       98000 .text

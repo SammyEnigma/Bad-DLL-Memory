@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\WPDSp.dll
+
+File Type: DLL
+
+  Section contains the following exports for WPDSp.DLL
+
+    00000000 characteristics
+    73A27CF5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028D70 DllCanUnloadNow
+          2    1 00028DB0 DllGetClassObject
+          3    2 00028EF0 DllRegisterServer
+          4    3 00029030 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       47000 .text

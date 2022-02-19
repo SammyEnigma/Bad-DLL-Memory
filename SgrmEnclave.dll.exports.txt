@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\SgrmEnclave.dll
+
+File Type: DLL
+
+  Section contains the following exports for SgrmEnclave.dll
+
+    00000000 characteristics
+     6C87F72 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EF10 EngHostAttest
+          2    1 0000EBB0 EngHostCreateAttestationClient
+          3    2 0000ED50 EngHostDestroyAttestationClient
+          4    3 0000DBF0 EngHostDispatchThread
+          5    4 0000DFE0 EngHostGetRuntimeReport
+          6    5 0000EA80 EngHostGetSessionCertificate
+          7    6 0000DEB0 EngHostGetSessionReport
+          8    7 0000D2C0 EngHostInitialize
+          9    8 0000DD90 EngHostNotify
+         10    9 0000D590 EngHostReinitialize
+         11    A 0000DB20 EngHostShutdown
+
+  Summary
+
+        4000 .data
+        5000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       47000 .text
+        2000 PAGE
+        4000 PAGECONS
+        1000 PAGEDATA

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Graphics.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsGraphics.dll
+
+    00000000 characteristics
+    7D564B6A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C1A0 DllCanUnloadNow
+          2    1 0000CFA0 DllGetActivationFactory
+          3    2 00023E40 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       21000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       5D000 .text

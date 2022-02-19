@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\dialclient.dll
+
+File Type: DLL
+
+  Section contains the following exports for dialclient.dll
+
+    00000000 characteristics
+    9EB83296 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001D60 DllCanUnloadNow
+          1    1 00001DD0 DllGetActivationFactory
+          3    2 00001FB0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       14000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       25000 .text

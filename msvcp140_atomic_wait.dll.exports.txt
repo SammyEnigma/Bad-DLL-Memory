@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\msvcp140_atomic_wait.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSVCP140_ATOMIC_WAIT.dll
+
+    00000000 characteristics
+    60FF2817 time date stamp Mon Jul 26 23:24:39 2021
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001F60 __std_acquire_shared_mutex_for_instance
+          2    1 00001260 __std_atomic_compare_exchange_128
+          3    2 000012D0 __std_atomic_get_mutex
+          4    3 00001300 __std_atomic_has_cmpxchg16b
+          5    4 00001330 __std_atomic_notify_all_direct
+          6    5 00001380 __std_atomic_notify_all_indirect
+          7    6 00001410 __std_atomic_notify_one_direct
+          8    7 00001460 __std_atomic_notify_one_indirect
+          9    8 000014E0 __std_atomic_set_api_level
+         10    9 00001530 __std_atomic_wait_direct
+         11    A 000015C0 __std_atomic_wait_get_deadline
+         12    B 000015F0 __std_atomic_wait_get_remaining_timeout
+         13    C 00001630 __std_atomic_wait_indirect
+         14    D 00001760 __std_bulk_submit_threadpool_work
+         15    E 00002950 __std_calloc_crt
+         16    F 00001790 __std_close_threadpool_work
+         17   10 000017A0 __std_create_threadpool_work
+         18   11 000017B0 __std_execution_wait_on_uchar
+         19   12 000017E0 __std_execution_wake_by_address_all
+         20   13 00002960 __std_free_crt
+         21   14 000017F0 __std_parallel_algorithms_hw_threads
+         22   15 00002090 __std_release_shared_mutex_for_instance
+         23   16 00001810 __std_submit_threadpool_work
+         24   17 00002970 __std_tzdb_delete_current_zone
+         25   18 000029A0 __std_tzdb_delete_leap_seconds
+         26   19 000029B0 __std_tzdb_delete_sys_info
+         27   1A 000029E0 __std_tzdb_delete_time_zones
+         28   1B 00002A80 __std_tzdb_get_current_zone
+         29   1C 00002BA0 __std_tzdb_get_leap_seconds
+         30   1D 00002CE0 __std_tzdb_get_sys_info
+         31   1E 00003070 __std_tzdb_get_time_zones
+         32   1F 00001820 __std_wait_for_threadpool_work_callbacks
+
+  Summary
+
+        9000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

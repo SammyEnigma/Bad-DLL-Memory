@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ntprint4.inf_amd64_0958c7cad3cd6075\Amd64\PWGRRenderFilter.dll
+
+File Type: DLL
+
+  Section contains the following exports for PWGRRenderFilter.dll
+
+    00000000 characteristics
+    E16AECC8 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004B30 DllCanUnloadNow
+          2    1 00004B90 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3B000 .text

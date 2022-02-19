@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\wmidx.dll
+
+File Type: DLL
+
+  Section contains the following exports for wmidx.dll
+
+    00000000 characteristics
+    A802B1BF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B380 WMCreateASFChopper
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2A000 .text

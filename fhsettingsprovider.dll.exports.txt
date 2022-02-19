@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\fhsettingsprovider.dll
+
+File Type: DLL
+
+  Section contains the following exports for fhsettingsprovider.dll
+
+    00000000 characteristics
+    FAF6BFAC time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000041E0 DllCanUnloadNow
+          2    1 00003F10 DllGetActivationFactory
+          3    2 000040F0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       1F000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       49000 .text

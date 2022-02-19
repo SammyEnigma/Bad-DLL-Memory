@@ -1,0 +1,138 @@
+
+Dump of file C:\Windows\System32\Npcap\wpcap.dll
+
+File Type: DLL
+
+  Section contains the following exports for wpcap.dll
+
+    00000000 characteristics
+    5AA7EA7C time date stamp Tue Mar 13 16:13:00 2018
+        0.00 version
+           1 ordinal base
+         113 number of functions
+         113 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017F0 bpf_dump
+          2    1 00001530 bpf_filter
+          3    2 000018F0 bpf_image
+          4    3 00001540 bpf_validate
+          5    4 00054720 eproto_db
+          6    5 0001D410 pcap_activate
+          7    6 0001D720 pcap_breakloop
+          8    7 0001CA00 pcap_can_set_rfmon
+          9    8 0001E640 pcap_close
+         10    9 000028D0 pcap_compile
+         11    A 000033E0 pcap_compile_nopcap
+         12    B 0001CCF0 pcap_create
+         13    C 00018780 pcap_createsrcstr
+         14    D 0001D730 pcap_datalink
+         15    E 0001D740 pcap_datalink_ext
+         16    F 0001D960 pcap_datalink_name_to_val
+         17   10 0001DA70 pcap_datalink_val_to_description
+         18   11 0001DA20 pcap_datalink_val_to_name
+         19   12 0001D610 pcap_dispatch
+         20   13 00022780 pcap_dump
+         21   14 00022FB0 pcap_dump_close
+         22   15 00022F70 pcap_dump_file
+         23   16 00022F90 pcap_dump_flush
+         24   17 00022AD0 pcap_dump_fopen
+         25   18 00022F80 pcap_dump_ftell
+         26   19 00022920 pcap_dump_open
+         27   1A 00022B70 pcap_dump_open_append
+         28   1B 00014520 pcap_ether_aton
+         29   1C 00014610 pcap_ether_hostton
+         30   1D 0001DC60 pcap_file
+         31   1E 0001DC70 pcap_fileno
+         32   1F 0001CC50 pcap_findalldevs
+         33   20 00017810 pcap_findalldevs_ex
+         34   21 0001CAC0 pcap_free_datalinks
+         35   22 0001CAC0 pcap_free_tstamp_types
+         36   23 000026E0 pcap_freealldevs
+         37   24 00003470 pcap_freecode
+         38   25 0001E390 pcap_get_airpcap_handle
+         39   26 0001D400 pcap_get_tstamp_precision
+         40   27 0001DCC0 pcap_geterr
+         41   28 0001E110 pcap_getevent
+         42   29 0001DCD0 pcap_getnonblock
+         43   2A 0001ECB0 pcap_hopen_offline
+         44   2B 0001EBE0 pcap_hopen_offline_with_tstamp_precision
+         45   2C 0001E630 pcap_inject
+         46   2D 0001DC30 pcap_is_swapped
+         47   2E 0001E6A0 pcap_lib_version
+         48   2F 0001D750 pcap_list_datalinks
+         49   30 0001CA10 pcap_list_tstamp_types
+         50   31 0001E340 pcap_live_dump
+         51   32 0001E380 pcap_live_dump_ended
+         52   33 000131D0 pcap_lookupdev
+         53   34 00013440 pcap_lookupnet
+         54   35 0001D620 pcap_loop
+         55   36 0001DC40 pcap_major_version
+         56   37 0001DC50 pcap_minor_version
+         57   38 000141A0 pcap_nametoaddr
+         58   39 00014200 pcap_nametoaddrinfo
+         59   3A 00014460 pcap_nametoeproto
+         60   3B 000144C0 pcap_nametollc
+         61   3C 00014290 pcap_nametonetaddr
+         62   3D 000142A0 pcap_nametoport
+         63   3E 00014360 pcap_nametoportrange
+         64   3F 00014440 pcap_nametoproto
+         65   40 0001CAF0 pcap_next
+         66   41 00001F20 pcap_next_etherent
+         67   42 0001CB40 pcap_next_ex
+         68   43 0001E670 pcap_offline_filter
+         69   44 0001E150 pcap_oid_get_request
+         70   45 0001E190 pcap_oid_set_request
+         71   46 00018BF0 pcap_open
+         72   47 0001E600 pcap_open_dead
+         73   48 0001E4A0 pcap_open_dead_with_tstamp_precision
+         74   49 0001D4B0 pcap_open_live
+         75   4A 0001EBD0 pcap_open_offline
+         76   4B 0001EAB0 pcap_open_offline_with_tstamp_precision
+         77   4C 00018940 pcap_parsesrcstr
+         78   4D 0001DC80 pcap_perror
+         79   4E 00018DC0 pcap_remoteact_accept
+         80   4F 00019490 pcap_remoteact_cleanup
+         81   50 000191C0 pcap_remoteact_close
+         82   51 000194C0 pcap_remoteact_list
+         83   52 0001E610 pcap_sendpacket
+         84   53 0001E1D0 pcap_sendqueue_alloc
+         85   54 0001E230 pcap_sendqueue_destroy
+         86   55 0001E250 pcap_sendqueue_queue
+         87   56 0001E2C0 pcap_sendqueue_transmit
+         88   57 0001D330 pcap_set_buffer_size
+         89   58 0001D820 pcap_set_datalink
+         90   59 0001D2F0 pcap_set_immediate_mode
+         91   5A 0001D1A0 pcap_set_promisc
+         92   5B 0001D1E0 pcap_set_rfmon
+         93   5C 0001D150 pcap_set_snaplen
+         94   5D 0001D220 pcap_set_timeout
+         95   5E 0001D370 pcap_set_tstamp_precision
+         96   5F 0001D260 pcap_set_tstamp_type
+         97   60 0001E050 pcap_setbuff
+         98   61 0001DFC0 pcap_setdirection
+         99   62 0001DFB0 pcap_setfilter
+        100   63 0001E0D0 pcap_setmintocopy
+        101   64 0001E090 pcap_setmode
+        102   65 0001DD20 pcap_setnonblock
+        103   66 00018DB0 pcap_setsampling
+        104   67 0001E300 pcap_setuserbuffer
+        105   68 0001DC20 pcap_snapshot
+        106   69 0001E000 pcap_stats
+        107   6A 0001E040 pcap_stats_ex
+        108   6B 0001DE00 pcap_statustostr
+        109   6C 0001DF50 pcap_strerror
+        110   6D 0001DAC0 pcap_tstamp_type_name_to_val
+        111   6E 0001DBD0 pcap_tstamp_type_val_to_description
+        112   6F 0001DB80 pcap_tstamp_type_val_to_name
+        113   70 0001B2E0 pcap_wsockinit
+
+  Summary
+
+        C000 .data
+        3000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       36000 .text

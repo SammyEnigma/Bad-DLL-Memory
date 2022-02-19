@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmsynthfcvdev.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmSynthFcVdev.dll
+
+    00000000 characteristics
+    7AA2F43A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005BB0 DllCanUnloadNow
+          2    1 00005BE0 DllGetClassObject
+          3    2 00005C00 DllRegisterServer
+          4    3 00005C10 DllUnregisterServer
+
+  Summary
+
+        B000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       20000 .text

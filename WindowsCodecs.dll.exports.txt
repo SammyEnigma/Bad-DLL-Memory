@@ -1,0 +1,142 @@
+
+Dump of file C:\Windows\System32\WindowsCodecs.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsCodecs.dll
+
+    00000000 characteristics
+    A9324E31 time date stamp
+        0.00 version
+           1 ordinal base
+         115 number of functions
+         115 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000168E0 DllGetClassObject
+          2    1 000B4BB0 IEnumString_Next_WIC_Proxy
+          3    2 000B4BE0 IEnumString_Reset_WIC_Proxy
+          4    3 000B4C10 IPropertyBag2_Write_Proxy
+          5    4 000B4C40 IWICBitmapClipper_Initialize_Proxy
+          6    5 000B4C70 IWICBitmapCodecInfo_DoesSupportAnimation_Proxy
+          7    6 000B4CA0 IWICBitmapCodecInfo_DoesSupportLossless_Proxy
+          8    7 000B4CD0 IWICBitmapCodecInfo_DoesSupportMultiframe_Proxy
+          9    8 000B4D00 IWICBitmapCodecInfo_GetContainerFormat_Proxy
+         10    9 000B4D30 IWICBitmapCodecInfo_GetDeviceManufacturer_Proxy
+         11    A 000B4D60 IWICBitmapCodecInfo_GetDeviceModels_Proxy
+         12    B 000B4D90 IWICBitmapCodecInfo_GetFileExtensions_Proxy
+         13    C 000B4DC0 IWICBitmapCodecInfo_GetMimeTypes_Proxy
+         14    D 000B4DF0 IWICBitmapDecoder_CopyPalette_Proxy
+         15    E 000B4E20 IWICBitmapDecoder_GetColorContexts_Proxy
+         16    F 000B4E50 IWICBitmapDecoder_GetDecoderInfo_Proxy
+         17   10 000B4E80 IWICBitmapDecoder_GetFrameCount_Proxy
+         18   11 000B4EB0 IWICBitmapDecoder_GetFrame_Proxy
+         19   12 000B4C40 IWICBitmapDecoder_GetMetadataQueryReader_Proxy
+         20   13 000B4EE0 IWICBitmapDecoder_GetPreview_Proxy
+         21   14 000B4D00 IWICBitmapDecoder_GetThumbnail_Proxy
+         22   15 000B4D00 IWICBitmapEncoder_Commit_Proxy
+         23   16 000B4F10 IWICBitmapEncoder_CreateNewFrame_Proxy
+         24   17 000B4F40 IWICBitmapEncoder_GetEncoderInfo_Proxy
+         25   18 000B4E80 IWICBitmapEncoder_GetMetadataQueryWriter_Proxy
+         26   19 000B4F70 IWICBitmapEncoder_Initialize_Proxy
+         27   1A 000B4FA0 IWICBitmapEncoder_SetPalette_Proxy
+         28   1B 000B4FD0 IWICBitmapEncoder_SetThumbnail_Proxy
+         29   1C 000B4C40 IWICBitmapFlipRotator_Initialize_Proxy
+         30   1D 000B5000 IWICBitmapFrameDecode_GetColorContexts_Proxy
+         31   1E 000B4C40 IWICBitmapFrameDecode_GetMetadataQueryReader_Proxy
+         32   1F 000B5030 IWICBitmapFrameDecode_GetThumbnail_Proxy
+         33   20 000B4E80 IWICBitmapFrameEncode_Commit_Proxy
+         34   21 000B4EB0 IWICBitmapFrameEncode_GetMetadataQueryWriter_Proxy
+         35   22 000B5060 IWICBitmapFrameEncode_Initialize_Proxy
+         36   23 000B5090 IWICBitmapFrameEncode_SetColorContexts_Proxy
+         37   24 000B50C0 IWICBitmapFrameEncode_SetResolution_Proxy
+         38   25 000B5100 IWICBitmapFrameEncode_SetSize_Proxy
+         39   26 000B5130 IWICBitmapFrameEncode_SetThumbnail_Proxy
+         40   27 000B5160 IWICBitmapFrameEncode_WriteSource_Proxy
+         41   28 000B4BE0 IWICBitmapLock_GetDataPointer_STA_Proxy
+         42   29 000B51D0 IWICBitmapLock_GetStride_Proxy
+         43   2A 000B5200 IWICBitmapScaler_Initialize_Proxy
+         44   2B 000B4E50 IWICBitmapSource_CopyPalette_Proxy
+         45   2C 000B5240 IWICBitmapSource_CopyPixels_Proxy
+         46   2D 000B51D0 IWICBitmapSource_GetPixelFormat_Proxy
+         47   2E 000B4BE0 IWICBitmapSource_GetResolution_Proxy
+         48   2F 000B5060 IWICBitmapSource_GetSize_Proxy
+         49   30 000B5280 IWICBitmap_Lock_Proxy
+         50   31 000B4EE0 IWICBitmap_SetPalette_Proxy
+         51   32 000B5030 IWICBitmap_SetResolution_Proxy
+         52   33 000B51D0 IWICColorContext_InitializeFromMemory_Proxy
+         53   34 000B52B0 IWICComponentFactory_CreateMetadataWriterFromReader_Proxy
+         54   35 000B52E0 IWICComponentFactory_CreateQueryWriterFromBlockWriter_Proxy
+         55   36 000B5310 IWICComponentInfo_GetAuthor_Proxy
+         56   37 000B51D0 IWICComponentInfo_GetCLSID_Proxy
+         57   38 000B4E20 IWICComponentInfo_GetFriendlyName_Proxy
+         58   39 000B5000 IWICComponentInfo_GetSpecVersion_Proxy
+         59   3A 000B5280 IWICComponentInfo_GetVersion_Proxy
+         60   3B 000B5060 IWICFastMetadataEncoder_Commit_Proxy
+         61   3C 000B51D0 IWICFastMetadataEncoder_GetMetadataQueryWriter_Proxy
+         62   3D 000B5340 IWICFormatConverter_Initialize_Proxy
+         63   3E 000B5390 IWICImagingFactory_CreateBitmapClipper_Proxy
+         64   3F 000B53C0 IWICImagingFactory_CreateBitmapFlipRotator_Proxy
+         65   40 000B53F0 IWICImagingFactory_CreateBitmapFromHBITMAP_Proxy
+         66   41 000B5430 IWICImagingFactory_CreateBitmapFromHICON_Proxy
+         67   42 000B5460 IWICImagingFactory_CreateBitmapFromMemory_Proxy
+         68   43 000B54C0 IWICImagingFactory_CreateBitmapFromSource_Proxy
+         69   44 000B54F0 IWICImagingFactory_CreateBitmapScaler_Proxy
+         70   45 000B5520 IWICImagingFactory_CreateBitmap_Proxy
+         71   46 000B5560 IWICImagingFactory_CreateComponentInfo_Proxy
+         72   47 000B5590 IWICImagingFactory_CreateDecoderFromFileHandle_Proxy
+         73   48 000B55D0 IWICImagingFactory_CreateDecoderFromFilename_Proxy
+         74   49 000B5620 IWICImagingFactory_CreateDecoderFromStream_Proxy
+         75   4A 000B5660 IWICImagingFactory_CreateEncoder_Proxy
+         76   4B 000B56B0 IWICImagingFactory_CreateFastMetadataEncoderFromDecoder_Proxy
+         77   4C 000B56E0 IWICImagingFactory_CreateFastMetadataEncoderFromFrameDecode_Proxy
+         78   4D 000B4F10 IWICImagingFactory_CreateFormatConverter_Proxy
+         79   4E 000B5130 IWICImagingFactory_CreatePalette_Proxy
+         80   4F 000B5710 IWICImagingFactory_CreateQueryWriterFromReader_Proxy
+         81   50 000B5740 IWICImagingFactory_CreateQueryWriter_Proxy
+         82   51 000B5770 IWICImagingFactory_CreateStream_Proxy
+         83   52 000B51D0 IWICMetadataBlockReader_GetCount_Proxy
+         84   53 000B4BE0 IWICMetadataBlockReader_GetReaderByIndex_Proxy
+         85   54 000B5060 IWICMetadataQueryReader_GetContainerFormat_Proxy
+         86   55 000B4E50 IWICMetadataQueryReader_GetEnumerator_Proxy
+         87   56 000B4C10 IWICMetadataQueryReader_GetLocation_Proxy
+         88   57 000B4BE0 IWICMetadataQueryReader_GetMetadataByName_Proxy
+         89   58 000B4C40 IWICMetadataQueryWriter_RemoveMetadataByName_Proxy
+         90   59 000B4DF0 IWICMetadataQueryWriter_SetMetadataByName_Proxy
+         91   5A 000B57A0 IWICPalette_GetColorCount_Proxy
+         92   5B 000B5000 IWICPalette_GetColors_Proxy
+         93   5C 000B4DF0 IWICPalette_GetType_Proxy
+         94   5D 000B4E80 IWICPalette_HasAlpha_Proxy
+         95   5E 000B51D0 IWICPalette_InitializeCustom_Proxy
+         96   5F 000B57F0 IWICPalette_InitializeFromBitmap_Proxy
+         97   60 000B4E50 IWICPalette_InitializeFromPalette_Proxy
+         98   61 000B5060 IWICPalette_InitializePredefined_Proxy
+         99   62 000B4EB0 IWICPixelFormatInfo_GetBitsPerPixel_Proxy
+        100   63 000B5820 IWICPixelFormatInfo_GetChannelCount_Proxy
+        101   64 000B5850 IWICPixelFormatInfo_GetChannelMask_Proxy
+        102   65 000B5820 IWICStream_InitializeFromIStream_Proxy
+        103   66 000B5890 IWICStream_InitializeFromMemory_Proxy
+        104   67 00061CD0 WICConvertBitmapSource
+        105   68 000B58C0 WICCreateBitmapFromSection
+        106   69 000B5900 WICCreateBitmapFromSectionEx
+        107   6A 000B5A30 WICCreateColorContext_Proxy
+        108   6B 0005A340 WICCreateImagingFactory_Proxy
+        109   6C 00038FF0 WICGetMetadataContentSize
+        110   6D 000B5A60 WICMapGuidToShortName
+        111   6E 00016570 WICMapSchemaToName
+        112   6F 000B5BE0 WICMapShortNameToGuid
+        113   70 0001D710 WICMatchMetadataContent
+        114   71 00038540 WICSerializeMetadataContent
+        115   72 000B5CB0 WICSetEncoderFormat_Proxy
+
+  Summary
+
+        5000 .data
+        1000 .didat
+       10000 .pdata
+       51000 .rdata
+        6000 .reloc
+        1000 .rsrc
+      144000 .text
+        1000 RT_CODE

@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\mpeval.dll
+
+File Type: DLL
+
+  Section contains the following exports for mpeval.dll
+
+    00000000 characteristics
+    8DE54D80 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011E70 DllCanUnloadNow
+          2    1 00011EB0 DllGetClassObject
+          3    2 00012160 DllMain
+          4    3 00011DD0 DllRegisterServer
+          5    4 00011E20 DllUnregisterServer
+          6    5 00011BC0 GetProviderClassID
+          7    6 00012160 MI_Main
+          8    7 00018010 MPEvalTrap
+          9    8 00038780 NITS_PRESENCE_STUB
+         10    9 00018160 NITS_STUB
+         11    A 00018900 monitoring_platform_evaluatorFT_V1
+
+  Summary
+
+       22000 .data
+        1000 .pdata
+       1F000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       17000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\AppInstallerPrompt.Desktop.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppInstallerPrompt.Desktop.dll
+
+    00000000 characteristics
+    A9C16750 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001570 DllCanUnloadNow
+          2    1 00001390 DllGetActivationFactory
+          3    2 00001600 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

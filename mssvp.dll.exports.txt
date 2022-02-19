@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\mssvp.dll
+
+File Type: DLL
+
+  Section contains the following exports for mssup.DLL
+
+    00000000 characteristics
+    7B8E967C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003D90 DllCanUnloadNow
+          2    1 00002FE0 DllGetClassObject
+          3    2 00011DD0 DllRegisterServer
+          4    3 00011E80 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3D000 .text

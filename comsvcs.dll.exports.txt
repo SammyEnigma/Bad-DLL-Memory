@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\comsvcs.dll
+
+File Type: DLL
+
+  Section contains the following exports for comsvcs.dll
+
+    00000000 characteristics
+    C90204F0 time date stamp
+        0.00 version
+           5 ordinal base
+          22 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          8    0 0003C0E0 CoCreateActivity
+          9    1 00028F10 CoEnterServiceDomain
+         10    2 00029040 CoLeaveServiceDomain
+         11    3 00074140 CoLoadServices
+         12    4 000217F0 ComSvcsExceptionFilter
+         13    5 0002D280 ComSvcsLogError
+          5    6 00033A40 CosGetCallContext
+         14    7 0002EA10 DispManGetContext
+         15    8 00021920 DllCanUnloadNow
+         16    9 00021970 DllGetClassObject
+         17    A 00002890 DllRegisterServer
+         18    B 00002890 DllUnregisterServer
+         19    C 00021C50 GetMTAThreadPoolMetrics
+         20    D 00021CF0 GetManagedExtensions
+         21    E 0002D360 GetObjectContext
+         22    F 00021DC0 GetTrkSvrObject
+         23   10 0003C400 MTSCreateActivity
+         24   11 00021EA0 MiniDumpW
+         25   12 0002D3A0 RecycleSurrogate
+         26   13 0002D3B0 SafeRef
+          6      00002890 [NONAME]
+          7      0003C340 [NONAME]
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        B000 .pdata
+       80000 .rdata
+        8000 .reloc
+       22000 .rsrc
+       E8000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\WebRuntimeManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for WebRuntimeManager.dll
+
+    00000000 characteristics
+    774AE295 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00057AF0 CreateMessagePortEventDispatcher
+          2    1 00033AA0 CreateServiceWorkerClientMessageDispatcher
+          3    2 0002E180 CreateWebRuntimeFactory
+          4    3 0002E190 CreateWebRuntimeNotificationFromEventArg
+          5    4 0002E530 DllGetActivationFactory
+          6    5 0002E630 EnsureServiceWorkerManagerComponent
+
+  Summary
+
+        6000 .data
+        1000 .didat
+       1C000 .pdata
+       AE000 .rdata
+        D000 .reloc
+       18000 .rsrc
+      184000 .text

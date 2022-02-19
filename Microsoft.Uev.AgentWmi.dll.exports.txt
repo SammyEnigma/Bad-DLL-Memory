@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wbem\Microsoft.Uev.AgentWmi.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Uev.AgentWmi.dll
+
+    00000000 characteristics
+    D87E0EE6 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008FB0 DllCanUnloadNow
+          2    1 00008FF0 DllGetClassObject
+          3    2 00009340 DllInstall
+          4    3 00009130 DllRegisterServer
+          5    4 00009280 DllUnregisterServer
+
+  Summary
+
+        C000 .data
+        B000 .pdata
+       64000 .rdata
+        2000 .reloc
+        2000 .rsrc
+      105000 .text

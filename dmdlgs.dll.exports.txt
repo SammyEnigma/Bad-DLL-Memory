@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\dmdlgs.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMDLGS.dll
+
+    00000000 characteristics
+    B788A202 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001150 ?AddLDMObjMapEntry@CDataCache@@QEAAXPEAU_LDM_OBJ_MAP_ENTRY@@@Z
+          2    1 00001130 ?GetDiskCount@CDataCache@@QEAAKXZ
+          3    2 000010F0 ?GetLdmObjectId@CDMNodeObj@@QEAA_JXZ
+          4    3 00001120 ?GetNumMembers@CDMNodeObj@@QEAAKXZ
+          5    4 00001380 ?GetOcxFrameCWndPtr@CTaskData@@QEAAPEAVCWnd@@XZ
+          6    5 00001390 ?GetRegionColorStructPtr@CTaskData@@QEAAXPEAPEAU_REGION_COLORS@@AEAH@Z
+          7    6 000012C0 ?GetServerName@CDataCache@@QEAA?AVCString@@XZ
+          8    7 00001140 ?GetVolumeCount@CDataCache@@QEAAKXZ
+          9    8 0000EEA0 DllCanUnloadNow
+         10    9 0000EE10 DllGetClassObject
+         11    A 0000EF00 DllRegisterServer
+
+  Summary
+
+        4000 .data
+        2000 .pdata
+       17000 .rdata
+        2000 .reloc
+       35000 .rsrc
+       27000 .text

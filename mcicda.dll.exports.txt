@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\mcicda.dll
+
+File Type: DLL
+
+  Section contains the following exports for MCICDA.dll
+
+    00000000 characteristics
+    546453D5 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001490 DriverProc
+
+  Summary
+
+        9000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

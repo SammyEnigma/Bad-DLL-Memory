@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech\Engines\SR\spsrx.dll
+
+File Type: DLL
+
+  Section contains the following exports for spsrx.DLL
+
+    00000000 characteristics
+     A7F7DAE time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001380 DllCanUnloadNow
+          2    1 000013A0 DllGetClassObject
+          3    2 000014D0 DllRegisterServer
+          4    3 000015C0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        7000 .rsrc
+        D000 .text

@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\mfds.dll
+
+File Type: DLL
+
+  Section contains the following exports for MFDS.DLL
+
+    00000000 characteristics
+    2F207E0E time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000145B0 DllCanUnloadNow
+          2    1 00003F40 DllGetClassObject
+          3    2 00035120 DllRegisterServer
+          4    3 00035150 DllUnregisterServer
+          5    4 0002C430 InitAACAudioStream_
+          6    5 0002C440 InitAC3AudioStream_
+          7    6 0002C450 InitBDAVLPCMAudioStream_
+          8    7 0002C460 InitDDPlusAudioStream_
+          9    8 0002C470 InitDTSAudioStream_
+         10    9 0002C480 InitH264Stream_
+         11    A 0002C490 InitHEVCStream_
+         12    B 0002C4A0 InitLPCMAudioStream_
+         13    C 0002C4B0 InitLPCMMiracastAudioStream_
+         14    D 0000F160 InitMpeg1VideoStream_
+         15    E 0000F2E0 InitMpeg2VideoStream_
+         16    F 000107F0 InitMpegAudioStream_
+         17   10 0002C4C0 InitTrueHDAudioStream_
+         18   11 0000DDF0 PESHeaderLength
+         19   12 0000E210 PESPacketLength
+         20   13 0000D7A0 PESPacketPTSinPCR
+         21   14 00014260 PackMuxRate
+         22   15 00013D20 PackSCR
+         23   16 0002C4D0 xCreateCannedMediaType
+         24   17 00012330 xMediaSubTypeTransform
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        9000 .pdata
+       22000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       BA000 .text

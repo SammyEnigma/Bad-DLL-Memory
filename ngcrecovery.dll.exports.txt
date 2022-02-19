@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\ngcrecovery.dll
+
+File Type: DLL
+
+  Section contains the following exports for ngcrecovery.dll
+
+    00000000 characteristics
+    4E6BBBA2 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00018D50 NgcIsPinRecoveryEnabled
+          2    1 00019210 NgcProtectPinRecoverySecret
+          3    2 00019BD0 NgcRecoverPin
+          4    3 0001A5B0 NgcRecoverPinSilent
+          5    4 0001AEC0 NgcVerifyPinRecoverySecret
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2F000 .text

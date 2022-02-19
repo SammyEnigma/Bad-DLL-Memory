@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\keymgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for KEYMGR.dll
+
+    00000000 characteristics
+    7BC120B5 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002C80 CPlApplet
+          2    1 00001B30 DllCanUnloadNow
+          3    2 00001B50 DllGetClassObject
+          4    3 00002D40 DllMain
+          5    4 00002DC0 KRShowKeyMgr
+          6    5 00007EE0 PRShowRestoreFromMsginaW
+          7    6 00007EE0 PRShowRestoreWizardExW
+          8    7 00007AB0 PRShowRestoreWizardW
+          9    8 00007E90 PRShowSaveFromMsginaW
+         10    9 00007E00 PRShowSaveWizardExW
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

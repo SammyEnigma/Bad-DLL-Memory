@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\fhevents.dll
+
+File Type: DLL
+
+  Section contains the following exports for FHEVENTS.dll
+
+    00000000 characteristics
+    B581B4BB time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003430 DpElGetNextEvent
+          2    1 00003440 DpElReleaseObjects
+          3    2 00003300 DpElScanEvents
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

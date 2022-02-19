@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\pcasvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for PCASVC.dll
+
+    00000000 characteristics
+    C8AA39B2 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001E3E0 PcaPatchSdbTask
+          2    1 0001E260 QueryEncapsulationSettings
+          3    2 0001E2F0 QueryEncapsulationSettingsTC
+          4    3 00013580 ServiceMain
+          5    4 00015D90 SvchostPushServiceGlobals
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        7000 .pdata
+       3B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       8E000 .text

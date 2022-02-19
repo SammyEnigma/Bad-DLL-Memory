@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\netwtw06.inf_amd64_eaf54b1eb44dbe3a\IntelIHVRouter06.dll
+
+File Type: DLL
+
+  Section contains the following exports for IntelIHVRouter.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028770 Dot11ExtIhvGetVersionInfo
+          2    1 00028100 Dot11ExtIhvInitService
+          3    2 0002A6E0 Dot11ExtIhvInitVirtualStation
+
+  Summary
+
+        6000 .data
+        B000 .pdata
+       2E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       C3000 .text
+        1000 _RDATA

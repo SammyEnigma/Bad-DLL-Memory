@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\CloudExperienceHostBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for CloudExperienceHostBroker.dll
+
+    00000000 characteristics
+    9F157AF1 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005770 DllCanUnloadNow
+          2    1 00005460 DllGetActivationFactory
+          3    2 00005640 DllGetClassObject
+          4    3 000023E0 GetProxyDllInfo
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       18000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       33000 .text

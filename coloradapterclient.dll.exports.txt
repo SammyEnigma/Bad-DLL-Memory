@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\coloradapterclient.dll
+
+File Type: DLL
+
+  Section contains the following exports for ColorAdapterClient.dll
+
+    00000000 characteristics
+    ACDB6AA7 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000045F0 ModernColorGetGDILutFromHDC
+          2    1 00003FE0 ModernColorSetGDILut
+          3    2 00004270 ModernColorSetGDILutFromHDC
+          4    3 00004F40 ModernColorSetLut
+          5    4 00003A90 ModernColorSetMatrix
+          6    5 00003C40 ModernColorSetMatrixFromHDC
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iscsi.inf_amd64_c089962740ea1f84\iscsilog.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        4000 .rsrc

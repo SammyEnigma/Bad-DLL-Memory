@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\migwiz\replacementmanifests\Microsoft-Windows-TerminalServices-LicenseServer\TlsRepPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for TlsMigPlugin.dll
+
+    00000000 characteristics
+    1D47EB88 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000015C0 DllCanUnloadNow
+          2    1 00001290 DllGetClassObject
+          3    2 00001600 DllMain
+          4    3 000013F0 DllRegisterServer
+          5    4 00001520 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\NcdAutoSetup.dll
+
+File Type: DLL
+
+  Section contains the following exports for NcdAutoSetup.dll
+
+    00000000 characteristics
+    4D0AA849 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D210 NcdAutoSetup_Generalize
+          3    1 0000F3C0 SvchostMain
+          2    2 0000F690 SvchostPushServiceGlobals
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       10000 .text

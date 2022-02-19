@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\sppwmi.dll
+
+File Type: DLL
+
+  Section contains the following exports for sppwmi.dll
+
+    00000000 characteristics
+    65E68642 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000DC90 DllCanUnloadNow
+          2    1 0000DCB0 DllGetClassObject
+          3    2 0000DD70 DllRegisterServer
+          4    3 0000DDB0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       1A000 .text

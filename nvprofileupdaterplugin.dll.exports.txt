@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\Display.NvContainer\plugins\Session\nvprofileupdaterplugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvProfileUpdaterPlugin.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00046D70 NvPluginGetInfo
+
+  Summary
+
+        C000 .data
+       23000 .pdata
+       6A000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      180000 .text

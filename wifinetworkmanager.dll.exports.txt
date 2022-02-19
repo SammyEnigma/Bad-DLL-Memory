@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wifinetworkmanager.dll
+
+File Type: DLL
+
+  Section contains the following exports for WiFiNetworkManager.dll
+
+    00000000 characteristics
+    D82336AF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0001C100 DllCanUnloadNow
+          3    1 0001C150 DllGetClassObject
+          1    2 00008070 PopulateFuncTable
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        7000 .pdata
+       37000 .rdata
+        1000 .reloc
+        F000 .rsrc
+       77000 .text

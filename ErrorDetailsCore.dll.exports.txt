@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\ErrorDetailsCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for ErrorDetailsCore.dll
+
+    00000000 characteristics
+    B037DB2E time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002DD0 FreeErrorDetails
+          2    1 00002E50 GetErrorDetails
+          3    2 00002FB0 GetErrorDetailsWithContext
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

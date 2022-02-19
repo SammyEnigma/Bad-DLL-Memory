@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\workfolderssvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for workfolderssvc.DLL
+
+    00000000 characteristics
+    D4345B3E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005D90 ClientInitEcsLib
+          3    1 00005DB0 ClientUnInitEcsLib
+          4    2 00005D70 DllCanUnloadNow
+          1    3 00005D80 ServiceMain
+
+  Summary
+
+        5000 .data
+       11000 .pdata
+       88000 .rdata
+        3000 .reloc
+        A000 .rsrc
+      17A000 .text

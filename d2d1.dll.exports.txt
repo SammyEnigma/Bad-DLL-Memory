@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\d2d1.dll
+
+File Type: DLL
+
+  Section contains the following exports for d2d1.dll
+
+    00000000 characteristics
+    DF04746A time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+         12    0 0011E3D0 D2D1ComputeMaximumScaleFactor
+          6    1 0011EB10 D2D1ConvertColorSpace
+          7    2 0011EC90 D2D1CreateDevice
+          8    3 0011ECE0 D2D1CreateDeviceContext
+          1    4 000C3B20 D2D1CreateFactory
+         13    5 0012A250 D2D1GetGradientMeshInteriorPointsFromCoonsPatch
+          5    6 000AF3F0 D2D1InvertMatrix
+          4    7 000B8560 D2D1IsMatrixInvertible
+          2    8 000D8240 D2D1MakeRotateMatrix
+          3    9 0012A710 D2D1MakeSkewMatrix
+          9    A 0011ED30 D2D1SinCos
+         10    B 0011EDC0 D2D1Tan
+         11    C 0011EE10 D2D1Vec3Length
+
+  Summary
+
+        5000 .data
+        1000 .didat
+       25000 .pdata
+      2B0000 .rdata
+       11000 .reloc
+       12000 .rsrc
+      2C0000 .text
+        1000 RT_CODE

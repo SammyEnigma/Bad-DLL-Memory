@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\UserMgrProxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for usermgrproxy.dll
+
+    00000000 characteristics
+    A256AF01 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D090 DllCanUnloadNow
+          2    1 0000A1F0 DllGetActivationFactory
+          3    2 0000C900 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       28000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       21000 .text

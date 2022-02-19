@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\wbiosrvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for wbiosrvc.dll
+
+    00000000 characteristics
+    DA990C78 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000069F0 OutOfProcessExceptionEventCallback
+          2    1 00006D70 OutOfProcessExceptionEventDebuggerLaunchCallback
+          3    2 00006AB0 OutOfProcessExceptionEventSignatureCallback
+          4    3 00005E60 ServiceMain
+          5    4 00005E50 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        7000 .pdata
+       28000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       A3000 .text

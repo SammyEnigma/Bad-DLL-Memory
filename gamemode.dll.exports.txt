@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\gamemode.dll
+
+File Type: DLL
+
+  Section contains the following exports for gamemode.dll
+
+    00000000 characteristics
+    666D4136 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004E90 GetExpandedResourceExclusiveCpuCount
+          2    1 00004E10 HasExpandedResources
+          3    2 000048A0 MsixvcAddGameToGCS
+          4    3 00003FD0 MsixvcAddPackageAsync
+          5    4 000047A0 MsixvcRemediateMutablePackagesForVolumeAsync
+          6    5 00004700 MsixvcUpdatePolicyString
+          7    6 00004750 MsixvcUpdatePolicyUInt64
+          8    7 00004F90 ReleaseExclusiveCpuSets
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

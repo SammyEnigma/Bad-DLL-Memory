@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\fthsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for fthsvc.dll
+
+    00000000 characteristics
+    6A6A7BCB time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008D10 FthSysprepSpecialize
+          2    1 00008E60 FthSysprepSpecializeOffline
+          3    2 00001260 WdiDiagnosticModuleMain
+          4    3 00001230 WdiGetDiagnosticModuleInterfaceVersion
+          5    4 00001400 WdiHandleInstance
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

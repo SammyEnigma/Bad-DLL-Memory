@@ -1,0 +1,98 @@
+
+Dump of file C:\Windows\System32\winipsec.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINIPSEC.DLL
+
+    00000000 characteristics
+    2F7AC86E time date stamp
+        0.00 version
+          20 ordinal base
+          76 number of functions
+          73 number of names
+
+    ordinal hint RVA      name
+
+         47    0 00004820 AddMMAuthMethods
+         38    1 000033A0 AddMMFilter
+         85    2 00007E50 AddMMFilterEx
+         33    3 000028A0 AddMMPolicy
+         28    4 00001D80 AddQMPolicy
+         76    5 00005280 AddSAs
+         23    6 000014A0 AddTransportFilter
+         91    7 00008A60 AddTransportFilterEx
+         63    8 00006100 AddTunnelFilter
+         54    9 00005280 CloseIKENegotiationHandle
+         60    A 00005280 CloseIKENotifyHandle
+         70    B 00006F20 CloseMMFilterHandle
+         72    C 00007220 CloseTransportFilterHandle
+         74    D 00007520 CloseTunnelFilterHandle
+         48    E 00004A20 DeleteMMAuthMethods
+         39    F 000035E0 DeleteMMFilter
+         34   10 00002AC0 DeleteMMPolicy
+         57   11 00005600 DeleteMMSAs
+         29   12 00001FA0 DeleteQMPolicy
+         77   13 00005870 DeleteQMSAs
+         24   14 000016D0 DeleteTransportFilter
+         64   15 00006340 DeleteTunnelFilter
+         20   16 000010E0 DllMain
+         75   17 00007600 EnumIPSecInterfaces
+         49   18 00004BD0 EnumMMAuthMethods
+         40   19 000036C0 EnumMMFilters
+         86   1A 00008090 EnumMMFiltersEx
+         35   1B 00002CA0 EnumMMPolicies
+         55   1C 000052B0 EnumMMSAs
+         30   1D 00002180 EnumQMPolicies
+         62   1E 00005E90 EnumQMSAs
+         25   1F 000017B0 EnumTransportFilters
+         92   20 00008CA0 EnumTransportFiltersEx
+         65   21 00006420 EnumTunnelFilters
+         78   22 00007A90 GetConfigurationVariables
+         51   23 00005040 GetMMAuthMethods
+         42   24 00003B30 GetMMFilter
+         88   25 00008500 GetMMFilterEx
+         37   26 00003170 GetMMPolicy
+         46   27 000045F0 GetMMPolicyByID
+         32   28 00002650 GetQMPolicy
+         45   29 000043C0 GetQMPolicyByID
+         27   2A 00001C20 GetTransportFilter
+         94   2B 00009110 GetTransportFilterEx
+         67   2C 00006890 GetTunnelFilter
+         52   2D 00005270 InitiateIKENegotiation
+         43   2E 00003C90 MatchMMFilter
+         89   2F 00008660 MatchMMFilterEx
+         44   30 000040B0 MatchTransportFilter
+         95   31 00009270 MatchTransportFilterEx
+         68   32 000069F0 MatchTunnelFilter
+         69   33 00006D00 OpenMMFilterHandle
+         84   34 00009580 OpenMMFilterHandleEx
+         71   35 00007000 OpenTransportFilterHandle
+         90   36 000097A0 OpenTransportFilterHandleEx
+         73   37 00007300 OpenTunnelFilterHandle
+         53   38 00005270 QueryIKENegotiationStatus
+         59   39 00005280 QueryIKENotifyData
+         56   3A 00005AC0 QueryIKEStatistics
+         61   3B 00005CA0 QueryIPSecStatistics
+         80   3C 00007C50 QuerySpdPolicyState
+         58   3D 00005280 RegisterIKENotifyClient
+         21   3E 00001310 SPDApiBufferAllocate
+         22   3F 00001420 SPDApiBufferFree
+         79   40 00007890 SetConfigurationVariables
+         50   41 00004E30 SetMMAuthMethods
+         41   42 00003990 SetMMFilter
+         87   43 00008360 SetMMFilterEx
+         36   44 00002F00 SetMMPolicy
+         31   45 000023E0 SetQMPolicy
+         26   46 00001A80 SetTransportFilter
+         93   47 00008F70 SetTransportFilterEx
+         66   48 000066F0 SetTunnelFilter
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

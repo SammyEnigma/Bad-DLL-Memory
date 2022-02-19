@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\ConsentUxClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for ConsentUxClient.dll
+
+    00000000 characteristics
+    23F19239 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          4    0 000067C0 DllCanUnloadNow
+          1    1 00006850 DllGetActivationFactory
+          2    2 000066E0 ServiceMain
+          3    3 000066D0 SvchostPushServiceGlobals
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1C000 .text

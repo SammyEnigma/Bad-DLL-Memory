@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\InputLocaleManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for InputLocaleManager.dll
+
+    00000000 characteristics
+    C9D8E186 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005420 InputLocaleManagerCreate
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

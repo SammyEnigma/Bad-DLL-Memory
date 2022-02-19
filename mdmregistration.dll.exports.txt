@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\mdmregistration.dll
+
+File Type: DLL
+
+  Section contains the following exports for MDMRegistration.DLL
+
+    00000000 characteristics
+    4F71E28C time date stamp
+        0.00 version
+           2 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0000A4B0 DiscoverManagementService
+          4    1 00009FB0 DiscoverManagementServiceEx
+          2    2 0000E0E0 FindDiscoveryService
+          5    3 0000B300 GetDeviceManagementConfigInfo
+          6    4 0000AD20 GetDeviceRegistrationInfo
+          7    5 0000B0F0 GetManagementAppHyperlink
+          8    6 0000AF50 IsDeviceRegisteredWithManagement
+          9    7 000052E0 IsManagementRegistrationAllowed
+         10    8 000052F0 IsMdmUxWithoutAadAllowed
+         11    9 0000A4C0 RegisterDeviceWithManagement
+         12    A 0000A910 RegisterDeviceWithManagementUsingAADCredentials
+         13    B 0000A930 RegisterDeviceWithManagementUsingAADDeviceCredentials
+         14    C 0000A950 RegisterDeviceWithManagementUsingAADDeviceCredentials2
+         15    D 0000B420 SetDeviceManagementConfigInfo
+         16    E 00009F10 SetManagedExternally
+         17    F 0000A970 UnregisterDeviceWithManagement
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       1F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       31000 .text

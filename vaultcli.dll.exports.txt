@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\vaultcli.dll
+
+File Type: DLL
+
+  Section contains the following exports for VAULTCLI.dll
+
+    00000000 characteristics
+    6A02CCF4 time date stamp
+        0.00 version
+         101 ordinal base
+          24 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+        108    0 0000E920 DllCanUnloadNow
+        109    1 0000EA90 DllGetActivationFactory
+        110    2 00017D70 DllGetClassObject
+        111    3 0001B510 VaultAddItem
+        112    4 00003620 VaultCloseVault
+        113    5 0001B5D0 VaultCreateItemType
+        114    6 0001B6E0 VaultDeleteItemType
+        115    7 0001B7C0 VaultEnumerateItemTypes
+        116    8 00002820 VaultEnumerateItems
+        117    9 0001B900 VaultEnumerateVaults
+        118    A 0001B9D0 VaultFindItems
+        119    B 00017610 VaultFree
+        120    C 0001BB00 VaultGetInformation
+        121    D 00003500 VaultGetItem
+        122    E 00003400 VaultGetItemType
+        123    F 000038F0 VaultOpenVault
+        124   10 0001BB90 VaultRemoveItem
+        101      0001B170 [NONAME]
+        102      0001B210 [NONAME]
+        103      0001B0E0 [NONAME]
+        104      0001B2F0 [NONAME]
+        105      0001B380 [NONAME]
+        106      0001AD30 [NONAME]
+        107      000036B0 [NONAME]
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+       19000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       30000 .text

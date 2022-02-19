@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\ActionCenterCPL.dll
+
+File Type: DLL
+
+  Section contains the following exports for ACTIONCENTERCPL.dll
+
+    00000000 characteristics
+     5207FC1 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004F10 DllCanUnloadNow
+          2    1 00004F40 DllGetClassObject
+          3    2 00004F30 DllRegisterServer
+          4    3 00004F30 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

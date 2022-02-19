@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\libEGL.dll
+
+File Type: DLL
+
+  Section contains the following exports for libEGL.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          36 number of functions
+          36 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000028D0 eglBindAPI
+          2    1 00002DA0 eglBindTexImage
+          3    2 00001A60 eglChooseConfig
+          4    3 00003F60 eglCopyBuffers
+          5    4 00002F20 eglCreateContext
+          6    5 00005840 eglCreateImageKHR
+          7    6 00002B60 eglCreatePbufferFromClientBuffer
+          8    7 000020E0 eglCreatePbufferSurface
+          9    8 000024C0 eglCreatePixmapSurface
+         10    9 00001E50 eglCreateWindowSurface
+         11    A 000031E0 eglDestroyContext
+         12    B 00005890 eglDestroyImageKHR
+         13    C 00002530 eglDestroySurface
+         14    D 00001D20 eglGetConfigAttrib
+         15    E 00001960 eglGetConfigs
+         16    F 00003770 eglGetCurrentContext
+         17   10 00003910 eglGetCurrentDisplay
+         18   11 00003800 eglGetCurrentSurface
+         19   12 000015A0 eglGetDisplay
+         20   13 00001550 eglGetError
+         21   14 00003FD0 eglGetProcAddress
+         22   15 000016D0 eglInitialize
+         23   16 00003310 eglMakeCurrent
+         24   17 00002950 eglQueryAPI
+         25   18 000039A0 eglQueryContext
+         26   19 00001820 eglQueryString
+         27   1A 00002650 eglQuerySurface
+         28   1B 00002E10 eglReleaseTexImage
+         29   1C 00002AA0 eglReleaseThread
+         30   1D 00002BD0 eglSurfaceAttrib
+         31   1E 00003D60 eglSwapBuffers
+         32   1F 00002E80 eglSwapInterval
+         33   20 00001790 eglTerminate
+         34   21 000029B0 eglWaitClient
+         35   22 00003BA0 eglWaitGL
+         36   23 00003CD0 eglWaitNative
+
+  Summary
+
+        2000 .data
+        7000 .rdata
+        2000 .reloc
+       15000 .text

@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvcuvid32.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvcuvid32.dll
+
+    00000000 characteristics
+    5FD3FE42 time date stamp Sat Dec 12 00:18:26 2020
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A042 CreateEncoderInterface
+          5    1 00006974 __std_2U4S4U_X08
+          2    2 0000A9DE __std_4U4S4U_X04
+          6    3 00002F54 cuvidConvertYUVToRGB
+          7    4 00003693 cuvidConvertYUVToRGBArray
+          8    5 0000A272 cuvidCreateDecoder
+          9    6 00005C6D cuvidCreateVideoParser
+         10    7 00009232 cuvidCreateVideoSource
+         11    8 000076B7 cuvidCreateVideoSourceW
+         12    9 00002108 cuvidCtxLock
+         13    A 00001A7D cuvidCtxLockCreate
+         14    B 0000A713 cuvidCtxLockDestroy
+         15    C 0000ABDC cuvidCtxUnlock
+         16    D 0000713A cuvidDecodePicture
+         17    E 0000937C cuvidDestroyDecoder
+         18    F 0000A830 cuvidDestroyVideoParser
+         19   10 00003AC6 cuvidDestroyVideoSource
+         20   11 0000A80D cuvidGetDecodeStatus
+         21   12 000090B6 cuvidGetDecoderCaps
+         22   13 0000173A cuvidGetSourceAudioFormat
+         23   14 0000601E cuvidGetSourceVideoFormat
+         24   15 0000552E cuvidGetVideoFrameSurface
+         25   16 0000342C cuvidGetVideoSourceState
+         26   17 00008EE5 cuvidMapVideoFrame
+          3   18 00001B72 cuvidMapVideoFrame64
+         27   19 00006433 cuvidParseVideoData
+         28   1A 0000A14B cuvidPrivateOp
+         29   1B 00007AC7 cuvidReconfigureDecoder
+         30   1C 0000A2B8 cuvidSetVideoSourceState
+         31   1D 000016FE cuvidUnmapVideoFrame
+          4   1E 00003DB9 cuvidUnmapVideoFrame64
+
+  Summary
+
+        1000 .00cfg
+        B000 .data
+        2000 .idata
+      4A5000 .rdata
+       1A000 .reloc
+        1000 .rsrc
+      244000 .text
+        1000 .tls

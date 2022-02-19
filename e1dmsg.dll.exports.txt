@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\e1d68x64.inf_amd64_b44028fc7fdf4fca\e1dmsg.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       19000 .rsrc

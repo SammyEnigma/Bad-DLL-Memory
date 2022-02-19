@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvd3dum_cfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for NVD3DUM.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00C61320 OpenAdapter
+          2    1 00C615F0 QueryOglResource
+
+  Summary
+
+      45F000 .data
+      3E0000 .rdata
+       64000 .reloc
+        7000 .rsrc
+      F61000 .text
+        F000 PAGE
+        C000 PAGECONS
+        3000 PAGEDATA

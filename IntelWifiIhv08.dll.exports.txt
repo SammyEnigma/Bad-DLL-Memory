@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\netwtw08.inf_amd64_7c0c516fb22456cd\IntelWifiIhv08.dll
+
+File Type: DLL
+
+  Section contains the following exports for IntelWifiIhv08.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002F050 Dot11ExtIhvGetVersionInfo
+          2    1 0002E760 Dot11ExtIhvInitService
+          3    2 00033680 Dot11ExtIhvInitVirtualStation
+
+  Summary
+
+        6000 .data
+        C000 .pdata
+       35000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       C9000 .text
+        1000 _RDATA

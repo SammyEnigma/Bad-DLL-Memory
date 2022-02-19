@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Sensors.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Sensors.dll
+
+    00000000 characteristics
+    160E5851 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00026480 DllCanUnloadNow
+          2    1 00006490 DllGetActivationFactory
+          3    2 000264E0 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        C000 .pdata
+       71000 .rdata
+        D000 .reloc
+        1000 .rsrc
+       AC000 .text

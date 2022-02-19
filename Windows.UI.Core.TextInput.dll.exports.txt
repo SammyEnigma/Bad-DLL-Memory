@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Core.TextInput.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Core.TextInput.DLL
+
+    00000000 characteristics
+    B65E45E7 time date stamp
+        0.00 version
+        1500 ordinal base
+           6 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+       1503    0 000496A0 DllCanUnloadNow
+       1504    1 00027D90 DllGetActivationFactory
+       1505    2 000496D0 DllGetClassObject
+       1500      00003F50 [NONAME]
+       1501      00049840 [NONAME]
+       1502      000497D0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        B000 .pdata
+       3D000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       B1000 .text

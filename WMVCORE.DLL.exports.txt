@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\WMVCORE.DLL
+
+File Type: DLL
+
+  Section contains the following exports for WMVCore.DLL
+
+    00000000 characteristics
+    3563EF19 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          8    0 000290D0 DllRegisterServer
+          1    1 0003AEB0 WMCheckURLExtension
+          2    2 0003B1E0 WMCheckURLScheme
+          9    3 0000A410 WMCreateBackupRestorer
+          3    4 0000A410 WMCreateBackupRestorerPrivate
+         10    5 00014100 WMCreateEditor
+         11    6 00103F80 WMCreateIndexer
+          4    7 0000A410 WMCreateLicenseRevocationAgentPrivate
+         12    8 000DE880 WMCreateProfileManager
+         13    9 00003260 WMCreateReader
+         14    A 00003490 WMCreateReaderPriv
+         15    B 000371C0 WMCreateSyncReader
+          5    C 00037120 WMCreateSyncReaderPriv
+         16    D 00092590 WMCreateWriter
+         17    E 000AF9E0 WMCreateWriterFileSink
+         18    F 000B2A50 WMCreateWriterNetworkSink
+         19   10 00092600 WMCreateWriterPriv
+         20   11 000C13A0 WMCreateWriterPushSink
+          6   12 0004B240 WMIsAvailableOffline
+         21   13 0002E430 WMIsContentProtected
+          7   14 0003B270 WMValidateData
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        F000 .pdata
+       54000 .rdata
+        4000 .reloc
+       4E000 .rsrc
+      195000 .text

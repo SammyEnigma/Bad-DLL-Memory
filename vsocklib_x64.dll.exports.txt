@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DRVSTORE\vsock_1D26F09C63400EF661246E87767736E22727E892\vsocklib_x64.dll
+
+File Type: DLL
+
+  Section contains the following exports for vsocklib.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002CB0 WSPStartup
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\kerberos.dll
+
+File Type: DLL
+
+  Section contains the following exports for Kerberos.dll
+
+    00000000 characteristics
+    4369B27E time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0002EF10 DllMain
+          6    1 000606F0 KerbCreateTokenFromTicketForKdc
+          2    2 0004CB60 KerbDomainChangeCallback
+          7    3 0004F1D0 KerbIsInitialized
+          8    4 0004F1E0 KerbKdcCallBack
+          9    5 0006A120 KerbMakeKdcCall
+         10    6 00013740 Kerberos
+          1    7 00026030 SpInitialize
+         32    8 0002ABC0 SpInstanceInit
+          3    9 00023D90 SpLsaModeInitialize
+          4    A 0002AA50 SpUserModeInitialize
+
+  Summary
+
+        A000 .data
+        1000 .didat
+        7000 .pdata
+       21000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       DE000 .text

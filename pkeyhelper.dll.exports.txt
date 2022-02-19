@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\pkeyhelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for pkeyhelper.dll
+
+    00000000 characteristics
+    9A8DF604 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007D60 GetBootPolicySetForEdition
+          2    1 000079F0 GetCompositionEditionForVirtualEdition
+          3    2 00007510 GetDefaultProductKeyForPfn
+          4    3 000073C0 GetEditionIdFromName
+          5    4 000074A0 GetEditionNameFromId
+          6    5 00007910 GetProductKeyFromContentId
+          7    6 00007AE0 GetVirtualEditionsForCompositionEdition
+          8    7 00007780 IsDefaultPKey
+          9    8 00007E90 SkuGetProductKeyForEdition
+         10    9 00006F30 SkuGetUpgradeProductKey
+         11    A 000020E0 SkuGetUpgradeProductKeyEx
+         12    B 00006F90 SkuGetUpgradeProductKeyFromDownlevelEdition
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       BF000 .rdata
+        3000 .reloc
+        1000 .rsrc
+        C000 .text

@@ -1,0 +1,53 @@
+
+Dump of file C:\Windows\System32\ProximityServicePal.dll
+
+File Type: DLL
+
+  Section contains the following exports for ProximityServicePAL.dll
+
+    00000000 characteristics
+    9475886B time date stamp
+        0.00 version
+           1 ordinal base
+          27 number of functions
+          27 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004DD0 PAL_AllowNetworkInterface
+          2    1 000017B0 PAL_BluetoothEnableDiscovery
+          3    2 000017B0 PAL_BluetoothFindDeviceClose
+          4    3 000017B0 PAL_BluetoothFindFirstDevice
+          5    4 00004DF0 PAL_BluetoothFindFirstRadio
+          6    5 000017B0 PAL_BluetoothFindRadioClose
+          7    6 00004E00 PAL_BluetoothOpenFirewall
+         27    7 00006C10 PAL_CoCreateInstanceInSession
+          8    8 00005000 PAL_ConvertAppIdToPackageName
+          9    9 00005010 PAL_CreateForegroundNotifier
+         10    A 00005020 PAL_CreateUnicastIpAddressEntry
+         11    B 00005040 PAL_DeleteUnicastIpAddressEntry
+         12    C 00005060 PAL_FWIndicateTupleInUse
+         13    D 00001730 PAL_FWResetIndicatedTupleInUse
+         14    E 000050D0 PAL_GetCallingApplicationInfo
+         15    F 00001390 PAL_GetConsoleSessionInfo
+         16   10 00005420 PAL_HasWFDHardwareSupport
+         17   11 00005430 PAL_IsInteractiveApplicationId
+         18   12 000056F0 PAL_IsMachineDomainJoined
+         19   13 00005860 PAL_OpenProcessForQuery
+         20   14 000058C0 PAL_RegisterConnectedStandbyNotification
+         21   15 00001090 PAL_RegisterConsoleDisplayStateNotifications
+         22   16 000017B0 PAL_ServiceFreeTransientObjectSecurityAttribute
+         23   17 00004DF0 PAL_ServiceQueryTransientObjectSecurityAttribute
+         24   18 00005A40 PAL_UnregisterConnectedStandbyNotification
+         25   19 00005BA0 PAL_UnregisterConsoleDisplayStateNotifications
+         26   1A 00005BE0 PAL_VerifyCallerIsElevated
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

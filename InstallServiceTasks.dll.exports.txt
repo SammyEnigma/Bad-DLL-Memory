@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\InstallServiceTasks.dll
+
+File Type: DLL
+
+  Section contains the following exports for InstallServiceTasks.dll
+
+    00000000 characteristics
+     44A7441 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000B200 DllCanUnloadNow
+          3    1 0000AFB0 DllGetClassObject
+          4    2 0000B220 DllRegisterServer
+          5    3 0000B220 DllUnregisterServer
+          1    4 0000B820 ForceAppInUseRestart
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       23000 .text

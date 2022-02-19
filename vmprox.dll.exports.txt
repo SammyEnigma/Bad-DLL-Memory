@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\vmprox.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmprox.dll
+
+    00000000 characteristics
+    380FBF7B time date stamp
+        0.00 version
+           3 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          4    0 0000D2F0 ConnectToSynth3dVideoResourcePool
+          5    1 0000C190 DllCanUnloadNow
+          6    2 0000C1D0 DllGetClassObject
+          7    3 0000C240 DllRegisterServer
+          8    4 0000C2B0 DllUnregisterServer
+          3    5 00024260 GetProxyDllInfo
+          9    6 0000E170 GetVmErrInfo
+         10    7 0000E4B0 IsErrorReported
+         11    8 0000E1A0 SetVmErrInfo
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       30000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       2A000 .text

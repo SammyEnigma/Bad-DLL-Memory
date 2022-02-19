@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\rdvgwddmdx11.inf_amd64_e8336336d081cc11\rdvgogl64.dll
+
+File Type: DLL
+
+  Section contains the following exports for wgldriver.dll
+
+    00000000 characteristics
+    5DF3927A time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+         21    0 00002460 DllMain
+          1    1 00003250 DrvCopyContext
+          2    2 00002C10 DrvCreateContext
+          3    3 00002C70 DrvCreateLayerContext
+          4    4 00002FB0 DrvDeleteContext
+          5    5 00003880 DrvDescribeLayerPlane
+          6    6 00003F90 DrvDescribePixelFormat
+          7    7 00003AC0 DrvGetLayerPaletteEntries
+          8    8 00003730 DrvGetProcAddress
+          9    9 00004300 DrvPresentBuffers
+         10    A 00003BF0 DrvRealizeLayerPalette
+         11    B 00002E90 DrvReleaseContext
+         12    C 00004350 DrvSetCallbackProcs
+         13    D 00003020 DrvSetContext
+         14    E 000039D0 DrvSetLayerPaletteEntries
+         15    F 00004150 DrvSetPixelFormat
+         16   10 00003450 DrvShareLists
+         17   11 00004420 DrvSwapBuffers
+         18   12 00003CB0 DrvSwapLayerBuffers
+         19   13 00003D50 DrvSwapMultipleBuffers
+         20   14 000044C0 DrvValidateVersion
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        9000 .pdata
+       23000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       C4000 .text

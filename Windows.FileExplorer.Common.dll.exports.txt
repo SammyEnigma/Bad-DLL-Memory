@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\Windows.FileExplorer.Common.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.FileExplorer.Common.dll
+
+    00000000 characteristics
+    FFD2C4A5 time date stamp
+        0.00 version
+        2000 ordinal base
+          21 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+       2002    0 00032DE0 ApplyProviderSettings
+       2006    1 000076F0 DllCanUnloadNow
+       2007    2 00007600 DllGetClassObject
+       2008    3 00007E80 FECommon_BindToFilePlaceholderHandler
+       2009    4 00007A30 FECommon_CSyncRootManager_CreateInstance
+       2010    5 00007DA0 FECommon_CreatePlaceholderFile
+       2011    6 00007CA0 FECommon_FilePlaceholder_BindToPrimaryStream
+       2012    7 00007E70 FECommon_FilePlaceholder_CreateInstance
+       2013    8 00007E60 FECommon_GetPlaceholderStatesFromFileAttributesAndReparsePointTag
+       2014    9 00007A40 FECommon_GetSkyDriveNetworkStates
+       2015    A 00007E90 FECommon_GetStorageProviderDisplayName
+       2016    B 00007F10 FECommon_GetStorageProviderInfoFromItem
+       2017    C 00007F20 FECommon_PerformCloudFilePinAction
+       2018    D 00007E40 FECommon_SetPlaceholderReparsePointAttribute
+       2019    E 00007DB0 FECommon_SetPlaceholderReparsePointAttribute2
+       2020    F 00007B90 FECommon_UpdateFilePlaceholderStates
+       2003   10 00032C80 GatherProviderSettings
+       2004   11 00032F20 RegisterChangeNotifications
+       2005   12 00033010 UnregisterChangeNotifications
+       2000      000270C0 [NONAME]
+       2001      0001C620 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       12000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       46000 .text

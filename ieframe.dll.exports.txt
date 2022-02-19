@@ -1,0 +1,169 @@
+
+Dump of file C:\Windows\System32\ieframe.dll
+
+File Type: DLL
+
+  Section contains the following exports for IEFRAME.dll
+
+    00000000 characteristics
+     B13C46D time date stamp
+        0.00 version
+          91 ordinal base
+         240 number of functions
+          61 number of names
+
+    ordinal hint RVA      name
+
+        115    0 001C3B50 AddUrlToFavorites
+        116    1 00488F50 CORLockDownProvider
+         96    2 00458AE0 CreateExtensionGuidEnumerator
+        117    3 000EB280 DllCanUnloadNow
+        118    4 00116080 DllGetClassObject
+        119    5 00489B30 DllGetVersion
+        120    6 001AA6E0 DllInstall
+        121    7 0011DC30 DllRegisterServer
+        122    8 0011DC30 DllUnregisterServer
+        123    9 001C3B80 DoAddToFavDlg
+        124    A 001C3E50 DoAddToFavDlgW
+        125    B 001DA1F0 DoBlobDownload
+        126    C 001DA390 DoFileDownload
+        127    D 001DA450 DoFileDownloadEx
+        128    E 001C3F10 DoOrganizeFavDlg
+        129    F 001C3F80 DoOrganizeFavDlgW
+        130   10 001E8A60 DoPrivacyDlg
+         97   11 00497D50 ExportCookieFileByProcessW
+        131   12 001EA3C0 HlinkFindFrame
+        132   13 001F9D80 HlinkFrameNavigate
+        133   14 001F9F20 HlinkFrameNavigateNHL
+        134   15 002AFCB0 IEAssociateThreadWithTab
+        136   16 001B18D0 IECancelSaveFile
+         98   17 001B0940 IECreateDirectory
+         99   18 001B0960 IECreateFile
+        100   19 001B0980 IEDeleteFile
+        138   1A 002AFD60 IEDisassociateThreadWithTab
+        104   1B 001B09A0 IEFindFirstFile
+        106   1C 001B09C0 IEGetFileAttributesEx
+        139   1D 001B1970 IEGetProtectedModeCookie
+        140   1E 001B1CD0 IEGetWriteableFolderPath
+        144   1F 001B1E90 IEGetWriteableHKCU
+        107   20 001B3F30 IEInPrivateFilteringEnabled
+        108   21 000F4980 IEIsInPrivateBrowsing
+        145   22 000E9920 IEIsProtectedModeProcess
+        146   23 001B1F30 IEIsProtectedModeURL
+        109   24 0045A510 IELaunchManageAddOnsUI
+        147   25 001B1F50 IELaunchURL
+        110   26 001B09E0 IEMoveFileEx
+        148   27 001B20E0 IERefreshElevationPolicy
+        149   28 001B2120 IERegCreateKeyEx
+        154   29 001B21F0 IERegSetValueEx
+        155   2A 001B22F0 IERegisterWritableRegistryKey
+        156   2B 001B2360 IERegisterWritableRegistryValue
+        111   2C 001B0A00 IERemoveDirectory
+        157   2D 001B23F0 IESaveFile
+        161   2E 001B2540 IESetProtectedModeCookie
+        164   2F 001B2560 IESetProtectedModeCookieEx
+        169   30 001B28C0 IEShowOpenFileDialog
+        171   31 001B2D00 IEShowSaveFileDialog
+        112   32 001B3F30 IETrackingProtectionEnabled
+        173   33 001B2FE0 IEUnregisterWritableRegistry
+        113   34 00498AD0 ImportCookieFileByProcessW
+        174   35 00205B20 ImportPrivacySettings
+        175   36 001BEEC0 OpenURL
+        163   37 001C44A0 SHAddSubscribeFavorite
+        114   38 0002E700 SetQueryNetSessionCount
+        176   39 0011F7D0 SoftwareUpdateMessageBox
+        177   3A 001DA5E0 TriggerFileDownload
+        178   3B 0048E3B0 URLQualifyA
+        179   3C 0048E4A0 URLQualifyW
+         91      002B7C60 [NONAME]
+         92      002B7C40 [NONAME]
+         93      002794F0 [NONAME]
+         94      002B7C50 [NONAME]
+         95      002B7C90 [NONAME]
+        101      000095F0 [NONAME]
+        102      002B2660 [NONAME]
+        103      001E2660 [NONAME]
+        105      001E2480 [NONAME]
+        135      001B57A0 [NONAME]
+        137      00117240 [NONAME]
+        141      001B56A0 [NONAME]
+        142      001B5710 [NONAME]
+        143      001B6010 [NONAME]
+        150      002155C0 [NONAME]
+        151      0058B760 [NONAME]
+        152      00087E70 [NONAME]
+        153               [NONAME] (forwarded to iertutil.#900)
+        158      0058B6D0 [NONAME]
+        159      0002EE40 [NONAME]
+        160      000888D0 [NONAME]
+        162      001B4640 [NONAME]
+        165      000164C0 [NONAME]
+        166      001B4960 [NONAME]
+        167      0002B530 [NONAME]
+        168      002A6280 [NONAME]
+        170      0007AB20 [NONAME]
+        172      00203E70 [NONAME]
+        199      001E6230 [NONAME]
+        211      001D23F0 [NONAME]
+        212      001B0770 [NONAME]
+        218      00043EE0 [NONAME]
+        222      000420B0 [NONAME]
+        223      001B6FD0 [NONAME]
+        224      0011DE30 [NONAME]
+        231      001086D0 [NONAME]
+        232      001DAAA0 [NONAME]
+        233      000ECCB0 [NONAME]
+        234      000C9880 [NONAME]
+        235      001B7350 [NONAME]
+        236      001FC930 [NONAME]
+        238      0058B840 [NONAME]
+        240      001FC9C0 [NONAME]
+        241      002A9610 [NONAME]
+        242      002B3110 [NONAME]
+        243      00205F70 [NONAME]
+        244      000D9280 [NONAME]
+        245      00028AB0 [NONAME]
+        246      002AFF20 [NONAME]
+        247      002AFF30 [NONAME]
+        251      000050A0 [NONAME]
+        252      000768C0 [NONAME]
+        253      000AC070 [NONAME]
+        254      002A7DE0 [NONAME]
+        255      0013EA90 [NONAME]
+        256               [NONAME] (forwarded to iertutil.#900)
+        257      001C2E20 [NONAME]
+        258      0013EA50 [NONAME]
+        259      001DA190 [NONAME]
+        260      002ACB00 [NONAME]
+        261      001E15B0 [NONAME]
+        262      001E15A0 [NONAME]
+        263      001E1590 [NONAME]
+        264      001E1560 [NONAME]
+        265      001E1550 [NONAME]
+        303      001AAF90 [NONAME]
+        315      001AC1A0 [NONAME]
+        316      001AD830 [NONAME]
+        317      002A4150 [NONAME]
+        318      001B7ED0 [NONAME]
+        319      00036B70 [NONAME]
+        320      001092B0 [NONAME]
+        321      001C4030 [NONAME]
+        322      000E89E0 [NONAME]
+        324      001B8090 [NONAME]
+        325      001B80F0 [NONAME]
+        326      002B4520 [NONAME]
+        327      001AAC40 [NONAME]
+        328      00492A40 [NONAME]
+        329      00203C70 [NONAME]
+        330      00203C80 [NONAME]
+
+  Summary
+
+        D000 .data
+        2000 .didat
+       4E000 .pdata
+      121000 .rdata
+       14000 .reloc
+        D000 .rsrc
+      5BE000 .text
+        1000 ExtTel

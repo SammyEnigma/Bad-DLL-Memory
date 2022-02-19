@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_WorkAccess.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_WorkAccess.dll
+
+    00000000 characteristics
+    3A595138 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005D80 DllCanUnloadNow
+          2    1 00005C80 DllGetClassObject
+          3    2 00005E40 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       17000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       52000 .text

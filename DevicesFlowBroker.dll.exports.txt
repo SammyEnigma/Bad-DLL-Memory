@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DevicesFlowBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for DevicesFlowBroker.dll
+
+    00000000 characteristics
+    F1248D2C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005920 DllCanUnloadNow
+          2    1 00005650 DllGetActivationFactory
+          3    2 00005830 DllGetClassObject
+          4    3 00005A20 ServiceMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       22000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       6A000 .text

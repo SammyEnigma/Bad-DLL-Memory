@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\ISM.dll
+
+File Type: DLL
+
+  Section contains the following exports for ISM.dll
+
+    00000000 characteristics
+    B47BB498 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          9    0 0001EDA0 CreateSystemInputHost
+          1    1 000653C0 IsSystemInputHostStandalone
+          2    2 000153C0 NotifyInputSinkParented
+          3    3 00014000 NotifyInputSinkRemoved
+          4    4 00068990 Register3DCompositor
+          5    5 0003B170 RegisterManipulationThread
+          6    6 000689F0 SetManipulationInputTarget
+          7    7 00068A50 StopAndEndInertia
+          8    8 000689C0 Unregister3DCompositor
+
+  Summary
+
+        5000 .data
+        1000 .didat
+       1A000 .pdata
+       5F000 .rdata
+        5000 .reloc
+        1000 .rsrc
+        1000 .sipc
+      1A5000 .text

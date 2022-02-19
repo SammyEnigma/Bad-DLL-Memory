@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\dxilconv.dll
+
+File Type: DLL
+
+  Section contains the following exports for dxilconv.dll
+
+    00000000 characteristics
+    D383A93B time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001840 DxcCreateInstance
+          1    1 00001970 DxcCreateInstance2
+
+  Summary
+
+        8000 .data
+        8000 .pdata
+       2B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       FB000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\IMETC\IMTCTIP.dll
+
+File Type: DLL
+
+  Section contains the following exports for cctip.dll
+
+    00000000 characteristics
+    2F8DA47A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005D20 DllCanUnloadNow
+          2    1 00005C30 DllGetClassObject
+          3    2 00005D40 DllRegisterServer
+          4    3 00005EA0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       26000 .rdata
+        2000 .reloc
+       B8000 .rsrc
+       65000 .text

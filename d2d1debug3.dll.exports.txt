@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\d2d1debug3.dll
+
+File Type: DLL
+
+  Section contains the following exports for D2D1Debug3.dll
+
+    00000000 characteristics
+    69A32A29 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          1      00005F00 [NONAME]
+          2      00006000 [NONAME]
+          3      00006010 [NONAME]
+
+  Summary
+
+        1000 .data
+        5000 .pdata
+       20000 .rdata
+        4000 .reloc
+        B000 .rsrc
+       5B000 .text

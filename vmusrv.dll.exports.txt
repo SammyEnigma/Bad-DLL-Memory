@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\vmusrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmusrv.dll
+
+    00000000 characteristics
+     3612D5B time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000062C0 VmusrvAddShare
+          2    1 000061B0 VmusrvCleanup
+          3    2 000068A0 VmusrvEnginePause
+          4    3 00006CF0 VmusrvEngineRestore
+          5    4 00006970 VmusrvEngineResume
+          6    5 00006B00 VmusrvEngineSave
+          7    6 000067E0 VmusrvEngineStop
+          8    7 00005CD0 VmusrvInitialize
+          9    8 00006FF0 VmusrvOpenFile
+         10    9 00006620 VmusrvRemoveShare
+         11    A 00006F60 VmusrvSupportsPause
+         12    B 00007040 VmusrvUpdateShareAllowedFileList
+
+  Summary
+
+        3000 .data
+        4000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       61000 .text

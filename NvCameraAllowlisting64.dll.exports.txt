@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\NvCamera\NvCameraAllowlisting64.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvCameraAllowlisting64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005920 AnselEnableCheck
+          2    1 00005910 AnselGetVersion
+
+  Summary
+
+        5000 .data
+        5000 .pdata
+       20000 .rdata
+        2000 .reloc
+        A000 .rsrc
+       73000 .text
+        1000 _RDATA

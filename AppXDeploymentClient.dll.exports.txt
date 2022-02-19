@@ -1,0 +1,108 @@
+
+Dump of file C:\Windows\System32\AppXDeploymentClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppXDeploymentClient.dll
+
+    00000000 characteristics
+    E834A593 time date stamp
+        0.00 version
+           1 ordinal base
+          82 number of functions
+          80 number of names
+
+    ordinal hint RVA      name
+
+         60    0 000635A0 AppInstallerUpdateAllTask
+         14    1 000635D0 AppxAddPackageToAllUserStoreForPbr
+         46    2 00063B90 AppxCleanupOrphanPackages
+         45    3 00063BD0 AppxCleanupSystemAppsMigratedToFOD
+         42    4 00063E80 AppxCleanupWCIReparsePoints
+          3    5 00063F40 AppxCreateSharedLocalFolder
+         76    6 00063F90 AppxCreateSharedLocalFolderForFamilyName
+          7    7 00063FE0 AppxDeletePackageFiles
+         19    8 000640A0 AppxDestagePackage
+         77    9 00064430 AppxDoesSharedLocalFolderExistForFamilyName
+         18    A 000645B0 AppxGetPackageInstalledLocation
+         21    B 00064860 AppxGetStagedPackageFullNameFromFamilyName
+         22    C 00064E80 AppxIsStagedPackageStoreSigned
+          4    D 00017E60 AppxPackageRepositoryRecoverStagedPackages
+          5    E 00017E60 AppxPackageRepositoryRecoverUserInstalls
+         28    F 00064FD0 AppxPreRegisterAllInboxPackages
+         12   10 000650A0 AppxPreRegisterPackage
+         11   11 000651B0 AppxPreStageCleanupRunTask
+          6   12 00017E60 AppxRecoverUserInstallsForUpgrade
+         63   13 000651C0 AppxRegisterPackage
+         75   14 0001D880 AppxRemoveAllPackagesForUserSid
+         30   15 00065320 AppxRemovePackageForAllUsers
+         37   16 000654B0 AppxRemovePackageForUserSid
+          8   17 00065AB0 AppxRequestRemovePackageForUser
+         17   18 00065BE0 AppxStagePackage
+         78   19 000663B0 AppxValidatePackages
+         29   1A 000663D0 AppxValidatePackagesWithOptions
+         61   1B 00066810 CheckAppInstallerUpdateAvailability
+         47   1C 00011270 CheckComCallerHasCapabilities
+         79   1D 00066870 CheckForUpdatesAndWaitForInstallerIfNeeded
+         74   1E 0001DBE0 CleanupProfileForUser
+         67   1F 000669C0 ClientDeleteAllPackagesFromMainPackageArray
+         66   20 00066AE0 ClientGetAllPackagesToBeInstalledForUser
+         38   21 00066C20 CreateCanonicalPriFile
+         50   22 00012B90 DeleteApplicabilityInfoArray
+         80   23 00015F70 DllCanUnloadNow
+         81   24 000112B0 DllGetActivationFactory
+         82   25 00070770 DllGetClassObject
+         71   26 00066CD0 EnsurePackageFamiliesAreRegisteredInContainer
+         44   27 00066DA0 EnsurePackageFamilyIsRegisteredBeforeActivation
+         36   28 00066F70 FixJunctionsForAppsIfNecessary
+         34   29 00067000 GeneratePreInstalledPriFiles
+          2   2A 00067070 GetApplicability
+         20   2B 00017E60 GetApplicability2
+         32   2C 00017E60 GetApplicability4
+         49   2D 0000CD30 GetApplicability5
+         48   2E 00067090 GetBundleApplicablePackages
+         65   2F 000098D0 GetMetadataRootForPackage
+         25   30 00067A90 GetNotificationPayload
+         41   31 00067AD0 GetNotificationPayloadForUser
+         15   32 00067BD0 GetPackageApplicabilityForUserLogon
+         58   33 00067BF0 GetPackageRegistrationStatusForUser
+         68   34 00007E90 GetPackageRegistrationStatusForUserAndDefaultAccount
+         73   35 00067C30 HasPackageFamilyBeenRegisteredForUser
+          9   36 00067EB0 IsPackageInstalled
+         64   37 00067F20 IsPackageMetadataUnderSystemMetadata
+         59   38 00067F70 IsSharedAppsEnabled
+         26   39 00068160 NotifyPackageStatusChanged
+         35   3A 000681F0 PopulateProtocolAndFTA
+         70   3B 00068270 PreRegisterPackagesInContainer
+         10   3C 00068340 RDSRecoverRequests
+         13   3D 000683D0 ReArmAppxPreStageCleanupTask
+         23   3E 00002A30 RegisterNotification
+         39   3F 00002CA0 RegisterNotificationForUser
+         72   40 000683F0 RemovePackageFromContainer
+         43   41 000684C0 RepairPackageFileAcls
+         31   42 00068530 RequestContentGroups
+         33   43 00068590 RequestContentGroupsForFullTrust
+         24   44 000685F0 UnregisterNotification
+         40   45 00002880 UnregisterNotificationForUser
+         53   46 00068620 UpdateAgentCancelAllDownloads
+         51   47 00068660 UpdateAgentCreateDownload
+         62   48 00068700 UpdateAgentFreeDownloadRanges
+         52   49 00068730 UpdateAgentGetDownloadRanges
+         69   4A 00068780 UpdateAgentGetDownloadingPackageCount
+         55   4B 000687D0 UpdateDataSourceAddRange
+         57   4C 00068840 UpdateDataSourceCancelRun
+         54   4D 00068890 UpdateDataSourceRegister
+         56   4E 00068900 UpdateDataSourceRun
+         27   4F 00068950 VerifyPackage
+          1      0005DED0 [NONAME]
+         16      00066FB0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        9000 .pdata
+       48000 .rdata
+        5000 .reloc
+        5000 .rsrc
+       9A000 .text

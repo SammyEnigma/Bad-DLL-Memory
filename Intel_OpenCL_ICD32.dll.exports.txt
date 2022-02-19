@@ -1,0 +1,144 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\Intel_OpenCL_ICD32.dll
+
+File Type: DLL
+
+  Section contains the following exports for OpenCL.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         120 number of functions
+         120 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012C0 clBuildProgram
+          2    1 000012E0 clCloneKernel
+          3    2 00001310 clCompileProgram
+          4    3 00001330 clCreateBuffer
+          5    4 00001370 clCreateCommandQueue
+          6    5 000013B0 clCreateCommandQueueWithProperties
+          7    6 000013E0 clCreateContext
+          8    7 00001430 clCreateContextFromType
+          9    8 000016F0 clCreateFromGLBuffer
+         10    9 00001730 clCreateFromGLRenderbuffer
+         13    A 000017F0 clCreateFromGLTexture
+         11    B 00001770 clCreateFromGLTexture2D
+         12    C 000017B0 clCreateFromGLTexture3D
+         16    D 000018D0 clCreateImage
+         14    E 00001830 clCreateImage2D
+         15    F 00001880 clCreateImage3D
+         17   10 00001910 clCreateKernel
+         18   11 00001940 clCreateKernelsInProgram
+         19   12 00001960 clCreatePipe
+         20   13 000019A0 clCreateProgramWithBinary
+         21   14 000019D0 clCreateProgramWithBuiltInKernels
+         22   15 00001A00 clCreateProgramWithIL
+         23   16 00001A30 clCreateProgramWithSource
+         24   17 00001A60 clCreateSampler
+         25   18 00001A90 clCreateSamplerWithProperties
+         26   19 00001AC0 clCreateSubBuffer
+         27   1A 00001B00 clCreateSubDevices
+         28   1B 00001B40 clCreateUserEvent
+         29   1C 00001BF0 clEnqueueAcquireGLObjects
+         30   1D 00001C10 clEnqueueBarrier
+         31   1E 00001C30 clEnqueueBarrierWithWaitList
+         32   1F 00001C50 clEnqueueCopyBuffer
+         33   20 00001C70 clEnqueueCopyBufferRect
+         34   21 00001C90 clEnqueueCopyBufferToImage
+         35   22 00001CB0 clEnqueueCopyImage
+         36   23 00001CD0 clEnqueueCopyImageToBuffer
+         37   24 00001CF0 clEnqueueFillBuffer
+         38   25 00001D10 clEnqueueFillImage
+         39   26 00001D30 clEnqueueMapBuffer
+         40   27 00001D80 clEnqueueMapImage
+         41   28 00001DD0 clEnqueueMarker
+         42   29 00001DF0 clEnqueueMarkerWithWaitList
+         43   2A 00001E10 clEnqueueMigrateMemObjects
+         44   2B 00001E50 clEnqueueNDRangeKernel
+         45   2C 00001E70 clEnqueueNativeKernel
+         46   2D 00001E90 clEnqueueReadBuffer
+         47   2E 00001EB0 clEnqueueReadBufferRect
+         48   2F 00001ED0 clEnqueueReadImage
+         49   30 00001F70 clEnqueueReleaseGLObjects
+         50   31 00001F90 clEnqueueSVMFree
+         51   32 00001FB0 clEnqueueSVMMap
+         52   33 00001FF0 clEnqueueSVMMemFill
+         53   34 00002010 clEnqueueSVMMemcpy
+         54   35 00002030 clEnqueueSVMMigrateMem
+         55   36 00002070 clEnqueueSVMUnmap
+         56   37 00002090 clEnqueueTask
+         57   38 000020B0 clEnqueueUnmapMemObject
+         58   39 000020D0 clEnqueueWaitForEvents
+         59   3A 000020F0 clEnqueueWriteBuffer
+         60   3B 00002110 clEnqueueWriteBufferRect
+         61   3C 00002130 clEnqueueWriteImage
+         62   3D 00002150 clFinish
+         63   3E 00002170 clFlush
+         64   3F 00002190 clGetCommandQueueInfo
+         65   40 000021B0 clGetContextInfo
+         66   41 000021D0 clGetDeviceAndHostTimer
+         67   42 000021F0 clGetDeviceIDs
+         68   43 00002290 clGetDeviceInfo
+         69   44 000022B0 clGetEventInfo
+         70   45 000022D0 clGetEventProfilingInfo
+         71   46 000022F0 clGetExtensionFunctionAddress
+         72   47 00002C50 clGetExtensionFunctionAddressForPlatform
+         73   48 00003590 clGetGLObjectInfo
+         74   49 000035B0 clGetGLTextureInfo
+         75   4A 000035D0 clGetHostTimer
+         76   4B 000035F0 clGetImageInfo
+         77   4C 00003610 clGetKernelArgInfo
+         78   4D 00003630 clGetKernelInfo
+         79   4E 00003650 clGetKernelSubGroupInfo
+         80   4F 000036A0 clGetKernelWorkGroupInfo
+         81   50 000036C0 clGetMemObjectInfo
+         82   51 000036E0 clGetPipeInfo
+         83   52 00003700 clGetPlatformIDs
+         84   53 000037A0 clGetPlatformInfo
+         85   54 000037D0 clGetProgramBuildInfo
+         86   55 000037F0 clGetProgramInfo
+         87   56 00003810 clGetSamplerInfo
+         88   57 00003830 clGetSupportedImageFormats
+         89   58 00003860 clLinkProgram
+         90   59 00003890 clReleaseCommandQueue
+         91   5A 000038B0 clReleaseContext
+         92   5B 000038D0 clReleaseDevice
+         93   5C 00003910 clReleaseEvent
+         94   5D 00003930 clReleaseKernel
+         95   5E 00003950 clReleaseMemObject
+         96   5F 00003970 clReleaseProgram
+         97   60 00003990 clReleaseSampler
+         98   61 000039B0 clRetainCommandQueue
+         99   62 000039D0 clRetainContext
+        100   63 000039F0 clRetainDevice
+        101   64 00003A30 clRetainEvent
+        102   65 00003A50 clRetainKernel
+        103   66 00003A70 clRetainMemObject
+        104   67 00003A90 clRetainProgram
+        105   68 00003AB0 clRetainSampler
+        106   69 00003AD0 clSVMAlloc
+        107   6A 00003B00 clSVMFree
+        108   6B 00003B30 clSetCommandQueueProperty
+        109   6C 00003B60 clSetDefaultDeviceCommandQueue
+        110   6D 00003B90 clSetEventCallback
+        111   6E 00003BB0 clSetKernelArg
+        112   6F 00003BD0 clSetKernelArgSVMPointer
+        113   70 00003BF0 clSetKernelExecInfo
+        114   71 00003C10 clSetMemObjectDestructorCallback
+        115   72 00003C30 clSetProgramReleaseCallback
+        116   73 00003C50 clSetProgramSpecializationConstant
+        117   74 00003C70 clSetUserEventStatus
+        118   75 00003C90 clUnloadCompiler
+        119   76 00003CA0 clUnloadPlatformCompiler
+        120   77 00003CD0 clWaitForEvents
+
+  Summary
+
+        2000 .data
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

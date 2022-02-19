@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\wdmaudio.inf_amd64_cb639d1f182bc449\SysFxUI.dll
+
+File Type: DLL
+
+  Section contains the following exports for SysFxUi.DLL
+
+    00000000 characteristics
+    A7D12503 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016A0 DllCanUnloadNow
+          2    1 000016E0 DllGetClassObject
+          3    2 00001820 DllRegisterServer
+          4    3 00001960 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+       3A000 .rsrc
+       1B000 .text

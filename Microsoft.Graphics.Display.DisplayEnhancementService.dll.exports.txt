@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Microsoft.Graphics.Display.DisplayEnhancementService.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Graphics.Display.DisplayEnhancementService.dll
+
+    00000000 characteristics
+    9BB8C781 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000077E0 ServiceMain
+          1    1 00007790 SvchostPushServiceGlobals
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        A000 .pdata
+       2E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       E4000 .text

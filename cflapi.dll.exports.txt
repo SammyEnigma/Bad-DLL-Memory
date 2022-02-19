@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\cflapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for cflapi.dll
+
+    00000000 characteristics
+    387F3AA5 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007000 CflClearScenarioData
+          2    1 000064D0 CflClearTempUserAccount
+          3    2 00007270 CflDeserializeSessionContext
+          4    3 00007390 CflFreeBuffer
+          5    4 00006E80 CflGetScenarioData
+          6    5 00006CC0 CflGetTransitionScenarioData
+          7    6 00007440 CflSecureFreeBuffer
+          8    7 00007150 CflSerializeSessionContext
+          9    8 000069A0 CflSetScenarioData
+         10    9 000065B0 CflSetupAuthEnvironment
+         11    A 000063E0 CflSetupTempUserAccount
+         12    B 000066A0 CflSetupTransitionToUserAccount
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1E000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wlangpui.dll
+
+File Type: DLL
+
+  Section contains the following exports for WLSNP.DLL
+
+    00000000 characteristics
+    23B3AD68 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009BA0 DllCanUnloadNow
+          2    1 00009C10 DllGetClassObject
+          3    2 00009C40 DllRegisterServer
+          4    3 00009C90 DllUnregisterServer
+          5    4 000231F0 GetAdPolicyAsXML
+          6    5 000235D0 GetWmiPolicyAsXML
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        3000 .pdata
+       19000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       42000 .text

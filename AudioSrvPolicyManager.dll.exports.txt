@@ -1,0 +1,52 @@
+
+Dump of file C:\Windows\System32\AudioSrvPolicyManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for AUDIOSRVPOLICYMANAGER.dll
+
+    00000000 characteristics
+    1EE8EA45 time date stamp
+        0.00 version
+           1 ordinal base
+          26 number of functions
+          26 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000059F0 ActivatePolicyManager
+          1    1 00023F40 HHOSTEDAPPMANAGERCONTEXTRundown
+          4    2 000232A0 PbmAllowMediaPlaybackForApp
+          5    3 00023D90 PbmCastingAppStateChanged
+          6    4 00023720 PbmGetSoundLevel
+          7    5 00023860 PbmIsPlaying
+          8    6 000242E0 PbmLaunchBackgroundTask
+          9    7 00023C40 PbmPlayToStreamStateChanged
+         10    8 00023AC0 PbmRegisterAppClosureNotification
+         11    9 00023980 PbmRegisterAppManagerNotification
+         12    A 000233A0 PbmRegisterPlaybackManagerNotifications
+         13    B 00023230 PbmReportAppClosing
+         14    C 000230D0 PbmReportAppInteractivityChange
+         15    D 00024200 PbmReportApplicationState
+         16    E 000231A0 PbmReportHostedAppStateChange
+         17    F 000240B0 PbmSetScreenReaderState
+         18   10 00023590 PbmSetSmtcSubscriptionState
+         19   11 00023150 PbmSwitchSoftNonInteractiveAppsToHardNonInteractive
+         20   12 00023B60 PbmUnregisterAppClosureNotification
+         21   13 00023A20 PbmUnregisterAppManagerNotification
+         22   14 00023460 PbmUnregisterPlaybackManagerNotifications
+         23   15 0002AE20 TS_AudioProtocolNotifyRundown
+         24   16 0002AD60 TS_RegisterAudioProtocolNotification
+          2   17 0002A7F0 TS_SessionChanged
+         25   18 0002ACB0 TS_SessionGetAudioProtocol
+         26   19 0002ADC0 TS_UnregisterAudioProtocolNotification
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3D000 .text

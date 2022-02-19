@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\npmproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for npmproxy.dll
+
+    00000000 characteristics
+    A224F3A7 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011E0 DllCanUnloadNow
+          2    1 00001190 DllGetClassObject
+          3    2 000024A0 DllRegisterServer
+          4    3 000024E0 DllUnregisterServer
+          5    4 00002520 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\TetheringMgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for TetheringMgr.dll
+
+    00000000 characteristics
+    54FDD4D4 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002E40 TetheringManagerDeinit
+          2    1 00002D10 TetheringManagerInit
+          3    2 00002F40 TetheringManagerNotify
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2A000 .text

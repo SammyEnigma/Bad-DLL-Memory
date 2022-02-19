@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_OptionalFeatures.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_OptionalFeatures.dll
+
+    00000000 characteristics
+     2CF33F4 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007B20 GetSetting
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        3000 .pdata
+       23000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       32000 .text

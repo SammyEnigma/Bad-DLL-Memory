@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\traffic.dll
+
+File Type: DLL
+
+  Section contains the following exports for TRAFFIC.dll
+
+    00000000 characteristics
+    2C583D87 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E10 TcAddFilter
+          2    1 00001A70 TcAddFlow
+          3    2 000017C0 TcCloseInterface
+          4    3 00001FD0 TcDeleteFilter
+          5    4 00001CD0 TcDeleteFlow
+          6    5 00002080 TcDeregisterClient
+          7    6 00002B10 TcEnumerateFlows
+          8    7 000011D0 TcEnumerateInterfaces
+          9    8 00002A50 TcGetFlowNameA
+         10    9 00002960 TcGetFlowNameW
+         11    A 000030A0 TcGetInterfaceList
+         12    B 00001B90 TcModifyFlow
+         13    C 000016E0 TcOpenInterfaceA
+         14    D 00001420 TcOpenInterfaceW
+         15    E 000026C0 TcQueryFlowA
+         16    F 00002590 TcQueryFlowW
+         17   10 000021F0 TcQueryInterface
+         18   11 00001010 TcRegisterClient
+         19   12 00002890 TcSetFlowA
+         20   13 00002790 TcSetFlowW
+         21   14 00002460 TcSetInterface
+         22   15 00002F80 TcSetSocketFlow
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

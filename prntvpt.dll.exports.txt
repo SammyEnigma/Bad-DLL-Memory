@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\prntvpt.dll
+
+File Type: DLL
+
+  Section contains the following exports for prntvpt.dll
+
+    00000000 characteristics
+    DCE1C6B6 time date stamp
+        0.00 version
+           1 ordinal base
+          33 number of functions
+          33 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0000FB00 BindPTProviderThunk
+         13    1 0000FBE0 ConvertDevModeToPrintTicketThunk
+         14    2 0000FC20 ConvertDevModeToPrintTicketThunk2
+         15    3 0000FCD0 ConvertPrintTicketToDevModeThunk
+         16    4 0000FD20 ConvertPrintTicketToDevModeThunk2
+         17    5 0000EBA0 DllCanUnloadNow
+         18    6 0000EC10 DllGetClassObject
+         19    7 00009590 DllMain
+         20    8 0000ECC0 DllRegisterServer
+         21    9 0000ED40 DllUnregisterServer
+         22    A 0000FE50 GetDeviceDefaultPrintTicketThunk
+         23    B 0000FE50 GetDeviceNamespacesThunk
+         24    C 0000FE60 GetPrintCapabilitiesThunk
+         25    D 0000FE90 GetPrintCapabilitiesThunk2
+         26    E 0000FF60 GetPrintDeviceCapabilitiesThunk
+         27    F 0000FF90 GetPrintDeviceCapabilitiesThunk2
+         28   10 00010090 GetPrintDeviceResourcesThunk
+         29   11 000100D0 GetPrintDeviceResourcesThunk2
+         30   12 00001170 GetSchemaVersionThunk
+         31   13 000101D0 MergeAndValidatePrintTicketThunk
+         32   14 00010220 MergeAndValidatePrintTicketThunk2
+          4   15 00007F30 PTCloseProvider
+          9   16 00007E80 PTConvertDevModeToPrintTicket
+          8   17 0000F030 PTConvertPrintTicketToDevMode
+          6   18 00007DC0 PTGetPrintCapabilities
+         11   19 0000F1D0 PTGetPrintDeviceCapabilities
+         12   1A 0000F310 PTGetPrintDeviceResources
+          7   1B 0000F460 PTMergeAndValidatePrintTicket
+          2   1C 0000F580 PTOpenProvider
+          3   1D 00006A70 PTOpenProviderEx
+          1   1E 0000F740 PTQuerySchemaVersionSupport
+         10   1F 0000F840 PTReleaseMemory
+         33   20 00010330 UnbindPTProviderThunk
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1D000 .text

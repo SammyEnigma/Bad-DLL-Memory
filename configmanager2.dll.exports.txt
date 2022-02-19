@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\configmanager2.dll
+
+File Type: DLL
+
+  Section contains the following exports for configmanager2.dll
+
+    00000000 characteristics
+    620AD0A9 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000541F0 CmLockSvcDeinit
+          1    1 00054220 CmLockSvcInit
+          3    2 00049AF0 DllCanUnloadNow
+          4    3 0000B240 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       23000 .rdata
+        1000 .reloc
+        B000 .rsrc
+       78000 .text

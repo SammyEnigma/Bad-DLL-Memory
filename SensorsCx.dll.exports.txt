@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\drivers\UMDF\SensorsCx.dll
+
+File Type: DLL
+
+  Section contains the following exports for SensorsCx.dll
+
+    00000000 characteristics
+    C4A3E889 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000056B0 FxDriverEntryUm
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       32000 .text

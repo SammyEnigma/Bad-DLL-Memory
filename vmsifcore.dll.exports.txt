@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\vmsifcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmsifcore.dll
+
+    00000000 characteristics
+    D0C44473 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016F0 VmsIfCapsFindCapability
+          2    1 00001770 VmsIfCapsGetCapability
+          3    2 000014A0 VmsIfCapsInitializeLibrary
+          4    3 00001670 VmsIfCapsIsFeaturePresent
+          5    4 000016B0 VmsIfCapsIsFixPresent
+          6    5 00001360 VmsIfCapsQueryCapabilities
+          7    6 00006F40 VmsIfDriverClose
+          8    7 00006F00 VmsIfDriverOpen
+          9    8 00006DA0 VmsIfDriverOpenWithFileName
+         10    9 00008A40 VmsIfIoEnumeratorExecuteEx
+         11    A 000088D0 VmsIfIoEnumeratorPrepareEx
+         12    B 00008720 VmsIfIoExecuteEx
+         13    C 00008870 VmsIfIoFinalize
+         14    D 000085C0 VmsIfIoPrepareEx
+         15    E 00001320 VmsIfMemFree
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

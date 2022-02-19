@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\WMNetMgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for WMNetMgr.DLL
+
+    00000000 characteristics
+    6536900B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002D170 DllCanUnloadNow
+          2    1 0002CBD0 DllGetClassObject
+          3    2 0003C480 DllRegisterServer
+          4    3 0003C4B0 DllUnregisterServer
+
+  Summary
+
+       23000 .data
+        1000 .didat
+        D000 .pdata
+       29000 .rdata
+        3000 .reloc
+        F000 .rsrc
+      103000 .text

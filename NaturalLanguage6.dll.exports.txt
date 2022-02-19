@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\NaturalLanguage6.dll
+
+File Type: DLL
+
+  Section contains the following exports for NaturalLanguage6.dll
+
+    00000000 characteristics
+    6F6F2414 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0004D770 DllCanUnloadNow
+          2    1 0004D790 DllGetClassObject
+          3    2 00010930 DllRegisterServer
+          4    3 00010930 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        B000 .pdata
+       45000 .rdata
+        2000 .reloc
+        D000 .rsrc
+       A6000 .text

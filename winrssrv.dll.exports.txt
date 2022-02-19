@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\winrssrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for winrssrv.dll
+
+    00000000 characteristics
+    2031C68E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010F0 DllCanUnloadNow
+          2    1 000010A0 DllGetClassObject
+          3    2 00001160 DllRegisterServer
+          4    3 000011A0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

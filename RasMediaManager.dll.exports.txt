@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RasMediaManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for RasMediaManager.dll
+
+    00000000 characteristics
+    7FC3901D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000027A0 DllCanUnloadNow
+          2    1 000024D0 DllGetActivationFactory
+          3    2 000026B0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       16000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       44000 .text

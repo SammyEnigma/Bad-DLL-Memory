@@ -1,0 +1,95 @@
+
+Dump of file C:\Windows\System32\dhcpcsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for dhcpcsvc.DLL
+
+    00000000 characteristics
+    1C1D619D time date stamp
+        0.00 version
+           1 ordinal base
+          69 number of functions
+          69 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003F40 DhcpAcquireParameters
+          2    1 000040D0 DhcpAcquireParametersByBroadcast
+          3    2 00004260 DhcpCApiCleanup
+          4    3 000042C0 DhcpCApiInitialize
+          5    4 00004330 DhcpClient_Generalize
+          6    5 000045B0 DhcpDeRegisterConnectionStateNotification
+          7    6 00004720 DhcpDeRegisterOptions
+          8    7 00004780 DhcpDeRegisterParamChange
+          9    8 00004960 DhcpDelPersistentRequestParams
+         10    9 00004D70 DhcpEnableDhcp
+         11    A 00004EB0 DhcpEnableDhcpAdvanced
+         12    B 00005380 DhcpEnableTracing
+         13    C 0000D1D0 DhcpEnumClasses
+         14    D 000023F0 DhcpEnumInterfaces
+         15    E 00005470 DhcpFallbackRefreshParams
+         16    F 000015A0 DhcpFreeEnumeratedInterfaces
+         17   10 00001940 DhcpFreeLeaseInfo
+         18   11 00001360 DhcpFreeLeaseInfoArray
+         19   12 00005600 DhcpFreeMem
+         20   13 00005680 DhcpGetClassId
+         21   14 000058C0 DhcpGetClientId
+         22   15 00005AF0 DhcpGetDhcpServicedConnections
+         23   16 00005DB0 DhcpGetFallbackParams
+         24   17 00005F60 DhcpGetNotificationStatus
+         25   18 00006330 DhcpGetOriginalSubnetMask
+         26   19 000064D0 DhcpGetTraceArray
+         27   1A 00018838 DhcpGlobalIsShuttingDown
+         28   1B 00018830 DhcpGlobalServiceSyncEvent
+         29   1C 00018828 DhcpGlobalTerminateEvent
+         30   1D 0000D3D0 DhcpHandlePnPEvent
+         31   1E 00001010 DhcpIsEnabled
+         32   1F 000025C0 DhcpIsMeteredDetected
+         33   20 00006A40 DhcpLeaseIpAddress
+         34   21 00006A80 DhcpLeaseIpAddressEx
+         35   22 0000D5A0 DhcpNotifyConfigChange
+         36   23 0000D660 DhcpNotifyConfigChangeEx
+         37   24 00006F30 DhcpNotifyMediaReconnected
+         38   25 0000D830 DhcpOpenGlobalEvent
+         39   26 000070D0 DhcpPersistentRequestParams
+         40   27 00001A90 DhcpQueryLeaseInfo
+         41   28 00002050 DhcpQueryLeaseInfoArray
+         42   29 00002770 DhcpQueryLeaseInfoEx
+         43   2A 00007430 DhcpRegisterConnectionStateNotification
+         44   2B 00007680 DhcpRegisterOptions
+         45   2C 00007880 DhcpRegisterParamChange
+         46   2D 00008B20 DhcpReleaseIpAddressLease
+         47   2E 00008BA0 DhcpReleaseIpAddressLeaseEx
+         48   2F 00008FD0 DhcpReleaseParameters
+         49   30 00009160 DhcpRemoveDNSRegistrations
+         50   31 00009290 DhcpRenewIpAddressLease
+         51   32 00009340 DhcpRenewIpAddressLeaseEx
+         52   33 000097C0 DhcpRequestCachedParams
+         53   34 00009B60 DhcpRequestOptions
+         54   35 00001BB0 DhcpRequestParams
+         55   36 0000A1C0 DhcpSetClassId
+         56   37 0000A450 DhcpSetClientId
+         57   38 0000A6B0 DhcpSetFallbackParams
+         58   39 0000A900 DhcpSetMSFTVendorSpecificOptions
+         59   3A 0000AF40 DhcpStaticRefreshParams
+         60   3B 0000B130 DhcpUndoRequestParams
+         61   3C 0000B220 Dhcpv4CheckServerAvailability
+         62   3D 0000B3A0 Dhcpv4EnableDhcpEx
+         63   3E 0000B560 McastApiCleanup
+         64   3F 0000B670 McastApiStartup
+         65   40 0000B7E0 McastEnumerateScopes
+         66   41 0000BA90 McastGenUID
+         67   42 0000BC90 McastReleaseAddress
+         68   43 0000BF70 McastRenewAddress
+         69   44 0000C340 McastRequestAddress
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

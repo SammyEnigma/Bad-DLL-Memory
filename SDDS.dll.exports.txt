@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\SDDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for SDDS.dll
+
+    00000000 characteristics
+    C91A0EF4 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009C80 DllCanUnloadNow
+          2    1 00009C70 DllGetClassObject
+          3    2 0000A160 SDDSCreateChxDictionary
+          4    3 0000A040 SDDSGetCharacterMappingObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       49000 .text

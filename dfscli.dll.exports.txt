@@ -1,0 +1,55 @@
+
+Dump of file C:\Windows\System32\dfscli.dll
+
+File Type: DLL
+
+  Section contains the following exports for dfscli.dll
+
+    00000000 characteristics
+    D7BF4384 time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006880 I_NetDfsIsThisADomainName
+          2    1 00002110 NetDfsAdd
+          3    2 000021F0 NetDfsAddFtRoot
+          4    3 00003E30 NetDfsAddRootTarget
+          5    4 000023F0 NetDfsAddStdRoot
+          6    5 00002470 NetDfsAddStdRootForced
+          7    6 00003770 NetDfsEnum
+          8    7 00002F50 NetDfsGetClientInfo
+          9    8 00002470 NetDfsGetDcAddress
+         10    9 00007D00 NetDfsGetFtContainerSecurity
+         11    A 00002E40 NetDfsGetInfo
+         12    B 00006DD0 NetDfsGetSecurity
+         13    C 000072E0 NetDfsGetStdContainerSecurity
+         14    D 00004830 NetDfsGetSupportedNamespaceVersion
+         15    E 00002470 NetDfsManagerGetConfigInfo
+         16    F 00002470 NetDfsManagerInitialize
+         17   10 00002470 NetDfsManagerSendSiteInfo
+         18   11 00003B90 NetDfsMove
+         19   12 00002480 NetDfsRemove
+         20   13 00002560 NetDfsRemoveFtRoot
+         21   14 00002750 NetDfsRemoveFtRootForced
+         22   15 000042F0 NetDfsRemoveRootTarget
+         23   16 00002990 NetDfsRemoveStdRoot
+         24   17 00002470 NetDfsRename
+         25   18 00003440 NetDfsSetClientInfo
+         26   19 00007D90 NetDfsSetFtContainerSecurity
+         27   1A 00002A00 NetDfsSetInfo
+         28   1B 00006F10 NetDfsSetSecurity
+         29   1C 00007380 NetDfsSetStdContainerSecurity
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

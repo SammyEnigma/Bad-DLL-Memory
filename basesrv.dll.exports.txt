@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\basesrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for BASESRV.dll
+
+    00000000 characteristics
+    5866F3FD time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004A20 BaseGetProcessCrtlRoutine
+          2    1 00004A70 BaseSetProcessCreateNotify
+          3    2 00001010 BaseSrvNlsLogon
+          4    3 00004960 BaseSrvNlsUpdateRegistryCache
+          5    4 00004A50 BaseSrvRegisterSxS
+          6    5 00001810 ServerDllInitialization
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

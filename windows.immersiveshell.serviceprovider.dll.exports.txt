@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\windows.immersiveshell.serviceprovider.dll
+
+File Type: DLL
+
+  Section contains the following exports for windows.immersiveshell.serviceprovider.dll
+
+    00000000 characteristics
+     E39644C time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011470 DllCanUnloadNow
+          2    1 000126F0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        8000 .pdata
+       2E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       80000 .text

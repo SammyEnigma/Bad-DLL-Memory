@@ -1,0 +1,79 @@
+
+Dump of file C:\Windows\System32\computecore.dll
+
+File Type: DLL
+
+  Section contains the following exports for computecore.dll
+
+    00000000 characteristics
+    DA0FBB73 time date stamp
+        0.00 version
+           1 ordinal base
+          53 number of functions
+          53 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00009A30 HcsCancelOperation
+          6    1 000105F0 HcsCloseComputeSystem
+          7    2 00009570 HcsCloseOperation
+          8    3 0000AC20 HcsCloseProcess
+          9    4 00010C70 HcsCrashComputeSystem
+         10    5 00010110 HcsCreateComputeSystem
+         11    6 00010350 HcsCreateComputeSystemInNamespace
+         12    7 00014790 HcsCreateEmptyGuestStateFile
+         13    8 00014A10 HcsCreateEmptyRuntimeStateFile
+         14    9 00009550 HcsCreateOperation
+         15    A 0000A770 HcsCreateProcess
+         16    B 0000FF20 HcsEnumerateComputeSystems
+         17    C 00010060 HcsEnumerateComputeSystemsInNamespace
+          1    D 00015500 HcsEnumerateVmWorkerProcesses
+          2    E 00015680 HcsFindVmWorkerProcesses
+         18    F 00009620 HcsGetComputeSystemFromOperation
+         19   10 000115B0 HcsGetComputeSystemProperties
+         20   11 00009590 HcsGetOperationContext
+         21   12 00009680 HcsGetOperationId
+         22   13 000096A0 HcsGetOperationResult
+         23   14 00009760 HcsGetOperationResultAndProcessInfo
+         24   15 00009660 HcsGetOperationType
+         25   16 00009640 HcsGetProcessFromOperation
+         26   17 0000B0C0 HcsGetProcessInfo
+         27   18 0000B3D0 HcsGetProcessProperties
+         28   19 0000B9D0 HcsGetServiceProperties
+          3   1A 00015750 HcsGetWorkerProcessJob
+         29   1B 00014B00 HcsGrantVmAccess
+         30   1C 00014D80 HcsGrantVmGroupAccess
+         31   1D 000116F0 HcsModifyComputeSystem
+         32   1E 0000B5C0 HcsModifyProcess
+         33   1F 0000BB20 HcsModifyServiceSettings
+         34   20 00010410 HcsOpenComputeSystem
+         35   21 00010540 HcsOpenComputeSystemInNamespace
+         36   22 0000AAE0 HcsOpenProcess
+         37   23 00010EC0 HcsPauseComputeSystem
+         38   24 00011110 HcsResumeComputeSystem
+         39   25 00014C40 HcsRevokeVmAccess
+         40   26 00014FA0 HcsRevokeVmGroupAccess
+         41   27 00011360 HcsSaveComputeSystem
+         42   28 00011960 HcsSetComputeSystemCallback
+         43   29 000099B0 HcsSetOperationCallback
+         44   2A 000095B0 HcsSetOperationContext
+         45   2B 0000B870 HcsSetProcessCallback
+         46   2C 000108E0 HcsShutDownComputeSystem
+         47   2D 0000AEF0 HcsSignalProcess
+         48   2E 00010690 HcsStartComputeSystem
+          4   2F 00015400 HcsStartVmWorkerProcess
+         49   30 000151C0 HcsSubmitWerReport
+         50   31 00010B30 HcsTerminateComputeSystem
+         51   32 0000AD20 HcsTerminateProcess
+         52   33 00009820 HcsWaitForOperationResult
+         53   34 000098E0 HcsWaitForOperationResultAndProcessInfo
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       29000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       73000 .text

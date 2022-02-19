@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\windowsudk.shellcommon.dll
+
+File Type: DLL
+
+  Section contains the following exports for windowsudk.shellcommon.dll
+
+    00000000 characteristics
+    21BDB579 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0001E4B0 DllCanUnloadNow
+          4    1 00013270 DllGetActivationFactory
+          1    2 000EA1A0 ServiceMain
+          2    3 000EA1B0 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+       1C000 .pdata
+       6C000 .rdata
+        5000 .reloc
+        1000 .rsrc
+      195000 .text

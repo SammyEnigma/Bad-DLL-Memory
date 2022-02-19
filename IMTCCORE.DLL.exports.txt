@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\IME\IMETC\IMTCCORE.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imecore.dll
+
+    00000000 characteristics
+    579BBFF1 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C6F0 CreateUDicProxy
+          2    1 0000C330 DllCanUnloadNow
+          3    2 0000C1E0 DllGetClassObject
+          4    3 0000C350 DllRegisterServer
+          5    4 0000C550 DllUnregisterServer
+
+  Summary
+
+       22000 .data
+        1000 .didat
+        8000 .pdata
+       3F000 .rdata
+        2000 .reloc
+        C000 .rsrc
+       C2000 .text

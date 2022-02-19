@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Windows.Mirage.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Mirage.dll
+
+    00000000 characteristics
+    C82EDDA8 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012180 DllCanUnloadNow
+          2    1 00011AA0 DllGetActivationFactory
+          3    2 00011AA0 DllGetActivationFactoryMirage
+          4    3 00011C10 DllGetClassObject
+          5    4 00011C10 DllGetClassObjectMirage
+          6    5 00011D00 InjectDependency
+
+  Summary
+
+       BE000 .data
+        1000 .didat
+       14000 .pdata
+      15F000 .rdata
+        F000 .reloc
+        1000 .rsrc
+      1E4000 .text

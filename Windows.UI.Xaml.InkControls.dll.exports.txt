@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Xaml.InkControls.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Xaml.InkControls.dll
+
+    00000000 characteristics
+    2C11F20F time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006770 DllCanUnloadNow
+          2    1 000064A0 DllGetActivationFactory
+          3    2 00006680 DllGetClassObject
+          4    3 00006940 GetDependencyLocatorStorage
+          5    4 00008BA0 XamlTestHookFreeInkControlsResourceLibrary
+
+  Summary
+
+        3000 .data
+        8000 .pdata
+       35000 .rdata
+        6000 .reloc
+        3000 .rsrc
+       A9000 .text

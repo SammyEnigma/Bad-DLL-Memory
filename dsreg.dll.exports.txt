@@ -1,0 +1,74 @@
+
+Dump of file C:\Windows\System32\dsreg.dll
+
+File Type: DLL
+
+  Section contains the following exports for dsreg.dll
+
+    00000000 characteristics
+    C5481381 time date stamp
+        0.00 version
+           1 ordinal base
+          48 number of functions
+          48 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B250 DsrBeginDelegatedWorkplaceJoin
+          2    1 0000ACC0 DsrBeginDeviceAndResourceAccountJoin
+          3    2 0000A7B0 DsrBeginDeviceJoin
+          4    3 0000B8B0 DsrBeginDeviceUnjoin
+          5    4 0000BA10 DsrBeginDeviceUpdate
+          6    5 0002D3D0 DsrBeginDiscover
+          7    6 0000AA10 DsrBeginPreprovisionedDeviceJoin
+          8    7 0000BEB0 DsrBeginRecovery
+          9    8 0000AFD0 DsrBeginWorkplaceJoin
+         10    9 0000B930 DsrBeginWorkplaceUnjoin
+         11    A 0000BA30 DsrBeginWorkplaceUpdate
+         12    B 0006D610 DsrCLI
+         13    C 0000CEA0 DsrCanCurrentUserProvisionNgcKey
+         14    D 0000CEB0 DsrCanCurrentUserResetNgcKey
+         15    E 0000C420 DsrEndRecovery
+         16    F 000526C0 DsrFreeCxhScenarioInfo
+         17   10 0002D9E0 DsrFreeDiscoveryMetadata
+         18   11 000512A0 DsrFreeJoinInfo
+         19   12 00051390 DsrFreeJoinInfoEx
+         20   13 0000CEC0 DsrGetCurrentUserNgcProvisionStatus
+         21   14 00052390 DsrGetCxhScenarioInfo
+         22   15 0000D0E0 DsrGetDomainRegistrationData
+         23   16 000516F0 DsrGetJoinInfo
+         24   17 000518F0 DsrGetJoinInfoEx
+         25   18 0000D160 DsrGetPrtAuthorityInfo
+         26   19 00052720 DsrGetResourceAccount
+         27   1A 00052090 DsrIsDeviceJoined
+         28   1B 000520E0 DsrIsDeviceJoinedEx
+         29   1C 00052240 DsrIsWorkplaceJoined
+         30   1D 00052290 DsrSaveDeviceTokenProperties
+         31   1E 00052310 DsrSaveWorkplaceTokenProperties
+         32   1F 0000BDF0 DsrWriteAutoJoinSvcAdminEvent
+         33   20 0000BE50 DsrWriteAutoJoinSvcDebugEvent
+         34   21 0000BA50 DsrWriteAutoJoinSvcTriggerEvent
+         35   22 0000CE90 FidoDeregisterKey
+         36   23 0000CDE0 FidoRegisterKey
+         37   24 0000C940 NgcDeregisterKey
+         38   25 0000C980 NgcGetKeyId
+         39   26 0000D240 NgcGetLogonCertPolicy
+         40   27 0000CAF0 NgcGetStatistics
+         41   28 0000D400 NgcIncrementPinRetryAttempts
+         42   29 0000CF50 NgcNeedProvision
+         43   2A 0000D0D0 NgcNeedProvisionForAccount
+         44   2B 0000CC90 NgcReadRegistryValue
+         45   2C 0000C890 NgcRegisterKey
+         46   2D 0000D480 NgcResetPinRetryAttempts
+         47   2E 0000CB10 NgcUpdateCertEnrollStatistics
+         48   2F 0000CB00 NgcUpdateStatistics
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        5000 .pdata
+       6E000 .rdata
+        1000 .reloc
+       17000 .rsrc
+       AB000 .text

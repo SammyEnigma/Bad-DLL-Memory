@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\SmiEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for SmiEngine.dll
+
+    00000000 characteristics
+    BD7AA499 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0004B510 ConstructHiveLocation
+          3    1 00002860 ConstructRegLocation
+          4    2 0004E220 CreateLalInstance
+          2    3 0003E8E0 CreateSettingsEnginePriv
+          5    4 00003C00 CreateWcmEngineCore
+          6    5 0002D740 DeleteCompilerObject
+          7    6 000021E0 DllCanUnloadNow
+          8    7 00002130 DllGetClassObject
+          9    8 00002210 DllRegisterServer
+         10    9 000023D0 DllUnregisterServer
+         11    A 0002D680 GetCompilerObject
+         12    B 0003F700 GetItemFromCoreObject
+         13    C 0004E250 SetLalCreator
+
+  Summary
+
+        3000 .data
+        5000 .pdata
+       24000 .rdata
+        3000 .reloc
+        D000 .rsrc
+       9B000 .text

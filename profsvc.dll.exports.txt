@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\profsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for PROFSVC.dll
+
+    00000000 characteristics
+    ADAD97D6 time date stamp
+        0.00 version
+         176 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+        177    0 00011FC0 GetExclusionListFromRegistry
+        178    1 00014830 GetUserChoiceForSlowLink
+        179    2 000451F0 GetUserPreferenceValue
+        176    3 00014D10 UserProfileServiceMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       24000 .rdata
+        2000 .reloc
+        4000 .rsrc
+       4B000 .text

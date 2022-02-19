@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\nlaapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for nlaapi.dll
+
+    00000000 characteristics
+    1E35A046 time date stamp
+        0.00 version
+           1 ordinal base
+          30 number of functions
+          30 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011120 LANIdFreeCollection
+          2    1 000111D0 LANIdRetrieveCollection
+          3    2 0000EFA0 NSPStartup
+          4    3 00009620 NlaAddToPluginRequests
+          5    4 00006650 NlaAddToTypeSet
+          6    5 000097B0 NlaAnd
+          7    6 00009890 NlaCloseQuery
+          8    7 00009D80 NlaComposeNetSignature
+          9    8 00009F90 NlaCreateFilter
+         10    9 0000A020 NlaCreatePluginRequests
+         11    A 00006840 NlaCreateTypeSet
+         12    B 0000A0E0 NlaDecomposeNetSignature
+         13    C 00002040 NlaDeleteDataSet
+         14    D 0000A2A0 NlaDeleteFilter
+         15    E 0000A3A0 NlaDeletePluginRequests
+         16    F 000068C0 NlaDeleteTypeSet
+         17   10 0000A430 NlaEqual
+         18   11 0000A4E0 NlaEqualNetSignatures
+         19   12 0000A680 NlaGetCaptivePortalHosts
+         20   13 0000A6F0 NlaGetInternetCapability
+         21   14 0000A7A0 NlaGetIntranetCapability
+         22   15 0000A870 NlaIndicateReprobe
+         23   16 0000A8E0 NlaNotEqual
+         24   17 0000A990 NlaOpenQuery
+         25   18 0000AA30 NlaOr
+         26   19 000025D0 NlaQueryNetData
+         27   1A 00002F20 NlaQueryNetDataEx
+         28   1B 00003F50 NlaQueryNetSignatures
+         29   1C 0000AB10 NlaRefreshQuery
+         30   1D 00005640 NlaRegisterQuery
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

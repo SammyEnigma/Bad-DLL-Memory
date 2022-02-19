@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\F12\msdbg2.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSDbg2.dll
+
+    00000000 characteristics
+    59AF172C time date stamp Tue Sep  5 23:29:16 2017
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001210 DllCanUnloadNow
+          2    1 000011E0 DllGetClassObject
+          3    2 00001260 DllRegisterServer
+          4    3 00001280 DllUnregisterServer
+
+  Summary
+
+        B000 .data
+        2000 .orpc
+        1000 .pdata
+       40000 .rdata
+        7000 .reloc
+        1000 .rsrc
+        B000 .text

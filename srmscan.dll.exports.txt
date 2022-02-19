@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\srmscan.dll
+
+File Type: DLL
+
+  Section contains the following exports for SRMSCAN.DLL
+
+    00000000 characteristics
+    8606D4AE time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          9    0 000022E0 DllCanUnloadNow
+         10    1 00002300 DllGetClassObject
+          2    2 00002350 SrmCalculateCrcHash
+          6    3 000025E0 SrmCreateOrDeleteNotificationScheduledTask
+          3    4 00002360 SrmEnsureSystemVolumeInformationFolder
+          4    5 00002370 SrmIsInCluster
+          1    6 00005FC0 SrmIsNameInExpression
+          8    7 000028F0 SrmLocalFileTimeToUtcFileTime
+          7    8 000028A0 SrmUtcFileTimeToLocalFileTime
+          5    9 00002490 SrmValidateNamespaceRoots
+
+  Summary
+
+        1000 .data
+        4000 .pdata
+       3E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5A000 .text

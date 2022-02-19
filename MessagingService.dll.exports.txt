@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\MessagingService.dll
+
+File Type: DLL
+
+  Section contains the following exports for MessagingService.dll
+
+    00000000 characteristics
+    4AC3A2B7 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001860 ServiceMain
+          2    1 00001850 SvchostPushServiceGlobals
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

@@ -1,0 +1,71 @@
+
+Dump of file C:\Windows\System32\WSDApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for wsdapi.dll
+
+    00000000 characteristics
+    D9EE9B4E time date stamp
+        0.00 version
+           1 ordinal base
+          45 number of functions
+          45 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00068CC0 WSDAddFirewallCheck
+          7    1 00002EC0 WSDAllocateLinkedMemory
+          8    2 0006C640 WSDAttachLinkedMemory
+          2    3 00068DD0 WSDCancelNetworkChangeNotify
+          9    4 0006AD00 WSDCompareEndpoints
+         10    5 0006AF00 WSDCopyEndpoint
+          3    6 00069B90 WSDCopyNameList
+         11    7 0000B370 WSDCreateDeviceHost
+         12    8 0000B450 WSDCreateDeviceHost2
+         13    9 0000B540 WSDCreateDeviceHostAdvanced
+         14    A 00010960 WSDCreateDeviceProxy
+         15    B 00010A80 WSDCreateDeviceProxy2
+         16    C 00010BB0 WSDCreateDeviceProxyAdvanced
+         17    D 0002D580 WSDCreateDiscoveryProvider
+         18    E 0002D670 WSDCreateDiscoveryProvider2
+         19    F 00031EF0 WSDCreateDiscoveryPublisher
+         20   10 00031FB0 WSDCreateDiscoveryPublisher2
+         21   11 00037C20 WSDCreateHttpAddress
+         22   12 00037D80 WSDCreateHttpMessageParameters
+         23   13 0003AB20 WSDCreateHttpTransport
+         24   14 00012360 WSDCreateMetadataAgent
+         25   15 0004D5F0 WSDCreateOutboundAttachment
+         26   16 0005F5B0 WSDCreateUdpAddress
+         27   17 0005F600 WSDCreateUdpMessageParameters
+         28   18 000612E0 WSDCreateUdpTransport
+         29   19 00002DA0 WSDDetachLinkedMemory
+         30   1A 00002F20 WSDFreeLinkedMemory
+         31   1B 0004DC10 WSDGenerateFault
+         32   1C 0004E050 WSDGenerateFaultEx
+         33   1D 000613F0 WSDGenerateRandomDelay
+         34   1E 0006EFF0 WSDGetConfigurationOption
+          4   1F 00068E40 WSDNotifyNetworkChange
+         35   20 0004E300 WSDProcessFault
+          5   21 00068EF0 WSDRemoveFirewallCheck
+         36   22 0006F1D0 WSDSetConfigurationOption
+         37   23 00076330 WSDUriDecode
+         38   24 000765D0 WSDUriEncode
+         39   25 0006C130 WSDXMLAddChild
+         40   26 0006C1D0 WSDXMLAddSibling
+         41   27 0006C250 WSDXMLBuildAnyForSingleElement
+         42   28 0006A1E0 WSDXMLCleanupElement
+          6   29 0006A280 WSDXMLCompareNames
+         43   2A 00079700 WSDXMLCreateContext
+         44   2B 00079980 WSDXMLGetNameFromBuiltinNamespace
+         45   2C 0006C530 WSDXMLGetValueFromAny
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       92000 .text

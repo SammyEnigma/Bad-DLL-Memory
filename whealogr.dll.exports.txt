@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\whealogr.dll
+
+File Type: DLL
+
+  Section contains the following exports for whealogr.dll
+
+    00000000 characteristics
+    97D296F2 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001220 WdiDiagnosticModuleMain
+          2    1 00001210 WdiGetDiagnosticModuleInterfaceVersion
+          3    2 00001300 WdiHandleInstance
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        7000 .rsrc
+        5000 .text

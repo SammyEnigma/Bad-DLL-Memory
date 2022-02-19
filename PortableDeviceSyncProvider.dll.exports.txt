@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\PortableDeviceSyncProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for PortableDeviceSyncProvider.DLL
+
+    00000000 characteristics
+    EAF033FC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003EC0 DllCanUnloadNow
+          2    1 00003F00 DllGetClassObject
+          3    2 00004040 DllRegisterServer
+          4    3 00004120 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       1C000 .text

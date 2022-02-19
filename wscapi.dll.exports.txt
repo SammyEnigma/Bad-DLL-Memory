@@ -1,0 +1,68 @@
+
+Dump of file C:\Windows\System32\wscapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WSCAPI.dll
+
+    00000000 characteristics
+    13159F78 time date stamp
+        0.00 version
+           1 ordinal base
+          41 number of functions
+          41 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00030240 CLSID_WSCDefaultProduct
+          4    1 00030250 CLSID_WSCProductList
+          5    2 00001810 DllCanUnloadNow
+          6    3 00004850 DllGetClassObject
+          7    4 0002F910 IID_IWSCDefaultProduct
+          8    5 0002F8D8 IID_IWSCProductList
+          9    6 0002F878 IID_IWscProduct
+         10    7 0002EFA0 LIBID_wscAPILib
+         11    8 0000DD50 WscGetAntiMalwareUri
+         12    9 000023F0 WscGetSecurityProviderHealth
+         13    A 0000DD50 WscQueryAntiMalwareUri
+         14    B 00001A10 WscRegisterForChanges
+         15    C 00001750 WscRegisterForUserNotifications
+         16    D 000012C0 WscUnRegisterChanges
+         17    E 00009FC0 wscAntiSpywareGetStatus
+         18    F 0000A050 wscAntiVirusExpiredBeyondThreshold
+         19   10 00003240 wscAntiVirusGetStatus
+         20   11 0000A280 wscAutoUpdatesEnableScheduledMode
+         21   12 0000A300 wscAutoUpdatesGetStatus
+         22   13 00002A30 wscFirewallGetStatus
+         23   14 00001870 wscGeneralSecurityGetStatus
+         24   15 00001500 wscGetAlertStatus
+         25   16 0000A380 wscIcfEnable
+         26   17 0000A400 wscIeSettingsFix
+         27   18 0000A430 wscInitiateOfflineCleaning
+         28   19 0000A600 wscIsDefenderAntivirusSupported
+          1   1A 000121E0 wscLaunchAdminMakeDefaultUI
+         29   1B 0000A690 wscLuaSettingsFix
+         30   1C 0000A710 wscMakeDefaultProductRequest
+         31   1D 0000A7A0 wscNotifyUserForNearExpiration
+         32   1E 0000A830 wscOverrideComponentStatus
+         33   1F 00002520 wscPing
+         34   20 00001590 wscProductInfoFree
+         35   21 00001C80 wscRegisterChangeNotification
+         36   22 0000A8C0 wscRegisterSecurityProduct
+         37   23 0000A990 wscSetDefaultProduct
+          2   24 00012370 wscShowAMSCN
+         38   25 0000AA30 wscUnRegisterChangeNotification
+         39   26 0000AA50 wscUnregisterSecurityProduct
+         40   27 00002280 wscUpdateProductStatus
+         41   28 00002310 wscUpdateProductSubStatus
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        1000 .imrsiv
+        2000 .pdata
+       16000 .rdata
+        1000 .reloc
+        8000 .rsrc
+       26000 .text

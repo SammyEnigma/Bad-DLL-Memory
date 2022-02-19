@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\AppxPackaging.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppxPackaging.dll
+
+    00000000 characteristics
+    FDA9BEA7 time date stamp
+        0.00 version
+           3 ordinal base
+           6 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          7    0 0005B310 DllCanUnloadNow
+          8    1 000180A0 DllGetClassObject
+          3      0005C830 [NONAME]
+          4      0005C340 [NONAME]
+          5      0005CAB0 [NONAME]
+          6      0005C5B0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        A000 .pdata
+       4A000 .rdata
+        3000 .reloc
+       A0000 .rsrc
+       C8000 .text

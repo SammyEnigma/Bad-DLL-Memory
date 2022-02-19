@@ -1,0 +1,159 @@
+
+Dump of file C:\Windows\System32\vmsif.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmsif.dll
+
+    00000000 characteristics
+    ADC32DB8 time date stamp
+        0.00 version
+           1 ordinal base
+         133 number of functions
+         133 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001D100 VmsIfCapsFindCapability
+          2    1 0001D180 VmsIfCapsGetCapability
+          3    2 0001CEB0 VmsIfCapsInitializeLibrary
+          4    3 0001D080 VmsIfCapsIsFeaturePresent
+          5    4 0001D0C0 VmsIfCapsIsFixPresent
+          6    5 0001CD70 VmsIfCapsQueryCapabilities
+          7    6 0000DAB0 VmsIfDioNicSetAddresses
+          8    7 0000DB60 VmsIfDioNicSetMacAddress
+          9    8 0000DC00 VmsIfDioNicSetPacketFilter
+         10    9 00022B30 VmsIfDriverClose
+         11    A 00022AF0 VmsIfDriverOpen
+         12    B 00022990 VmsIfDriverOpenWithFileName
+         13    C 00002F50 VmsIfGetInitState
+         14    D 0001C980 VmsIfGlobalParameterQuery
+         15    E 0001C8B0 VmsIfGlobalParameterSet
+         16    F 000178A0 VmsIfInitializeEventServer
+         17   10 00010420 VmsIfIoctlAddToInputBuffer
+         18   11 00010600 VmsIfIoctlDeinitializeOperation
+         19   12 000104B0 VmsIfIoctlGetOutputBuffer
+         20   13 000105F0 VmsIfIoctlGetOutputRecord
+         21   14 000103E0 VmsIfIoctlInitializeOperation
+         22   15 00010520 VmsIfIoctlResizeOutputBuffer
+         23   16 000104A0 VmsIfIoctlSendIoctl
+         24   17 000103A0 VmsIfMemFree
+         25   18 0000D000 VmsIfNicAllocateVF
+         26   19 0000CF10 VmsIfNicCollectInternalStats
+         27   1A 0000AD30 VmsIfNicConnect
+         28   1B 0000C820 VmsIfNicCreateEmulated
+         29   1C 0000C820 VmsIfNicCreateSynthetic
+         30   1D 0000BC60 VmsIfNicDeleteEmulated
+         31   1E 0000BB60 VmsIfNicDeleteMiniport
+         32   1F 0000BA70 VmsIfNicDeleteMiniportLW
+         33   20 0000BC30 VmsIfNicDeleteSynthetic
+         34   21 0000C710 VmsIfNicDisableMiniport
+         35   22 0000D6D0 VmsIfNicDisableOptimizations
+         36   23 0000AED0 VmsIfNicDisconnect
+         37   24 0000C600 VmsIfNicEnableMiniport
+         38   25 0000D5F0 VmsIfNicEnableOptimizations
+         39   26 0000C8C0 VmsIfNicEndSave
+         40   27 0000C550 VmsIfNicEnumerate
+         41   28 0000D1A0 VmsIfNicFreeVF
+         42   29 0000D910 VmsIfNicGetAddresses
+         43   2A 0000C010 VmsIfNicGetDropReasons
+         44   2B 0000C2D0 VmsIfNicGetInfo
+         45   2C 0000CD10 VmsIfNicGetInternalStats
+         46   2D 0000CBD0 VmsIfNicGetStats
+         47   2E 0000C9A0 VmsIfNicGetStatus
+         48   2F 0000DCF0 VmsIfNicGetVmqInfo
+         49   30 0000D280 VmsIfNicGetVrssEntryCount
+         50   31 0000D390 VmsIfNicGetVrssInfo
+         51   32 0000B310 VmsIfNicInitializeMiniport
+         52   33 0000B030 VmsIfNicInitializeMiniportLW
+         53   34 0000B8B0 VmsIfNicMorphToEmulatedNic
+         54   35 0000B630 VmsIfNicMorphToSynthNic
+         55   36 0000B5F0 VmsIfNicNotifyInitializeExternal
+         56   37 0000B5D0 VmsIfNicNotifyInitializeMiniport
+         57   38 0000B010 VmsIfNicNotifyRestored
+         58   39 0000BC90 VmsIfNicPausedEmulated
+         59   3A 0000BCB0 VmsIfNicPausedSynthetic
+         60   3B 0000D7B0 VmsIfNicRelearnMac
+         61   3C 0000D540 VmsIfNicRestore
+         62   3D 0000BD80 VmsIfNicResumeEmulated
+         63   3E 0000BDE0 VmsIfNicResumeSynthetic
+         64   3F 0000CB00 VmsIfNicSendStatus
+         65   40 0000ABF0 VmsIfNicSetConnectionInfo
+         66   41 0000C410 VmsIfNicSetInfo
+         67   42 0000C850 VmsIfNicSuspendSynthetic
+         68   43 0000DEE0 VmsIfNicVmphuBegin
+         69   44 0000DF50 VmsIfNicVmphuComplete
+         70   45 0000BEF0 VmsIfPhysicalNicGetStoredVlanId
+         71   46 0000BED0 VmsIfPhysicalNicRemove
+         72   47 00008460 VmsIfPortCreate
+         73   48 000081B0 VmsIfPortCreateWithHandle
+         74   49 000086F0 VmsIfPortDelete
+         75   4A 00009CD0 VmsIfPortEnumerate
+         76   4B 00009DC0 VmsIfPortEnumerateLearnedMacAddresses
+         77   4C 00004590 VmsIfPortFeatureStatusFree
+         78   4D 00009390 VmsIfPortFeatureStatusQuery
+         79   4E 0000A510 VmsIfPortGetEncapInfo
+         80   4F 00009570 VmsIfPortGetHandleCount
+         81   50 00009B70 VmsIfPortGetInfo
+         82   51 00007320 VmsIfPortGetRequiredExtensions
+         83   52 0000A660 VmsIfPortGetStats
+         84   53 0000A060 VmsIfPortGetVlanSettings
+         85   54 00009690 VmsIfPortOpenWithHandle
+         86   55 00007940 VmsIfPortPropertyAdd
+         87   56 000090E0 VmsIfPortPropertyEnumerate
+         88   57 00004590 VmsIfPortPropertyFree
+         89   58 00004590 VmsIfPortPropertyListFree
+         90   59 00008F00 VmsIfPortPropertyQuery
+         91   5A 00007E50 VmsIfPortPropertyRemove
+         92   5B 00007C00 VmsIfPortPropertyUpdate
+         93   5C 0000A390 VmsIfPortSetEncapInfo
+         94   5D 00009790 VmsIfPortSetInfo
+         95   5E 000071C0 VmsIfPortSetRequiredExtensions
+         96   5F 00009EE0 VmsIfPortSetSecurityInfo
+         97   60 0000A1C0 VmsIfPortSetVlanSettings
+         98   61 0001CB80 VmsIfProcGetStats
+         99   62 0001CA90 VmsIfProcsEnumerate
+        100   63 00017BC0 VmsIfShutdownEventServer
+        101   64 00003390 VmsIfSwitchCreate
+        102   65 000036D0 VmsIfSwitchDelete
+        103   66 00003220 VmsIfSwitchDeregisterProtocol
+        104   67 00003140 VmsIfSwitchDisableOptimization
+        105   68 000031B0 VmsIfSwitchEnableOptimization
+        106   69 00005030 VmsIfSwitchEnumerate
+        107   6A 000062E0 VmsIfSwitchExtensionEnable
+        108   6B 00005F60 VmsIfSwitchExtensionEnumerate
+        109   6C 000061A0 VmsIfSwitchExtensionFree
+        110   6D 000061D0 VmsIfSwitchExtensionGet
+        111   6E 00006590 VmsIfSwitchExtensionReorder
+        112   6F 00004590 VmsIfSwitchFeatureStatusFree
+        113   70 000045C0 VmsIfSwitchFeatureStatusQuery
+        114   71 00004C90 VmsIfSwitchGetInfo
+        115   72 00005390 VmsIfSwitchGetInternalStats
+        116   73 00005240 VmsIfSwitchGetStats
+        117   74 00004A70 VmsIfSwitchListenIcmpEcho
+        118   75 00003DA0 VmsIfSwitchPropertyAdd
+        119   76 00004310 VmsIfSwitchPropertyEnumerate
+        120   77 00004590 VmsIfSwitchPropertyFree
+        121   78 00004590 VmsIfSwitchPropertyListFree
+        122   79 00003BE0 VmsIfSwitchPropertyQuery
+        123   7A 00004090 VmsIfSwitchPropertyRemove
+        124   7B 000038F0 VmsIfSwitchPropertyUpdate
+        125   7C 000061A0 VmsIfSwitchRequiredExtensionsFree
+        126   7D 0000F9F0 VmsIfSwitchResetExtensionMiniport
+        127   7E 000047D0 VmsIfSwitchSendIcmpEcho
+        128   7F 000030D0 VmsIfSwitchServicingEnd
+        129   80 00003060 VmsIfSwitchServicingStart
+        130   81 00004DD0 VmsIfSwitchSetInfo
+        131   82 00003290 VmsIfSwitchShutdown
+        132   83 000050E0 VmsIfSwitchValidateLearnedMacAddress
+        133   84 0001CCC0 VmsIfVmqGroupsEnumerate
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        2000 .pdata
+       15000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2A000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MixedRealityCapture.Pipeline.dll
+
+File Type: DLL
+
+  Section contains the following exports for MixedRealityCapture.Pipeline.dll
+
+    00000000 characteristics
+    8B18EB4D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005330 DllCanUnloadNow
+          2    1 00005090 DllGetActivationFactory
+          3    2 00005240 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       1E000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       63000 .text

@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\NvFBC64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvFBC.dll
+
+    00000000 characteristics
+    5FD3FE21 time date stamp Sat Dec 12 00:17:53 2020
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001E910 NvFBC_Create
+          2    1 0001E790 NvFBC_CreateEx
+          3    2 0001D470 NvFBC_Enable
+          4    3 0001D700 NvFBC_GetSDKVersion
+          5    4 0001CB30 NvFBC_GetStatus
+          6    5 0001CCD0 NvFBC_GetStatusEx
+          7    6 0001EAB0 NvFBC_SetGlobalFlags
+          8    7 001D9D68 NvOptimusEnablement
+
+  Summary
+
+       12000 .data
+       20000 .pdata
+       5E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      179000 .text

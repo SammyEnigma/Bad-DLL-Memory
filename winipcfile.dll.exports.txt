@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\winipcfile.dll
+
+File Type: DLL
+
+  Section contains the following exports for winipcfile.dll
+
+    00000000 characteristics
+     6648B16 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          1      000118C0 [NONAME]
+          2      00011950 [NONAME]
+          3      00011960 [NONAME]
+          4      00011970 [NONAME]
+          5      00011980 [NONAME]
+          6      00011A30 [NONAME]
+          7      00011A40 [NONAME]
+          8      00011A50 [NONAME]
+          9      00011A60 [NONAME]
+         10      00011A70 [NONAME]
+         11      00011A80 [NONAME]
+         12      00011A90 [NONAME]
+         13      00011AA0 [NONAME]
+         14      00011AB0 [NONAME]
+         15      00011AC0 [NONAME]
+         16      00011AD0 [NONAME]
+         17      00011AE0 [NONAME]
+         18      00011AF0 [NONAME]
+         19      00011B00 [NONAME]
+         20      00011B10 [NONAME]
+         21      000119D0 [NONAME]
+         22      00011900 [NONAME]
+
+  Summary
+
+       1A000 .data
+        1000 .didat
+        4000 .pdata
+       2A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4C000 .text

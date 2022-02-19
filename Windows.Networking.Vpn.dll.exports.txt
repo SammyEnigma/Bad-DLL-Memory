@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.Vpn.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.Vpn.dll
+
+    00000000 characteristics
+    397B453E time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+         10    0 0007CA30 DllCanUnloadNow
+         11    1 0007C250 DllGetActivationFactory
+         12    2 0007C4B0 DllGetClassObject
+         13    3 0007C840 DllMain
+         14    4 0007C770 DllRegisterServer
+         15    5 0007C6A0 DllUnregisterServer
+         16    6 0007CB40 LaunchStoreForPluginW
+          1    7 0007DC40 VpnClientGetCostedNetworkSettings
+          2    8 0007DD60 VpnClientGetProxyForUrlAndSingleSessionDeviceUser
+          3    9 0007D780 VpnClientPluginGetSecurity
+          4    A 0007D3B0 VpnClientPluginInstall
+          5    B 0007D560 VpnClientPluginManifestFind
+          6    C 0007D490 VpnClientPluginUninstall
+          7    D 0007DB70 VpnClientSetCostedNetworkSettings
+          8    E 0007D920 VpnPluginEnumerate
+          9    F 0007D9E0 VpnPluginListFree
+
+  Summary
+
+       2F000 .data
+        1000 .didat
+        7000 .pdata
+       89000 .rdata
+        9000 .reloc
+        3000 .rsrc
+       AD000 .text

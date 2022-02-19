@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wuuhext.dll
+
+File Type: DLL
+
+  Section contains the following exports for WuUhExt.dll
+
+    00000000 characteristics
+    CF9EE026 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B1F0 WUCreateDriverUtil
+          2    1 00009B10 WUCreateExpressionEvaluator
+          3    2 0000A220 WUCreateUpdateHandler
+          4    3 00020290 WUGetHardwareIdInfo
+
+  Summary
+
+        C000 .data
+        1000 .didat
+        4000 .pdata
+       1F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       53000 .text

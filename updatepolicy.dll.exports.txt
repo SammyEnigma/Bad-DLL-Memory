@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\updatepolicy.dll
+
+File Type: DLL
+
+  Section contains the following exports for UpdatePolicy.dll
+
+    00000000 characteristics
+    1C823CFB time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+         10    0 000050F0 DllCanUnloadNow
+         11    1 00005110 DllGetClassObject
+         12    2 00005240 DllRegisterServer
+         13    3 00005340 DllUnregisterServer
+          1    4 00016340 GetAutoUpdatePolicy
+          2    5 0000ED20 GetEnterprisePolicyName
+          3    6 00016870 GetSkuUpdateManagementGroup
+          4    7 00016060 GetUpdatePolicyName
+          5    8 00015E00 ReadPolicy
+          6    9 0000E610 ReadPolicyWithFallback
+          7    A 00018EB0 ReleaseAutoUpdatePolicy
+          8    B 0000F4A0 ReleaseEnterprisePolicyValue
+          9    C 00018E60 ReleaseUpdatePolicyValue
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text

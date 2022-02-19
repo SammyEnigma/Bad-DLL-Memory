@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\winipcsecproc.dll
+
+File Type: DLL
+
+  Section contains the following exports for client.dll
+
+    00000000 characteristics
+    96A1613B time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004260 IpcSPAttest
+          2    1 00004420 IpcSPBindLicense
+          3    2 00004690 IpcSPCheckEnvironmentSecurity
+          4    3 00004600 IpcSPCloseHandle
+          5    4 000046A0 IpcSPCommit
+          6    5 000046B0 IpcSPCreateDecryptor
+          7    6 00004880 IpcSPCreateEnablingPrincipal
+          8    7 00004AA0 IpcSPCreateEncryptor
+          9    8 000059C0 IpcSPCreateMachineCerts
+         10    9 000046A0 IpcSPCreatePCE
+         11    A 00004C70 IpcSPCreateSecurityProcessor
+         12    B 00004ED0 IpcSPDecrypt
+         13    C 000046A0 IpcSPDecryptFinal
+         14    D 000046A0 IpcSPDecryptUpdate
+         15    E 00005060 IpcSPDecryptWithRac
+         16    F 00005EB0 IpcSPEnableAndEncrypt
+         17   10 00005200 IpcSPEnablePublishingLicense
+         18   11 000052C0 IpcSPEncrypt
+         19   12 000046A0 IpcSPEncryptFinal
+         20   13 000046A0 IpcSPEncryptUpdate
+         21   14 00006610 IpcSPGetBoundRightKey
+         22   15 00005450 IpcSPGetCurrentTime
+         23   16 000055C0 IpcSPGetInfo
+         24   17 00005C60 IpcSPGetProcAddress
+         25   18 000041A0 IpcSPInitialize
+         26   19 00006550 IpcSPIsActivated
+         27   1A 00005A80 IpcSPLoadLibrary
+         28   1B 00005800 IpcSPSign
+
+  Summary
+
+       39000 .data
+        1000 .didat
+        7000 .pdata
+       2E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       A5000 .text

@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\tcpmonui.dll
+
+File Type: DLL
+
+  Section contains the following exports for TCPMonUI.dll
+
+    00000000 characteristics
+    892331D4 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000043A0 ??0CPortABC@@QEAA@AEBV0@@Z
+          2    1 000043A0 ??0CPortABC@@QEAA@XZ
+          3    2 00001010 ??0CTcpMibABC@@QEAA@AEBV0@@Z
+          4    3 00001010 ??0CTcpMibABC@@QEAA@XZ
+          5    4 000043C0 ??1CPortABC@@UEAA@XZ
+          6    5 00001030 ??1CTcpMibABC@@UEAA@XZ
+          7    6 00001050 ??4CPortABC@@QEAAAEAV0@AEBV0@@Z
+          8    7 00001050 ??4CTcpMibABC@@QEAAAEAV0@AEBV0@@Z
+          9    8 0000C080 ??_7CPortABC@@6B@
+         10    9 0000C010 ??_7CTcpMibABC@@6B@
+         12    A 000043E0 ?Read@CPortABC@@UEAAKQEAXPEAEKPEAK@Z
+         13    B 000070B0 InitializePrintMonitorUI
+         11    C 00007110 InitializePrintMonitorUI2
+         14    D 00007BF0 LocalAddPortUI
+         15    E 00007CC0 LocalConfigurePortUI
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        5000 .rsrc
+        B000 .text

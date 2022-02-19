@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\bcmwl63.inf_amd64_4f4275e69b0af7fa\bcmihvsrv64.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcmihvsrv64.dll
+
+    00000000 characteristics
+    5613F820 time date stamp Tue Oct  6 18:34:40 2015
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003DB0 Dot11ExtIhvGetVersionInfo
+          2    1 00003DC0 Dot11ExtIhvInitService
+          3    2 00014880 GetKeyStorageInterface
+          4    3 000155A0 GetSecretAgreementInterface
+          5    4 00015620 GetSignatureInterface
+
+  Summary
+
+       18000 .data
+        6000 .pdata
+       22000 .rdata
+        4000 .reloc
+      365000 .rsrc
+       4F000 .text

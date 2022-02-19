@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Gaming.Input.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Gaming.Input.dll
+
+    00000000 characteristics
+    118C855F time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000FBD0 DllCanUnloadNow
+          2    1 0000FC50 DllGetActivationFactory
+          3    2 0000FF10 DllGetClassObject
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        5000 .pdata
+       52000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       6B000 .text

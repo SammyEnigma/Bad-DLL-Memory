@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvxdbat.dll
+
+File Type: DLL
+
+  Section contains the following exports for NVXDBat.DLL
+
+    00000000 characteristics
+    5FD3FFB6 time date stamp Sat Dec 12 00:24:38 2020
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0007E6D0 DllCanUnloadNow
+          2    1 0007E720 DllGetClassObject
+          3    2 0007E770 DllInstall
+          4    3 0007E7E0 DllRegisterServer
+          5    4 0007E810 DllUnregisterServer
+
+  Summary
+
+       13000 .data
+        1000 .didat
+        1000 .orpc
+        C000 .pdata
+       63000 .rdata
+        3000 .reloc
+        F000 .rsrc
+       FC000 .text
+        1000 .tls

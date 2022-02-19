@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\AuthBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for AuthBroker.dll
+
+    00000000 characteristics
+    1705697F time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000139E0 AuthBrokerClearThreadClientContext
+          3    1 00002880 AuthBrokerCreateClientContext
+          4    2 00002A40 AuthBrokerFreeClientContext
+          5    3 00013AE0 AuthBrokerSetThreadClientContext
+          6    4 0000F190 DllCanUnloadNow
+          7    5 0000F1E0 DllGetActivationFactory
+          8    6 0000F220 DllGetClassObject
+          9    7 00013C30 DllInstall
+         10    8 00002F10 DllRegisterServer
+          1    9 0000F350 FindCallingThreadImmersiveWindow
+         11    A 00013CA0 PurgeAuthHostSsoCache
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       23000 .text

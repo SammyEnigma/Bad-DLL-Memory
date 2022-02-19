@@ -1,0 +1,100 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\iga64.dll
+
+File Type: DLL
+
+  Section contains the following exports for iga64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          75 number of functions
+          75 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E8F0 iga_assemble
+          2    1 0000E900 iga_context_assemble
+          3    2 0000E9D0 iga_context_create
+          4    3 0000EB20 iga_context_disassemble
+          5    4 0000EC10 iga_context_disassemble_instruction
+          6    5 0000ECE0 iga_context_get_errors
+          7    6 0000ED60 iga_context_get_warnings
+          8    7 0000EDE0 iga_context_release
+          9    8 0000EEA0 iga_create_context
+         10    9 0000EEB0 iga_diagnostic_get_message
+         11    A 0000EED0 iga_diagnostic_get_offset
+         12    B 0000EEF0 iga_diagnostic_get_text_column
+         13    C 0000EF10 iga_diagnostic_get_text_extent
+         14    D 0000EF40 iga_diagnostic_get_text_line
+         15    E 0000EF70 iga_diagnostic_get_type
+         16    F 0000EFA0 iga_disassemble
+         17   10 0000EFB0 iga_disassemble_instruction
+         18   11 0000EFC0 iga_get_errors
+         19   12 0000EFD0 iga_get_interface
+         20   13 0000F0E0 iga_get_warnings
+         21   14 0000F0F0 iga_opspec_description
+         22   15 0000F1B0 iga_opspec_enumerate
+         23   16 0000F3F0 iga_opspec_from_op
+         24   17 0000F480 iga_opspec_mnemonic
+         25   18 0000F540 iga_opspec_name
+         26   19 0000F600 iga_opspec_op
+         27   1A 0000F630 iga_opspec_op_encoding
+         28   1B 0000F660 iga_opspec_parent_op
+         29   1C 0000F690 iga_platform_symbol_suffix
+         30   1D 0000F6D0 iga_platforms_list
+         31   1E 0000F730 iga_release_context
+         32   1F 0000F740 iga_status_to_string
+         33   20 0000F7F0 iga_version_string
+         34   21 00013360 kv_create
+         35   22 000136D0 kv_delete
+         36   23 000136E0 kv_get_channel_offset
+         37   24 00013740 kv_get_default_label_name
+         38   25 000137C0 kv_get_destination_data_type
+         39   26 00013820 kv_get_destination_modifier
+         40   27 00013880 kv_get_destination_region
+         41   28 00013900 kv_get_destination_register
+         42   29 00013970 kv_get_destination_register_kind
+         43   2A 000139D0 kv_get_destination_register_type
+         44   2B 00013A30 kv_get_destination_sub_register
+         45   2C 00013AB0 kv_get_execution_size
+         46   2D 00013B00 kv_get_flag_modifier
+         47   2E 00013B60 kv_get_flag_register
+         48   2F 00013BC0 kv_get_flag_sub_register
+         49   30 00013C20 kv_get_has_destination
+         50   31 00013C90 kv_get_inst_size
+         51   32 00013D00 kv_get_inst_syntax
+         52   33 00013EA0 kv_get_inst_targets
+         53   34 00013FA0 kv_get_is_inverse_predicate
+         54   35 00014000 kv_get_mask_control
+         55   36 00014060 kv_get_message_len
+         56   37 00014180 kv_get_message_sfid
+         57   38 00014270 kv_get_message_type
+         58   39 00014370 kv_get_number_sources
+         59   3A 00014400 kv_get_opcode
+         60   3B 00014460 kv_get_opgroup
+         61   3C 00014510 kv_get_predicate
+         62   3D 00014570 kv_get_send_descs
+         63   3E 00014630 kv_get_send_indirect_descs
+         64   3F 00014720 kv_get_source_data_type
+         65   40 000147F0 kv_get_source_immediate
+         66   41 000148D0 kv_get_source_modifier
+         67   42 000149A0 kv_get_source_region
+         68   43 00014AA0 kv_get_source_register
+         69   44 00014B70 kv_get_source_register_kind
+         70   45 00014C40 kv_get_source_register_type
+         71   46 00014D20 kv_get_source_sub_register
+         72   47 00014E00 kv_get_swsb_info
+         73   48 00014E60 kv_has_inst_opt
+         74   49 00014EC0 kv_is_inst_target
+         75   4A 00014F20 kv_is_source_vector
+
+  Summary
+
+       2C000 .data
+        8000 .pdata
+      2D4000 .rdata
+        F000 .reloc
+       B3000 .text
+        1000 _RDATA

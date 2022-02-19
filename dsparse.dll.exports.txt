@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\dsparse.dll
+
+File Type: DLL
+
+  Section contains the following exports for DSPARSE.dll
+
+    00000000 characteristics
+    B4F54A27 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002680 DsCrackSpn2A
+          2    1 00001010 DsCrackSpn2W
+          3    2 000029E0 DsCrackSpn3W
+          4    3 00002B50 DsCrackSpn4W
+          5    4 00002DB0 DsCrackSpnA
+          6    5 000030F0 DsCrackSpnW
+          7    6 00004080 DsCrackUnquotedMangledRdnA
+          8    7 00004110 DsCrackUnquotedMangledRdnW
+          9    8 000041B0 DsGetRdnW
+         10    9 00004220 DsIsMangledDnA
+         11    A 00004290 DsIsMangledDnW
+         12    B 00004310 DsIsMangledRdnValueA
+         13    C 00004390 DsIsMangledRdnValueW
+         14    D 00003320 DsMakeSpn2W
+         15    E 00003610 DsMakeSpnA
+         16    F 00003840 DsMakeSpnW
+         17   10 00004440 DsQuoteRdnValueA
+         18   11 000045D0 DsQuoteRdnValueW
+         19   12 00004640 DsUnquoteRdnValueA
+         20   13 000047D0 DsUnquoteRdnValueW
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

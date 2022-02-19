@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SettingSync.dll
+
+File Type: DLL
+
+  Section contains the following exports for inprocserver.dll
+
+    00000000 characteristics
+     589062C time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B900 DllCanUnloadNow
+          2    1 0000AC30 DllGetClassObject
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        8000 .pdata
+       2E000 .rdata
+        2000 .reloc
+        3000 .rsrc
+       74000 .text

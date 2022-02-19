@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\AppIdPolicyEngineApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for PolicyEngineApi.DLL
+
+    00000000 characteristics
+    53515AA7 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001D30 DllCanUnloadNow
+          2    1 00001D50 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       20000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       3C000 .text

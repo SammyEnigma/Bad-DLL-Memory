@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\capauthz.dll
+
+File Type: DLL
+
+  Section contains the following exports for capauthz.dll
+
+    00000000 characteristics
+    5A1DEF7E time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004010 DeprovisionApplicationCapabilities
+          2    1 000038C0 ProvisionApplicationCapabilities
+          3    2 00003920 ProvisionApplicationCapabilitiesEx
+          4    3 000041B0 QueryApplicationCapabilities
+          5    4 00004210 QueryApplicationCapabilitiesEx
+          6    5 00011E00 SCCDFreeParsedElements
+          7    6 00010E40 SCCDParseFile
+          8    7 00012FB0 SCCDValidateAppxFile
+          9    8 00012A60 SCCDValidateCatalogFile
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       35000 .text
+        1000 PAGER32C

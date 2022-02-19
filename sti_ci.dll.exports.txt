@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\sti_ci.dll
+
+File Type: DLL
+
+  Section contains the following exports for sti_ci.dll
+
+    00000000 characteristics
+    669FAAF6 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006AB0 AddDevice
+         16    1 0000CAC0 ClassInstall
+         17    2 0000DE10 CoinstallerEntry
+          2    3 00015140 CreateWiaDeviceList
+          3    4 00015630 DestroyWiaDeviceList
+          4    5 00015E00 DisableWiaDevice
+          5    6 00015CA0 EnableWiaDevice
+          6    7 000157E0 GetWiaDeviceProperty
+          7    8 000143F0 InstallWiaDevice
+          8    9 00007610 InstallWiaService
+          9    A 00015A80 SetWiaDeviceProperty
+         10    B 00014EE0 UninstallWiaDevice
+         11    C 00006910 WiaAddDevice
+         12    D 00001B20 WiaCreatePortList
+         13    E 00007BC0 WiaDestroyPortList
+         14    F 000079D0 WiaDeviceEnum
+         15   10 000069F0 WiaRemoveDevice
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+       11000 .rsrc
+       19000 .text

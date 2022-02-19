@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Web.Diagnostics.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Web.Diagnostics.dll
+
+    00000000 characteristics
+    B347DB8A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000039D0 DllCanUnloadNow
+          2    1 000036C0 DllGetActivationFactory
+          3    2 000038A0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       13000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       24000 .text

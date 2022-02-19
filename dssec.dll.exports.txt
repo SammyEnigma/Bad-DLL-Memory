@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\dssec.dll
+
+File Type: DLL
+
+  Section contains the following exports for DSSEC.dll
+
+    00000000 characteristics
+    17DEA250 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003ED0 DSCreateISecurityInfoObject
+          4    1 00003D60 DSCreateISecurityInfoObjectEx
+          2    2 00003F20 DSCreateSecurityPage
+          3    3 00003FC0 DSEditSecurity
+          5    4 000010B0 DllCanUnloadNow
+          6    5 000010D0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

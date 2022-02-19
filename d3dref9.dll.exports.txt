@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\d3dref9.dll
+
+File Type: DLL
+
+  Section contains the following exports for d3dref.dll
+
+    00000000 characteristics
+    860B7D87 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000056A0 D3D9GetSWInfo
+          2    1 000056D0 D3D9GetSWInfoEx
+
+  Summary
+
+        4000 .data
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       63000 .text

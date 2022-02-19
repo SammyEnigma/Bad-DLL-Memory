@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\uDWM.dll
+
+File Type: DLL
+
+  Section contains the following exports for udwm.dll
+
+    00000000 characteristics
+    D0E13C8D time date stamp
+        0.00 version
+         101 ordinal base
+           2 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+        101      000497B0 [NONAME]
+        102      0008CF60 [NONAME]
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        B000 .pdata
+       21000 .rdata
+        2000 .reloc
+        9000 .rsrc
+       C1000 .text

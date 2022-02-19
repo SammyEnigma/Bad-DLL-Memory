@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wdc.dll
+
+File Type: DLL
+
+  Section contains the following exports for PMONT.dll
+
+    00000000 characteristics
+    EDEFC622 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00025F40 DllCanUnloadNow
+          4    1 00020F70 DllGetClassObject
+          5    2 00026010 DllRegisterServer
+          6    3 00026010 DllUnregisterServer
+          1    4 00071F30 WdcParseLegacyFile
+          2    5 00072550 WdcRunTaskAsInteractiveUser
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        6000 .pdata
+       27000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       82000 .text

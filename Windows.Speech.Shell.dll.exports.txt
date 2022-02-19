@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech_OneCore\common\Windows.Speech.Shell.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Speech.Shell.dll
+
+    00000000 characteristics
+    E209E822 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004460 DllCanUnloadNow
+          2    1 00004190 DllGetActivationFactory
+          3    2 00004370 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        8000 .pdata
+       3F000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       BF000 .text

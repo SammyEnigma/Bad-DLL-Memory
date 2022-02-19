@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wuapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for wuapi.dll
+
+    00000000 characteristics
+    829B566F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00020D00 DllCanUnloadNow
+          2    1 0001C030 DllGetClassObject
+          3    2 0004DFE0 DllRegisterServer
+          4    3 0004E050 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        8000 .pdata
+       34000 .rdata
+        4000 .reloc
+       15000 .rsrc
+       8C000 .text

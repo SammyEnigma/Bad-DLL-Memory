@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\ApiSetHost.AppExecutionAlias.dll
+
+File Type: DLL
+
+  Section contains the following exports for ApiSetHost.AppExecutionAlias.dll
+
+    00000000 characteristics
+     444EA1C time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000077D0 CheckAppExecutionAliasApplicationType
+          2    1 00007B70 CloseAppExecutionAliasEx
+          3    2 00007D00 CompleteAppExecutionAliasProcessCreationEx
+          4    3 000077D0 CreateAppExecutionAliasEx
+          5    4 000077E0 CreateAppExecutionAliasEx2
+          6    5 000020B0 DllCanUnloadNow
+          7    6 00002110 DllGetActivationFactory
+          8    7 00001FC0 DllGetClassObject
+          9    8 00007730 FreeAppExecutionAliasInfoEx
+         10    9 00007CE0 GetAppExecutionAliasApplicationType
+         11    A 00007CB0 GetAppExecutionAliasApplicationUserModelIdEx
+         12    B 00007C80 GetAppExecutionAliasExecutableEx
+         13    C 00007BF0 GetAppExecutionAliasPackageFamilyNameEx
+         14    D 00007BA0 GetAppExecutionAliasPackageFullNameEx
+         15    E 00008810 GetAppExecutionAliasPath
+         16    F 000071C0 LoadAppExecutionAliasInfoEx
+         17   10 00007750 OpenAppExecutionAliasForUserEx
+         18   11 000085B0 PerformAppxLicenseRundownEx
+         19   12 00007AA0 PersistAppExecutionAliasToFileEx
+         20   13 00007B50 PersistAppExecutionAliasToFileHandleEx
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       15000 .text

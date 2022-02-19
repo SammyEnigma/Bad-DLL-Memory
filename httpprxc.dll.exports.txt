@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\httpprxc.dll
+
+File Type: DLL
+
+  Section contains the following exports for httpprxc.dll
+
+    00000000 characteristics
+    574DD8C5 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010A0 ProxyHelperClientAllocateMemory
+          2    1 00001E30 ProxyHelperClientConnectToServer
+          3    2 00001E50 ProxyHelperClientDisconnectFromServer
+          4    3 000010F0 ProxyHelperClientFreeMemory
+          5    4 00001A80 ProxyHelperClientGetAllProxiesForUrl
+          6    5 00001CF0 ProxyHelperClientGetProxyCredentials
+          7    6 00001810 ProxyHelperClientGetProxyForUrl
+          8    7 00001E80 ProxyHelperClientInitialize
+          9    8 00001260 ProxyHelperClientRegisterForEventNotification
+         10    9 00001ED0 ProxyHelperClientUninitialize
+         11    A 00001630 ProxyHelperClientUnregisterEventNotification
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

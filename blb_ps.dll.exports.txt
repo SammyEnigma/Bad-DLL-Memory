@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\blb_ps.dll
+
+File Type: DLL
+
+  Section contains the following exports for blb_ps.dll
+
+    00000000 characteristics
+    EABBF68A time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001270 DllCanUnloadNow
+          2    1 00001220 DllGetClassObject
+          3    2 000012E0 DllRegisterServer
+          4    3 00001320 DllUnregisterServer
+          5    4 000011F0 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

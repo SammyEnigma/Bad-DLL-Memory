@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\cmdial32.dll
+
+File Type: DLL
+
+  Section contains the following exports for cmdial32.dll
+
+    00000000 characteristics
+    64F0844E time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002A9A0 AutoDialFunc
+          2    1 0002BAA0 CmCustomDialDlg
+          3    2 0002BF20 CmCustomHangUp
+          4    3 0002A1D0 CmReConnect
+          5    4 0002C200 GetCustomProperty
+          6    5 0002A960 InetDialHandler
+          7    6 0002B1D0 RasCustomDeleteEntryNotify
+          8    7 0002B1C0 RasCustomDial
+          9    8 0002AA20 RasCustomDialDlg
+         10    9 0002AD30 RasCustomEntryDlg
+         11    A 0002AF10 RasCustomHangUp
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       18000 .rdata
+        1000 .reloc
+       35000 .rsrc
+       41000 .text

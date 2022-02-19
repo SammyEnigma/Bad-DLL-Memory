@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\apisampling.dll
+
+File Type: DLL
+
+  Section contains the following exports for APISAMPLING.dll
+
+    00000000 characteristics
+    AD3C1A09 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001900 APISamplingInitialize
+          2    1 00001AA0 APISamplingSetValue
+          3    2 00001A60 APISamplingUninitialize
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2E000 .text

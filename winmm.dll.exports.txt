@@ -1,0 +1,208 @@
+
+Dump of file C:\Windows\System32\winmm.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINMM.dll
+
+    00000000 characteristics
+    B8CA2D77 time date stamp
+        0.00 version
+           2 ordinal base
+         181 number of functions
+         180 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00009820 CloseDriver
+          5    1 00009840 DefDriverProc
+          6    2 00009860 DriverCallback
+          7    3 00009870 DrvGetModuleHandle
+          8    4 00009890 GetDriverModuleHandle
+          9    5 000098C0 OpenDriver
+         10    6 000098B0 PlaySound
+         11    7 00013200 PlaySoundA
+         12    8 00001950 PlaySoundW
+         13    9 000098E0 SendDriverMessage
+         14    A 00014590 WOWAppExit
+         15    B 00009900 auxGetDevCapsA
+         16    C 00009920 auxGetDevCapsW
+         17    D 00009940 auxGetNumDevs
+         18    E 00009960 auxGetVolume
+         19    F 00009980 auxOutMessage
+         20   10 000099A0 auxSetVolume
+         21   11 00005EF0 joyConfigChanged
+         22   12 00005F60 joyGetDevCapsA
+         23   13 00006220 joyGetDevCapsW
+         24   14 00006330 joyGetNumDevs
+         25   15 00006340 joyGetPos
+         26   16 000063A0 joyGetPosEx
+         27   17 000068D0 joyGetThreshold
+         28   18 000076F0 joyReleaseCapture
+         29   19 000077B0 joySetCapture
+         30   1A 00007A20 joySetThreshold
+         31   1B 00010980 mciDriverNotify
+         32   1C 000109A0 mciDriverYield
+          3   1D 0000B3C0 mciExecute
+         33   1E 0000E7F0 mciFreeCommandResource
+         34   1F 00010E50 mciGetCreatorTask
+         35   20 00010ED0 mciGetDeviceIDA
+         36   21 00010F30 mciGetDeviceIDFromElementIDA
+         37   22 00010F90 mciGetDeviceIDFromElementIDW
+         38   23 000110B0 mciGetDeviceIDW
+         39   24 000110E0 mciGetDriverData
+         40   25 0000C990 mciGetErrorStringA
+         41   26 0000CAC0 mciGetErrorStringW
+         42   27 00011190 mciGetYieldProc
+         43   28 0000EA00 mciLoadCommandResource
+         44   29 0000CDF0 mciSendCommandA
+         45   2A 0000D690 mciSendCommandW
+         46   2B 0000D7C0 mciSendStringA
+         47   2C 0000D9F0 mciSendStringW
+         48   2D 000117E0 mciSetDriverData
+         49   2E 000118A0 mciSetYieldProc
+         50   2F 000099C0 midiConnect
+         51   30 000099E0 midiDisconnect
+         52   31 00009A00 midiInAddBuffer
+         53   32 00009A20 midiInClose
+         54   33 00009A40 midiInGetDevCapsA
+         55   34 00009A60 midiInGetDevCapsW
+         56   35 00009A80 midiInGetErrorTextA
+         57   36 00009AA0 midiInGetErrorTextW
+         58   37 00009AC0 midiInGetID
+         59   38 00009AE0 midiInGetNumDevs
+         60   39 00009B00 midiInMessage
+         61   3A 00009B20 midiInOpen
+         62   3B 00009B40 midiInPrepareHeader
+         63   3C 00009B60 midiInReset
+         64   3D 00009B80 midiInStart
+         65   3E 00009BA0 midiInStop
+         66   3F 00009BC0 midiInUnprepareHeader
+         67   40 00009BE0 midiOutCacheDrumPatches
+         68   41 00009C00 midiOutCachePatches
+         69   42 00009C20 midiOutClose
+         70   43 00009C40 midiOutGetDevCapsA
+         71   44 00009C60 midiOutGetDevCapsW
+         72   45 00009C80 midiOutGetErrorTextA
+         73   46 00009CA0 midiOutGetErrorTextW
+         74   47 00009CC0 midiOutGetID
+         75   48 00009CE0 midiOutGetNumDevs
+         76   49 00009D00 midiOutGetVolume
+         77   4A 00009D20 midiOutLongMsg
+         78   4B 00009D40 midiOutMessage
+         79   4C 00009D60 midiOutOpen
+         80   4D 00009D80 midiOutPrepareHeader
+         81   4E 00009DA0 midiOutReset
+         82   4F 00009DC0 midiOutSetVolume
+         83   50 00009DE0 midiOutShortMsg
+         84   51 00009E00 midiOutUnprepareHeader
+         85   52 00009E20 midiStreamClose
+         86   53 00009E40 midiStreamOpen
+         87   54 00009E60 midiStreamOut
+         88   55 00009E80 midiStreamPause
+         89   56 00009EA0 midiStreamPosition
+         90   57 00009EC0 midiStreamProperty
+         91   58 00009EE0 midiStreamRestart
+         92   59 00009F00 midiStreamStop
+         93   5A 00009F20 mixerClose
+         94   5B 00009F40 mixerGetControlDetailsA
+         95   5C 00009F60 mixerGetControlDetailsW
+         96   5D 00009F80 mixerGetDevCapsA
+         97   5E 00009FA0 mixerGetDevCapsW
+         98   5F 00009FC0 mixerGetID
+         99   60 00009FE0 mixerGetLineControlsA
+        100   61 0000A000 mixerGetLineControlsW
+        101   62 0000A020 mixerGetLineInfoA
+        102   63 0000A040 mixerGetLineInfoW
+        103   64 0000A060 mixerGetNumDevs
+        104   65 0000A080 mixerMessage
+        105   66 0000A0A0 mixerOpen
+        106   67 0000A0C0 mixerSetControlDetails
+        107   68 0000A0E0 mmDrvInstall
+        108   69 0000A100 mmGetCurrentTask
+        109   6A 0000A120 mmTaskBlock
+        110   6B 0000A140 mmTaskCreate
+        111   6C 0000A160 mmTaskSignal
+        112   6D 0000A180 mmTaskYield
+        113   6E 0000A1A0 mmioAdvance
+        114   6F 0000A1C0 mmioAscend
+        115   70 0000A1E0 mmioClose
+        116   71 0000A200 mmioCreateChunk
+        117   72 0000A220 mmioDescend
+        118   73 0000A240 mmioFlush
+        119   74 0000A260 mmioGetInfo
+        120   75 0000A280 mmioInstallIOProcA
+        121   76 0000A2A0 mmioInstallIOProcW
+        122   77 0000A2C0 mmioOpenA
+        123   78 0000A2E0 mmioOpenW
+        124   79 0000A300 mmioRead
+        125   7A 0000A320 mmioRenameA
+        126   7B 0000A340 mmioRenameW
+        127   7C 0000A360 mmioSeek
+        128   7D 0000A380 mmioSendMessage
+        129   7E 0000A3A0 mmioSetBuffer
+        130   7F 0000A3C0 mmioSetInfo
+        131   80 0000A3E0 mmioStringToFOURCCA
+        132   81 0000A400 mmioStringToFOURCCW
+        133   82 0000A420 mmioWrite
+        134   83 00014830 mmsystemGetVersion
+        135   84 00013680 sndPlaySoundA
+        136   85 00013690 sndPlaySoundW
+        137   86 00001060 timeBeginPeriod
+        138   87 00001040 timeEndPeriod
+        139   88 0000A440 timeGetDevCaps
+        140   89 0000A460 timeGetSystemTime
+        141   8A 00003190 timeGetTime
+        142   8B 00002E50 timeKillEvent
+        143   8C 00002A20 timeSetEvent
+        144   8D 0000A480 waveInAddBuffer
+        145   8E 0000A4A0 waveInClose
+        146   8F 0000A4C0 waveInGetDevCapsA
+        147   90 0000A4E0 waveInGetDevCapsW
+        148   91 0000A500 waveInGetErrorTextA
+        149   92 0000A520 waveInGetErrorTextW
+        150   93 0000A540 waveInGetID
+        151   94 0000A560 waveInGetNumDevs
+        152   95 0000A580 waveInGetPosition
+        153   96 0000A5A0 waveInMessage
+        154   97 0000A5C0 waveInOpen
+        155   98 0000A5E0 waveInPrepareHeader
+        156   99 0000A600 waveInReset
+        157   9A 0000A620 waveInStart
+        158   9B 0000A640 waveInStop
+        159   9C 0000A660 waveInUnprepareHeader
+        160   9D 0000A680 waveOutBreakLoop
+        161   9E 0000A6A0 waveOutClose
+        162   9F 0000A6C0 waveOutGetDevCapsA
+        163   A0 0000A6E0 waveOutGetDevCapsW
+        164   A1 0000A700 waveOutGetErrorTextA
+        165   A2 0000A720 waveOutGetErrorTextW
+        166   A3 0000A740 waveOutGetID
+        167   A4 0000A760 waveOutGetNumDevs
+        168   A5 0000A780 waveOutGetPitch
+        169   A6 0000A7A0 waveOutGetPlaybackRate
+        170   A7 0000A7C0 waveOutGetPosition
+        171   A8 0000A7E0 waveOutGetVolume
+        172   A9 0000A800 waveOutMessage
+        173   AA 0000A820 waveOutOpen
+        174   AB 0000A840 waveOutPause
+        175   AC 0000A860 waveOutPrepareHeader
+        176   AD 0000A880 waveOutReset
+        177   AE 0000A8A0 waveOutRestart
+        178   AF 0000A8C0 waveOutSetPitch
+        179   B0 0000A8E0 waveOutSetPlaybackRate
+        180   B1 0000A900 waveOutSetVolume
+        181   B2 0000A920 waveOutUnprepareHeader
+        182   B3 0000A940 waveOutWrite
+          2      000098B0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .guids
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       14000 .text

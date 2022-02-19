@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\pnidui.dll
+
+File Type: DLL
+
+  Section contains the following exports for PNIDUI.dll
+
+    00000000 characteristics
+    A7C7BA01 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001270 DllCanUnloadNow
+          2    1 000031F0 DllGetClassObject
+          3    2 0001D1D0 DllRegisterServer
+          4    3 0001D240 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       14000 .rdata
+        1000 .reloc
+      1B6000 .rsrc
+       46000 .text

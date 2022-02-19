@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\MMDevAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for MMDevAPI.DLL
+
+    00000000 characteristics
+      C1FFE2 time date stamp
+        0.00 version
+           2 ordinal base
+          35 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+         17    0 00039690 ActivateAudioInterfaceAsync
+         33    1 000187F0 DllCanUnloadNow
+         34    2 00018340 DllGetClassObject
+         35    3 0003E990 DllRegisterServer
+         36    4 0003EA00 DllUnregisterServer
+          2      00001720 [NONAME]
+          3      0001ABB0 [NONAME]
+          4      0005D410 [NONAME]
+          5      0001A210 [NONAME]
+          6      0003EA10 [NONAME]
+          7      0001A200 [NONAME]
+          8      00001AA0 [NONAME]
+          9      00019FB0 [NONAME]
+         10      00004850 [NONAME]
+         11      00004630 [NONAME]
+         12      00004090 [NONAME]
+         13      0005D970 [NONAME]
+         14      0001ADA0 [NONAME]
+         15      00019200 [NONAME]
+         16      00014310 [NONAME]
+         18      00039B90 [NONAME]
+         19      0003BE30 [NONAME]
+         20      0003C440 [NONAME]
+         21      00013810 [NONAME]
+         22      0003C2E0 [NONAME]
+         23      0003C5A0 [NONAME]
+         24      0003C1C0 [NONAME]
+         25      0003C710 [NONAME]
+         26      00014070 [NONAME]
+         27      0003C830 [NONAME]
+         28      00013F60 [NONAME]
+         29      00014190 [NONAME]
+         30      0003C080 [NONAME]
+         31      0003BE60 [NONAME]
+         32      0000C5E0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       17000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5F000 .text
+        1000 RT_BSS
+        1000 RT_DATA

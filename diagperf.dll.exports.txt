@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\diagperf.dll
+
+File Type: DLL
+
+  Section contains the following exports for official.dll
+
+    00000000 characteristics
+    FC323F2F time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005C0A0 DllCanUnloadNow
+          2    1 00036EA0 DllGetClassObject
+          3    2 0003BC70 DllRegisterServer
+          4    3 0003BC70 DllUnregisterServer
+          5    4 0000AB90 WdiDiagnosticModuleMain
+          6    5 0003BC20 WdiGetDiagnosticModuleInterfaceVersion
+          7    6 0000A1C0 WdiHandleInstance
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        E000 .pdata
+       48000 .rdata
+        2000 .reloc
+       12000 .rsrc
+       D8000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\srhelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for SRHELPER.dll
+
+    00000000 characteristics
+    77FCFE6E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006500 DllCanUnloadNow
+          2    1 00006450 DllGetClassObject
+          3    2 00006520 DllRegisterServer
+          4    3 00006610 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

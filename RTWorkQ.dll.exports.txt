@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\RTWorkQ.dll
+
+File Type: DLL
+
+  Section contains the following exports for RTWorkQ.DLL
+
+    00000000 characteristics
+    7510BFA4 time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005E40 RtwqAddPeriodicCallback
+          3    1 00007C40 RtwqAllocateSerialWorkQueue
+          4    2 00003BA0 RtwqAllocateWorkQueue
+          5    3 00004DB0 RtwqBeginRegisterWorkQueueWithMMCSS
+          6    4 00018940 RtwqBeginUnregisterWorkQueueWithMMCSS
+          7    5 000032D0 RtwqCancelDeadline
+          8    6 000186B0 RtwqCancelMultipleWaitingWorkItem
+          9    7 0000CDC0 RtwqCancelWorkItem
+         10    8 0000CCF0 RtwqCreateAsyncResult
+         11    9 000064D0 RtwqEndRegisterWorkQueueWithMMCSS
+         12    A 00018A30 RtwqEndUnregisterWorkQueueWithMMCSS
+          1    B 00018090 RtwqGetPlatform
+         13    C 00018A60 RtwqGetWorkQueueMMCSSClass
+         14    D 00006600 RtwqGetWorkQueueMMCSSPriority
+         15    E 00018B80 RtwqGetWorkQueueMMCSSTaskId
+         16    F 00002CD0 RtwqInvokeCallback
+         17   10 000066F0 RtwqJoinWorkQueue
+         18   11 00003060 RtwqLockPlatform
+         19   12 00004040 RtwqLockSharedWorkQueue
+         20   13 00005820 RtwqLockWorkQueue
+         21   14 000186E0 RtwqPutMultipleWaitingWorkItem
+         22   15 00006E70 RtwqPutWaitingWorkItem
+         23   16 0000B630 RtwqPutWorkItem
+         24   17 0000D240 RtwqRegisterPlatformEvents
+         25   18 00003C60 RtwqRegisterPlatformWithMMCSS
+         26   19 000063E0 RtwqRemovePeriodicCallback
+         27   1A 00003530 RtwqScheduleWorkItem
+         28   1B 000030A0 RtwqSetDeadline
+         29   1C 000030C0 RtwqSetDeadline2
+         30   1D 00001D90 RtwqSetLongRunning
+         31   1E 0000BA20 RtwqShutdown
+         32   1F 00007840 RtwqStartup
+         33   20 000067E0 RtwqUnjoinWorkQueue
+         34   21 00003020 RtwqUnlockPlatform
+         35   22 0000A440 RtwqUnlockWorkQueue
+         36   23 00018C90 RtwqUnregisterPlatformEvents
+         37   24 00018CB0 RtwqUnregisterPlatformFromMMCSS
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        3000 .pdata
+        7000 .rdata
+        1000 .reloc
+        8000 .rsrc
+       1C000 .text

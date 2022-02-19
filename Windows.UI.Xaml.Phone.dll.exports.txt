@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Xaml.Phone.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Xaml.Phone.dll
+
+    00000000 characteristics
+    8B963B19 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000212F0 CreateApplicationBarProxy
+          2    1 00005790 DllCanUnloadNow
+          3    2 000054C0 DllGetActivationFactory
+          4    3 000056A0 DllGetClassObject
+          5    4 000059A0 GetDependencyLocatorStorage
+          6    5 0001E520 SendTelemetryOnSuspend
+          7    6 000238C0 XamlControlsCalculateFlyoutPlacement
+          8    7 00024070 XamlControlsGetDatePickerSelection
+          9    8 00025140 XamlControlsGetListPickerSelection
+         10    9 00010660 XamlControlsGetPlatformMetadataProvider
+         11    A 0002B020 XamlControlsGetPlatformResourcesModuleHandle
+         12    B 00024080 XamlControlsGetTimePickerSelection
+         13    C 00025D20 XamlControlsTestHookCreateLoopingSelector
+         14    D 000078C0 XamlTestHookFreePhoneResourceLibrary
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        A000 .pdata
+       2A000 .rdata
+        5000 .reloc
+        4000 .rsrc
+       FA000 .text

@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\tpmvsc.dll
+
+File Type: DLL
+
+  Section contains the following exports for tpmvsc.dll
+
+    00000000 characteristics
+    BFAB06FD time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001B500 DllCanUnloadNow
+          2    1 0001B620 DllGetClassObject
+          3    2 0001B770 DllRegisterServer
+          4    3 0001B8E0 DllUnregisterServer
+          5    4 00032440 TpmVCardCreate
+          6    5 00032920 TpmVCardCreateInProc
+          7    6 00032DF0 TpmVCardDestroy
+          8    7 00032FD0 TpmVCardDestroyInProc
+          9    8 0002EB50 VCardAuthenticatePin
+         10    9 0002F3B0 VCardChangePin
+         11    A 0002DF40 VCardClose
+         12    B 0002E2E0 VCardCloseChannel
+         13    C 00031A70 VCardCreateClaim
+         14    D 0002F870 VCardCreateKey
+         15    E 0002EF20 VCardDeauthenticate
+         16    F 00031210 VCardDecrypt
+         17   10 0002DBA0 VCardDeinitialize
+         18   11 000306D0 VCardDeleteKey
+         19   12 00030DE0 VCardEncrypt
+         20   13 00030A30 VCardExportRsaPubKey
+         21   14 00031E50 VCardGetAikCertificate
+         22   15 00031FF0 VCardGetAikContainerName
+         23   16 0002E440 VCardGetChallenge
+         24   17 000308B0 VCardGetKeyType
+         25   18 0002F080 VCardGetPinLength
+         26   19 0002F210 VCardGetRemainingRetryCount
+         27   1A 0002FB10 VCardGetTransportKeyAlg
+         28   1B 0002FC00 VCardImportRsaKey
+         29   1C 00030220 VCardImportSymKey
+         30   1D 0002DA30 VCardInitialize
+         31   1E 0002E9D0 VCardInvalidateChallenge
+         32   1F 0002DD60 VCardOpen
+         33   20 0002E100 VCardOpenChannel
+         34   21 0002F6E0 VCardResetPin
+         35   22 0002E810 VCardSetResponse
+         36   23 00031640 VCardSignHash
+         37   24 0002F550 VCardUnblockPin
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3A000 .text

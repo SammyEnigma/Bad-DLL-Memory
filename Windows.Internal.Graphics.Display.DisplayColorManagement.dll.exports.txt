@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Internal.Graphics.Display.DisplayColorManagement.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Internal.Graphics.Display.DisplayColorManagement.dll
+
+    00000000 characteristics
+    489BDE0A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000035C0 DllCanUnloadNow
+          2    1 00003650 DllGetActivationFactory
+          3    2 00003830 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2C000 .text

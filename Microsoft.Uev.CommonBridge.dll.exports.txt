@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\Microsoft.Uev.CommonBridge.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Uev.CommonBridge.dll
+
+    00000000 characteristics
+    86A0074B time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00005BA0 GetAssociatedTemplateList
+         12    1 00006A60 GetOriginalRepositoryPath
+         11    2 000068D0 GetProfileRepositoryBasePath
+          9    3 000066C0 GetProfileRepositoryBasePathForMachine
+          8    4 00006570 GetRepositoryPathForWin8Apps
+          7    5 000063E0 GetRepositoryPathFromTemplate
+         13    6 00005E40 GetShellTemplatePackageIds
+          4    7 000060E0 GetTemplatePackageIds
+          1    8 00005A10 RunSyncController
+          2    9 00005AE0 RunSyncControllerAsync
+          5    A 000063A0 StartProcessWatcherDriver
+          6    B 000063C0 StopProcessWatcherDriver
+
+  Summary
+
+        A000 .data
+        9000 .pdata
+       4B000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       CF000 .text

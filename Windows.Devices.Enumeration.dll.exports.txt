@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Enumeration.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Enumeration.dll
+
+    00000000 characteristics
+    814C52BB time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001CA10 AqsFreeDevQueryFilter
+          2    1 00003CA0 AqsToDevQueryFilter
+          3    2 00002F10 DllCanUnloadNow
+          4    3 00002F80 DllGetActivationFactory
+          5    4 00001AE0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       30000 .rdata
+        5000 .reloc
+        7000 .rsrc
+       42000 .text

@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\eappcfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for eappcfg.dll
+
+    00000000 characteristics
+    66B03AD1 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00010DD0 EapHostPeerConfigBlob2Xml
+          2    1 00011D30 EapHostPeerConfigXml2Blob
+          3    2 00012740 EapHostPeerCreateMethodConfiguration
+          4    3 00012A40 EapHostPeerCredentialsXml2Blob
+          5    4 00013490 EapHostPeerFreeErrorMemory
+          6    5 00013530 EapHostPeerFreeMemory
+          7    6 00013600 EapHostPeerGetMethodProperties
+          8    7 00013BA0 EapHostPeerGetMethods
+          9    8 00013FD0 EapHostPeerInvokeConfigUI
+         10    9 00014480 EapHostPeerInvokeIdentityUI
+         11    A 00014B00 EapHostPeerInvokeInteractiveUI
+         12    B 000156D0 EapHostPeerQueryCredentialInputFields
+         13    C 00015B10 EapHostPeerQueryInteractiveUIInputFields
+         14    D 000163C0 EapHostPeerQueryUIBlobFromInteractiveUIInputFields
+         15    E 00016F60 EapHostPeerQueryUserBlobFromCredentialInputFields
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2E000 .text

@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\dpx.dll
+
+File Type: DLL
+
+  Section contains the following exports for dpx.dll
+
+    00000000 characteristics
+    6FF5E4A5 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0004F280 DpxCheckJobExists
+          2    1 0004F290 DpxCheckJobExistsEx
+          3    2 0004F2A0 DpxDeleteJob
+          4    3 0004F2B0 DpxDeleteJobEx
+          5    4 0004B9D0 DpxFreeMemory
+          6    5 00048C40 DpxNewJob
+          7    6 0004F2C0 DpxNewJobEx
+          8    7 0004F2F0 DpxRestoreJob
+          9    8 0004F320 DpxRestoreJobEx
+         10    9 0004F350 DpxRestoreOrNewJob
+         11    A 0004F380 DpxRestoreOrNewJobEx
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        7000 .pdata
+       28000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       82000 .text

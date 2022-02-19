@@ -1,0 +1,77 @@
+
+Dump of file C:\Windows\System32\ResetEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for ResetEngine.dll
+
+    00000000 characteristics
+    4D51B882 time date stamp
+        0.00 version
+           1 ordinal base
+          51 number of functions
+          51 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004BB0 ResetApplyCloudPartitionLayout
+          2    1 0000ACD0 ResetArmBootTrigger
+          3    2 0000A510 ResetCancelCleanup
+          4    3 00005040 ResetCancelImageDownload
+          5    4 00008750 ResetCleanPCBlocked
+          6    5 000066D0 ResetClearSession
+          7    6 00004660 ResetCloudEndpointAvailable
+          8    7 000048C0 ResetConnectCloud
+          9    8 0000CB90 ResetCreateMedia
+         10    9 00004200 ResetCreateSession
+         11    A 00007C30 ResetDisabledByPolicy
+         12    B 0000AE70 ResetDisarmBootTrigger
+         13    C 00004DF0 ResetDownloadImage
+         14    D 000057A0 ResetDownloadPayload
+         15    E 0000D580 ResetEnterOOBE
+         16    F 0000D460 ResetExecCleanup
+         17   10 0000D2D0 ResetExecOnline
+         18   11 00009D80 ResetExecute
+         19   12 00006B40 ResetGetDataVolumes
+         20   13 00007240 ResetGetDiskSpaceRequired
+         21   14 0000CDB0 ResetGetMediaSize
+         22   15 00007580 ResetGetRestoredApps
+         23   16 00007010 ResetGetScenarioType
+         24   17 0000EE90 ResetGetTargetVolume
+         25   18 00006900 ResetGetTelemetrySessionID
+         26   19 00008480 ResetHasCustomizations
+         27   1A 00009BA0 ResetLoadSession
+         28   1B 00008D50 ResetNotifyAcknowledgeWarning
+         29   1C 00008BB0 ResetNotifyCancel
+         30   1D 00008A20 ResetNotifyConfirm
+         31   1E 000054A0 ResetPayloadConnection
+         32   1F 00005280 ResetPayloadEnabled
+         33   20 000060D0 ResetPrepareSession
+         34   21 0000CEB0 ResetProvisionMedia
+         35   22 0000CF90 ResetReleaseMedia
+         36   23 00009920 ResetReleaseSession
+         37   24 00009AC0 ResetResumeLog
+         38   25 0000E8E0 ResetReturnToOldOS
+         39   26 0000AF90 ResetSetDataPoint
+         40   27 0000AFF0 ResetSetStringPoint
+         41   28 0000EE40 ResetSetTestFlag
+         42   29 00009200 ResetStageOfflineBoot
+         43   2A 0000AEE0 ResetSubmitTelemetry
+         44   2B 00008FC0 ResetSuspendSession
+         45   2C 00004400 ResetTraceClientInfo
+         46   2D 0000A030 ResetUndo
+         47   2E 00009620 ResetUnstageOfflineBoot
+         48   2F 0000DC10 ResetUserLogon
+         49   30 000059F0 ResetValidateScenario
+         50   31 00007E10 ResetWillSuspendProtection
+         51   32 0000A990 ResetWipeSystem
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        9000 .pdata
+       F7000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      142000 .text

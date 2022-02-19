@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wpnapps.dll
+
+File Type: DLL
+
+  Section contains the following exports for wpnapps.dll
+
+    00000000 characteristics
+    6407AC66 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001A1A0 DllCanUnloadNow
+          2    1 00015EE0 DllGetActivationFactory
+          3    2 00016960 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        C000 .pdata
+       67000 .rdata
+        A000 .reloc
+       16000 .rsrc
+       B3000 .text

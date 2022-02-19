@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\PCPKsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for PCPKsp.dll
+
+    00000000 characteristics
+    B203A0BC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00037CC0 DllInstall
+          3    1 0002A7A0 DllMain
+          2    2 00037D30 DllUnregisterServer
+          4    3 000228D0 GetKeyStorageInterface
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       3B000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       D1000 .text

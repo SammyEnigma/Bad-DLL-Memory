@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_StorageSense.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_StorageSense.dll
+
+    00000000 characteristics
+    918E486C time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009A30 DllCanUnloadNow
+          2    1 00009AA0 DllGetActivationFactory
+          3    2 00009900 DllGetClassObject
+          4    3 00009510 GetProxyDllInfo
+          5    4 00009710 GetSetting
+          6    5 00009800 GetSettingForUser
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        5000 .pdata
+       2E000 .rdata
+        3000 .reloc
+        B000 .rsrc
+       7F000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\rdbui.dll
+
+File Type: DLL
+
+  Section contains the following exports for rdbui.dll
+
+    00000000 characteristics
+    B0DCF558 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005430 DllCanUnloadNow
+          3    1 00005470 DllGetClassObject
+          4    2 000055B0 DllRegisterServer
+          5    3 00005690 DllUnregisterServer
+          1    4 00005770 RDBMgmtLaunchPropertiesW
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       13000 .rdata
+        1000 .reloc
+       19000 .rsrc
+       72000 .text
+        1000 PAGE

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DXToolsOfflineAnalysis.dll
+
+File Type: DLL
+
+  Section contains the following exports for DXToolsOfflineAnalysis.dll
+
+    00000000 characteristics
+    A057013C time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0009B520 CreateCaptureAnalyzer
+          2    1 00015510 CreateCounterEnumerator
+          3    2 00015780 GetCounterEnumerator
+
+  Summary
+
+        4000 .data
+        E000 .pdata
+       C4000 .rdata
+       12000 .reloc
+        1000 .rsrc
+      100000 .text

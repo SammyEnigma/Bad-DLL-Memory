@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\userinitext.dll
+
+File Type: DLL
+
+  Section contains the following exports for USERINITEXT.dll
+
+    00000000 characteristics
+     9C90C20 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002050 CreateExplorerSessionKey
+          2    1 00001090 DisplayMessageAndExitWindows
+          3    2 00001C10 ImmWorker
+          4    3 00001660 IsSubDesktopSession
+          5    4 00001F00 IsTSAppCompatOn
+          6    5 00001560 LoadRemoteFontsAndInitMiscWorker
+          7    6 000010D0 PerformXForestLogonCheck
+          8    7 00001760 ProcesRemoteSessionInitialCommand
+          9    8 00001FC0 ProcessTermSrvIniFiles
+         10    9 00001700 SetShellDesktopSwitchEvent
+         11    A 00001C90 SetupHotKeyForKeyboardLayout
+         12    B 000021A0 UserinitExt
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\perfos.dll
+
+File Type: DLL
+
+  Section contains the following exports for PerfOS.dll
+
+    00000000 characteristics
+    BE58EB71 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001FA0 CloseOSObject
+          2    1 00001900 CollectOSObjectData
+          3    2 000022E0 OpenOSObject
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        6000 .text

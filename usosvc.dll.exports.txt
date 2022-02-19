@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\usosvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for USOSvc.dll
+
+    00000000 characteristics
+    E492A9CB time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+         11    0 00008050 DllCanUnloadNow
+         12    1 00008070 DllGetClassObject
+          1    2 0002B790 GetDefaultConfiguration
+          2    3 0002A7F0 GetNextAcceptableTime
+          3    4 0002A8B0 GetNextAcceptableTimeEx
+          4    5 0002AE00 GetSmartActiveHours
+          5    6 0002AEB0 GetSmartActiveHoursEx
+          6    7 000331E0 GetSmartBusyCheckVelocityFeature
+          7    8 0002B410 GetTimeIntervalConfidence
+          8    9 00034580 GetUserActivityPredictionEx
+          9    A 000138C0 ServiceMain
+         10    B 00013150 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       21000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       65000 .text

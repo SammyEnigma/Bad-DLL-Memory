@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\wsp_health.dll
+
+File Type: DLL
+
+  Section contains the following exports for wsp_health.DLL
+
+    00000000 characteristics
+    F0B0B291 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002D10 DllCanUnloadNow
+          2    1 00002D50 DllGetClassObject
+          3    2 00002990 DllMain
+          4    3 00002C70 DllRegisterServer
+          5    4 00002CC0 DllUnregisterServer
+          6    5 00002A80 GetProviderClassID
+          7    6 000028C0 MI_Main
+          8    7 000024C0 PreShutdown
+          9    8 000024C0 SetShutdownCallback
+         10    9 000028B0 SmpUnload
+
+  Summary
+
+       1C000 .data
+        9000 .pdata
+       B5000 .rdata
+        E000 .reloc
+        1000 .rsrc
+       BC000 .text

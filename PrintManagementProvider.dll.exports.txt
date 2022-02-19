@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\PrintManagementProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for PrintManagementProvider.DLL
+
+    00000000 characteristics
+    F2D0185F time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001710 DllCanUnloadNow
+          2    1 00001750 DllGetClassObject
+          3    2 00001420 DllMain
+          4    3 00001670 DllRegisterServer
+          5    4 000016C0 DllUnregisterServer
+          6    5 00001490 GetProviderClassID
+          7    6 00001240 MI_Main
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+       17000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       1B000 .text

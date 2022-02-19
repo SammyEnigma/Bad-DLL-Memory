@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdfcl32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdfcl32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014B90 CIFCreateMain
+          2    1 00001B40 Create
+          3    2 00001B60 Delete
+          4    3 00001B80 Register
+
+  Summary
+
+        4000 .data
+       12000 .rdata
+        4000 .reloc
+       79000 .rsrc
+       45000 .text

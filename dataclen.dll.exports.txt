@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\dataclen.dll
+
+File Type: DLL
+
+  Section contains the following exports for DATACLEN.dll
+
+    00000000 characteristics
+    466AB226 time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004130 ??0CDataDrivenCleaner@@QEAA@AEBV0@@Z
+          2    1 000048B0 ??0CDataDrivenCleaner@@QEAA@XZ
+          3    2 00004910 ??1CDataDrivenCleaner@@QEAA@XZ
+          4    3 00004350 ??4CDataDrivenCleaner@@QEAAAEAV0@AEBV0@@Z
+          5    4 0000AB08 ??_7CDataDrivenCleaner@@6B@
+          6    5 00005A70 ?AddFileToList@CDataDrivenCleaner@@IEAAHPEBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z
+          7    6 00006080 ?AddFolders@CDataDrivenCleaner@@QEAAHPEBG@Z
+          8    7 00004660 ?AddRef@CDataDrivenCleaner@@UEAAKXZ
+          9    8 00005330 ?Deactivate@CDataDrivenCleaner@@UEAAJPEAK@Z
+         10    9 00005BF0 ?DeleteIfPathNotChanged@CDataDrivenCleaner@@IEAAJPEBG@Z
+         11    A 00005240 ?ExecuteCmd@CDataDrivenCleaner@@IEAAXPEAGH@Z
+         12    B 00006030 ?FreeList@CDataDrivenCleaner@@IEAAXPEAUtag_CleanFileStruct@@@Z
+         13    C 00004F40 ?GetSpaceUsed@CDataDrivenCleaner@@UEAAJPEA_KPEAUIEmptyVolumeCacheCallBack@@@Z
+         14    D 000049D0 ?Initialize@CDataDrivenCleaner@@UEAAJPEAUHKEY__@@PEBGPEAPEAG2PEAK@Z
+         15    E 00005360 ?LastAccessisOK@CDataDrivenCleaner@@IEAAHU_FILETIME@@@Z
+         16    F 00005F30 ?MergeSortList@CDataDrivenCleaner@@IEAAPEAUtag_CleanFileStruct@@PEAU2@@Z
+         17   10 00005040 ?Purge@CDataDrivenCleaner@@UEAAJ_KPEAUIEmptyVolumeCacheCallBack@@@Z
+         18   11 00005DC0 ?PurgeFiles@CDataDrivenCleaner@@IEAAXPEAUIEmptyVolumeCacheCallBack@@_K@Z
+         19   12 00004970 ?QueryInterface@CDataDrivenCleaner@@UEAAJAEBU_GUID@@PEAPEAX@Z
+         20   13 00004990 ?Release@CDataDrivenCleaner@@UEAAKXZ
+         21   14 00005320 ?ShowProperties@CDataDrivenCleaner@@UEAAJPEAUHWND__@@@Z
+         22   15 000053B0 ?WalkForUsedSpace@CDataDrivenCleaner@@IEAAHPEBGPEAUIEmptyVolumeCacheCallBack@@H@Z
+         23   16 00004620 DllCanUnloadNow
+         24   17 00004450 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

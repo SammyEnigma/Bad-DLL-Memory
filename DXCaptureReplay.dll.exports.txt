@@ -1,0 +1,83 @@
+
+Dump of file C:\Windows\System32\DXCaptureReplay.dll
+
+File Type: DLL
+
+  Section contains the following exports for DXCaptureReplay.dll
+
+    00000000 characteristics
+    5B9E7EB2 time date stamp
+        0.00 version
+           1 ordinal base
+          57 number of functions
+          57 number of names
+
+    ordinal hint RVA      name
+
+         26    0 000BB6A0 CheckForWindowClosure
+          1    1 00113550 CreateDXGIFactory1Generated
+          2    2 001135F0 CreateDXGIFactory2Generated
+          3    3 001134B0 CreateDXGIFactoryGenerated
+         27    4 00047010 CreatePMCommsPUGA
+         28    5 000BB6B0 CreateUtilityWindow
+          4    6 00114240 CustomEventGenerated
+          5    7 00114900 D2D1CreateDeviceContextGenerated
+          6    8 00114850 D2D1CreateDeviceGenerated
+          7    9 00114780 D2D1CreateFactoryGenerated
+          8    A 00113980 D3D10CreateDevice1Generated
+          9    B 00113A90 D3D10CreateDeviceAndSwapChain1Generated
+         10    C 00113850 D3D10CreateDeviceAndSwapChainGenerated
+         11    D 00113750 D3D10CreateDeviceGenerated
+         12    E 00113D20 D3D11CreateDeviceAndSwapChainGenerated
+         13    F 00113BD0 D3D11CreateDeviceGenerated
+         14   10 001140F0 D3D11On12CreateDeviceGenerated
+         15   11 00113EB0 D3D12CreateDeviceGenerated
+         16   12 00114020 D3D12EnableExperimentalFeaturesGenerated
+         17   13 00114350 D3D12FenceEventCompletionGenerated
+         18   14 00113F80 D3D12GetDebugInterfaceGenerated
+         19   15 001142C0 D3DCreateCaptureRecreationHelperGenerated
+         20   16 001144A0 D3DPERF_BeginEventGenerated
+         21   17 00114560 D3DPERF_EndEventGenerated
+         22   18 00114600 D3DPERF_SetMarkerGenerated
+         23   19 001146C0 D3DPERF_SetRegionGenerated
+         24   1A 001143F0 DImageLoadGraphFromStringGenerated
+         25   1B 001136A0 DXGIGetDebugInterface1Generated
+         29   1C 001134A0 GetRealPtrPtrCreateDXGIFactory
+         30   1D 00113540 GetRealPtrPtrCreateDXGIFactory1
+         31   1E 001135E0 GetRealPtrPtrCreateDXGIFactory2
+         32   1F 00114230 GetRealPtrPtrCustomEvent
+         33   20 00114840 GetRealPtrPtrD2D1CreateDevice
+         34   21 001148F0 GetRealPtrPtrD2D1CreateDeviceContext
+         35   22 00114770 GetRealPtrPtrD2D1CreateFactory
+         36   23 00113740 GetRealPtrPtrD3D10CreateDevice
+         37   24 00113970 GetRealPtrPtrD3D10CreateDevice1
+         38   25 00113840 GetRealPtrPtrD3D10CreateDeviceAndSwapChain
+         39   26 00113A80 GetRealPtrPtrD3D10CreateDeviceAndSwapChain1
+         40   27 00113BC0 GetRealPtrPtrD3D11CreateDevice
+         41   28 00113D10 GetRealPtrPtrD3D11CreateDeviceAndSwapChain
+         42   29 001140E0 GetRealPtrPtrD3D11On12CreateDevice
+         43   2A 00113EA0 GetRealPtrPtrD3D12CreateDevice
+         44   2B 00114010 GetRealPtrPtrD3D12EnableExperimentalFeatures
+         45   2C 00114340 GetRealPtrPtrD3D12FenceEventCompletion
+         46   2D 00113F70 GetRealPtrPtrD3D12GetDebugInterface
+         47   2E 001142B0 GetRealPtrPtrD3DCreateCaptureRecreationHelper
+         48   2F 00114490 GetRealPtrPtrD3DPERF_BeginEvent
+         49   30 00114550 GetRealPtrPtrD3DPERF_EndEvent
+         50   31 001145F0 GetRealPtrPtrD3DPERF_SetMarker
+         51   32 001146B0 GetRealPtrPtrD3DPERF_SetRegion
+         52   33 001143E0 GetRealPtrPtrDImageLoadGraphFromString
+         53   34 00113690 GetRealPtrPtrDXGIGetDebugInterface1
+         54   35 000E9C90 GetReflectionLayer
+         55   36 00053990 LazyAttachToInProc
+         56   37 000537D0 LazyAttachToMonitor
+         57   38 000538F0 ReleaseCaptureSessionContext
+
+  Summary
+
+       11000 .data
+        1000 .didat
+       56000 .pdata
+      43F000 .rdata
+       27000 .reloc
+       18000 .rsrc
+      C5D000 .text

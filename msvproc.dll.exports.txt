@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\msvproc.dll
+
+File Type: DLL
+
+  Section contains the following exports for msvproc.dll
+
+    00000000 characteristics
+    213531A6 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00014380 DllCanUnloadNow
+          1    1 000355C0 DllGetActivationFactory
+          3    2 00013FC0 DllGetClassObject
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       65000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       EB000 .text

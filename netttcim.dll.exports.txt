@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\netttcim.dll
+
+File Type: DLL
+
+  Section contains the following exports for netttcim.DLL
+
+    00000000 characteristics
+    7A538F3D time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000022B0 DllCanUnloadNow
+          2    1 000022F0 DllGetClassObject
+          3    2 00001FA0 DllMain
+          4    3 00002210 DllRegisterServer
+          5    4 00002260 DllUnregisterServer
+          6    5 00002000 GetProviderClassID
+          7    6 000010B0 MI_Main
+
+  Summary
+
+        6000 .data
+        1000 .pdata
+       1C000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       1C000 .text

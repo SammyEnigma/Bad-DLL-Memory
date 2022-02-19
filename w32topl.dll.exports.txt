@@ -1,0 +1,104 @@
+
+Dump of file C:\Windows\System32\w32topl.dll
+
+File Type: DLL
+
+  Section contains the following exports for W32TOPL.dll
+
+    00000000 characteristics
+    C34551D8 time date stamp
+        0.00 version
+           1 ordinal base
+          79 number of functions
+          79 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002140 ToplAddEdgeSetToGraph
+          2    1 00001F40 ToplAddEdgeToGraph
+          3    2 00003670 ToplDeleteComponents
+          4    3 00003720 ToplDeleteGraphState
+          5    4 000035B0 ToplDeleteSpanningTreeEdges
+          6    5 00005050 ToplEdgeAssociate
+          7    6 00004D90 ToplEdgeCreate
+          8    7 00004E60 ToplEdgeDestroy
+          9    8 00005120 ToplEdgeDisassociate
+         10    9 00004DD0 ToplEdgeFree
+         11    A 00005000 ToplEdgeGetFromVertex
+         12    B 00004F30 ToplEdgeGetToVertex
+         13    C 00005250 ToplEdgeGetWeight
+         14    D 00004E20 ToplEdgeInit
+         15    E 00004F80 ToplEdgeSetFromVertex
+         16    F 00004EB0 ToplEdgeSetToVertex
+         17   10 00002050 ToplEdgeSetVtx
+         18   11 000051F0 ToplEdgeSetWeight
+         19   12 000048F0 ToplFree
+         20   13 00001AF0 ToplGetAlwaysSchedule
+         21   14 00002D60 ToplGetSpanningTreeEdgesForVtx
+         22   15 00005830 ToplGraphAddVertex
+         23   16 000056E0 ToplGraphCreate
+         24   17 000057E0 ToplGraphDestroy
+         25   18 00005A90 ToplGraphFindEdgesForMST
+         26   19 00005720 ToplGraphFree
+         27   1A 00005780 ToplGraphInit
+         28   1B 00005A00 ToplGraphMakeRing
+         29   1C 000059B0 ToplGraphNumberOfVertices
+         30   1D 000058C0 ToplGraphRemoveVertex
+         31   1E 00005940 ToplGraphSetVertexIter
+         32   1F 00003EB0 ToplHeapCreate
+         33   20 00004040 ToplHeapDestroy
+         34   21 00003F00 ToplHeapExtractMin
+         35   22 00003F60 ToplHeapInsert
+         36   23 00004010 ToplHeapIsElementOf
+         37   24 00004000 ToplHeapIsEmpty
+         38   25 00005C90 ToplIsToplException
+         39   26 00004D30 ToplIterAdvance
+         40   27 00004C50 ToplIterCreate
+         41   28 00004C80 ToplIterFree
+         42   29 00004CD0 ToplIterGetObject
+         43   2A 00004B90 ToplListAddElem
+         44   2B 000049C0 ToplListCreate
+         45   2C 000049F0 ToplListFree
+         46   2D 00004C00 ToplListNumberOfElements
+         47   2E 00004B10 ToplListRemoveElem
+         48   2F 00004AA0 ToplListSetIter
+         49   30 00001CB0 ToplMakeGraphState
+         50   31 00001B30 ToplPScheduleValid
+         51   32 00003B80 ToplSTHeapAdd
+         52   33 00003C50 ToplSTHeapCostReduced
+         53   34 00003990 ToplSTHeapDestroy
+         54   35 00003BD0 ToplSTHeapExtractMin
+         55   36 000038D0 ToplSTHeapInit
+         56   37 00001320 ToplScheduleCacheCreate
+         57   38 000013D0 ToplScheduleCacheDestroy
+         58   39 00001770 ToplScheduleCreate
+         59   3A 00001980 ToplScheduleDuration
+         60   3B 000015F0 ToplScheduleExportReadonly
+         61   3C 00001490 ToplScheduleImport
+         62   3D 00001930 ToplScheduleIsEqual
+         63   3E 000019B0 ToplScheduleMaxUnavailable
+         64   3F 00001630 ToplScheduleMerge
+         65   40 000015D0 ToplScheduleNumEntries
+         66   41 00001B00 ToplScheduleValid
+         67   42 000046D0 ToplSetAllocator
+         68   43 000052A0 ToplVertexCreate
+         69   44 00005390 ToplVertexDestroy
+         70   45 000052E0 ToplVertexFree
+         71   46 00005430 ToplVertexGetId
+         72   47 000054D0 ToplVertexGetInEdge
+         73   48 00005580 ToplVertexGetOutEdge
+         74   49 00005690 ToplVertexGetParent
+         75   4A 00005330 ToplVertexInit
+         76   4B 00005480 ToplVertexNumberOfInEdges
+         77   4C 00005530 ToplVertexNumberOfOutEdges
+         78   4D 000053E0 ToplVertexSetId
+         79   4E 00005600 ToplVertexSetParent
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

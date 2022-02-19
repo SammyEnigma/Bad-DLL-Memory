@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\audiosrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for AUDIOSRV.dll
+
+    00000000 characteristics
+    18F94314 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00062220 ServiceMain
+          2    1 00069C10 SvchostPushServiceGlobals
+
+  Summary
+
+        4000 .data
+        1000 .didat
+       10000 .pdata
+       56000 .rdata
+        4000 .reloc
+       14000 .rsrc
+      144000 .text
+        1000 RT_BSS
+        1000 RT_CODE
+        1000 RT_CONST
+        1000 RT_DATA

@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\whhelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for whhelper.dll
+
+    00000000 characteristics
+    F194ECB4 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016D0 InitHelperDll
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

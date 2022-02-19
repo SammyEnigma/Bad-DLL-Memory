@@ -1,0 +1,91 @@
+
+Dump of file C:\Windows\System32\mswsock.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSWSOCK.dll
+
+    00000000 characteristics
+    F42C9C21 time date stamp
+        0.00 version
+           1 ordinal base
+          63 number of functions
+          63 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00027F30 AcceptEx
+          2    1 00028540 EnumProtocolsA
+          3    2 000285D0 EnumProtocolsW
+          4    3 000280F0 GetAcceptExSockaddrs
+          5    4 00029BA0 GetAddressByNameA
+          6    5 00029DE0 GetAddressByNameW
+          7    6 00029F90 GetNameByTypeA
+          8    7 0002A0C0 GetNameByTypeW
+          9    8 0002A8D0 GetServiceA
+         10    9 0002A980 GetServiceW
+         11    A 0002BAD0 GetSocketErrorMessageW
+         12    B 0002A410 GetTypeByNameA
+         13    C 0002A4A0 GetTypeByNameW
+         14    D 00030A50 MigrateWinsockConfiguration
+         15    E 00030A90 MigrateWinsockConfigurationEx
+         16    F 0002C930 NPLoadNameSpaces
+         17   10 0000C0A0 NSPStartup
+         18   11 0002B530 SetServiceA
+         19   12 0002B760 SetServiceW
+         20   13 0001E690 StartWsdpService
+         21   14 0001E9D0 StopWsdpService
+         22   15 0000EA50 Tcpip4_WSHAddressToString
+         23   16 00034CB0 Tcpip4_WSHEnumProtocols
+         24   17 00034EA0 Tcpip4_WSHGetBroadcastSockaddr
+         25   18 00034EF0 Tcpip4_WSHGetProviderGuid
+         26   19 0000E570 Tcpip4_WSHGetSockaddrType
+         27   1A 0000DFC0 Tcpip4_WSHGetSocketInformation
+         28   1B 00034F40 Tcpip4_WSHGetWSAProtocolInfo
+         29   1C 0000F550 Tcpip4_WSHGetWildcardSockaddr
+         30   1D 00034FB0 Tcpip4_WSHGetWinsockMapping
+         31   1E 00035020 Tcpip4_WSHIoctl
+         32   1F 00035030 Tcpip4_WSHJoinLeaf
+         33   20 00035120 Tcpip4_WSHNotify
+         34   21 00035170 Tcpip4_WSHOpenSocket
+         35   22 0000E360 Tcpip4_WSHOpenSocket2
+         36   23 0000F800 Tcpip4_WSHSetSocketInformation
+         37   24 00010AF0 Tcpip4_WSHStringToAddress
+         38   25 0000F610 Tcpip6_WSHAddressToString
+         39   26 000351B0 Tcpip6_WSHEnumProtocols
+         40   27 000353A0 Tcpip6_WSHGetProviderGuid
+         41   28 0000E190 Tcpip6_WSHGetSockaddrType
+         42   29 0000DFC0 Tcpip6_WSHGetSocketInformation
+         43   2A 000353F0 Tcpip6_WSHGetWSAProtocolInfo
+         44   2B 00010B70 Tcpip6_WSHGetWildcardSockaddr
+         45   2C 00035460 Tcpip6_WSHGetWinsockMapping
+         46   2D 00035020 Tcpip6_WSHIoctl
+         47   2E 000354D0 Tcpip6_WSHJoinLeaf
+         48   2F 000355F0 Tcpip6_WSHNotify
+         49   30 00035640 Tcpip6_WSHOpenSocket
+         50   31 0000E010 Tcpip6_WSHOpenSocket2
+         51   32 0000F800 Tcpip6_WSHSetSocketInformation
+         52   33 00010040 Tcpip6_WSHStringToAddress
+         53   34 00028470 TransmitFile
+         54   35 0002D650 WSARecvEx
+         55   36 00009860 WSPStartup
+         56   37 00026330 dn_expand
+         57   38 0001EAB0 getnetbyname
+         58   39 0001EAE0 inet_network
+         59   3A 0001EAF0 rcmd
+         60   3B 0001EAF0 rexec
+         61   3C 0001EAF0 rresvport
+         62   3D 0002C1A0 s_perror
+         63   3E 0001EB20 sethostname
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text
+        4000 .wpp_sf
+       18000 SANONTCP

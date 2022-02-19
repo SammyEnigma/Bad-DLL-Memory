@@ -1,0 +1,60 @@
+
+Dump of file C:\Windows\System32\cemapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for CEMAPI.dll
+
+    00000000 characteristics
+    17A389B8 time date stamp
+        0.00 version
+          52 ordinal base
+          34 number of functions
+          34 number of names
+
+    ordinal hint RVA      name
+
+         63    0 00009BC0 CreateMAPITableWalker
+         64    1 00009BF0 CreateMAPITableWalkerEx
+         65    2 000078E0 FlushMailStore
+         66    3 00009FB0 FreeProws
+         67    4 000095A0 GetEntryIDType
+         54    5 00006790 GetMAPIStorePropTags
+         55    6 00006D20 GetMsgClassEnum
+         56    7 00006DA0 GetMsgClassEnumFromMsg
+         68    8 000092D0 GetMsgStoreFromMessage
+         69    9 000093C0 GetNamedPropTag
+         70    A 0000BCA0 HrGetOneProp
+         71    B 0000BDA0 HrSetOneProp
+         57    C 00007080 InitializeServiceProps
+         58    D 00006EF0 IsMessageClassDeviceGenerated
+         59    E 00006E20 IsMessageClassReadRequest
+         60    F 00006FE0 IsMessageClassSPlusV2
+         72   10 0000A140 MAPIAllocateBuffer
+         52   11 0000A3D0 MAPIAllocateBuffer_dbg
+         73   12 0000A1F0 MAPIAllocateMore
+         53   13 0000A3C0 MAPIAllocateMore_dbg
+         74   14 000088C0 MAPIDeleteMessageById
+         75   15 000094C0 MAPIDupString
+         76   16 0000A310 MAPIFreeBuffer
+         77   17 00007B20 MAPIGetContext
+         78   18 0000C080 MAPIInitialize
+         79   19 0000C0C0 MAPILogonEx
+         80   1A 0000BFE0 MAPIUninitialize
+         61   1B 000071A0 MAPI_CompareEntryIDs
+         81   1C 00009060 MAPI_GetStoreByName
+         82   1D 00007890 ReadMailVolumeNameEx
+         83   1E 000085A0 SetConversationId
+         62   1F 00006F50 TranslateSPlusV1MessageClassToV2
+         84   20 00008CB0 USOIDfromCEENTRYID
+         85   21 00008C20 USOIDtoCEENTRYID
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       2E000 .text

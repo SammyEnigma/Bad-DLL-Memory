@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\dxgwdi.dll
+
+File Type: DLL
+
+  Section contains the following exports for dxgwdi.dll
+
+    00000000 characteristics
+    13414E00 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002340 WdiDiagnosticModuleMain
+          2    1 00002330 WdiGetDiagnosticModuleInterfaceVersion
+          3    2 00002360 WdiHandleInstance
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

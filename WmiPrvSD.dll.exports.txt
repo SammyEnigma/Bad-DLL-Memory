@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wbem\WmiPrvSD.dll
+
+File Type: DLL
+
+  Section contains the following exports for WmiPrvSS.dll
+
+    00000000 characteristics
+    99852D6F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001EA30 DllCanUnloadNow
+          2    1 000035E0 DllGetClassObject
+          3    2 0003B580 DllRegisterServer
+          4    3 0003B670 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        7000 .pdata
+       2E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       99000 .text

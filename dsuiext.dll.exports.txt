@@ -1,0 +1,64 @@
+
+Dump of file C:\Windows\System32\dsuiext.dll
+
+File Type: DLL
+
+  Section contains the following exports for dsuiext.dll
+
+    00000000 characteristics
+    914BED2E time date stamp
+        0.00 version
+           9 ordinal base
+         570 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+         11    0 00008560 DllCanUnloadNow
+         12    1 000085E0 DllGetClassObject
+         13    2 000086C0 DllInstall
+         14    3 00008680 DllRegisterServer
+         15    4 000086A0 DllUnregisterServer
+          9    5 00001020 DsBrowseForContainerA
+         10    6 00001030 DsBrowseForContainerW
+        259    7 00006300 DsGetFriendlyClassName
+        257    8 00006290 DsGetIcon
+        512      0000AA90 [NONAME]
+        513      0000AB00 [NONAME]
+        514      0000AB70 [NONAME]
+        515      0000AC00 [NONAME]
+        516      0000AC90 [NONAME]
+        517      0000AD20 [NONAME]
+        520      0000AD60 [NONAME]
+        521      0000AF20 [NONAME]
+        522      0000AFE0 [NONAME]
+        523      0000B180 [NONAME]
+        524      0000B2D0 [NONAME]
+        540      0000AE60 [NONAME]
+        541      0000AF80 [NONAME]
+        542      0000AFF0 [NONAME]
+        543      0000B1E0 [NONAME]
+        544      0000B230 [NONAME]
+        560      0000B380 [NONAME]
+        561      0000B490 [NONAME]
+        562      00006360 [NONAME]
+        563      0000B4F0 [NONAME]
+        570      0000B5D0 [NONAME]
+        571      0000B690 [NONAME]
+        572      00009E00 [NONAME]
+        573      00009E90 [NONAME]
+        574      0000A300 [NONAME]
+        575      0000A530 [NONAME]
+        576      0000A030 [NONAME]
+        577      0000A6A0 [NONAME]
+        578      0000B7B0 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

@@ -1,0 +1,22 @@
+
+Dump of file C:\Windows\System32\c4d66f00-b6f0-4439-ac9b-c5ea13fe54d7_HyperV-ComputeCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for c4d66f00-b6f0-4439-ac9b-c5ea13fe54d7_HyperV-ComputeCore.dll
+
+    00000000 characteristics
+    3CE0A59D time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        1000 .apiset
+        1000 .rdata
+        1000 .rsrc

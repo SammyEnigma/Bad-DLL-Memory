@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\sberes.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       10000 .rsrc

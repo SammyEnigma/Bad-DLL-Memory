@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\iemigplugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for IEMIGPLUGIN.dll
+
+    00000000 characteristics
+    C804D354 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012E0 DllCanUnloadNow
+          2    1 00001250 DllGetClassObject
+          3    2 00001370 DllInstall
+          4    3 00001370 DllRegisterServer
+          5    4 00001370 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

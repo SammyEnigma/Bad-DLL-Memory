@@ -1,0 +1,60 @@
+
+Dump of file C:\Windows\System32\MCCSEngineShared.dll
+
+File Type: DLL
+
+  Section contains the following exports for MCCSEngineShared.dll
+
+    00000000 characteristics
+    D9AF80AB time date stamp
+        0.00 version
+           1 ordinal base
+          34 number of functions
+          34 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005140 BuildISO8601String
+          2    1 00005000 BuildISO8601StringFromSysTime
+          3    2 00007B30 CopyMimeAttachmentsToMapi
+         32    3 000083D0 CreateTemporaryFileStream
+         33    4 00004700 DllCanUnloadNow
+         34    5 00004720 DllGetClassObject
+          4    6 00008230 DownloadToVirtualStream
+          5    7 00008700 FindMatchingNameForAddress
+          6    8 00009EB0 GetAccountDomainForAccountAccessor
+          7    9 0000A3E0 GetAccountManagedState
+          8    A 00009CE0 GetDataProtectionPropertyForStore
+          9    B 00009B60 GetDomainFromAccountName
+         10    C 0000A720 GetDomainNamesForEmailSyncList
+         11    D 00009DD0 GetDplPropertyForStore
+         12    E 000097E0 GetIStoreForAccountGuid
+         13    F 0000BBA0 GetMimeStreamFromMMSMessage
+         14   10 0000B930 GetMimeStreamFromMessage
+         15   11 00009FF0 GetProtectedDomainList
+         16   12 0000A190 GetProtectionPolicyState
+         17   13 00008990 GetSmProviderInfo
+         18   14 00008480 GetSmRecipientType
+         19   15 0000A670 IsDPLInEffect
+         20   16 000097C0 IsDomainInDelimitedList
+         21   17 00005440 ParseISO8601String
+         22   18 000097C0 SearchDelimitedList
+         23   19 000099C0 SetDataProtectionPropertyForStore
+         24   1A 00009A90 SetDplPropertyForStore
+         25   1B 00008B30 SetSmProviderInfo
+         26   1C 000094E0 StringCompareWithWildcard
+         27   1D 000084C0 SyncNormalizePhoneNumber
+         28   1E 000080B0 WriteInputStreamToNetworkStream
+         29   1F 00006D20 WriteMapiBodiesFromMimeReader
+         30   20 00006B60 WriteMapiBodiesFromMimeStream
+         31   21 00006BA0 WriteMapiBodiesFromMimeStreamEx
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

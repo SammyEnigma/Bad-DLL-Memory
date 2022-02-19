@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\{EF8B7930-5061-472D-8548-1C909F61088F}\PrintConfig.dll
+
+File Type: DLL
+
+  Section contains the following exports for PrintConfig.dll
+
+    00000000 characteristics
+    4267AB51 time date stamp
+        0.00 version
+         254 ordinal base
+          47 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+        258    0 00025180 DevQueryPrintEx
+        259    1 000273F0 DllCanUnloadNow
+        260    2 00027470 DllGetClassObject
+        261    3 00027590 DllMain
+        262    4 00026D40 DllRegisterServer
+        263    5 000270B0 DllUnregisterServer
+        264    6 00025280 DrvConvertDevMode
+        265    7 000254E0 DrvDeviceCapabilities
+        266    8 00025610 DrvDevicePropertySheets
+        267    9 00025700 DrvDocumentEvent
+        268    A 00025850 DrvDocumentPropertySheets
+        269    B 00025940 DrvDriverEvent
+        270    C 00026010 DrvPopulateFilterServices
+        271    D 00025AB0 DrvPrinterEvent
+        272    E 00025CC0 DrvQueryColorProfile
+        273    F 00025D80 DrvQueryJobAttributes
+        255   10 00026170 DrvResetConfigCache
+        254   11 000261F0 DrvSplDeviceCaps
+        274   12 00025E20 DrvUpgradePrinter
+        300   13 000289C0 GetStandardMessageForPrinterStatus
+        256   14 00026350 MxdcGetPDEVAdjustment
+        275   15 000284D0 NotifyEntry
+        257   16 00028BF0 ServiceMain
+
+  Summary
+
+       14000 .data
+        1000 .didat
+       12000 .pdata
+       99000 .rdata
+        5000 .reloc
+      103000 .rsrc
+      1AC000 .text

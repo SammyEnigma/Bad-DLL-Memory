@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\gpedit.dll
+
+File Type: DLL
+
+  Section contains the following exports for GPEDIT.DLL
+
+    00000000 characteristics
+    20D9103D time date stamp
+        0.00 version
+         100 ordinal base
+          12 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+        104    0 00021BE0 BrowseForGPO
+        105    1 000106F0 CreateGPOLink
+        106    2 000109E0 DeleteAllGPOLinks
+        107    3 00010B10 DeleteGPOLink
+        108    4 0000F760 DllCanUnloadNow
+        109    5 0000F7A0 DllGetClassObject
+        110    6 000251B0 ExportRSoPData
+        111    7 00024A00 ImportRSoPData
+        100      00026590 [NONAME]
+        101      00026BE0 [NONAME]
+        102      00026EC0 [NONAME]
+        103      00027280 [NONAME]
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        2000 .pdata
+       35000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       57000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\PerceptionSimulation\PerceptionSimulationInput.dll
+
+File Type: DLL
+
+  Section contains the following exports for PerceptionSimulationInput.dll
+
+    00000000 characteristics
+    4A630603 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012D30 CloseSimulationConnection
+          2    1 00012A30 HidePerceptionSimulationControlUx
+          3    2 00012A10 ShowPerceptionSimulationControlUx
+          4    3 00012D50 StartPerceptionSimulationControlUx
+          5    4 00012BC0 StopPerceptionSimulationControlUx
+          6    5 00012A50 TogglePerceptionSimulationControlUx
+          7    6 00012A90 UpdatePerceptionSimulationControlUx
+
+  Summary
+
+       11000 .data
+        C000 .pdata
+       56000 .rdata
+        3000 .reloc
+       1C000 .rsrc
+       BB000 .text

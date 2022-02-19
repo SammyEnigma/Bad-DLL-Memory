@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Graphics.Printing.Workflow.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Graphics.Printing.Workflow.dll
+
+    00000000 characteristics
+    47B1F316 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005A30 DllCanUnloadNow
+          2    1 00005BE0 DllGetActivationFactory
+          3    2 00005AB0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+       27000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       47000 .text

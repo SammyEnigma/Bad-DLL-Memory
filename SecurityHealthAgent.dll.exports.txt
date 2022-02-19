@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\SecurityHealthAgent.dll
+
+File Type: DLL
+
+  Section contains the following exports for SecurityHealthAgent.dll
+
+    00000000 characteristics
+    E4B6CADC time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009D10 DllCanUnloadNow
+          2    1 00009C20 DllGetClassObject
+          3    2 0000B090 DllMain
+          4    3 0000ABD0 DllRegisterServer
+          5    4 0000ADD0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        4000 .pdata
+       15000 .rdata
+        1000 .reloc
+        B000 .rsrc
+       44000 .text

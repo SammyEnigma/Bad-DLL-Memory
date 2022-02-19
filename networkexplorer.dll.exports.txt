@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\networkexplorer.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetworkExplorer.dll
+
+    00000000 characteristics
+    499386C1 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017E0 DllCanUnloadNow
+          2    1 00001780 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

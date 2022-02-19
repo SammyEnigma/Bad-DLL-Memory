@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\KeywordDetectorMsftSidAdapter.dll
+
+File Type: DLL
+
+  Section contains the following exports for KeywordDetectorMsftSidAdapter.dll
+
+    00000000 characteristics
+    66E19DB0 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E40 DllCanUnloadNow
+          2    1 00001B70 DllGetActivationFactory
+          3    2 00001D50 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text

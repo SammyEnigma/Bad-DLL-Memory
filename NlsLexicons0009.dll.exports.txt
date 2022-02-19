@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\NlsLexicons0009.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+      282000 .rsrc

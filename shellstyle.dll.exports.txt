@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\shellstyle.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+      11A000 .rsrc

@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\ServicingUAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for ServicingUAPI.dll
+
+    00000000 characteristics
+     474B327 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00003F60 DllMain
+          4    1 000091F0 EnumerateFeatures
+          5    2 00009190 FreeEnumerateFeaturesResult
+          6    3 00006A20 FreeInstallFeaturesResult
+          7    4 00008F40 FreeUninstallFeaturesResult
+          8    5 00009710 GetFeatureState
+          1    6 00006A80 InstallFeatures
+          9    7 00009470 IsFeatureInstalled
+          2    8 00008FA0 UninstallFeatures
+
+  Summary
+
+        4000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text
+        3000 PAGE

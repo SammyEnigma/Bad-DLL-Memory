@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\dssvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for dssvc.dll
+
+    00000000 characteristics
+    C120FAD1 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00009660 DSSCreateSharedFileTokenEx
+          5    1 00009C60 DSSFreeToken
+          1    2 000065E0 InitializeService
+          2    3 00006B30 ServiceMain
+          3    4 00006890 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text

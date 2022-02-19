@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\TokenBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for TokenBroker.dll
+
+    00000000 characteristics
+    D8331EEE time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0003B1E0 ServiceMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        E000 .pdata
+       52000 .rdata
+        5000 .reloc
+        1000 .rsrc
+      10F000 .text

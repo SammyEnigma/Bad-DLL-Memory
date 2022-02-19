@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_ForceSync.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_ForceSync.dll
+
+    00000000 characteristics
+    177745A3 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003A70 GetSetting
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\tapilua.dll
+
+File Type: DLL
+
+  Section contains the following exports for tapilua.DLL
+
+    00000000 characteristics
+    46D42AA9 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011A0 DllCanUnloadNow
+          2    1 000011E0 DllGetClassObject
+          3    2 00001270 DllRegisterServer
+          4    3 000012C0 DllUnregisterServer
+          5    4 00001050 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

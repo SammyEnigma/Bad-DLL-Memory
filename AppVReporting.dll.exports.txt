@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\AppVReporting.dll
+
+File Type: DLL
+
+  Section contains the following exports for APPVREPORTING.dll
+
+    00000000 characteristics
+    F6A2DAD8 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000F020 Deinitialize
+          3    1 0000F160 GetComponent
+          1    2 0000EEA0 Initialize
+
+  Summary
+
+        5000 .data
+        4000 .pdata
+       36000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       61000 .text

@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\spp.dll
+
+File Type: DLL
+
+  Section contains the following exports for SPP.dll
+
+    00000000 characteristics
+     C475DA2 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001FC60 DllCanUnloadNow
+          2    1 0001FC80 DllGetClassObject
+          3    2 0001FCA0 DllRegisterServer
+          4    3 0001FD60 DllUnregisterServer
+          5    4 00020130 SppFreeBadWritersArray
+          6    5 00020030 SppFreeClientPropArray
+          7    6 000200C0 SppFreeExternalGroupPropArray
+          8    7 0001FFC0 SppFreeGroupPropArray
+          9    8 000200A0 SppFreeMetadataProp
+         10    9 00020330 SxTracerDebuggerBreak
+         11    A 000201B0 SxTracerGetThreadContextDebug
+         12    B 000201A0 SxTracerGetThreadContextRetail
+         13    C 000201D0 SxTracerShouldTrackFailure
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       36000 .text

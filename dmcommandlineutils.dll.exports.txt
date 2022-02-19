@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\dmcommandlineutils.dll
+
+File Type: DLL
+
+  Section contains the following exports for dmcommandlineutils.dll
+
+    00000000 characteristics
+    8FB87231 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001DC0 FreeCommandLineOptions
+          2    1 00001A10 ProcessCommandLine
+          3    2 000018D0 ProcessCommandLineOption
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

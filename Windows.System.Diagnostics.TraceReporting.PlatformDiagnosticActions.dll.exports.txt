@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.dll
+
+    00000000 characteristics
+    C76EE05C time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004960 DllCanUnloadNow
+          2    1 00004780 DllGetActivationFactory
+          3    2 000049D0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

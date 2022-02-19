@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\NtlmShared.dll
+
+File Type: DLL
+
+  Section contains the following exports for NtlmShared.dll
+
+    00000000 characteristics
+    746DA3D4 time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002730 MsvpCachePasswordsToCredential
+          2    1 000016B0 MsvpCalculateNtlm2Challenge
+          3    2 000017C0 MsvpCalculateNtlm2SessionKeys
+          4    3 000018C0 MsvpCalculateNtlm3Owf
+          5    4 00002640 MsvpCompareCredentials
+          6    5 00002080 MsvpComputeSaltedHashedPassword
+          7    6 000026F0 MsvpCredentialToCachePasswords
+          8    7 00002790 MsvpDecryptDpapiMasterKey
+          9    8 000023E0 MsvpDeriveSecureCredKey
+         10    9 000082E0 MsvpGMSACred
+         11    A 00001E60 MsvpLm20GetNtlm3ChallengeResponse
+         12    B 00001A00 MsvpLm3Response
+         13    C 00008B00 MsvpLm3ValidateResponse
+         14    D 00002200 MsvpMakeSecretPasswordNT5
+         15    E 00001C30 MsvpNtlm3Response
+         16    F 00008BD0 MsvpNtlm3ValidateResponse
+         17   10 00008E00 MsvpPasswordValidate
+         18   11 000022A0 MsvpPutClearOwfsInPrimaryCredential
+         19   12 000086B0 MsvpUpdateSharedConfiguration
+         20   13 00009450 MsvpValidateSupplementalCreds
+         21   14 00009470 MsvpValidateSupplementalCredsBuffer
+         22   15 00008720 NtLmAlterRtlEqualUnicodeString
+         23   16 00008630 NtlmSharedAllocate
+         24   17 00008670 NtlmSharedAllocatePrivateHeap
+         25   18 000085B0 NtlmSharedCleanup
+         26   19 00008650 NtlmSharedFree
+         27   1A 00008690 NtlmSharedFreePrivateHeap
+         28   1B 000082F0 NtlmSharedInit
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

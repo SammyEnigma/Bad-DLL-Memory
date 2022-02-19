@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\ActiveSyncProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for ActiveSyncProvider.dll
+
+    00000000 characteristics
+     A5106EC time date stamp
+        0.00 version
+           1 ordinal base
+          63 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0000E900 CreateMassObject
+          4    1 000C28C0 CreateSyncServiceLayer
+          5    2 0000A960 DllCanUnloadNow
+          6    3 0000A9A0 DllGetClassObject
+          7    4 0005DDB0 DownloadEmailAttachment
+          8    5 0005E190 DownloadEmailBody
+          9    6 0009E820 GetActiveSyncServerProbeInstance
+         10    7 0009E8D0 GetConversationSyncEnabled
+         11    8 000643E0 GetOutlookExtensionSupportForAccount
+         12    9 000644E0 GetOutlookExtensionSupportFromAccessor
+         13    A 000C3ED0 GetUserInfoForUnconfiguredAccount
+         14    B 0009F260 HandleEasMeetingResponseForAppointment
+         15    C 0009F4F0 HandleEasMeetingResponseForMeetingNotification
+         62    D 00004880 InitializeSyncStatus
+          2    E 000A98A0 IsEnabledForSync
+         16    F 000A09B0 IsErrorCatastrophic
+         17   10 00064700 IsValidOutlookExtensionVersion
+         20   11 000A0BF0 MarkPeopleFolderForResync
+         21   12 0000AB20 OneStopFactory
+         22   13 000620B0 SyncGetMAPISession
+         23   14 00062140 SyncGetMessageStore
+         24   15 000621E0 SyncGetSpecialFolder
+         25   16 0006F280 SyncMgrPurgeFolderProvider
+         26   17 0006F290 SyncMgrPurgeProviderStore
+         27   18 0006F380 SyncMgrRemovePolicy
+         63   19 00004890 SyncSqmUpdateStats
+         28   1A 000A0C30 UpdateEasTrackingSchema
+         29   1B 000714F0 WriteStoreCapabilityProps
+         30   1C 00071F30 WriteStoreContentTypesProps
+          1      0006F1C0 [NONAME]
+         18      000714B0 [NONAME]
+         19      000415C0 [NONAME]
+         36      0006F090 [NONAME]
+         37      0006F3A0 [NONAME]
+         44      00041180 [NONAME]
+         45      00040F60 [NONAME]
+         61      000A09F0 [NONAME]
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        F000 .pdata
+       4C000 .rdata
+        3000 .reloc
+        7000 .rsrc
+      13D000 .text

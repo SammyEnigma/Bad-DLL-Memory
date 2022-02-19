@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Microsoft.Uev.Office2013CustomActions.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Uev.Office2013CustomActions.dll
+
+    00000000 characteristics
+    BE4C3874 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00018580 DllCanUnloadNow
+          2    1 000185C0 DllGetClassObject
+          3    2 00018910 DllInstall
+          4    3 00018700 DllRegisterServer
+          5    4 00018850 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        6000 .pdata
+       2C000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       7F000 .text

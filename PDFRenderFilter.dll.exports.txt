@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ntprint4.inf_amd64_0958c7cad3cd6075\Amd64\PDFRenderFilter.dll
+
+File Type: DLL
+
+  Section contains the following exports for PDFRenderFilter.dll
+
+    00000000 characteristics
+    DD410DC0 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004FE0 DllCanUnloadNow
+          2    1 00005040 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       1A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

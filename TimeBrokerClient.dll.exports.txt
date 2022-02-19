@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\TimeBrokerClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for TimeBrokerClient.dll
+
+    00000000 characteristics
+    44638BE0 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001210 TbCreateCEvent
+          2    1 00001080 TbCreateEvent
+          3    2 00002450 TbDeleteCEvent
+          4    3 00001020 TbDeleteEvent
+          5    4 00004C00 TbEnumerateEvents
+          6    5 00004CB0 TbQueryCEventData
+          7    6 00001E90 TbQueryCEventTriggerTime
+          8    7 00004D40 TbQueryEventData
+          9    8 00001C10 TbUpdateCEvent
+         10    9 00001D40 TbUpdateEvent
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

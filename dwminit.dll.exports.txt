@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\dwminit.dll
+
+File Type: DLL
+
+  Section contains the following exports for dwminit.dll
+
+    00000000 characteristics
+     3F758F7 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003360 DwmpCreateSessionProcess
+          2    1 000039A0 DwmpIsInitialSessionInteractive
+          3    2 00003770 DwmpNotifyUserLogoff
+          4    3 000034F0 DwmpNotifyUserLogon
+          5    4 000037E0 DwmpTerminateSessionProcess
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

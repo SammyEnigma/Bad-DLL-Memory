@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igd12umd64.dll
+
+File Type: DLL
+
+  Section contains the following exports for igd12umd64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000325E0 OpenAdapter12
+
+  Summary
+
+      130000 .data
+       16000 .pdata
+      D3F000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      334000 .text
+        1000 _RDATA

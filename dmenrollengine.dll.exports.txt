@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\dmenrollengine.dll
+
+File Type: DLL
+
+  Section contains the following exports for dmEnrollEngine.DLL
+
+    00000000 characteristics
+    AE92456C time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+         18    0 00032D30 AutoEnrollMDM
+          3    1 0003D700 CleanupExpiredOMADMSessions
+          1    2 0000F8C0 DiscoverEndpoint
+          5    3 0000F920 DiscoverEndpointEx
+         19    4 000348A0 DllCanUnloadNow
+         20    5 000348D0 DllGetActivationFactory
+         21    6 00034910 DllGetClassObject
+          4    7 00041120 EnableLogging
+         22    8 00033050 EnrollEngineInitialize
+          2    9 000526F0 FindDiscoveryService
+          6    A 0000FAF0 FindDiscoveryServiceEx
+         23    B 0000FF00 FreeMmpcDiscoveryResultsData
+         24    C 0003D310 GetCertificatePolicy
+         10    D 00005C60 GetDatabaseManagerInstance
+         25    E 000398F0 GetEnrollmentAadResourceUrl
+         26    F 00039920 GetEnrollmentAadSendDeviceToken
+         27   10 00039950 GetEnrollmentCertStore
+         28   11 00039980 GetEnrollmentClientCertThumbprint
+          7   12 0003CB50 GetEnrollmentClientContext
+         29   13 000399B0 GetEnrollmentDiscoveryService
+         30   14 000399E0 GetEnrollmentPartnerOpaqueID
+         31   15 00039A10 GetEnrollmentSID
+         32   16 00039A40 GetEnrollmentState
+         33   17 00004700 GetEnrollmentType
+         34   18 00039A70 GetEnrollmentUPN
+         11   19 00039AA0 GetProviderID
+         35   1A 0000FF50 MmpcDiscoverEndpoint
+          9   1B 00039AD0 OpenEnrollmentsHKEY
+          8   1C 00039AE0 SetEnrollmentAadResourceUrl
+         17   1D 00039B60 SetEnrollmentAadSendDeviceToken
+         15   1E 00039B90 SetEnrollmentDormant
+         36   1F 00039C10 SetEnrollmentPartnerOpaqueID
+         13   20 00039C40 SetEnrollmentUPN
+         12   21 00039CC0 SetProviderID
+         14   22 00039CF0 SwitchAADLinkedEnrollment
+         37   23 0000A7C0 SysprepGeneralize
+         16   24 0003A0B0 _IsManagementRegistrationAllowed
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       33000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       6A000 .text

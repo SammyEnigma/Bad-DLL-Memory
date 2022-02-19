@@ -1,0 +1,97 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igdrcl64.dll
+
+File Type: DLL
+
+  Section contains the following exports for igdrcl64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          71 number of functions
+          71 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00035220 GTPin_Init
+          2    1 0001EDE0 clBuildProgram
+          3    2 0001ADE0 clCreateBuffer
+          4    3 0002A440 clCreateCommandQueue
+          5    4 00018930 clCreateContext
+          6    5 00018CD0 clCreateContextFromType
+          7    6 000289B0 clCreateImage2D
+          8    7 00028CF0 clCreateImage3D
+          9    8 0001FE00 clCreateKernel
+         10    9 00020130 clCreateKernelsInProgram
+         11    A 0001DF60 clCreateProgramWithBinary
+         12    B 0001DCD0 clCreateProgramWithSource
+         13    C 0002A940 clCreateSampler
+         14    D 000296F0 clEnqueueBarrier
+         15    E 00024980 clEnqueueCopyBuffer
+         16    F 00025F70 clEnqueueCopyBufferToImage
+         17   10 000258C0 clEnqueueCopyImage
+         18   11 00025CA0 clEnqueueCopyImageToBuffer
+         19   12 00026240 clEnqueueMapBuffer
+         20   13 00026510 clEnqueueMapImage
+         21   14 00029060 clEnqueueMarker
+         22   15 00268FE0 clEnqueueMarkerWithSyncObjectINTEL
+         23   16 00026D80 clEnqueueNDRangeKernel
+         24   17 00027060 clEnqueueNativeKernel
+         25   18 00023AB0 clEnqueueReadBuffer
+         26   19 00024F10 clEnqueueReadImage
+         27   1A 0002AC00 clEnqueueTask
+         28   1B 00026870 clEnqueueUnmapMemObject
+         29   1C 00029340 clEnqueueWaitForEvents
+         30   1D 000240D0 clEnqueueWriteBuffer
+         31   1E 00025270 clEnqueueWriteImage
+         32   1F 000238A0 clFinish
+         33   20 00023690 clFlush
+         34   21 00269000 clGetCLEventInfoINTEL
+         35   22 00268FF0 clGetCLObjectInfoINTEL
+         36   23 0001ABD0 clGetCommandQueueInfo
+         37   24 000196D0 clGetContextInfo
+         38   25 00017600 clGetDeviceIDs
+         39   26 00017940 clGetDeviceInfo
+         40   27 000222D0 clGetEventInfo
+         41   28 000234C0 clGetEventProfilingInfo
+         42   29 00029BD0 clGetExtensionFunctionAddress
+         43   2A 00183340 clGetGLContextInfoKHR
+         44   2B 0001C4C0 clGetImageInfo
+         45   2C 000216B0 clGetKernelInfo
+         46   2D 0002AF10 clGetKernelSubGroupInfoKHR
+         47   2E 00021B50 clGetKernelWorkGroupInfo
+         48   2F 0001C2D0 clGetMemObjectInfo
+         49   30 00017140 clGetPlatformIDs
+         50   31 000173C0 clGetPlatformInfo
+         51   32 0001FB90 clGetProgramBuildInfo
+         52   33 0001F940 clGetProgramInfo
+         53   34 0001DA90 clGetSamplerInfo
+         54   35 0001C060 clGetSupportedImageFormats
+         55   36 0001A840 clReleaseCommandQueue
+         56   37 000193E0 clReleaseContext
+         57   38 00022C10 clReleaseEvent
+         58   39 00269140 clReleaseGlSharedEventINTEL
+         59   3A 00020AD0 clReleaseKernel
+         60   3B 0001BD60 clReleaseMemObject
+         61   3C 0001EAF0 clReleaseProgram
+         62   3D 0001D7B0 clReleaseSampler
+         63   3E 0001A560 clRetainCommandQueue
+         64   3F 00019130 clRetainContext
+         65   40 00022960 clRetainEvent
+         66   41 00020820 clRetainKernel
+         67   42 0001BAA0 clRetainMemObject
+         68   43 0001E840 clRetainProgram
+         69   44 0001D500 clRetainSampler
+         70   45 00020DC0 clSetKernelArg
+         71   46 00021FF0 clWaitForEvents
+
+  Summary
+
+      16F000 .data
+       16000 .pdata
+       93000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      276000 .text
+        1000 _RDATA

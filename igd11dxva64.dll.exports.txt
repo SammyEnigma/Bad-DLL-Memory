@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igd11dxva64.dll
+
+File Type: DLL
+
+  Section contains the following exports for igd11dxva64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000AC870 ?MosGetMemNinjaCounter@MosUtilities@@SAHXZ
+          2    1 000AC880 ?MosGetMemNinjaCounterGfx@MosUtilities@@SAHXZ
+          3    2 000AC860 ?MosSetUltFlag@MosUtilities@@SAXE@Z
+          4    3 00631680 GTPin_Init
+          5    4 00033100 MOS_GetMemNinjaCounter
+          6    5 00033110 MOS_GetMemNinjaCounterGfx
+          7    6 000330F0 MOS_SetUltFlag
+          8    7 0002B140 OpenDxva11
+
+  Summary
+
+      82F000 .data
+       55000 .pdata
+     2D12000 .rdata
+       10000 .reloc
+        1000 .rsrc
+      7F1000 .text
+        1000 _RDATA

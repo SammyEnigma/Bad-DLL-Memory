@@ -1,0 +1,51 @@
+
+Dump of file C:\Windows\System32\msftedit.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSFTEDIT.dll
+
+    00000000 characteristics
+    77CC7ECA time date stamp
+        0.00 version
+           2 ordinal base
+          36 number of functions
+          25 number of names
+
+    ordinal hint RVA      name
+
+          4    0 000429C0 CreateTextServices
+          8    1 00128DA0 DisableOleinitCheck
+         26    2 000115F0 DllGetActivationFactory
+         12    3 000A3FC0 DllGetVersion
+         22    4 001AB710 GetMathAlphanumeric
+         21    5 001ABAD0 GetMathAlphanumericCode
+          2    6 002C3798 IID_IRichEditOle
+          3    7 002C3788 IID_IRichEditOleCallback
+         37    8 002C2720 IID_IRicheditUiaNotificationOverrides
+         33    9 002D6550 IID_IRicheditUiaOverrides
+         32    A 002C3658 IID_IRicheditWindowlessAccessibility
+         24    B 002C3708 IID_ITextDocument2
+          6    C 002C3668 IID_ITextHost
+          7    D 002C3CE8 IID_ITextHost2
+          5    E 002C3698 IID_ITextServices
+         25    F 002C36B8 IID_ITextServices2
+         18   10 001B4CF0 MathBuildDown
+         17   11 001B4D70 MathBuildUp
+         19   12 001B5030 MathTranslate
+         10   13 001F3B80 RichEdit10ANSIWndProc
+          9   14 001F3C30 RichEditANSIWndProc
+         13   15 000ABC80 RichEditWndProc
+         11   16 00128DD0 SetCustomTextOutHandlerEx
+         36   17 00128E00 SetTextServicesDpiCalculationOverride
+         35   18 000287D0 ShutdownTextServices
+
+  Summary
+
+        7000 .data
+        1000 .didat
+       19000 .pdata
+       6A000 .rdata
+        7000 .reloc
+       1A000 .rsrc
+      29B000 .text

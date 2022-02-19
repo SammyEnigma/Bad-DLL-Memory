@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SystemSettings.DataModel.dll
+
+File Type: DLL
+
+  Section contains the following exports for SystemSettings.Datamodel.dll
+
+    00000000 characteristics
+    CEA263FA time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A310 DllCanUnloadNow
+          2    1 0000A4D0 DllGetActivationFactory
+          3    2 0000A1B0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       1F000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       3F000 .text

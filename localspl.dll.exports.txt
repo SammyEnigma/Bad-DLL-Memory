@@ -1,0 +1,143 @@
+
+Dump of file C:\Windows\System32\localspl.dll
+
+File Type: DLL
+
+  Section contains the following exports for LocalSpl.dll
+
+    00000000 characteristics
+    65DD6F39 time date stamp
+        0.00 version
+         400 ordinal base
+         117 number of functions
+         116 number of names
+
+    ordinal hint RVA      name
+
+        419    0 0009E860 ClosePrintProcessor
+        420    1 0009E8E0 ControlPrintProcessor
+        421    2 00043080 DllMain
+        422    3 0009E960 EnumPrintProcessorDatatypesW
+        423    4 0009EA20 GetPrintProcessorCapabilities
+        424    5 0003ADC0 InitializePrintMonitor2
+        425    6 000397B0 InitializePrintProvidor
+        401    7 0007FD50 LclIsSessionZero
+        402    8 0007FD70 LclPromptUIPerSessionUser
+        426    9 000A3A20 LocalAddForm
+        427    A 000A3A60 LocalDeleteForm
+        428    B 000A3AA0 LocalEnumForms
+        429    C 0000BBF0 LocalReadPrinter
+        430    D 000A3AF0 LocalSetForm
+        431    E 0009EAD0 OpenPrintProcessor
+        432    F 0009EB50 PrintDocumentOnPrintProcessor
+        433   10 00080F40 SplAbortPrinter
+        403   11 000738D0 SplAddCSRPrinter
+        434   12 000A3B30 SplAddForm
+        435   13 00081300 SplAddJob
+        436   14 0009C1C0 SplAddMonitor
+        437   15 0009C5A0 SplAddPort
+        438   16 0009C730 SplAddPortEx
+        439   17 0009EBD0 SplAddPrintProcessor
+        440   18 00075C50 SplAddPrinter
+        441   19 0008D410 SplAddPrinterDriverEx
+        442   1A 0001E3F0 SplClosePrinter
+        443   1B 000979E0 SplCloseSpooler
+        444   1C 00039360 SplConfigChange
+        445   1D 000A9390 SplCopyFileEvent
+        446   1E 000A9570 SplCopyNumberOfFiles
+        447   1F 00017B80 SplCreatePrinterIC
+        448   20 00037480 SplCreateSpooler
+        449   21 000A3B80 SplDeleteForm
+        450   22 0007F3F0 SplDeleteJobNamedProperty
+        451   23 0009CC50 SplDeleteMonitor
+        452   24 0009D0E0 SplDeletePort
+        453   25 0009F160 SplDeletePrintProcCacheData
+        454   26 0009F330 SplDeletePrintProcessor
+        455   27 00077700 SplDeletePrinter
+        456   28 0009A4E0 SplDeletePrinterData
+        457   29 0009A620 SplDeletePrinterDataEx
+        458   2A 0008D530 SplDeletePrinterDriverEx
+        459   2B 00018490 SplDeletePrinterIC
+        460   2C 0009A790 SplDeletePrinterKey
+        461   2D 00077710 SplDeletePrinterWithJobs
+        462   2E 00097DB0 SplDeleteSpooler
+        404   2F 00073A20 SplDoesCSRPrinterDevnodeExist
+        463   30 00091FA0 SplDriverEvent
+        405   31 00073AE0 SplEnableCSRPrinterDeviceInterface
+        464   32 000084D0 SplEndDocPrinter
+        465   33 00003740 SplEndPagePrinter
+        466   34 0000EAE0 SplEnumForms
+        406   35 000CCFD0 SplEnumJobNamedProperties
+        467   36 00013F50 SplEnumJobs
+        468   37 0009D2E0 SplEnumMonitors
+        469   38 0009D4C0 SplEnumPorts
+        470   39 0009F5D0 SplEnumPrintProcCacheData
+        471   3A 0009F8D0 SplEnumPrintProcessorDatatypes
+        472   3B 0009FAB0 SplEnumPrintProcessors
+        473   3C 0009A910 SplEnumPrinterData
+        474   3D 0000E7F0 SplEnumPrinterDataEx
+        475   3E 000190B0 SplEnumPrinterDrivers
+        476   3F 0009AB40 SplEnumPrinterKey
+        477   40 0001F140 SplEnumPrinters
+        478   41 000920A0 SplGetDriverDir
+        407   42 00088AF0 SplGetDriverUpdateStatus
+        479   43 0000F890 SplGetForm
+        480   44 0007F530 SplGetJob
+        408   45 0007E760 SplGetJobExtra
+        481   46 0007F6F0 SplGetJobNamedPropertyValue
+        409   47 000792A0 SplGetLocalDevMode
+        482   48 00025DD0 SplGetPrintClassObject
+        483   49 00025E00 SplGetPrintClassObject_4CSR
+        484   4A 0009FC70 SplGetPrintProcCacheData
+        485   4B 000A0050 SplGetPrintProcessorDirectory
+        486   4C 000108E0 SplGetPrinter
+        487   4D 00019380 SplGetPrinterData
+        488   4E 0000DC60 SplGetPrinterDataEx
+        489   4F 0008DE60 SplGetPrinterDriver
+        490   50 0002D550 SplGetPrinterDriverDirectory
+        491   51 000103E0 SplGetPrinterDriverEx
+        492   52 0007B830 SplGetPrinterExtra
+        493   53 0007B880 SplGetPrinterExtraEx
+        494   54 000779C0 SplGetUserPropertyBag
+        495   55 0008DEB0 SplIsCompatibleDriver
+        410   56 00088BB0 SplIsDriverInstalled
+        411   57 00088C70 SplIsLocalDriverAvailable
+        412   58 00073BE0 SplIsValidUserPropertyBag
+        496   59 000A95A0 SplLoadLibraryTheCopyFileModule
+        497   5A 000921E0 SplMonitorIsInstalled
+        413   5B 0007A7D0 SplNotifyServerStatus
+        498   5C 0001D150 SplOpenPrinter
+        499   5D 00017B20 SplPlayGdiScriptOnPrinterIC
+        414   5E 0009B860 SplReenumeratePorts
+        500   5F 00077FD0 SplRegeneratePrintDeviceCapabilities
+        501   60 000BC6A0 SplReportJobProcessingProgress
+        502   61 00016820 SplResetPrinter
+        503   62 00081AF0 SplScheduleJob
+        415   63 0007A920 SplSetCSRPrinterDevnode
+        416   64 00088F40 SplSetDriverUpdateStatus
+        504   65 000A3BC0 SplSetForm
+        505   66 0000A3F0 SplSetJob
+        417   67 0007E840 SplSetJobError
+        418   68 0007E9F0 SplSetJobExtra
+        506   69 00008160 SplSetJobNamedProperty
+        507   6A 000A0330 SplSetPrintProcCacheData
+        508   6B 0007B8F0 SplSetPrinter
+        509   6C 0009B030 SplSetPrinterData
+        510   6D 0009B1D0 SplSetPrinterDataEx
+        511   6E 0007CA70 SplSetPrinterExtra
+        512   6F 0007CB40 SplSetPrinterExtraEx
+        513   70 000032E0 SplStartDocPrinter
+        514   71 00003650 SplStartPagePrinter
+        515   72 00004D40 SplWritePrinter
+        516   73 000AE740 SplXcvData
+        400      00092110 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        A000 .pdata
+       26000 .rdata
+        1000 .reloc
+       17000 .rsrc
+       EE000 .text

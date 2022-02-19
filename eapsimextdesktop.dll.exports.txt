@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\eapsimextdesktop.dll
+
+File Type: DLL
+
+  Section contains the following exports for SimPeerConfigExt.dll
+
+    00000000 characteristics
+    F775CC95 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000045B0 DllCanUnloadNow
+          3    1 000045D0 DllGetClassObject
+          4    2 00005D70 EapSimExtCallRunWizard
+          5    3 00005EE0 EapSimExtGetIdentityPageGuid
+          1    4 00006E50 EapSimExtInvokeUIAndGetConfig
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       16000 .text

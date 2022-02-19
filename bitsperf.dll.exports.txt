@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\bitsperf.dll
+
+File Type: DLL
+
+  Section contains the following exports for bitsperf.dll
+
+    00000000 characteristics
+    C5843273 time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002890 ??0CPerfMon@@QEAA@PEAGPEAU_PERF_ITEM@0@@Z
+          2    1 00001010 ??1CPerfMon@@QEAA@XZ
+          3    2 00002310 ??4CPerfMon@@QEAAAEAV0@AEBV0@@Z
+          4    3 000028F0 ?CalcBytesForPerfObject@CPerfMon@@AEBAKPEAU__OBJECT_ORD@1@@Z
+          5    4 00002A10 ?CalcPerfMetrics@CPerfMon@@AEBAXPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@PEAU_PERF_METRICS@1@PEAPEAU_PERF_ITEM@1@@Z
+          6    5 00002BB0 ?Collect@CPerfMon@@QEAAKPEAGPEAPEAEPEAK2@Z
+          7    6 00002BC0 ?CollectAllObjects@CPerfMon@@AEBAKPEAGPEAPEAEPEAK2@Z
+          8    7 00002DA0 ?CollectAnObject@CPerfMon@@AEBAKPEAU__OBJECT_ORD@1@PEAPEAE@Z
+          9    8 00002FD0 ?ConvertInstIdToInUseInstId@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@@Z
+         10    9 00003080 ?CounterIdToObjectOrd@CPerfMon@@AEBAPEAU__OBJECT_ORD@1@PEAU__COUNTER_ID@1@PEAH@Z
+         11    A 00002380 ?CounterIdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__COUNTER_ID@1@@Z
+         12    B 000030E0 ?CounterIdToPerfItemIndex@CPerfMon@@AEBAHPEAU__COUNTER_ID@1@PEAH@Z
+         13    C 00003150 ?CounterOrdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ORD@1@PEAU__COUNTER_ORD@1@@Z
+         14    D 00003190 ?DetermineObjectsToCollect@CPerfMon@@AEBAXPEAU__OBJECT_ORD@1@@Z
+         15    E 000023B0 ?GetCounter32@CPerfMon@@QEAAPEAJPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z
+         16    F 000023B0 ?GetCounter64@CPerfMon@@QEAAPEA_JPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z
+         17   10 00003290 ?GetCounter@CPerfMon@@AEAAPEAEPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z
+         18   11 00003350 ?HowManyInstancesAreInUse@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z
+         19   12 00003400 ?IdToPerfItemIndex@CPerfMon@@AEBAHH_K@Z
+         20   13 000034B0 ?Initialize@CPerfMon@@QEAAKH@Z
+         21   14 00003500 ?InitializePerfMon@CPerfMon@@AEAAKH@Z
+         22   15 000023C0 ?IsValidInstId@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@@Z
+         23   16 00002450 ?IsValidObjOrd@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z
+         24   17 000040A0 ?ObjectIdToObjectOrd@CPerfMon@@AEBAPEAU__OBJECT_ORD@1@PEAU__OBJECT_ID@1@@Z
+         25   18 00002470 ?ObjectIdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ID@1@@Z
+         26   19 000024A0 ?ObjectIdToPerfItemIndex@CPerfMon@@AEBAHPEAU__OBJECT_ID@1@@Z
+         27   1A 00004140 ?ObjectOrdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ORD@1@@Z
+         28   1B 00004170 ?ObjectOrdToPerfItemIndex@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z
+         29   1C 00004220 ?VerifyPerfItemTable@CPerfMon@@AEAAKXZ
+         30   1D 000024C0 PerfMon_Close
+         31   1E 000024F0 PerfMon_Collect
+         32   1F 00002520 PerfMon_Open
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

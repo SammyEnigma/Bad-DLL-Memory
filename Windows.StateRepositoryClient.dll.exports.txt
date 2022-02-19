@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\Windows.StateRepositoryClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.StateRepositoryClient.dll
+
+    00000000 characteristics
+    37536DB1 time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00004F90 DllCanUnloadNow
+          3    1 000052D0 DllGetActivationFactory
+          4    2 00005070 DllGetClassObject
+          5    3 0000DF40 SRCheckIntegrity
+          6    4 0000E0E0 SRDictionaryFree
+          7    5 0000E100 SRDictionaryToPropertySet
+          8    6 00010100 SRGetEffectivePackageStatusForUserFromToken
+          9    7 000101C0 SRGetEffectivePackageStatusForUserSid
+          1    8 00001630 SRGetExternalLocation
+         10    9 0000E150 SRGetIsEffectiveSupportedUsersMultiple
+         11    A 0000E260 SRGetPackageOriginForUser
+         12    B 00010310 SRGetPackageStatus
+         13    C 00010440 SRGetPackageStatusForUserFromToken
+         14    D 00010500 SRGetPackageStatusForUserSid
+         15    E 0000E4B0 SRGetStagedPackageOrigin
+         16    F 0000E620 SRPropertySetToDictionary
+         17   10 00010650 SRRemovePackageStatus
+         18   11 00010720 SRRemovePackageStatusForUserFromToken
+         19   12 000107D0 SRRemovePackageStatusForUserSid
+         20   13 0000E7A0 SRRepair
+         21   14 000108E0 SRUpdatePackageStatus
+         22   15 000109C0 SRUpdatePackageStatusForUserFromToken
+         23   16 00010A80 SRUpdatePackageStatusForUserSid
+         24   17 000125C0 StateRepositoryDoMaintenanceTasks
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        2000 .reloc
+        B000 .rsrc
+       1E000 .text

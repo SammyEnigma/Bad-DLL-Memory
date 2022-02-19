@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\sxsstore.dll
+
+File Type: DLL
+
+  Section contains the following exports for SxsStore.DLL
+
+    00000000 characteristics
+    77CD236E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001260 DllGetClassObject
+          2    1 00001250 DllMain
+          3    2 00001210 SxsStoreFinalize
+          4    3 000010A0 SxsStoreInitialize
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

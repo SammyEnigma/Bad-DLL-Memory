@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\unimdmat.dll
+
+File Type: DLL
+
+  Section contains the following exports for UNIMDMAT.dll
+
+    00000000 characteristics
+    A62E95A7 time date stamp
+        0.00 version
+         100 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+        112    0 00007EB0 UmAbortCurrentModemCommand
+        106    1 000039D0 UmAnswerModem
+        103    2 00009E50 UmCloseModem
+        101    3 00005E80 UmDeinitializeModemDriver
+        107    4 00003B70 UmDialModem
+        111    5 00007E10 UmDuplicateDeviceHandle
+        109    6 0000C440 UmGenerateDigit
+        117    7 000085E0 UmGetDiagnostics
+        108    8 00005650 UmHangupModem
+        104    9 000062B0 UmInitModem
+        100    A 00005DE0 UmInitializeModemDriver
+        114    B 000082D0 UmIssueCommand
+        118    C 00007D80 UmLogDiagnostics
+        116    D 00008450 UmLogStringA
+        105    E 00006850 UmMonitorModem
+        102    F 00008A70 UmOpenModem
+        113   10 00007F90 UmSetPassthroughMode
+        110   11 0000C7E0 UmSetSpeakerPhoneState
+        115   12 0000EAB0 UmWaveAction
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

@@ -1,0 +1,57 @@
+
+Dump of file C:\Windows\System32\dbnetlib.dll
+
+File Type: DLL
+
+  Section contains the following exports for DBnetlib.dll
+
+    00000000 characteristics
+    9EF7BF54 time date stamp
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+         22    0 00008750 CloseEnumServers
+         10    1 00008800 ConnectionCheckForData
+          9    2 00008960 ConnectionClose
+         11    3 00008B20 ConnectionError
+         17    4 00003880 ConnectionErrorW
+         28    5 00008B50 ConnectionFlushCache
+         19    6 00008B70 ConnectionGetSvrUser
+          6    7 00008E60 ConnectionMode
+          1    8 00003910 ConnectionObjectSize
+          8    9 00001CD0 ConnectionOpen
+         16    A 00001C20 ConnectionOpenW
+         18    B 00008E70 ConnectionOption
+          2    C 000092B0 ConnectionRead
+         14    D 00009CE0 ConnectionServerEnum
+         15    E 00009E50 ConnectionServerEnumW
+         13    F 00009EC0 ConnectionSqlVer
+          7   10 00003A50 ConnectionStatus
+          4   11 00009EF0 ConnectionTransact
+         12   12 00009FE0 ConnectionVer
+          3   13 00009FF0 ConnectionWrite
+          5   14 0000A4D0 ConnectionWriteOOB
+         27   15 00013840 GenClientContext
+         31   16 00013850 GenClientContextEx
+         21   17 0000A820 GetNextEnumeration
+         20   18 0000AEA0 InitEnumServers
+         23   19 00001330 InitSSPIPackage
+         25   1A 00013E40 InitSession
+         29   1B 00013E50 InitSessionEx
+         24   1C 000038C0 TermSSPIPackage
+         26   1D 00014200 TermSession
+         30   1E 00014210 TermSessionEx
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .sdbid
+       14000 .text

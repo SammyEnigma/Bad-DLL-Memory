@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DispBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for DispBroker.dll
+
+    00000000 characteristics
+    15683B25 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006790 DispBrokerTraceLogCallback
+          2    1 00006640 DispBrokerTraceLogHelper
+          3    2 00005670 DllCanUnloadNow
+          4    3 000053A0 DllGetActivationFactory
+          5    4 00005580 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        4000 .pdata
+       15000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       40000 .text

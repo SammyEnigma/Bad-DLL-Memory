@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\MapGeocoder.dll
+
+File Type: DLL
+
+  Section contains the following exports for MapGeocoder.dll
+
+    00000000 characteristics
+    8610CE09 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000149B0 CreateMapGeocoderFactory
+
+  Summary
+
+       27000 .data
+       10000 .pdata
+       8A000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      1C2000 .text

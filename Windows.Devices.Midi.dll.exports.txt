@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Midi.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Midi.dll
+
+    00000000 characteristics
+    DAA3FC8D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000030C0 DllCanUnloadNow
+          1    1 00002C90 DllGetActivationFactory
+          3    2 00002E70 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       27000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       3E000 .text

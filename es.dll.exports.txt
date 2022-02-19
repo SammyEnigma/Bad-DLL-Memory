@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\es.dll
+
+File Type: DLL
+
+  Section contains the following exports for ES.dll
+
+    00000000 characteristics
+    61802E1E time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0001B630 DllCanUnloadNow
+          3    1 00009BD0 DllGetClassObject
+          4    2 00031900 LCEControlServer
+          5    3 00001860 NotifyLogoffUser
+          6    4 00001950 NotifyLogonUser
+          7    5 0001C420 ServiceMain
+          1    6 0001E970 SvchostPushServiceGlobals
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       1D000 .rdata
+        2000 .reloc
+        6000 .rsrc
+       3C000 .text

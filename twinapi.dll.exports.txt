@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\twinapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for TWINAPI.dll
+
+    00000000 characteristics
+    D412FDC1 time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+         16    0 0000ACC0 DllCanUnloadNow
+         17    1 0000BB60 DllGetActivationFactory
+         18    2 0000A790 DllGetClassObject
+          8    3 0003AAF0 GetMetroMode
+          1      0000D400 [NONAME]
+          2      00018DE0 [NONAME]
+          3      00018DC0 [NONAME]
+          4      00018D80 [NONAME]
+          5      00018E40 [NONAME]
+          6      00018E00 [NONAME]
+          7      0003A910 [NONAME]
+          9      0000F180 [NONAME]
+         10      0000D0E0 [NONAME]
+         11      0000BFB0 [NONAME]
+         12      00018DA0 [NONAME]
+         13      0000D3E0 [NONAME]
+         14      00018E20 [NONAME]
+         15      00018D60 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        8000 .pdata
+       27000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       70000 .text

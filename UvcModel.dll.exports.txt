@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\UvcModel.dll
+
+File Type: DLL
+
+  Section contains the following exports for UvcModel.dll
+
+    00000000 characteristics
+    C9E01302 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004D20 DllCanUnloadNow
+          2    1 00004A50 DllGetActivationFactory
+          3    2 00004C30 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

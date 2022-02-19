@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\VsGraphicsHelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for VsGraphicsHelper.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00078E94 DisableD3DSpy
+          2    1 00030918 VsgDbgAddHUDMessage
+          3    2 0003084C VsgDbgBeginCapture
+          4    3 00030810 VsgDbgCaptureCurrentFrame
+          5    4 000308A8 VsgDbgCopy
+          6    5 0003087C VsgDbgEndCapture
+          7    6 0003079C VsgDbgInit
+          8    7 00030704 VsgDbgInitDelayed
+          9    8 000307F4 VsgDbgToggleHUD
+         10    9 000307D8 VsgDbgUnInit
+
+  Summary
+
+       1D000 .data
+        3000 .detourc
+        1000 .detourd
+        1000 .gehcont
+       1D000 .pdata
+      111000 .rdata
+        9000 .reloc
+       12000 .rsrc
+      208000 .text
+        1000 _RDATA

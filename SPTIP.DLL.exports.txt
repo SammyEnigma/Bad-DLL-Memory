@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech\SpeechUX\SPTIP.DLL
+
+File Type: DLL
+
+  Section contains the following exports for SpTip.DLL
+
+    00000000 characteristics
+    57EDD7A5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00013600 DllCanUnloadNow
+          2    1 00013680 DllGetClassObject
+          3    2 00013830 DllRegisterServer
+          4    3 000138D0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       1C000 .text

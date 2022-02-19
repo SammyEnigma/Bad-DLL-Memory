@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.ApplicationModel.Store.TestingFramework.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.ApplicationModel.Store.TestingFramework.dll
+
+    00000000 characteristics
+    6A814E34 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001B00 DllCanUnloadNow
+          2    1 00001820 DllGetActivationFactory
+          3    2 00001A00 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       13000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       37000 .text

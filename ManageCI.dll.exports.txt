@@ -1,0 +1,71 @@
+
+Dump of file C:\Windows\System32\ManageCI.dll
+
+File Type: DLL
+
+  Section contains the following exports for ManageCI.dll
+
+    00000000 characteristics
+    92FA5D05 time date stamp
+        0.00 version
+           1 ordinal base
+          45 number of functions
+          45 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009B50 BeginRemoveCIPolicy
+          2    1 00009560 BeginRemoveSBCPToken
+          3    2 00009D10 BeginSetSBCPToken
+          4    3 00008EB0 BeginTransaction
+          5    4 000098E0 BeginUpsertCIPolicy
+          6    5 0000AF90 Commit
+          7    6 000056B0 End
+          8    7 00009490 GetAllCIPolicies
+          9    8 00009320 GetAllSBCPTokens
+         10    9 00009100 GetCIPolicyByID
+         11    A 00009180 GetPoliciesAuthorizedBySBCPToken
+         12    B 0000AD10 GetPolicyInformation
+         13    C 000091A0 GetSBCPTokenByID
+         14    D 00009470 GetSBCPTokensForPolicyID
+         15    E 0000AC40 GetSModeUnlockID
+         16    F 0000A1E0 GetTenantID
+         17   10 0000AD90 GetTokenInformation
+         18   11 000090D0 IsInProgress
+         23   12 000067D0 ManageCI
+         24   13 000064B0 ManageCI_BeginRemoveCIPolicy
+         25   14 00006460 ManageCI_BeginRemoveSBCPToken
+         26   15 000064D0 ManageCI_BeginSetSBCPToken
+         27   16 00005D30 ManageCI_BeginTransaction
+         28   17 00006480 ManageCI_BeginUpsertCIPolicy
+         29   18 00006790 ManageCI_Commit
+         30   19 00005D50 ManageCI_End
+         31   1A 00005E70 ManageCI_GetAllCIPolicies
+         32   1B 00006160 ManageCI_GetAllSBCPTokens
+         33   1C 00005DA0 ManageCI_GetCIPolicyByID
+         34   1D 00005F80 ManageCI_GetPoliciesAuthorizedBySBCPToken
+         35   1E 00006620 ManageCI_GetPolicyInformation
+         36   1F 00006090 ManageCI_GetSBCPTokenByID
+         37   20 000062E0 ManageCI_GetSBCPTokensForPolicyID
+         38   21 00006560 ManageCI_GetSModeUnlockID
+         39   22 00006500 ManageCI_GetTenantID
+         40   23 00006740 ManageCI_GetTokenInformation
+         41   24 00005D90 ManageCI_IsInProgress
+         42   25 00005C80 ManageCI_ParsePolicy
+         43   26 000067B0 ManageCI_Rollback
+         44   27 00005D10 ManageCI_Start
+         45   28 00005D70 ManageCI_ValidateState
+         19   29 0000B7D0 ParsePolicy
+         20   2A 0000B2F0 Rollback
+         21   2B 00008D10 Start
+         22   2C 000090C0 ValidateState
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       27000 .text

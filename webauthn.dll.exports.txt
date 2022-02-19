@@ -1,0 +1,81 @@
+
+Dump of file C:\Windows\System32\webauthn.dll
+
+File Type: DLL
+
+  Section contains the following exports for webauthn.dll
+
+    00000000 characteristics
+    BAA5C6C9 time date stamp
+        0.00 version
+           1 ordinal base
+          55 number of functions
+          55 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001F6F0 CryptsvcDllCtrl
+          2    1 0000D880 I_WebAuthNCtapDecodeGetAssertionRpcResponse
+          3    2 0000B1E0 I_WebAuthNCtapDecodeMakeCredentialRpcResponse
+          4    3 0000D260 I_WebAuthNCtapEncodeGetAssertionRpcRequest
+          5    4 0000ADC0 I_WebAuthNCtapEncodeMakeCredentialRpcRequest
+          6    5 000163F0 WebAuthNAuthenticatorGetAssertion
+          7    6 00015C00 WebAuthNAuthenticatorMakeCredential
+          8    7 00016BB0 WebAuthNCancelCurrentOperation
+          9    8 0000C7F0 WebAuthNCtapChangeClientPin
+         10    9 0000EAB0 WebAuthNCtapChangeClientPinForSelectedDevice
+         11    A 0000E150 WebAuthNCtapFreeSelectedDeviceInformation
+         12    B 0000E180 WebAuthNCtapGetAssertion
+         13    C 00010270 WebAuthNCtapGetSupportedTransports
+         14    D 000142A0 WebAuthNCtapGetWnfLocalizedString
+         15    E 0000F9E0 WebAuthNCtapIsStopSendCommandError
+         16    F 0000CA90 WebAuthNCtapMakeCredential
+         17   10 00012EE0 WebAuthNCtapManageAuthenticatePin
+         18   11 000136A0 WebAuthNCtapManageCancelEnrollFingerprint
+         19   12 000131E0 WebAuthNCtapManageChangePin
+         20   13 000124D0 WebAuthNCtapManageClose
+         21   14 00014210 WebAuthNCtapManageDeleteCredential
+         22   15 00013410 WebAuthNCtapManageEnrollFingerprint
+         23   16 00013C20 WebAuthNCtapManageFreeDisplayCredentials
+         24   17 00013C80 WebAuthNCtapManageGetDisplayCredentials
+         25   18 00013770 WebAuthNCtapManageRemoveFingerprints
+         26   19 00012C60 WebAuthNCtapManageResetDevice
+         27   1A 00012B20 WebAuthNCtapManageSelect
+         28   1B 00013070 WebAuthNCtapManageSetPin
+         29   1C 0000F070 WebAuthNCtapParseAuthenticatorData
+         30   1D 0000C9F0 WebAuthNCtapResetDevice
+         31   1E 0000FBA0 WebAuthNCtapRpcGetAssertionUserList
+         32   1F 0000FA40 WebAuthNCtapRpcGetCborCommand
+         33   20 0000FFC0 WebAuthNCtapRpcSelectGetAssertion
+         34   21 0000F110 WebAuthNCtapSendCommand
+         35   22 0000C6B0 WebAuthNCtapSetClientPin
+         36   23 000106D0 WebAuthNCtapStartDeviceChangeNotify
+         37   24 000106E0 WebAuthNCtapStopDeviceChangeNotify
+         38   25 0000EDB0 WebAuthNCtapVerifyGetAssertion
+         39   26 0001C270 WebAuthNDecodeAccountInformation
+         40   27 0001C340 WebAuthNDeletePlatformCredential
+         41   28 0001C1A0 WebAuthNEncodeAccountInformation
+         42   29 0000E150 WebAuthNFreeAssertion
+         43   2A 0000AD50 WebAuthNFreeCredentialAttestation
+         44   2B 0000E150 WebAuthNFreeDecodedAccountInformation
+         45   2C 0000E150 WebAuthNFreeEncodedAccountInformation
+         46   2D 00013C20 WebAuthNFreePlatformCredentials
+         47   2E 0000E150 WebAuthNFreeUserEntityList
+         48   2F 00016BD0 WebAuthNGetApiVersionNumber
+         49   30 00016B70 WebAuthNGetCancellationId
+         50   31 00015B10 WebAuthNGetCoseAlgorithmIdentifier
+         51   32 000106F0 WebAuthNGetCredentialIdFromAuthenticatorData
+         52   33 0000F980 WebAuthNGetErrorName
+         53   34 0001CAE0 WebAuthNGetPlatformCredentials
+         54   35 0000F9B0 WebAuthNGetW3CExceptionDOMError
+         55   36 0001BF00 WebAuthNIsUserVerifyingPlatformAuthenticatorAvailable
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        B000 .rsrc
+       5C000 .text

@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\NvCamera\d3dcompiler_47_64.dll
+
+File Type: DLL
+
+  Section contains the following exports for D3DCOMPILER_47.dll
+
+    00000000 characteristics
+    5215C755 time date stamp Thu Aug 22 10:09:57 2013
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0013F620 D3DAssemble
+          3    1 0013F330 D3DCompile
+          4    2 0013F3B0 D3DCompile2
+          5    3 0013F4B0 D3DCompileFromFile
+          6    4 00142260 D3DCompressShaders
+          7    5 0013D850 D3DCreateBlob
+          8    6 0013D890 D3DCreateFunctionLinkingGraph
+          9    7 0013D870 D3DCreateLinker
+         10    8 001425E0 D3DDecompressShaders
+         11    9 0013D620 D3DDisassemble
+         12    A 00157500 D3DDisassemble10Effect
+         13    B 0013D6F0 D3DDisassemble11Trace
+         14    C 0013D660 D3DDisassembleRegion
+         15    D 00141010 D3DGetBlobPart
+         16    E 00141370 D3DGetDebugInfo
+         17    F 00141400 D3DGetInputAndOutputSignatureBlob
+         18   10 001413A0 D3DGetInputSignatureBlob
+         19   11 001413D0 D3DGetOutputSignatureBlob
+         20   12 0013D6B0 D3DGetTraceInstructionOffsets
+         21   13 0013D880 D3DLoadModule
+         22   14 001408D0 D3DPreprocess
+         23   15 0013D8A0 D3DReadFileToBlob
+         24   16 0013D730 D3DReflect
+         25   17 0013D7C0 D3DReflectLibrary
+         26   18 001425F0 D3DReturnFailure1
+         27   19 00141050 D3DSetBlobPart
+         28   1A 00141430 D3DStripShader
+         29   1B 0013DAB0 D3DWriteBlobToFile
+          2   1C 00148DE0 DebugSetMute
+
+  Summary
+
+       12000 .data
+        2000 .idata
+       1E000 .pdata
+       12000 .reloc
+        1000 .rsrc
+      3BE000 .text

@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\tsprint.dll
+
+File Type: DLL
+
+  Section contains the following exports for TSPRINT.dll
+
+    00000000 characteristics
+     A362BE8 time date stamp
+        0.00 version
+         254 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+        258    0 00004170 DevQueryPrintEx
+        259    1 000081E0 DllCanUnloadNow
+        260    2 00007FF0 DllGetClassObject
+        261    3 000066C0 DllMain
+        255    4 00001920 DrvConvertDevMode
+        262    5 000018E0 DrvDeviceCapabilities
+        263    6 00002790 DrvDevicePropertySheets
+        264    7 000040E0 DrvDocumentPropertySheets
+        256    8 00001340 DrvPrinterEvent
+        254    9 000015F0 DrvSplDeviceCaps
+        257    A 00004180 MxdcGetPDEVAdjustment
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text

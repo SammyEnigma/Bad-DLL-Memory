@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\reguwpapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for reguwpapi.dll
+
+    00000000 characteristics
+    4F121FA6 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002590 RegCopyTreeFromApp
+          2    1 00001E30 RegCreateKeyFromApp
+          3    2 000020D0 RegDeleteKeyFromApp
+          4    3 00002640 RegDeleteTreeFromApp
+          5    4 00002160 RegDeleteValueFromApp
+          6    5 000021B0 RegEnumKeyFromApp
+          7    6 00002250 RegEnumValueFromApp
+          8    7 000024E0 RegGetValueFromApp
+          9    8 00001DA0 RegLoadAppKeyFromApp
+         10    9 00001F90 RegOpenKeyFromApp
+         11    A 000022F0 RegQueryInfoKeyFromApp
+         12    B 00002690 RegQueryMultipleValuesFromApp
+         13    C 000023D0 RegQueryValueFromApp
+         14    D 00002460 RegSetValueFromApp
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

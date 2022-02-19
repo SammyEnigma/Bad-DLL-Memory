@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\migwiz\dlmanifests\Microsoft-Windows-TextServicesFramework-Migration-DL\imjpmig.dll
+
+File Type: DLL
+
+  Section contains the following exports for imjpmig.dll
+
+    00000000 characteristics
+    83B73707 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000080B0 ApplySuccess
+          2    1 00007F00 Gather
+          3    2 00007FE0 PreApply
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

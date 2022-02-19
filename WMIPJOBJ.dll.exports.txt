@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\WMIPJOBJ.dll
+
+File Type: DLL
+
+  Section contains the following exports for WMIPJOBJ.DLL
+
+    00000000 characteristics
+    5E8791CE time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A790 DllCanUnloadNow
+          2    1 0000A7B0 DllGetClassObject
+          3    2 0000A930 DllRegisterServer
+          4    3 0000A980 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

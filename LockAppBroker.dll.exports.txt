@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\LockAppBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for lockappbroker.dll
+
+    00000000 characteristics
+    77C21096 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00020C40 DllCanUnloadNow
+          2    1 0000F850 DllGetActivationFactory
+          3    2 0000E680 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        5000 .pdata
+       1E000 .rdata
+        2000 .reloc
+        8000 .rsrc
+       44000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\LocationApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for LocationApi.DLL
+
+    00000000 characteristics
+    C5FF3FD9 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E490 DllCanUnloadNow
+          2    1 0000E4E0 DllGetClassObject
+          3    2 0000E560 DllRegisterServer
+          4    3 0000E5C0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       15000 .rdata
+        2000 .reloc
+        E000 .rsrc
+       3D000 .text

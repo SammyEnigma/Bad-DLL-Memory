@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\biwinrt.dll
+
+File Type: DLL
+
+  Section contains the following exports for BiWinrt.dll
+
+    00000000 characteristics
+    1A281A1E time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004460 BiRtCreateEventForApp
+          2    1 00002270 BiRtDeleteEventForApp
+          3    2 00035B80 BiRtEnumerateBrokeredEvents
+          4    3 000157B0 BiRtIsValidActivationTypeForEventType
+          5    4 00035E90 BiRtQueryBrokerEventId
+          6    5 00004320 BiRtRegisterWorkItem
+          7    6 00015840 BiRtRegisterWorkItemClsid
+          8    7 0000F850 DllCanUnloadNow
+          9    8 0000E770 DllGetActivationFactory
+         10    9 0001CFF0 DllGetClassObject
+         11    A 00012CE0 DllMain
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       15000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       36000 .text

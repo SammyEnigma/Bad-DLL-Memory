@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\wbem\WinMgmtR.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        8000 .rsrc

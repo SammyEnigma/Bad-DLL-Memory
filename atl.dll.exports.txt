@@ -1,0 +1,80 @@
+
+Dump of file C:\Windows\System32\atl.dll
+
+File Type: DLL
+
+  Section contains the following exports for ATL.DLL
+
+    00000000 characteristics
+    DFCAD7B4 time date stamp
+        0.00 version
+          10 ordinal base
+          54 number of functions
+          54 number of names
+
+    ordinal hint RVA      name
+
+         10    0 0000DD30 AtlAdvise
+         41    1 0000DDF0 AtlAxAttachControl
+         39    2 0000DEB0 AtlAxCreateControl
+         40    3 0000DEE0 AtlAxCreateControlEx
+         38    4 0000E020 AtlAxCreateDialogA
+         37    5 0000E190 AtlAxCreateDialogW
+         36    6 0000E300 AtlAxDialogBoxA
+         35    7 0000E470 AtlAxDialogBoxW
+         47    8 0000E5E0 AtlAxGetControl
+         48    9 0000E630 AtlAxGetHost
+         42    A 0000E680 AtlAxWinInit
+         30    B 00001270 AtlComPtrAssign
+         31    C 0000E7B0 AtlComQIPtrAssign
+         26    D 0000E820 AtlCreateTargetDC
+         29    E 0000E8C0 AtlDevModeW2A
+         12    F 0000E9D0 AtlFreeMarshalStream
+         54   10 00004150 AtlGetObjectSourceInterface
+         34   11 0000EA30 AtlGetVersion
+         27   12 0000EA40 AtlHiMetricToPixel
+         52   13 000044E0 AtlIPersistPropertyBag_Load
+         53   14 00004890 AtlIPersistPropertyBag_Save
+         60   15 00004C80 AtlIPersistStreamInit_GetSizeMax
+         50   16 00004F00 AtlIPersistStreamInit_Load
+         51   17 000050B0 AtlIPersistStreamInit_Save
+         32   18 000017F0 AtlInternalQueryInterface
+         13   19 0000EB30 AtlMarshalPtrInProc
+         43   1A 0000EBE0 AtlModuleAddCreateWndData
+         58   1B 0000EC80 AtlModuleAddTermFunc
+         44   1C 0000ED30 AtlModuleExtractCreateWndData
+         15   1D 00001930 AtlModuleGetClassObject
+         16   1E 00001080 AtlModuleInit
+         56   1F 0000EDD0 AtlModuleLoadTypeLib
+         17   20 000015F0 AtlModuleRegisterClassObjects
+         18   21 0000F010 AtlModuleRegisterServer
+         19   22 0000F120 AtlModuleRegisterTypeLib
+         46   23 0000F2C0 AtlModuleRegisterWndClassInfoA
+         45   24 0000F500 AtlModuleRegisterWndClassInfoW
+         20   25 00001720 AtlModuleRevokeClassObjects
+         21   26 000014A0 AtlModuleTerm
+         55   27 0000F740 AtlModuleUnRegisterTypeLib
+         22   28 0000F840 AtlModuleUnregisterServer
+         57   29 0000F850 AtlModuleUnregisterServerEx
+         23   2A 0000F940 AtlModuleUpdateRegistryFromResourceD
+         28   2B 0000FB80 AtlPixelToHiMetric
+         49   2C 0000FC50 AtlRegisterClassCategoriesHelper
+         25   2D 0000FD60 AtlSetErrorInfo
+         59   2E 0000FFA0 AtlSetErrorInfo2
+         11   2F 000100E0 AtlUnadvise
+         14   30 00010190 AtlUnmarshalPtr
+         24   31 00010210 AtlWaitWithMessageLoop
+         33   32 000102C0 DllCanUnloadNow
+         61   33 000102E0 DllGetClassObject
+         62   34 000012D0 DllRegisterServer
+         63   35 000012D0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       10000 .text

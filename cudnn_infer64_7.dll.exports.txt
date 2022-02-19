@@ -1,0 +1,98 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\cudnn_infer64_7.dll
+
+File Type: DLL
+
+  Section contains the following exports for cudnn_infer64_7.dll
+
+    00000000 characteristics
+    5B97C942 time date stamp Tue Sep 11 15:55:14 2018
+        0.00 version
+           1 ordinal base
+          71 number of functions
+          71 number of names
+
+    ordinal hint RVA      name
+
+          7    0 00798880 NvOptimusEnablementCuda
+          8    1 00335070 cudnnActivationForward
+          9    2 00003170 cudnnAddTensor
+         10    3 00006F10 cudnnConvolutionBackwardData
+         11    4 000075B0 cudnnConvolutionBiasActivationForward
+         12    5 000077D0 cudnnConvolutionForward
+         13    6 000021B0 cudnnCreate
+         14    7 00001620 cudnnCreateActivationDescriptor
+         15    8 00001670 cudnnCreateConvolutionDescriptor
+         16    9 00002990 cudnnCreateFilterDescriptor
+         17    A 000016E0 cudnnCreateOpTensorDescriptor
+         18    B 00001730 cudnnCreatePoolingDescriptor
+         19    C 00002A00 cudnnCreateTensorDescriptor
+         20    D 00002660 cudnnDestroy
+         21    E 00001780 cudnnDestroyActivationDescriptor
+         22    F 00001780 cudnnDestroyConvolutionDescriptor
+         23   10 00001780 cudnnDestroyFilterDescriptor
+         24   11 00001780 cudnnDestroyOpTensorDescriptor
+         25   12 00001780 cudnnDestroyPoolingDescriptor
+         26   13 00001780 cudnnDestroyTensorDescriptor
+         27   14 000017A0 cudnnGetActivationDescriptor
+         28   15 000017C0 cudnnGetBackdoor
+          1   16 00001000 cudnnGetConvolution2dDescriptor
+          2   17 00001060 cudnnGetConvolution2dForwardOutputDim
+         29   18 00007880 cudnnGetConvolutionBackwardDataAlgorithm
+         30   19 00007BC0 cudnnGetConvolutionBackwardDataAlgorithmMaxCount
+         31   1A 00007C30 cudnnGetConvolutionBackwardDataAlgorithm_v7
+         32   1B 00007D10 cudnnGetConvolutionBackwardDataWorkspaceSize
+         33   1C 00007D30 cudnnGetConvolutionForwardAlgorithm
+         34   1D 000080A0 cudnnGetConvolutionForwardAlgorithmMaxCount
+         35   1E 00008120 cudnnGetConvolutionForwardAlgorithm_v7
+         36   1F 00008210 cudnnGetConvolutionForwardWorkspaceSize
+         37   20 000017F0 cudnnGetConvolutionGroupCount
+         38   21 00001810 cudnnGetConvolutionMathType
+         39   22 00001830 cudnnGetConvolutionNdDescriptor
+         40   23 000018C0 cudnnGetConvolutionNdForwardOutputDim
+         41   24 00001A00 cudnnGetCudartVersion
+         42   25 00001A10 cudnnGetErrorString
+         43   26 00002A90 cudnnGetFilterNdDescriptor
+         44   27 00001AE0 cudnnGetOpTensorDescriptor
+          3   28 00001100 cudnnGetPooling2dDescriptor
+          4   29 00001160 cudnnGetPooling2dForwardOutputDim
+         45   2A 00001B00 cudnnGetPoolingNdDescriptor
+         46   2B 00001B90 cudnnGetPoolingNdForwardOutputDim
+         47   2C 00001C40 cudnnGetProperty
+         48   2D 00002780 cudnnGetStream
+         49   2E 00002B20 cudnnGetTensorNdDescriptor
+         50   2F 00002BE0 cudnnGetTensorSizeInBytes
+         51   30 00001C80 cudnnGetVersion
+         52   31 0048D450 cudnnIm2Col
+         53   32 00003930 cudnnOpTensor
+         54   33 0032A3E0 cudnnPoolingForward
+         55   34 00001C90 cudnnQueryRuntimeError
+         56   35 000033C0 cudnnScaleTensor
+         57   36 00001D60 cudnnSetActivationDescriptor
+         58   37 00001D90 cudnnSetBackdoor
+         59   38 00001DE0 cudnnSetBackdoorEx
+          5   39 00001320 cudnnSetConvolution2dDescriptor
+         60   3A 00001E10 cudnnSetConvolutionGroupCount
+         61   3B 00001E30 cudnnSetConvolutionMathType
+         62   3C 00001E60 cudnnSetConvolutionNdDescriptor
+         63   3D 00002C20 cudnnSetFilterNdDescriptor
+         64   3E 00001F20 cudnnSetOpTensorDescriptor
+          6   3F 00001400 cudnnSetPooling2dDescriptor
+         65   40 00001F50 cudnnSetPoolingNdDescriptor
+         66   41 000027A0 cudnnSetStream
+         67   42 000034B0 cudnnSetTensor
+         68   43 00002D00 cudnnSetTensorNdDescriptor
+         69   44 00002D20 cudnnSetTensorNdDescriptorEx
+         70   45 00320260 cudnnSoftmaxForward
+         71   46 000035A0 cudnnTransformTensor
+
+  Summary
+
+       48000 .data
+        1000 .nvFatBi
+      DD5000 .nv_fatb
+       33000 .pdata
+      155000 .rdata
+       12000 .reloc
+        1000 .rsrc
+      641000 .text

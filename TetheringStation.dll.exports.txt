@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\TetheringStation.dll
+
+File Type: DLL
+
+  Section contains the following exports for TetheringStation.dll
+
+    00000000 characteristics
+    CF2F15B9 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C160 TetheringStationConnect
+          2    1 0000BC90 TetheringStationDeinitialize
+          3    2 0000C280 TetheringStationDisconnect
+          4    3 0000C000 TetheringStationEnumerate
+          5    4 0000C640 TetheringStationFreeMemory
+          6    5 0000BB00 TetheringStationInitialize
+          7    6 0000BEA0 TetheringStationRefresh
+          8    7 0000C3E0 TetheringStationRegisterForNotification
+          9    8 0000C4F0 TetheringStationUnregisterForNotification
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

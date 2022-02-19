@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SpaceControl.dll
+
+File Type: DLL
+
+  Section contains the following exports for SpaceControl.dll
+
+    00000000 characteristics
+    C433D093 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000025C0 DllCanUnloadNow
+          2    1 00002610 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+       13000 .rdata
+        2000 .reloc
+       57000 .rsrc
+       50000 .text

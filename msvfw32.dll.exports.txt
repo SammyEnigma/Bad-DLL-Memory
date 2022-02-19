@@ -1,0 +1,72 @@
+
+Dump of file C:\Windows\System32\msvfw32.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSVFW32.dll
+
+    00000000 characteristics
+    4A9B6113 time date stamp
+        0.00 version
+           2 ordinal base
+          47 number of functions
+          47 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00008F10 DrawDibBegin
+          4    1 0000A8A0 DrawDibChangePalette
+          5    2 00008A70 DrawDibClose
+          6    3 0000AE40 DrawDibDraw
+          7    4 0000A5D0 DrawDibEnd
+          8    5 0000AD40 DrawDibGetBuffer
+          9    6 0000A6E0 DrawDibGetPalette
+         10    7 000089F0 DrawDibOpen
+         11    8 0000CBC0 DrawDibProfileDisplay
+         12    9 0000AC30 DrawDibRealize
+         13    A 0000A740 DrawDibSetPalette
+         14    B 0000ADA0 DrawDibStart
+         15    C 0000ADF0 DrawDibStop
+         16    D 0000A610 DrawDibTime
+         17    E 000104E0 GetOpenFileNamePreview
+         18    F 000104E0 GetOpenFileNamePreviewA
+         19   10 000104A0 GetOpenFileNamePreviewW
+         20   11 000104F0 GetSaveFileNamePreviewA
+         21   12 000104C0 GetSaveFileNamePreviewW
+         22   13 00002FA0 ICClose
+         23   14 00003070 ICCompress
+         24   15 00004E20 ICCompressorChoose
+         25   16 00003F20 ICCompressorFree
+         26   17 000030F0 ICDecompress
+         27   18 000031D0 ICDraw
+         28   19 00003140 ICDrawBegin
+         29   1A 00003220 ICGetDisplayFormat
+         30   1B 00002A50 ICGetInfo
+         31   1C 000045E0 ICImageCompress
+         32   1D 00004A20 ICImageDecompress
+         33   1E 000026A0 ICInfo
+         34   1F 00001C50 ICInstall
+         35   20 000035D0 ICLocate
+         36   21 00008140 ICMThunk32
+         37   22 00002BF0 ICOpen
+         38   23 00002E80 ICOpenFunction
+         39   24 000020B0 ICRemove
+         40   25 00002B40 ICSendMessage
+         41   26 00004490 ICSeqCompressFrame
+         42   27 00004390 ICSeqCompressFrameEnd
+         43   28 00004080 ICSeqCompressFrameStart
+         44   29 00010A00 MCIWndCreate
+         45   2A 00010A00 MCIWndCreateA
+         46   2B 000108E0 MCIWndCreateW
+         47   2C 000107E0 MCIWndRegisterClass
+         48   2D 0000CFE0 StretchDIB
+          2   2E 00001170 VideoForWindowsVersion
+
+  Summary
+
+        9000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       18000 .text

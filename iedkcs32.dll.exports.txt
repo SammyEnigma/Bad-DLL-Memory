@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\iedkcs32.dll
+
+File Type: DLL
+
+  Section contains the following exports for iedkcs32.dll
+
+    00000000 characteristics
+    E6CF3947 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00004120 BrandCleanInstallStubs
+          6    1 000028E0 BrandICW
+          7    2 00002980 BrandICW2
+          8    3 000039B0 BrandIE4
+          9    4 00002BB0 BrandIEActiveSetup
+         10    5 000021A0 BrandInternetExplorer
+         11    6 00002B40 BrandIntra
+         12    7 00002B30 BrandMe
+         13    8 00004810 Clear
+          1    9 00004D90 CloseRASConnections
+         14    A 00003E70 InternetInitializeAutoProxyDll
+          2    B 000064D0 ProcessGroupPolicyForActivities
+          3    C 000068C0 ProcessGroupPolicyForActivitiesEx
+          4    D 00005D60 ProcessGroupPolicyForZoneMap
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        3000 .pdata
+       1D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       44000 .text

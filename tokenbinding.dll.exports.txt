@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\tokenbinding.dll
+
+File Type: DLL
+
+  Section contains the following exports for TOKENBINDING.dll
+
+    00000000 characteristics
+    DA15DFA6 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000031B0 TokenBindingDeleteAllBindings
+          2    1 00003210 TokenBindingDeleteBinding
+          3    2 00003270 TokenBindingGenerateBinding
+          4    3 00003700 TokenBindingGenerateID
+          5    4 00003880 TokenBindingGenerateIDForUri
+          6    5 00003A20 TokenBindingGenerateMessage
+          7    6 000013D0 TokenBindingGetHighestSupportedVersion
+          8    7 00001010 TokenBindingGetKeyTypesClient
+          9    8 000054B0 TokenBindingGetKeyTypesServer
+         10    9 00005530 TokenBindingVerifyMessage
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_OneDriveBackup.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_OneDriveBackup.dll
+
+    00000000 characteristics
+     208C30E time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004650 DllCanUnloadNow
+          2    1 00004550 DllGetClassObject
+          3    2 000046D0 GetSetting
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

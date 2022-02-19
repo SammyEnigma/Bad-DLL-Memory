@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\pla.dll
+
+File Type: DLL
+
+  Section contains the following exports for PLA.dll
+
+    00000000 characteristics
+    B08EEBC4 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00006E50 DllCanUnloadNow
+          4    1 00006E70 DllGetClassObject
+          5    2 00001240 DllRegisterServer
+          6    3 00001240 DllUnregisterServer
+          7    4 00120970 PlaDeleteReport
+          8    5 000FDD50 PlaExpandTaskArguments
+          9    6 00120AC0 PlaExtractCabinet
+         10    7 000D9AA0 PlaGetLegacyAlertActionsFlagsFromString
+         11    8 000D9F10 PlaGetLegacyAlertActionsStringFromFlags
+         12    9 000381F0 PlaGetServerCapabilities
+         13    A 000FEFC0 PlaHost
+         14    B 00007110 PlaServer
+         15    C 0000AEB0 PlaUpgrade
+          1    D 00007AF0 ServiceMain
+          2    E 00007F70 SvchostPushServiceGlobals
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        5000 .pdata
+       27000 .rdata
+        2000 .reloc
+        E000 .rsrc
+      131000 .text

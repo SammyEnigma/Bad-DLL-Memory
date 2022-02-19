@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\wbem\NetAdapterCim.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetAdapterCim.DLL
+
+    00000000 characteristics
+    2201B72A time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004390 DllCanUnloadNow
+          2    1 000043D0 DllGetClassObject
+          3    2 00004080 DllMain
+          4    3 000042F0 DllRegisterServer
+          5    4 00004340 DllUnregisterServer
+          6    5 000040E0 GetProviderClassID
+          7    6 00004910 MI_Main
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        3000 .pdata
+       3E000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       58000 .text

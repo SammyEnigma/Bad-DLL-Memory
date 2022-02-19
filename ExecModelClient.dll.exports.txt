@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\ExecModelClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for ExecModelClient.dll
+
+    00000000 characteristics
+    1972D6CC time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000DAC0 CreateForegroundTaskManager
+          3    1 000388B0 CreateModernVoipPolicy
+          4    2 0000BAD0 DllCanUnloadNow
+          5    3 0000B980 DllGetActivationFactory
+          6    4 0000AC50 DllGetClassObject
+          2    5 000201B0 TestHook_CancelShutdown
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       19000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       3C000 .text

@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\tbs.dll
+
+File Type: DLL
+
+  Section contains the following exports for tbs.dll
+
+    00000000 characteristics
+     669A36E time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0000ED90 GetDeviceID
+          4    1 000048C0 GetDeviceIDString
+          5    2 00004B30 GetDeviceIDWithTimeout
+          6    3 00002AA0 Tbsi_Context_Create
+          1    4 0000E680 Tbsi_Create_Attestation_From_Log
+          7    5 0000D5C0 Tbsi_Create_Windows_Key
+          8    6 0000EFA0 Tbsi_FilterLog
+          9    7 00002D20 Tbsi_GetDeviceInfo
+         10    8 0000D670 Tbsi_Get_OwnerAuth
+         11    9 0000DE10 Tbsi_Get_TCG_Log
+         12    A 000011A0 Tbsi_Get_TCG_Log_Ex
+          2    B 0000BFE0 Tbsi_Get_TCG_Logs
+         13    C 00001940 Tbsi_Physical_Presence_Command
+         14    D 0000DE50 Tbsi_Revoke_Attestation
+         15    E 0000F260 Tbsi_ShaHash
+         16    F 0000DEE0 Tbsip_Cancel_Commands
+         17   10 00005C70 Tbsip_Context_Close
+         18   11 00001AB0 Tbsip_Submit_Command
+         19   12 00001160 Tbsip_Submit_Command_NonBlocking
+         20   13 0000DF20 Tbsip_TestInterruptInformation
+         21   14 0000DFE0 Tbsip_TestMorBit
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MicrosoftAccountExtension.dll
+
+File Type: DLL
+
+  Section contains the following exports for ExtensionServer.dll
+
+    00000000 characteristics
+    A75F6A9C time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000058B0 DllCanUnloadNow
+          2    1 000055A0 DllGetActivationFactory
+          3    2 00005780 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       21000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       44000 .text

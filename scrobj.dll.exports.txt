@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\scrobj.dll
+
+File Type: DLL
+
+  Section contains the following exports for SCROBJ.dll
+
+    00000000 characteristics
+    6F14354C time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00001B10 DllCanUnloadNow
+          4    1 00001E80 DllGetClassObject
+          5    2 000077D0 DllInstall
+          6    3 00007820 DllRegisterServer
+          7    4 000078F0 DllRegisterServerEx
+          8    5 000078F0 DllRegisterServerExA
+          9    6 00007940 DllRegisterServerExW
+         10    7 00007990 DllUnregisterServer
+         11    8 00007AA0 DllUnregisterServerEx
+          1    9 00007490 GenerateTypeLib
+          2    A 00007560 GenerateTypeLibW
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       25000 .text

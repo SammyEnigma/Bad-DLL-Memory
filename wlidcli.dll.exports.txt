@@ -1,0 +1,122 @@
+
+Dump of file C:\Windows\System32\wlidcli.dll
+
+File Type: DLL
+
+  Section contains the following exports for wlidcli.dll
+
+    00000000 characteristics
+    9B8AC1C3 time date stamp
+        0.00 version
+           1 ordinal base
+         123 number of functions
+          96 number of names
+
+    ordinal hint RVA      name
+
+        114    0 00036410 AddUserToSsoGroup
+         84    1 00035DC0 AssociateDeviceToUser
+         13    2 00028070 AuthIdentityToService
+         33    3 00029640 AuthIdentityToServiceEx
+         38    4 00028850 CancelPendingRequest
+         19    5 00026E30 CloseEnumIdentitiesHandle
+          8    6 00020330 CloseIdentityHandle
+          4    7 00020190 CreateIdentityHandle
+        113    8 00036F00 CreateIdentityHandleEx
+         68    9 00030740 CreateLinkedIdentityHandle
+        101    A 0002EB90 DeProvisionDeviceId
+         54    B 0002CF10 DecryptWithSessionKey
+        119    C 000376E0 DecryptWithSessionKeyEx
+         85    D 00036140 DisassociateDeviceFromUser
+          9    E 00039C60 DllCanUnloadNow
+         10    F 00039CB0 DllGetClassObject
+         11   10 0000D060 DllInstall
+         12   11 0000D060 DllRegisterServer
+         14   12 0000D060 DllUnregisterServer
+         53   13 0002CA00 EncryptWithSessionKey
+        118   14 000373B0 EncryptWithSessionKeyEx
+         17   15 000266F0 EnumIdentitiesWithCachedCredentials
+         62   16 0002D8A0 EnumerateCertificates
+         70   17 0002F440 EnumerateDeviceID
+         86   18 0002FDA0 EnumerateUserAssociatedDevices
+         94   19 00032270 FlushIDCRLTraceBuffer
+         63   1A 0002DB60 GenerateCertToken
+         67   1B 0002F140 GenerateDeviceToken
+         72   1C 00029660 GetAssertion
+         20   1D 00025D00 GetAuthState
+         34   1E 00028E30 GetAuthStateEx
+         96   1F 00026080 GetAuthenticationStatus
+         35   20 000296B0 GetCertificate
+         97   21 0002C320 GetConfigDWORDValue
+        104   22 00031790 GetDefaultNoUISSOUser
+         82   23 00031620 GetDefaultUserForTarget
+         64   24 0002ECE0 GetDeviceId
+         99   25 0002E600 GetDeviceIdEx
+         77   26 00032150 GetDeviceShortLivedToken
+        120   27 00037A10 GetErrorMessage
+         60   28 0002A270 GetExtendedError
+         48   29 0002A140 GetExtendedProperty
+         78   2A 00030FB0 GetHIPChallenge
+          6   2B 00025060 GetIdentityProperty
+         41   2C 00025680 GetIdentityPropertyByName
+        112   2D 00032280 GetRealmInfo
+         76   2E 00028160 GetResponseForHttpChallenge
+         49   2F 0002C190 GetServiceConfig
+         56   30 0002D680 GetUserExtendedProperty
+        115   31 00036710 GetUsersFromSsoGroup
+         30   32 00021350 GetWebAuthUrl
+         52   33 00021370 GetWebAuthUrlEx
+         23   34 00026B30 HasPersistedCredential
+        123   35 0000CEE0 IDCRL_GetLatestProtectionKey
+        122   36 0000CEE0 IDCRL_GetSpecifiedProtectionKey
+          1   37 0001FE90 Initialize
+         61   38 0001F4D0 InitializeApp
+         29   39 0001FD60 InitializeEx
+         93   3A 00032250 InitializeIDCRLTraceBuffer
+         69   3B 0002F380 IsDeviceIDAdmin
+         95   3C 00029F50 IsMappedError
+         21   3D 00021330 LogonIdentity
+         31   3E 00028A10 LogonIdentityEx
+        108   3F 00024F00 LogonIdentityExSSO
+         75   40 00024E20 LogonIdentityExWithUI
+         18   41 00026960 NextIdentity
+         74   42 00022510 OpenAuthenticatedBrowser
+          3   43 00028790 PassportFreeMemory
+         15   44 00026EF0 PersistCredential
+         98   45 0002E4B0 ProvisionDeviceId
+         58   46 0000CEE0 RemoveChangeNotificationCallback
+         16   47 00027300 RemovePersistedCredential
+        116   48 00036C00 RemoveUserFromSsoGroup
+        100   49 0002EA40 RenewDeviceId
+        117   4A 0000CEE0 SendOneTimeCode
+        121   4B 00037C20 SendWatsonReport
+         57   4C 0000CEE0 SetChangeNotificationCallback
+          5   4D 000203F0 SetCredential
+         81   4E 00031450 SetDefaultUserForTarget
+         65   4F 0000D060 SetDeviceConsent
+         47   50 0002A030 SetExtendedProperty
+         79   51 000311E0 SetHIPSolution
+         51   52 0002C410 SetIdcrlOptions
+         24   53 00021060 SetIdentityCallback
+          7   54 000259E0 SetIdentityProperty
+         55   55 0002D420 SetUserExtendedProperty
+        110   56 000372D0 StartTracing
+        111   57 00037310 StopTracing
+         83   58 000439A0 UICollectCredential
+         92   59 00043FD0 UIEndWaitDialog
+         91   5A 00043ED0 UIShowWaitDialog
+        102   5B 00044090 UnPackErrorBlob
+          2   5C 0001FEB0 Uninitialize
+         87   5D 000301C0 UpdateUserAssociatedDeviceProperties
+         73   5E 00029CC0 VerifyAssertion
+         40   5F 00029CD0 VerifyCertificate
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       36000 .rdata
+        1000 .reloc
+        A000 .rsrc
+       6A000 .text

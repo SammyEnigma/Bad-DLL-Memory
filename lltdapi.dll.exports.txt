@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\lltdapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for LLTDAPI.DLL
+
+    00000000 characteristics
+    DFDE52D9 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001160 DllCanUnloadNow
+          2    1 00001180 DllGetClassObject
+          3    2 000024B0 LLTDCreateEnumerator
+          4    3 00003460 LLTDCreateMapFromXML
+          5    4 00001FD0 LLTDCreateMapper
+          6    5 000049E0 LLTDCreateNode
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

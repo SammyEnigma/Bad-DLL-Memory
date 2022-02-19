@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_Notifications.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_Notifications.dll
+
+    00000000 characteristics
+    77A53ADD time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009510 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       1C000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       56000 .text

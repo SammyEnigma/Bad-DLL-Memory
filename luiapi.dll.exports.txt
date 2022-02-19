@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\luiapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for luiapi.dll
+
+    00000000 characteristics
+    F14DB4AB time date stamp
+        0.00 version
+           1 ordinal base
+          23 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001D40 LuiAddProfile
+          2    1 00001E90 LuiCancelOperation
+          3    2 00001880 LuiCloseHandle
+          4    3 00001F70 LuiDeleteProfile
+          5    4 00002060 LuiDisableProfile
+          6    5 00002150 LuiDiscoverProfiles
+          7    6 00002260 LuiEnableProfile
+          8    7 00002350 LuiInstallProfile
+          9    8 00001740 LuiOpenHandle
+         10    9 00002470 LuiProcessActivationCode
+         11    A 00001C70 LuiRegisterForAllEnterpriseProfileNotifications
+         12    B 00001AD0 LuiRegisterForAllProfileNotifications
+         13    C 00001BA0 LuiRegisterForEnterpriseEsimNotifications
+         14    D 00001A00 LuiRegisterForEsimNotifications
+         15    E 00001950 LuiRegisterForLpaNotifications
+         16    F 00002570 LuiReleaseProvisioningProfile
+         17   10 00002640 LuiRequestProvisioningProfile
+         18   11 00002720 LuiSetDefaultSmdpAddress
+         19   12 00002810 LuiSetEsimPolicy
+         20   13 00002910 LuiSetProfileNickname
+         21   14 00002A20 LuiSetUserAuthenticationMode
+         22   15 00002AF0 LuiVerifyClientToken
+         23   16 00002BA0 LuiWipeEsim
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\bcmihvsrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for bcmihvsrv.dll
+
+    00000000 characteristics
+    5613F7E6 time date stamp Tue Oct  6 18:33:42 2015
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001BE0 Dot11ExtIhvGetVersionInfo
+          2    1 00001C00 Dot11ExtIhvInitService
+          3    2 000103A0 GetKeyStorageInterface
+          4    3 00013020 GetSecretAgreementInterface
+          5    4 00012F80 GetSignatureInterface
+
+  Summary
+
+       11000 .data
+       17000 .rdata
+        6000 .reloc
+      365000 .rsrc
+       46000 .text

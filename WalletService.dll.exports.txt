@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\WalletService.dll
+
+File Type: DLL
+
+  Section contains the following exports for WalletService.dll
+
+    00000000 characteristics
+    ACABE18A time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008CB0 DefaultDisplayNameCallback
+          2    1 000031E0 ServiceMain
+          3    2 00003250 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       25000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       42000 .text

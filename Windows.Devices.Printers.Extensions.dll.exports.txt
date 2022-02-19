@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Printers.Extensions.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Printers.Extensions.dll
+
+    00000000 characteristics
+    A4D97199 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001970 DllCanUnloadNow
+          2    1 000016A0 DllGetActivationFactory
+          3    2 00001880 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

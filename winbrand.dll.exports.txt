@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\winbrand.dll
+
+File Type: DLL
+
+  Section contains the following exports for WINBRAND.dll
+
+    00000000 characteristics
+    112F521C time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014F90 BrandingFormatString
+          2    1 0001AA40 BrandingFormatStringForEdition
+          3    2 0001AD30 BrandingLoadBitmap
+          4    3 0001AD60 BrandingLoadCursor
+          5    4 0001AD90 BrandingLoadIcon
+          6    5 0001ADC0 BrandingLoadImage
+          7    6 000057B0 BrandingLoadNeutralStringForEdition
+          8    7 00004140 BrandingLoadString
+          9    8 000042B0 BrandingLoadStringForEdition
+         10    9 00014DE0 EulaFreeBuffer
+         11    A 00021250 GetEULAFile
+         12    B 00021370 GetEULAInCurrentUILanguage
+         13    C 00005500 GetHinstanceByNameSpace
+         14    D 000213E0 GetInstalledEULAPath
+         15    E 00021690 InstallEULA
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

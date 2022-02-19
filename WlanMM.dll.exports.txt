@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WlanMM.dll
+
+File Type: DLL
+
+  Section contains the following exports for WlanMM.dll
+
+    00000000 characteristics
+    A2C70585 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C810 DllCanUnloadNow
+          2    1 0000C850 DllGetClassObject
+          3    2 0000C870 DllRegisterServer
+          4    3 0000C8D0 DllUnregisterServer
+          5    4 0000CA40 StartDiagnosticsW
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       16000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       47000 .text

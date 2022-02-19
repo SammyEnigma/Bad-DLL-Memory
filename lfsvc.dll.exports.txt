@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\lfsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for lfsvc.dll
+
+    00000000 characteristics
+    9E01B9EC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00007660 DllCanUnloadNow
+          4    1 00007660 DllGetClassObject
+          1    2 00001760 ServiceMain
+          2    3 00001930 SvchostPushServiceGlobals
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

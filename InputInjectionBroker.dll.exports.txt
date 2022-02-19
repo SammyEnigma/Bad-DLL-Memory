@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\InputInjectionBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for InputInjectionBroker.dll
+
+    00000000 characteristics
+    8830D48D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00007530 DllCanUnloadNow
+          1    1 00007350 DllGetActivationFactory
+          3    2 000075A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       11000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        E000 .text

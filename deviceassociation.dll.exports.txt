@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\deviceassociation.dll
+
+File Type: DLL
+
+  Section contains the following exports for deviceassociation.dll
+
+    00000000 characteristics
+    E8780798 time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003FF0 DafAepExport
+          2    1 00003EF0 DafAepImport
+          3    2 000038D0 DafChallengeDevicePresence
+          4    3 000031A0 DafCloseAssociationContext
+          5    4 00003A20 DafCloseChallengeContext
+          6    5 000043F0 DafCloseImportExportContext
+          7    6 00004E70 DafCloseInboundContext
+          8    7 000024F0 DafCreateAssociationContext
+          9    8 00002520 DafCreateAssociationContextForApp
+         10    9 00002640 DafCreateAssociationContextFromOobBlob
+         11    A 00003240 DafCreateChallengeContext
+         12    B 00003320 DafCreateDeviceChallengeContext
+         13    C 00003700 DafCreateDeviceInterfaceChallengeContext
+         14    D 00003AC0 DafCreateImportExportContext
+         15    E 000047D0 DafCreateInboundContext
+         16    F 000050B0 DafGetInboundAssociationResultForAppActivation
+         17   10 00001870 DafMemFree
+         18   11 00004F10 DafRegisterForInboundAssociationsAppActivation
+         19   12 00002940 DafSelectCeremony
+         20   13 000040F0 DafStartAepExport
+         21   14 00004270 DafStartAepImport
+         22   15 00002EE0 DafStartDeviceStatusNotification
+         23   16 000027B0 DafStartEnumCeremonies
+         24   17 00002D80 DafStartFinalize
+         25   18 00004C60 DafStartListenForInboundAssociations
+         26   19 00002A80 DafStartReadCeremonyData
+         27   1A 00003040 DafStartRemoveAssociation
+         28   1B 00002BF0 DafStartWriteCeremonyData
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        6000 .text

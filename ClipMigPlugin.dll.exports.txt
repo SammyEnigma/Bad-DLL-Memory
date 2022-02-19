@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\migration\ClipMigPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for ClipMigPlugin.dll
+
+    00000000 characteristics
+    AF6DA01E time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002B70 DllCanUnloadNow
+          2    1 00002860 DllGetClassObject
+          3    2 00002BB0 DllMain
+          4    3 000029A0 DllRegisterServer
+          5    4 00002AD0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2C000 .text

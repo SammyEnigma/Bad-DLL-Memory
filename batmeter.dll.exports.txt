@@ -1,0 +1,55 @@
+
+Dump of file C:\Windows\System32\batmeter.dll
+
+File Type: DLL
+
+  Section contains the following exports for BatMeter.dll
+
+    00000000 characteristics
+    5F17E325 time date stamp
+        0.00 version
+         999 ordinal base
+          29 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+       1000    0 00003620 BatMeterIconAnimationReset
+       1001    1 00003760 BatMeterIconThemeReset
+       1002    2 000037D0 BatMeterOnDeviceChange
+       1003    3 000038A0 CleanupBatteryData
+       1004    4 00003950 CreateBatteryData
+       1005    5 00003C60 GetBatMeterIconAnimationState
+       1006    6 00003E30 GetBatMeterIconAnimationTimeDelay
+       1007    7 00003E80 GetBatMeterIconAnimationUpdate
+       1008    8 00004090 GetBatteryCapacityInfo
+       1009    9 00005B00 GetBatteryDetails
+       1010    A 00004230 GetBatteryImmersiveIcon
+       1011    B 000042E0 GetBatteryInfo
+       1012    C 000043B0 GetBatteryStatusText
+       1013    D 00004620 GetBatteryWorkingState
+       1014    E 00004640 IsBatteryBad
+       1015    F 00004650 IsBatteryHealthWarningEnabled
+       1016   10 00004660 IsBatteryLevelCritical
+       1017   11 00004680 IsBatteryLevelLow
+       1018   12 000046A0 IsBatteryLevelReserve
+       1019   13 00001020 PowerCapabilities
+       1020   14 00004AA0 QueryBatteryData
+       1021   15 00004650 SetBatteryHealthWarningState
+       1022   16 00004D50 SetBatteryLevel
+       1023   17 00004DD0 SetBatteryWorkingState
+       1024   18 000062E0 SubscribeBatteryUpdateNotification
+       1025   19 00006350 UnsubscribeBatteryUpdateNotification
+       1026   1A 00004DF0 UpdateBatteryData
+       1027   1B 00004E30 UpdateBatteryDataAsync
+        999      00003640 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

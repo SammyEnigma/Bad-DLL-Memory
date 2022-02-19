@@ -1,0 +1,60 @@
+
+Dump of file C:\Windows\System32\WpPortingLibrary.dll
+
+File Type: DLL
+
+  Section contains the following exports for WpPortingLibrary.dll
+
+    00000000 characteristics
+    A30E82DD time date stamp
+        0.00 version
+           1 ordinal base
+          35 number of functions
+          35 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000020D0 CmAcquireConnection
+          2    1 000020E0 CmApiDeinit
+          3    2 000020F0 CmApiInit
+          4    3 000020D0 CmCloseSession
+          5    4 000020D0 CmCreateSession
+          6    5 000020D0 CmGetFirstCandidateConnection
+          7    6 000020D0 CmReleaseConnection
+          8    7 000020D0 CmSetDataActivityState
+          9    8 000026D0 GetAppStorageFolder
+         10    9 000026D0 GetDeviceUniqueID
+         11    A 00002660 GetPhoneBuildInfo
+         12    B 000026D0 GetStorageDeviceInfo
+         13    C 000020D0 Is_AppXExecutionServiceReady_Available
+         14    D 000020D0 Is_BatterySaverState_Available
+         15    E 000020D0 Is_CmNet_Available
+         16    F 000020D0 Is_GrantWPNoNetworkingRegistryAccess_Hack_Available
+         17   10 000020D0 Is_OsBeginPostBootWorkState_Available
+         18   11 000020D0 Is_ProvisioningCompleteState_Available
+         19   12 000020D0 Is_ShellReadyInternalState_Available
+         20   13 000020D0 Is_ShellStartReady_Available
+         21   14 000020D0 Is_TaskScheduler_Available
+         22   15 000020D0 Is_VoIPActiveCallState_Available
+         23   16 000022A0 PackageFullNameFromProductIdAndVersion
+         24   17 000024E0 PackageFullNameFromProductInfo
+         25   18 00001010 ProductInfoFromPackageFullName
+         26   19 000026A0 QueryPhoneInformation
+         27   1A 000026D0 TaskSchedulerCreateSchedule
+         28   1B 000026D0 TaskSchedulerDeinit
+         29   1C 000026D0 TaskSchedulerDeleteSchedule
+         30   1D 000026D0 TaskSchedulerEnableSchedule
+         31   1E 000020E0 TaskSchedulerFreeSchedule
+         32   1F 000020E0 TaskSchedulerFreeScheduleStatistics
+         33   20 000026D0 TaskSchedulerGetPublishStateName
+         34   21 000026D0 TaskSchedulerGetSchedule
+         35   22 000026D0 TaskSchedulerInit
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

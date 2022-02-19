@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\PeopleBand.dll
+
+File Type: DLL
+
+  Section contains the following exports for PeopleBand.dll
+
+    00000000 characteristics
+    C29B8DA1 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001BCA0 DllCanUnloadNow
+          2    1 0001BD00 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       10000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       24000 .text

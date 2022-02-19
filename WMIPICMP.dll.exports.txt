@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\WMIPICMP.dll
+
+File Type: DLL
+
+  Section contains the following exports for WMIPICMP.dll
+
+    00000000 characteristics
+    4083C68B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001250 DllCanUnloadNow
+          2    1 00001130 DllGetClassObject
+          3    2 00001320 DllRegisterServer
+          4    3 000013C0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

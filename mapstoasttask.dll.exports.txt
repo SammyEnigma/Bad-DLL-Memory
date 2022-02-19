@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\mapstoasttask.dll
+
+File Type: DLL
+
+  Section contains the following exports for MapsToastTask.dll
+
+    00000000 characteristics
+    C41E6E3C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000029C0 DllCanUnloadNow
+          2    1 000029E0 DllGetClassObject
+          3    2 000013B0 DllRegisterServer
+          4    3 000013B0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

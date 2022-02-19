@@ -1,0 +1,88 @@
+
+Dump of file C:\Windows\System32\mprddm.dll
+
+File Type: DLL
+
+  Section contains the following exports for MPRDDM.dll
+
+    00000000 characteristics
+    EBAACDDB time date stamp
+        0.00 version
+           1 ordinal base
+          62 number of functions
+          62 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005330 DDMAdminConnectionClearStats
+          2    1 00004CE0 DDMAdminConnectionEnum
+          3    2 00004BB0 DDMAdminConnectionEnumEx
+          4    3 00005000 DDMAdminConnectionGetInfo
+          5    4 00004D60 DDMAdminConnectionGetInfoEx
+          6    5 000021B0 DDMAdminInterfaceConnect
+          7    6 00002040 DDMAdminInterfaceDisconnect
+          8    7 00006070 DDMAdminPortClearStats
+          9    8 00006140 DDMAdminPortDisconnect
+         10    9 00005C00 DDMAdminPortEnum
+         11    A 00005F40 DDMAdminPortGetInfo
+         12    B 00006130 DDMAdminPortReset
+         13    C 00006350 DDMAdminRemoveQuarantine
+         14    D 00004C60 DDMAdminRoutingDomainConnectionEnumEx
+         15    E 00004640 DDMAdminServerGetInfo
+         16    F 00003A50 DDMAdminServerGetInfoEx
+         17   10 00004880 DDMAdminServerSetInfo
+         18   11 000028E0 DDMAdminServerSetInfoEx
+         19   12 00005600 DDMAdminUpdateConnection
+         20   13 000065C0 DDMAdminUpdateQoSPolicies
+         21   14 0001E7B0 DDMConnectInterface
+         22   15 0001EBE0 DDMDisconnectInterface
+         23   16 00026030 DDMGetIdentityAttributes
+         24   17 000228A0 DDMHandleRoutingDomainConfigChange
+         25   18 00006450 DDMPlumbRDIkev2TunnelPolicy
+         26   19 00024F30 DDMPostCleanup
+         27   1A 00006200 DDMRegisterConnectionNotification
+         28   1B 00006340 DDMSendUserMessage
+         29   1C 0001FF40 DDMServiceInitialize
+         30   1D 00006A90 DDMServicePostListens
+         31   1E 0000A650 DDMTransportCreate
+         32   1F 000158E0 DdmDeleteIkev2PskPolicy
+         33   20 000168A0 DdmGetKey
+         34   21 000155F0 DdmPlumbIkev2PskPolicy
+         35   22 00016960 DdmSetKey
+         36   23 00007910 DdmUpdateGlobalPhoneBookContext
+         37   24 00008580 IfObjectConnectionChangeNotification
+         38   25 000078F0 IfObjectFreePhonebookContext
+         39   26 00003690 IfObjectGetStatistics
+         40   27 00007970 IfObjectLoadDestinationInfo
+         41   28 00008270 IfObjectLoadPhonebookInfo
+         42   29 00008910 IfObjectSetDialoutHoursRestriction
+         43   2A 00008030 IfObjectUpdatePbkExtraInfo
+         44   2B 00007CF0 IfObjectUpdatePbkInfo
+         45   2C 000242E0 MarkInterfaceAsReachable
+         46   2D 0004F850 RasAcctConfigChangeNotification
+         47   2E 000506C0 RasAcctProviderFreeAttributes
+         48   2F 0004F680 RasAcctProviderInitialize
+         49   30 0004F8A0 RasAcctProviderInterimAccounting
+         50   31 0004F780 RasAcctProviderStartAccounting
+         51   32 0004F7E0 RasAcctProviderStopAccounting
+         52   33 0004F720 RasAcctProviderTerminate
+         53   34 0004F910 RasAuthConfigChangeNotification
+         54   35 00050650 RasAuthProviderAuthenticateUser
+         55   36 000506C0 RasAuthProviderFreeAttributes
+         56   37 0004F3D0 RasAuthProviderInitialize
+         57   38 0004F570 RasAuthProviderTerminate
+         58   39 0000E180 RasConnectionInitiate
+         59   3A 00023E80 ReConnectInterface
+         60   3B 000243B0 ReConnectPersistentInterface
+         61   3C 00024B10 TimerQInsert
+         62   3D 00024C40 TimerQRemove
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        4000 .pdata
+       3F000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       9C000 .text

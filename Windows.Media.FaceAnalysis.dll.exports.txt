@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Media.FaceAnalysis.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.FaceAnalysis.dll
+
+    00000000 characteristics
+    50AF0B5E time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00054000 DllCanUnloadNow
+          2    1 00054040 DllGetActivationFactory
+          3    2 00054080 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+       99000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       B9000 .text

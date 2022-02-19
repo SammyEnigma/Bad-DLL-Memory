@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wwanmm.dll
+
+File Type: DLL
+
+  Section contains the following exports for WWanMM.dll
+
+    00000000 characteristics
+     D4931E9 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002280 DllCanUnloadNow
+          2    1 000022C0 DllGetClassObject
+          3    2 00002400 StartDiagnosticsW
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       11000 .rdata
+        1000 .reloc
+       45000 .rsrc
+       2F000 .text

@@ -1,0 +1,10 @@
+
+Dump of file C:\Windows\System32\Microsoft.Uev.ManagedEventLogging.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .reloc
+       3C000 .rsrc
+        C000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_Cortana.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_Cortana.dll
+
+    00000000 characteristics
+    8394EE63 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004F30 DllCanUnloadNow
+          2    1 00004E30 DllGetClassObject
+          3    2 00004FB0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       14000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       37000 .text

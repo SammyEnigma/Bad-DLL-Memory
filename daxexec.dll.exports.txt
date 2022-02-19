@@ -1,0 +1,80 @@
+
+Dump of file C:\Windows\System32\daxexec.dll
+
+File Type: DLL
+
+  Section contains the following exports for daxexec.dll
+
+    00000000 characteristics
+    EBD6CEBF time date stamp
+        0.00 version
+           1 ordinal base
+          51 number of functions
+          51 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009FD0 AddLookaside
+          2    1 0000D370 AddProcessToHeliumContainer
+          3    2 0000CF30 CheckAppXPackageBreakaway
+          4    3 0000D260 CheckApplicationInCurrentPackage
+          5    4 00006FD0 CloseAppExecutionAlias
+          6    5 0004EEC0 CloseJitvSilo
+          7    6 0000CF80 CompleteAppExecutionAliasProcessCreation
+          8    7 0000EAD0 CreateAppExecutionAlias
+          9    8 0000F3B0 CreateDesktopAppXActivationInfo
+         10    9 0001A550 CreateDesktopAppXLocalCacheStructure
+         11    A 0001A570 CreateDesktopAppXTombstoneFile
+         12    B 0004EDC0 CreateJitvSilo
+         13    C 0004F370 CurrentThreadIsInVirtualizationContext
+         14    D 00023320 DetokenizeDesktopAppXOfflineRegistry
+         15    E 00051E90 DisableDesktopAppXDebuggingForPackage
+         16    F 00007920 DllCanUnloadNow
+         17   10 00007740 DllGetActivationFactory
+         18   11 00007610 DllGetClassObject
+         19   12 00028680 DoesPackageHaveElevationCapability
+         20   13 000286A0 DoesPackageHaveUIAccessCapability
+         21   14 00050E70 DoesPluginSupportCentennial
+         22   15 00051CF0 EnableDesktopAppXDebuggingForPackage
+         23   16 0000CF90 EnsureDesktopAppXPackageShutdown
+         24   17 0004F190 EnterPackageVirtualizationContext
+         25   18 00006FD0 FreeAppExecutionAliasInfo
+         26   19 00006FD0 FreeAppExecutionAliasInfoWithLicenseRundown
+         27   1A 0000F4A0 FreeDesktopAppXActivationInfo
+         28   1B 0000CEC0 FreeDesktopAppXLaunchContext
+         29   1C 0000EAD0 GetAppExecutionAliasApplicationUserModelId
+         30   1D 0000EAD0 GetAppExecutionAliasExecutable
+         31   1E 0000EAD0 GetAppExecutionAliasPackageFamilyName
+         32   1F 0000EAD0 GetAppExecutionAliasPackageFullName
+         33   20 000281D0 GetApplicationExecutableRelativePath
+         34   21 000299F0 GetDesktopAppXComRootHandle
+         35   22 0004F290 LeavePackageVirtualizationContext
+         36   23 0000EAD0 LoadAppExecutionAliasInfo
+         37   24 0001AA60 MigrateWritablePackageRootData
+         38   25 0000EAD0 OpenAppExecutionAlias
+         39   26 0000EAD0 OpenAppExecutionAliasForUser
+         40   27 0000D220 PerformAppxLicenseRundown
+         41   28 0000EAD0 PersistAppExecutionAliasToFile
+         42   29 0000C960 PostCreateProcessDesktopAppXActivation
+         43   2A 0000BFD0 PrepareDesktopAppXActivation
+         44   2B 00027300 RegisterDesktopAppXPackageFamily
+         45   2C 000275D0 RegisterDesktopAppXPackageFamilyIfNecessary
+         46   2D 0001A4E0 RemoveDesktopAppXMetadataForFolder
+         47   2E 0000A000 RemoveLookaside
+         48   2F 0001A320 SetDesktopAppXMetadataForFolder
+         49   30 0001A290 SetDesktopAppXMetadataForPackage
+         50   31 00050380 TryActivateDesktopAppXApplication
+         51   32 0000D390 VerifyFileIsTrustedAndInPackage
+
+  Summary
+
+        2000 .data
+        3000 .detourc
+        1000 .detourd
+        1000 .didat
+        6000 .pdata
+       22000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       7A000 .text
+        3000 PAGE

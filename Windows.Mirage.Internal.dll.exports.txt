@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Windows.Mirage.Internal.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Mirage.Internal.dll
+
+    00000000 characteristics
+    7562FA59 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009A90 DllCanUnloadNow
+          2    1 00009340 DllGetActivationFactory
+          3    2 00009340 DllGetActivationFactoryMirageInternal
+          4    3 00009620 DllGetClassObject
+          5    4 00009710 InjectDependencyInternal
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        8000 .pdata
+       2D000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       9B000 .text

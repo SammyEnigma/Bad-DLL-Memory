@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\NetSetupApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetSetupApi.dll
+
+    00000000 characteristics
+    470B721D time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E790 NetSetupClose
+          2    1 0000E7D0 NetSetupCloseObjectQuery
+          3    2 0000E7E0 NetSetupCommit
+          4    3 0000E840 NetSetupCreateObject
+          5    4 0000E8F0 NetSetupCreateObjectQuery
+          6    5 0000E990 NetSetupDeleteObject
+          7    6 0000EA20 NetSetupFreeObjectProperties
+          8    7 0000EA80 NetSetupFreeObjects
+          9    8 0000EAE0 NetSetupFreeSerializedFilter
+         10    9 0000EB10 NetSetupGetObjectProperties
+         11    A 0000EBE0 NetSetupGetObjectPropertyKeys
+         12    B 0000ECA0 NetSetupGetObjects
+         13    C 0000ED90 NetSetupInitialize
+         14    D 0000EF00 NetSetupOpenAdvancedPropertyKey
+         15    E 0000EF60 NetSetupRollback
+         16    F 0000EFC0 NetSetupSerializeFilter
+         17   10 0000F030 NetSetupSetObjectProperties
+         18   11 0000F0F0 NetSetupSynchronizeDevices
+         19   12 0000F130 NetSetupValidateTransaction
+         20   13 0000F5E0 OnMachineUILanguageInit
+         21   14 0000F6C0 OnMachineUILanguageSwitch
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

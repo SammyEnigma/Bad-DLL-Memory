@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\pspluginwkr.dll
+
+File Type: DLL
+
+  Section contains the following exports for pspluginwkr.dll
+
+    00000000 characteristics
+    4A5BA922 time date stamp Mon Jul 13 23:37:38 2009
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002A1B0 InitPlugin
+          2    1 0002A230 WSManPluginCommand
+          3    2 0002A290 WSManPluginReceive
+          4    3 0002A250 WSManPluginReleaseCommandContext
+          5    4 0002A1F0 WSManPluginReleaseShellContext
+          6    5 0002A270 WSManPluginSend
+          7    6 0002A1D0 WSManPluginShell
+          8    7 0002A2B0 WSManPluginSignal
+
+  Summary
+
+        4000 .data
+        1000 .nep
+        1000 .pdata
+        1000 .reloc
+        1000 .rsrc
+       29000 .text

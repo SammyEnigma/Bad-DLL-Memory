@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\dhcpcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for dhcpcore.DLL
+
+    00000000 characteristics
+    C19B1C76 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005847C DhcpGlobalIsShuttingDown
+          2    1 000582D0 DhcpGlobalServiceSyncEvent
+          3    2 000582C8 DhcpGlobalTerminateEvent
+          4    3 00015610 ServiceMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+        9000 .rsrc
+       44000 .text

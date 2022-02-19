@@ -1,0 +1,163 @@
+
+Dump of file C:\Windows\System32\imm32.dll
+
+File Type: DLL
+
+  Section contains the following exports for IMM32.dll
+
+    00000000 characteristics
+    3A0E9944 time date stamp
+        0.00 version
+           1 ordinal base
+         137 number of functions
+         137 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001E6F0 CtfImmAppCompatEnableIMEonProtectedCode
+          2    1 00005400 CtfImmCoUninitialize
+          3    2 000049E0 CtfImmDispatchDefImeMessage
+          4    3 0001E710 CtfImmEnterCoInitCountSkipMode
+          5    4 00011560 CtfImmGenerateMessage
+          6    5 0001E740 CtfImmGetCompatibleKeyboardLayout
+          7    6 0001E760 CtfImmGetGlobalIMEStatus
+          8    7 0001E780 CtfImmGetGuidAtom
+          9    8 0001E840 CtfImmGetIMEFileName
+         10    9 00003BB0 CtfImmGetTMAEFlags
+         11    A 0001E8F0 CtfImmHideToolbarWnd
+         12    B 0001E980 CtfImmIsCiceroEnabled
+         13    C 00005620 CtfImmIsCiceroStartedInThread
+         14    D 0001E9A0 CtfImmIsComStartedInThread
+         15    E 0001E9C0 CtfImmIsGuidMapEnable
+         16    F 000181C0 CtfImmIsTextFrameServiceDisabled
+         17   10 00001CC0 CtfImmLastEnabledWndDestroy
+         18   11 0001EA50 CtfImmLeaveCoInitCountSkipMode
+         19   12 00005590 CtfImmNotify
+         20   13 0001EA80 CtfImmRestoreToolbarWnd
+         21   14 00005940 CtfImmSetAppCompatFlags
+         22   15 00005850 CtfImmSetCiceroStartInThread
+         23   16 00005990 CtfImmSetDefaultRemoteKeyboardLayout
+         24   17 000039D0 CtfImmTIMActivate
+         25   18 00011730 GetKeyboardLayoutCP
+         26   19 0000E780 ImmActivateLayout
+         27   1A 00009BE0 ImmAssociateContext
+         28   1B 00001310 ImmAssociateContextEx
+         29   1C 0001D490 ImmCallImeConsoleIME
+         30   1D 0000E970 ImmConfigureIMEA
+         31   1E 0000EC10 ImmConfigureIMEW
+         32   1F 00009DA0 ImmCreateContext
+         33   20 00005880 ImmCreateIMCC
+         34   21 00017270 ImmCreateSoftKeyboard
+         35   22 00009E40 ImmDestroyContext
+         36   23 00005920 ImmDestroyIMCC
+         37   24 000174E0 ImmDestroySoftKeyboard
+         38   25 00005960 ImmDisableIME
+         39   26 00005960 ImmDisableIme
+         40   27 000058B0 ImmDisableLegacyIME
+         41   28 000181C0 ImmDisableTextFrameService
+         42   29 000019A0 ImmEnumInputContext
+         43   2A 000120B0 ImmEnumRegisterWordA
+         44   2B 000122D0 ImmEnumRegisterWordW
+         45   2C 0000EEC0 ImmEscapeA
+         46   2D 0000F1C0 ImmEscapeW
+         47   2E 0000F450 ImmFreeLayout
+         48   2F 000117C0 ImmGenerateMessage
+         49   30 000055B0 ImmGetAppCompatFlags
+         50   31 0000A980 ImmGetCandidateListA
+         51   32 0000A9A0 ImmGetCandidateListCountA
+         52   33 0000A9C0 ImmGetCandidateListCountW
+         53   34 0000AB50 ImmGetCandidateListW
+         54   35 000028C0 ImmGetCandidateWindow
+         55   36 0000ACE0 ImmGetCompositionFontA
+         56   37 00002B30 ImmGetCompositionFontW
+         57   38 0000ADD0 ImmGetCompositionStringA
+         58   39 0000AEC0 ImmGetCompositionStringW
+         59   3A 00001D80 ImmGetCompositionWindow
+         60   3B 00002E80 ImmGetContext
+         61   3C 0000AFB0 ImmGetConversionListA
+         62   3D 0000B1C0 ImmGetConversionListW
+         63   3E 000029A0 ImmGetConversionStatus
+         64   3F 00005540 ImmGetDefaultIMEWnd
+         65   40 00010740 ImmGetDescriptionA
+         66   41 00010830 ImmGetDescriptionW
+         67   42 0000B3D0 ImmGetGuideLineA
+         68   43 0000B3F0 ImmGetGuideLineW
+         69   44 0000E3E0 ImmGetHotKey
+         70   45 000119E0 ImmGetIMCCLockCount
+         71   46 00011A10 ImmGetIMCCSize
+         72   47 00011A30 ImmGetIMCLockCount
+         73   48 00010900 ImmGetIMEFileNameA
+         74   49 00010A50 ImmGetIMEFileNameW
+         75   4A 000056B0 ImmGetImeInfoEx
+         76   4B 0001D8B0 ImmGetImeMenuItemsA
+         77   4C 0001DDA0 ImmGetImeMenuItemsW
+         78   4D 00003440 ImmGetOpenStatus
+         79   4E 00010BA0 ImmGetProperty
+         80   4F 00012520 ImmGetRegisterWordStyleA
+         81   50 00012680 ImmGetRegisterWordStyleW
+         82   51 0000B730 ImmGetStatusWindowPos
+         83   52 00011B20 ImmGetVirtualKey
+         84   53 00017B80 ImmIMPGetIMEA
+         85   54 00017C10 ImmIMPGetIMEW
+         86   55 00017C60 ImmIMPQueryIMEA
+         87   56 00017D30 ImmIMPQueryIMEW
+         88   57 00017E80 ImmIMPSetIMEA
+         89   58 00017F50 ImmIMPSetIMEW
+         90   59 00010CD0 ImmInstallIMEA
+         91   5A 00010E10 ImmInstallIMEW
+         92   5B 000057A0 ImmIsIME
+         93   5C 00011B80 ImmIsUIMessageA
+         94   5D 00011BA0 ImmIsUIMessageW
+         95   5E 00004D10 ImmLoadIME
+         96   5F 000059B0 ImmLoadLayout
+         97   60 000031A0 ImmLockClientImc
+         98   61 00002F40 ImmLockIMC
+         99   62 00005500 ImmLockIMCC
+        100   63 00003910 ImmLockImeDpi
+        101   64 0000F680 ImmNotifyIME
+        102   65 00004260 ImmProcessKey
+        103   66 0001E0D0 ImmPutImeMenuItemsIntoMappedFile
+        104   67 00011C70 ImmReSizeIMCC
+        105   68 00004A70 ImmRegisterClient
+        106   69 000127D0 ImmRegisterWordA
+        107   6A 000129A0 ImmRegisterWordW
+        108   6B 00005650 ImmReleaseContext
+        109   6C 0000B950 ImmRequestMessageA
+        110   6D 0000BA60 ImmRequestMessageW
+        111   6E 000180E0 ImmSendIMEMessageExA
+        112   6F 00018100 ImmSendIMEMessageExW
+        113   70 00001E10 ImmSetActiveContext
+        114   71 0001D610 ImmSetActiveContextConsoleIME
+        115   72 0000BDC0 ImmSetCandidateWindow
+        116   73 0000BE90 ImmSetCompositionFontA
+        117   74 00001010 ImmSetCompositionFontW
+        118   75 0000C030 ImmSetCompositionStringA
+        119   76 0000C060 ImmSetCompositionStringW
+        120   77 00001160 ImmSetCompositionWindow
+        121   78 0000C650 ImmSetConversionStatus
+        122   79          ImmSetHotKey (forwarded to USER32.CliImmSetHotKey)
+        123   7A 0000C7A0 ImmSetOpenStatus
+        124   7B 0000C8A0 ImmSetStatusWindowPos
+        125   7C 00017500 ImmShowSoftKeyboard
+        126   7D 0000E400 ImmSimulateHotKey
+        127   7E 00011CA0 ImmSystemHandler
+        128   7F 00001440 ImmTranslateMessage
+        129   80 00001C50 ImmUnlockClientImc
+        130   81 00004020 ImmUnlockIMC
+        131   82 00005520 ImmUnlockIMCC
+        132   83 00002850 ImmUnlockImeDpi
+        133   84 00012B90 ImmUnregisterWordA
+        134   85 00012D60 ImmUnregisterWordW
+        135   86 00018110 ImmWINNLSEnableIME
+        136   87 00018160 ImmWINNLSGetEnableStatus
+        137   88 000181C0 ImmWINNLSGetIMEHotkey
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        5000 .rsrc
+       1E000 .text

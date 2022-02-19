@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CXHProvisioningServer.dll
+
+File Type: DLL
+
+  Section contains the following exports for CXHProvisioningServer.dll
+
+    00000000 characteristics
+    31AC5B2B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004760 DllCanUnloadNow
+          2    1 00004450 DllGetActivationFactory
+          3    2 00004630 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+       17000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2E000 .text

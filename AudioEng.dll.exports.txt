@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\AudioEng.dll
+
+File Type: DLL
+
+  Section contains the following exports for audioeng.dll
+
+    00000000 characteristics
+    4E43DDCA time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00041B30 AERT_Allocate
+          2    1 00041B80 AERT_Free
+          3    2 00041BB0 DllCanUnloadNow
+          4    3 000192F0 DllGetClassObject
+          5    4 00041C10 DllRegisterServer
+          6    5 00041C20 DllUnregisterServer
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        B000 .pdata
+       D9000 .rdata
+        3000 .reloc
+        3000 .rsrc
+      107000 .text
+        1000 RT_BSS
+        4000 RT_CODE
+        3000 RT_CONST
+        2000 RT_DATA

@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\wbem\NetTCPIP.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetTCPIP.DLL
+
+    00000000 characteristics
+    89BC69EA time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004530 DllCanUnloadNow
+          2    1 00004570 DllGetClassObject
+          3    2 00004220 DllMain
+          4    3 00004490 DllRegisterServer
+          5    4 000044E0 DllUnregisterServer
+          6    5 00004280 GetProviderClassID
+          7    6 000033D0 MI_Main
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        2000 .pdata
+       2D000 .rdata
+        7000 .reloc
+        1000 .rsrc
+       44000 .text

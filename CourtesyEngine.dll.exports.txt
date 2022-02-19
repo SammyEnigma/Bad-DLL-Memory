@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CourtesyEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for CourtesyEngine.dll
+
+    00000000 characteristics
+    199E9E35 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006960 DllCanUnloadNow
+          2    1 00006780 DllGetActivationFactory
+          3    2 000069B0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       13000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       25000 .text

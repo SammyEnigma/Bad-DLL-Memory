@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Speech\SpeechUX\SpeechUX.dll
+
+File Type: DLL
+
+  Section contains the following exports for SpeechUX.DLL
+
+    00000000 characteristics
+    F57BAC14 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002660 DllCanUnloadNow
+          3    1 000026A0 DllGetClassObject
+          4    2 000027E0 DllRegisterServer
+          5    3 00002920 DllUnregisterServer
+          1    4 000029D0 RunWizardW
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        7000 .pdata
+       2B000 .rdata
+        2000 .reloc
+       A5000 .rsrc
+       8A000 .text

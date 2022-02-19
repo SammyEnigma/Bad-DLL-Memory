@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Dism\TransmogProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for TransmogProvider.DLL
+
+    00000000 characteristics
+    FDC794F6 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001CE20 DLLGetDISMProviderCLSID
+          2    1 0001CE50 DllCanUnloadNow
+          3    2 0001CE90 DllGetClassObject
+          4    3 0001CFD0 DllRegisterServer
+          5    4 0001D110 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       DC000 .rdata
+        4000 .reloc
+        5000 .rsrc
+       5D000 .text

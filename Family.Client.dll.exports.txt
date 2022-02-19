@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Family.Client.dll
+
+File Type: DLL
+
+  Section contains the following exports for Family.Client.dll
+
+    00000000 characteristics
+    148B4187 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003F00 DllCanUnloadNow
+          2    1 00003BF0 DllGetActivationFactory
+          3    2 00003DD0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       16000 .text

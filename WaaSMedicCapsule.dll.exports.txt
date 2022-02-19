@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\WaaSMedicCapsule.dll
+
+File Type: DLL
+
+  Section contains the following exports for WaaSMedicCapsule.dll
+
+    00000000 characteristics
+    25289811 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+         11    0 000045A0 DllMain
+          1    1 00004670 EnumeratePlugins
+          2    2 00004B80 GetPluginDefaultSettings
+          3    3 00004AF0 GetSettingsName
+          4    4 000049E0 Plugin_DetectCondition
+          5    5 00004750 Plugin_Init
+          6    6 00004940 Plugin_IsActionApplicable2
+          7    7 00004820 Plugin_IsEnabled
+          8    8 000048B0 Plugin_IsInteractiveOnly
+          9    9 00004A70 Plugin_PerformAction
+         10    A 00004780 Plugin_Uninit
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       20000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       26000 .text

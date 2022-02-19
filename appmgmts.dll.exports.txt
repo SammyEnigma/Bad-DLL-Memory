@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\appmgmts.dll
+
+File Type: DLL
+
+  Section contains the following exports for APPMGMTS.dll
+
+    00000000 characteristics
+    AEF308E8 time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000156B0 CsCreateClassStore
+          3    1 00015590 CsEnumApps
+          4    2 00015950 CsGetAppCategories
+          5    3 00015550 CsGetClassAccess
+          6    4 000157E0 CsGetClassStore
+          7    5 000159C0 CsGetClassStorePath
+          8    6 00015870 CsRegisterAppCategory
+          9    7 00015800 CsServerGetClassStore
+          1    8 00015F10 CsSetOptions
+         10    9 000158E0 CsUnregisterAppCategory
+         11    A 00013850 DllCanUnloadNow
+         12    B 00013870 DllGetClassObject
+         13    C 0000AF00 GenerateGroupPolicy
+         14    D 0002C748 IID_IClassAdmin
+         15    E 0000A890 ProcessGroupPolicyObjectsEx
+         16    F 00015C20 ReleaseAppCategoryInfoList
+         17   10 00015C90 ReleasePackageDetail
+         18   11 00015AA0 ReleasePackageInfo
+         19   12 0000CD90 ServiceMain
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       27000 .text

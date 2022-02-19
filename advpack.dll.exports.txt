@@ -1,0 +1,109 @@
+
+Dump of file C:\Windows\System32\advpack.dll
+
+File Type: DLL
+
+  Section contains the following exports for ADVPACK.dll
+
+    00000000 characteristics
+    578A18EB time date stamp
+        0.00 version
+           1 ordinal base
+          84 number of functions
+          84 number of names
+
+    ordinal hint RVA      name
+
+         13    0 00017890 AddDelBackupEntry
+         14    1 00017890 AddDelBackupEntryA
+         15    2 00017970 AddDelBackupEntryW
+         16    3 000014D0 AdvInstallFile
+         17    4 000014D0 AdvInstallFileA
+         18    5 000015E0 AdvInstallFileW
+         19    6 00010EF0 CloseINFEngine
+         20    7 0000B720 DelNode
+         21    8 0000B720 DelNodeA
+          1    9 0000BA40 DelNodeRunDLL32
+          2    A 0000BA40 DelNodeRunDLL32A
+         22    B 0000BAC0 DelNodeRunDLL32W
+         23    C 0000B780 DelNodeW
+          3    D 00003750 DoInfInstall
+          4    E 00003750 DoInfInstallA
+          5    F 00003840 DoInfInstallW
+         24   10 0000C350 ExecuteCab
+         25   11 0000C350 ExecuteCabA
+         26   12 0000C4A0 ExecuteCabW
+         27   13 00011DF0 ExtractFiles
+         28   14 00011DF0 ExtractFilesA
+         29   15 00011D00 ExtractFilesW
+         30   16 000177A0 FileSaveMarkNotExist
+         31   17 000177A0 FileSaveMarkNotExistA
+         32   18 00017870 FileSaveMarkNotExistW
+          6   19 00015590 FileSaveRestore
+          7   1A 00015590 FileSaveRestoreA
+         33   1B 0000EF30 FileSaveRestoreOnINF
+         34   1C 0000EF30 FileSaveRestoreOnINFA
+         35   1D 0000F070 FileSaveRestoreOnINFW
+         36   1E 00015680 FileSaveRestoreW
+         37   1F 0000ADC0 GetVersionFromFile
+         38   20 0000ADC0 GetVersionFromFileA
+         39   21 0000AC70 GetVersionFromFileEx
+         40   22 0000AC70 GetVersionFromFileExA
+         41   23 0000ACF0 GetVersionFromFileExW
+         42   24 0000AE50 GetVersionFromFileW
+         43   25 0000E750 IsNTAdmin
+         44   26 000039A0 LaunchINFSection
+          8   27 00003920 LaunchINFSectionA
+          9   28 0000C110 LaunchINFSectionEx
+         10   29 0000C110 LaunchINFSectionExA
+         45   2A 0000C190 LaunchINFSectionExW
+         46   2B 000039B0 LaunchINFSectionW
+         47   2C 00004130 NeedReboot
+         48   2D 00004100 NeedRebootInit
+         49   2E 00010D20 OpenINFEngine
+         50   2F 00010D20 OpenINFEngineA
+         51   30 00010DE0 OpenINFEngineW
+         52   31 0000EA10 RebootCheckOnInstall
+         53   32 0000EA10 RebootCheckOnInstallA
+         54   33 0000EAD0 RebootCheckOnInstallW
+         55   34 00002AE0 RegInstall
+         56   35 00002AE0 RegInstallA
+         57   36 00002B80 RegInstallW
+         58   37 00012880 RegRestoreAll
+         59   38 00012880 RegRestoreAllA
+         60   39 000128F0 RegRestoreAllW
+         61   3A 000122D0 RegSaveRestore
+         62   3B 000122D0 RegSaveRestoreA
+         63   3C 0000EC20 RegSaveRestoreOnINF
+         64   3D 0000EC20 RegSaveRestoreOnINFA
+         65   3E 0000ED20 RegSaveRestoreOnINFW
+         66   3F 000123E0 RegSaveRestoreW
+         11   40 00004470 RegisterOCX
+         12   41 00004520 RegisterOCXW
+         67   42 00003D00 RunSetupCommand
+         68   43 00003D00 RunSetupCommandA
+         69   44 00003E20 RunSetupCommandW
+         70   45 0000FB80 SetPerUserSecValues
+         71   46 0000FB80 SetPerUserSecValuesA
+         72   47 0000FCE0 SetPerUserSecValuesW
+         73   48 00004170 TranslateInfString
+         74   49 00004170 TranslateInfStringA
+         75   4A 00010B10 TranslateInfStringEx
+         76   4B 00010B10 TranslateInfStringExA
+         77   4C 00010CB0 TranslateInfStringExW
+         78   4D 00004300 TranslateInfStringW
+         79   4E 00010370 UserInstStubWrapper
+         80   4F 00010370 UserInstStubWrapperA
+         81   50 000103F0 UserInstStubWrapperW
+         82   51 00010730 UserUnInstStubWrapper
+         83   52 00010730 UserUnInstStubWrapperA
+         84   53 000107B0 UserUnInstStubWrapperW
+
+  Summary
+
+        E000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1C000 .text

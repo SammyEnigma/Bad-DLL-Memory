@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wlidnsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for WLIDNSP.dll
+
+    00000000 characteristics
+    901814BD time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00002EE0 DllRegisterServer
+          3    1 000030C0 DllUnregisterServer
+          1    2 00002C30 NSPCleanup
+          4    3 00002CD0 NSPStartup
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

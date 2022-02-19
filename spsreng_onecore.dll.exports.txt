@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech_OneCore\Engines\SR\spsreng_onecore.dll
+
+File Type: DLL
+
+  Section contains the following exports for spsreng_onecore.DLL
+
+    00000000 characteristics
+    3B955F2C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000AAB70 DllCanUnloadNow
+          2    1 00065F50 DllGetClassObject
+          3    2 000AAB90 DllRegisterServer
+          4    3 000AAC00 DllUnregisterServer
+
+  Summary
+
+       2E000 .data
+        D000 .pdata
+       2D000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      12D000 .text

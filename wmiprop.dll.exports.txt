@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\wmiprop.dll
+
+File Type: DLL
+
+  Section contains the following exports for WmiProp.dll
+
+    00000000 characteristics
+    DACDB709 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005280 WmiPropCoInstaller
+          2    1 00005320 WmiPropPageProvider
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

@@ -1,0 +1,83 @@
+
+Dump of file C:\Windows\System32\cryptui.dll
+
+File Type: DLL
+
+  Section contains the following exports for CRYPTUI.dll
+
+    00000000 characteristics
+    4A23DA10 time date stamp
+        0.00 version
+           1 ordinal base
+          56 number of functions
+          56 number of names
+
+    ordinal hint RVA      name
+
+         13    0 00034FB0 ACUIProviderInvokeUI
+          1    1 0002EE30 AddChainToStore
+          2    2 00019B80 CertDllLogMismatchPinRules
+          3    3 000271F0 CertDllProtectedRootMessageBox
+         14    4 00033280 CertSelectionGetSerializedBlob
+         15    5 0002F400 CommonInit
+          4    6 000066C0 CompareCertificate
+         16    7 00001E30 CryptDllProtectPrompt
+          5    8 00021550 CryptUIDlgAddPolicyServer
+          6    9 00021370 CryptUIDlgAddPolicyServerWithPriority
+         17    A 0001DBE0 CryptUIDlgCertMgr
+         18    B 00028CF0 CryptUIDlgFreeCAContext
+         19    C 00028C80 CryptUIDlgFreePolicyServerContext
+          7    D 000215C0 CryptUIDlgPropertyPolicy
+         20    E 00028330 CryptUIDlgSelectCA
+         21    F 00033CB0 CryptUIDlgSelectCertificateA
+         22   10 00033DB0 CryptUIDlgSelectCertificateFromStore
+         23   11 000338F0 CryptUIDlgSelectCertificateW
+         24   12 00028090 CryptUIDlgSelectPolicyServer
+         25   13 0002B980 CryptUIDlgSelectStoreA
+         26   14 0002B8E0 CryptUIDlgSelectStoreW
+         27   15 00030F80 CryptUIDlgViewCRLA
+         28   16 00030CE0 CryptUIDlgViewCRLW
+         29   17 00030C10 CryptUIDlgViewCTLA
+         30   18 000308F0 CryptUIDlgViewCTLW
+         31   19 00030800 CryptUIDlgViewCertificateA
+         32   1A 00026630 CryptUIDlgViewCertificatePropertiesA
+         33   1B 000262C0 CryptUIDlgViewCertificatePropertiesW
+         34   1C 000301D0 CryptUIDlgViewCertificateW
+         35   1D 00009130 CryptUIDlgViewContext
+         36   1E 00031340 CryptUIDlgViewSignerInfoA
+         37   1F 00031040 CryptUIDlgViewSignerInfoW
+         38   20 00026B40 CryptUIFreeCertificatePropertiesPagesA
+         39   21 00026B40 CryptUIFreeCertificatePropertiesPagesW
+         40   22 00026B40 CryptUIFreeViewSignaturesPagesA
+         41   23 00026B40 CryptUIFreeViewSignaturesPagesW
+         42   24 00026B30 CryptUIGetCertificatePropertiesPagesA
+         43   25 000267D0 CryptUIGetCertificatePropertiesPagesW
+         44   26 000327E0 CryptUIGetViewSignaturesPagesA
+         45   27 00032630 CryptUIGetViewSignaturesPagesW
+         46   28 00019F60 CryptUIStartCertMgr
+         47   29 00015C10 CryptUIViewExpiringCerts
+         48   2A 00032CB0 CryptUIWizBuildCTL
+         49   2B 00032D80 CryptUIWizDigitalSign
+         50   2C 00032E40 CryptUIWizExport
+         51   2D 00032F60 CryptUIWizFreeDigitalSignContext
+         52   2E 00033040 CryptUIWizImport
+         53   2F 00033160 CryptUIWizImportInternal
+          8   30 0002F490 DisplayHtmlHelp
+         54   31 0002F6F0 DllRegisterServer
+         55   32 0002F6F0 DllUnregisterServer
+          9   33 000164C0 FormatDateStringAutoLayout
+         10   34 00011F10 GetUnknownErrorString
+         11   35 0002F650 InvokeHelpLink
+         56   36 00032900 IsWizardExtensionAvailable
+         12   37 000173F0 MyFormatEnhancedKeyUsageString
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .mytext
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3D000 .text

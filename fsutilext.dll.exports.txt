@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\fsutilext.dll
+
+File Type: DLL
+
+  Section contains the following exports for FSUTILEXT.dll
+
+    00000000 characteristics
+    E1144DFA time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001A60 CheckSonyMSWorker
+          2    1 00001990 DeviceInstIsRemovableWorker
+          3    2 00001050 FindFirstVolumeMountPointWStub
+          4    3 00001030 FindNextVolumeMountPointWStub
+          5    4 00001010 FindVolumeMountPointCloseStub
+          6    5 00001340 GetDeviceIDDiskFromDeviceIDVolumeWorker
+          7    6 00001710 GetDeviceInstanceWorker
+          8    7 000019F0 GetRemovableDeviceInstRecursWorker
+          9    8 00001D40 GetWidgetWorker
+         10    9 00001E60 InvalidateFveWorker
+         11    A 00002340 SendWithSenseParseWorker
+         12    B 00001090 SetThreadUILanguageStub
+         13    C 00001070 SystemParametersInfoWStub
+         14    D 000025E0 WaitForUnitAndReportProgressWorker
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

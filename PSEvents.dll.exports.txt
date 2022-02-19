@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\PSEvents.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        E000 .rsrc

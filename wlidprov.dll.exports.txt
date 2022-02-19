@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wlidprov.dll
+
+File Type: DLL
+
+  Section contains the following exports for WLIDProv.dll
+
+    00000000 characteristics
+    64D63504 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000040E0 DllCanUnloadNow
+          2    1 000088C0 DllGetClassObject
+          3    2 00008D50 DllRegisterServer
+          4    3 00008D50 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       30000 .rdata
+        2000 .reloc
+        F000 .rsrc
+       5E000 .text

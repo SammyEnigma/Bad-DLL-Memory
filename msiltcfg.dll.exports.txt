@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\msiltcfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for msiltcfg.dll
+
+    00000000 characteristics
+    D63EBAD0 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          8    0 00001520 MsiAdvertiseScriptW
+         12    1 00001730 MsiConfigureProductExW
+          1    2 00001100 MsiDecomposeDescriptorW
+          2    3 000011B0 MsiGetComponentPathW
+          3    4 00001250 MsiGetProductInfoW
+         10    5 00001630 MsiIsProductElevatedW
+          4    6 000012F0 MsiProvideComponentFromDescriptorW
+          6    7 00001410 MsiQueryFeatureStateFromDescriptorW
+          5    8 00001390 MsiQueryFeatureStateW
+          9    9 000015C0 MsiQueryProductStateW
+         11    A 000016B0 MsiReinstallProductW
+          7    B 00001480 MsiSetInternalUI
+         14    C 00001810 RestartMsi
+         13    D 000017D0 ShutdownMsi
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

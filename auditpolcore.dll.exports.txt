@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\auditpolcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for auditpolcore.dll
+
+    00000000 characteristics
+    EE6EE2F9 time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003E20 AdtBackupPolicy
+          2    1 00003DE0 AdtBackupPolicyGeneralized
+          3    2 000044D0 AdtClearPolicy
+          4    3 000062B0 AdtConstructAllCategoryGuids
+          5    4 00006230 AdtConvertGuidStringToGuid
+          6    5 00006120 AdtConvertGuidToString
+          7    6 00005F60 AdtDisableSinglePrivilege
+          8    7 00005F50 AdtEnableSinglePrivilege
+          9    8 00003880 AdtGetOption
+         10    9 000037E0 AdtGetPerUserPolicy
+         11    A 00003750 AdtGetSystemPolicy
+         12    B 00006890 AdtListCategories
+         13    C 00006A00 AdtListSubCategories
+         14    D 00006520 AdtLoadStringEx
+         15    E 00006380 AdtParseAuditOptionName
+         16    F 00006540 AdtParseGuidOrNameArray
+         17   10 00004AC0 AdtRemoveAllUsers
+         18   11 00004870 AdtRemoveBasePolicy
+         19   12 00004000 AdtRestorePolicy
+         20   13 00003FC0 AdtRestorePolicyGeneralized
+         21   14 00003D20 AdtSetOption
+         22   15 00003C40 AdtSetPerUserPolicy
+         23   16 00003B60 AdtSetSystemPolicy
+         24   17 00007E70 AuditPolicyData_DeleteAuditDataInstance
+         25   18 00009040 DisplayMessage
+         26   19 00009160 DisplayMessageToSpecificConsoleHandle
+         27   1A 00008B90 GetDisplayPolicy
+         28   1B 000090A0 LoadFormatStringAndPrintToConsole
+         29   1C 00008BA0 SetDisplayPolicy
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

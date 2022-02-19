@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\pcsvDevice.dll
+
+File Type: DLL
+
+  Section contains the following exports for pcsvDevice.DLL
+
+    00000000 characteristics
+    E93924B6 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016F0 DllCanUnloadNow
+          2    1 00001730 DllGetClassObject
+          3    2 000012B0 DllMain
+          4    3 00001650 DllRegisterServer
+          5    4 000016A0 DllUnregisterServer
+          6    5 00001440 GetProviderClassID
+          7    6 00001820 MI_Main
+
+  Summary
+
+        6000 .data
+        3000 .pdata
+       27000 .rdata
+        5000 .reloc
+        2000 .rsrc
+       2C000 .text

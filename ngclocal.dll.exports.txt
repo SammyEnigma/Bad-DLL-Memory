@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\ngclocal.dll
+
+File Type: DLL
+
+  Section contains the following exports for ngclocal.dll
+
+    00000000 characteristics
+    9F77561F time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000053B0 NgcLocalAddCredential
+          2    1 00005600 NgcLocalAddCredentialSilent
+          3    2 000058B0 NgcLocalChangeCredential
+          4    3 000058F0 NgcLocalFindCredential
+          5    4 00005930 NgcLocalRemoveCredential
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

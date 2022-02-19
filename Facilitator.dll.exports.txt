@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\Facilitator.dll
+
+File Type: DLL
+
+  Section contains the following exports for Facilitator.dll
+
+    00000000 characteristics
+    A8883009 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014440 FC_CreateFCManager
+          2    1 000144D0 FC_CreateFCRegistrar
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+       42000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       A9000 .text

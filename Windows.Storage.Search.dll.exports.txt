@@ -1,0 +1,52 @@
+
+Dump of file C:\Windows\System32\Windows.Storage.Search.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Storage.Search.dll
+
+    00000000 characteristics
+    7F1C6C29 time date stamp
+        0.00 version
+        2000 ordinal base
+          26 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+       2002    0 00007640 CreateDefaultProviderResolver
+       2003    1 00083A70 CreateResultSetFactory
+       2004    2 0008DCC0 CreateSingleVisibleInList
+       2005    3 00031BA0 DllCanUnloadNow
+       2006    4 00028B50 DllGetClassObject
+       2007    5 000367B0 DllMain
+       2008    6 000330F0 DllRegisterServer
+       2009    7 000330F0 DllUnregisterServer
+       2010    8 00074700 GetGatherAdmin
+       2011    9 0008BC90 GetScopeFolderType
+       2012    A 00031DC0 IsMSSearchEnabled
+       2013    B 00031D00 IsShellItemInSearchIndex
+       2014    C 00074C20 SEARCH_RemoteLocationsCscStateCache_IsRemoteLocationInCsc
+       2015    D 00074CA0 SEARCH_WriteAutoListContents
+       2016    E 000507E0 SHCreateAutoList
+       2017    F 000507F0 SHCreateAutoListWithID
+       2018   10 00087980 SHCreateScope
+       2019   11 000879F0 SHCreateScopeFromIDListsEx
+       2020   12 00087B50 SHCreateScopeFromShellItemArray
+       2021   13 00087D20 SHCreateScopeItemFromIDList
+       2022   14 00087E20 SHCreateScopeItemFromKnownFolder
+       2023   15 0001EE20 SHCreateScopeItemFromShellItem
+       2024   16 0000CCB0 SHCreateSearchIDListFromAutoList
+       2025   17 0008C040 SHCreateTransientVFolderIDList
+       2000      000384B0 [NONAME]
+       2001      00038AC0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        9000 .pdata
+       1D000 .rdata
+        2000 .reloc
+        5000 .rsrc
+       95000 .text

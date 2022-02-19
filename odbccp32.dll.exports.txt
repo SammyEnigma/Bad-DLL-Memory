@@ -1,0 +1,83 @@
+
+Dump of file C:\Windows\System32\odbccp32.dll
+
+File Type: DLL
+
+  Section contains the following exports for ODBCCP32.dll
+
+    00000000 characteristics
+    104DEA8C time date stamp
+        0.00 version
+           2 ordinal base
+         231 number of functions
+          57 number of names
+
+    ordinal hint RVA      name
+
+        101    0 0000EF60 ODBCCPlApplet
+          6    1 00018800 SQLConfigDataSource
+        206    2 00010240 SQLConfigDataSourceW
+         21    3 000188D0 SQLConfigDriver
+        221    4 00010980 SQLConfigDriverW
+         12    5 00018A60 SQLCreateDataSource
+         30    6 00018AD0 SQLCreateDataSourceEx
+        230    7 00007D40 SQLCreateDataSourceExW
+        212    8 00007D90 SQLCreateDataSourceW
+          5    9 00010AD0 SQLGetAvailableDrivers
+        205    A 00010AD0 SQLGetAvailableDriversW
+         27    B 00010B20 SQLGetConfigMode
+          4    C 00018AE0 SQLGetInstalledDrivers
+        204    D 00010FA0 SQLGetInstalledDriversW
+         15    E 00018BC0 SQLGetPrivateProfileString
+        215    F 00001010 SQLGetPrivateProfileStringW
+         13   10 00019200 SQLGetTranslator
+        213   11 00011170 SQLGetTranslatorW
+          2   12 000193E0 SQLInstallDriver
+         26   13 00019530 SQLInstallDriverEx
+        226   14 00011340 SQLInstallDriverExW
+          3   15 000196C0 SQLInstallDriverManager
+        203   16 000113E0 SQLInstallDriverManagerW
+        202   17 00011490 SQLInstallDriverW
+         10   18 00019780 SQLInstallODBC
+        210   19 000115E0 SQLInstallODBCW
+         18   1A 000197A0 SQLInstallTranslator
+         29   1B 00019960 SQLInstallTranslatorEx
+        229   1C 00011880 SQLInstallTranslatorExW
+        218   1D 000118D0 SQLInstallTranslatorW
+         22   1E 000199B0 SQLInstallerError
+        222   1F 0000A130 SQLInstallerErrorW
+        232   20 0000AD90 SQLLoadDataSourcesListBox
+        231   21 00016610 SQLLoadDriverListBox
+         11   22 00011980 SQLManageDataSources
+         23   23 00019AB0 SQLPostInstallerError
+        223   24 0000A1C0 SQLPostInstallerErrorW
+         24   25 00019B30 SQLReadFileDSN
+        224   26 00011A00 SQLReadFileDSNW
+          9   27 00019CF0 SQLRemoveDSNFromIni
+        209   28 00011C50 SQLRemoveDSNFromIniW
+          7   29 00011CA0 SQLRemoveDefaultDataSource
+         20   2A 00019D50 SQLRemoveDriver
+         17   2B 00012060 SQLRemoveDriverManager
+        220   2C 000120C0 SQLRemoveDriverW
+         19   2D 00019DC0 SQLRemoveTranslator
+        219   2E 000121F0 SQLRemoveTranslatorW
+         28   2F 00012250 SQLSetConfigMode
+         16   30 00019E30 SQLValidDSN
+        216   31 00012370 SQLValidDSNW
+          8   32 00019EB0 SQLWriteDSNToIni
+        208   33 00012DC0 SQLWriteDSNToIniW
+         25   34 00019F60 SQLWriteFileDSN
+        225   35 00012E20 SQLWriteFileDSNW
+         14   36 0001A0B0 SQLWritePrivateProfileString
+        214   37 00013020 SQLWritePrivateProfileStringW
+        112   38 0000C3B0 SelectTransDlg
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

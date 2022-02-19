@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\difxapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for DIFXAPI.dll
+
+    00000000 characteristics
+    AE69ADF1 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001C20 DIFXAPISetLogCallbackA
+          2    1 00001C00 DIFXAPISetLogCallbackW
+          3    2 00001A90 DriverPackageGetPathA
+          4    3 00001970 DriverPackageGetPathW
+          5    4 00001550 DriverPackageInstallA
+          6    5 000014D0 DriverPackageInstallW
+          7    6 00001440 DriverPackagePreinstallA
+          8    7 000013D0 DriverPackagePreinstallW
+          9    8 000017A0 DriverPackageUninstallA
+         10    9 00001720 DriverPackageUninstallW
+         11    A 00001BD0 SetDifxLogCallbackA
+         12    B 00001BB0 SetDifxLogCallbackW
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       1E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

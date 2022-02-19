@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\generaltel.dll
+
+File Type: DLL
+
+  Section contains the following exports for GeneralTel.dll
+
+    00000000 characteristics
+    F3875C0D time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00038280 CalculateCensusId
+          2    1 0001EBA0 DoCensusRun
+          3    2 00022EC0 EnumerateOfficeAddins
+          4    3 00023180 EnumerateOfficeDocuments
+          5    4 00031530 GetCITDataApr
+          6    5 000315C0 GetCITTelemetryPoints
+          7    6 0003D490 RunGeneralTelemetry
+          8    7 0001E8E0 RunInUserCxtW
+          9    8 000382B0 SysprepCleanupEnableCustomTrigger
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        4000 .pdata
+       29000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5D000 .text

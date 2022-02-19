@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\SyncInfrastructure.dll
+
+File Type: DLL
+
+  Section contains the following exports for SyncInfrastructure.DLL
+
+    00000000 characteristics
+    64FFFF08 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005300 DllCanUnloadNow
+          2    1 00005340 DllGetClassObject
+          3    2 00005480 DllRegisterServer
+          4    3 00005560 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       11000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       52000 .text

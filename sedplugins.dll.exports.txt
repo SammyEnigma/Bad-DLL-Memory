@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\sedplugins.dll
+
+File Type: DLL
+
+  Section contains the following exports for SedPlugins.dll
+
+    00000000 characteristics
+    F5ED4527 time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000179C0 CheckShellTask
+          2    1 00017E60 EnumeratePlugins
+          3    2 00017E40 EnumeratePluginsWithApplicationSource
+          4    3 00017A90 ExecuteShell
+          5    4 00015B40 GetPluginDefaultSettings
+          6    5 00015B40 GetSettingsName
+          7    6 00017F90 Plugin_DetectCondition
+          8    7 00017E00 Plugin_Init
+          9    8 00017ED0 Plugin_IsActionApplicable
+         10    9 00017E80 Plugin_IsEnabled
+         11    A 00017F40 Plugin_IsInteractiveOnly
+         12    B 00017FE0 Plugin_PerformAction
+         13    C 00018030 Plugin_Process
+         14    D 00018080 Plugin_Process_Aqua
+         15    E 00017E10 Plugin_Uninit
+         16    F 00017E20 RegisterApplication
+         17   10 00017B30 SedimentDriver_Init
+         18   11 00017CC0 SedimentDriver_Init_Aqua
+         19   12 00017D90 SedimentDriver_Uninit
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       2C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       60000 .text

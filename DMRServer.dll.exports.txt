@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DMRServer.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMRServer.dll
+
+    00000000 characteristics
+    21B780C8 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000021E0 DllCanUnloadNow
+          2    1 00002370 DllGetActivationFactory
+          3    2 00002260 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       1B000 .rdata
+        2000 .reloc
+        4000 .rsrc
+       60000 .text

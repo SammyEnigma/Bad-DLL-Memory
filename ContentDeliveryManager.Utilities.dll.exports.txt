@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ContentDeliveryManager.Utilities.dll
+
+File Type: DLL
+
+  Section contains the following exports for ContentDeliveryManager.Utilities.dll
+
+    00000000 characteristics
+    E84F964B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00025560 DllCanUnloadNow
+          2    1 00025700 DllGetActivationFactory
+          3    2 000255D0 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        9000 .pdata
+       BD000 .rdata
+        8000 .reloc
+        C000 .rsrc
+       D8000 .text

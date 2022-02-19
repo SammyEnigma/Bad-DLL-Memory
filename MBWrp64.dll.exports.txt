@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\MBWrp64.dll
+
+File Type: DLL
+
+  Section contains the following exports for MBWrp64.dll
+
+    00000000 characteristics
+    52CCDF04 time date stamp Wed Jan  8 06:15:48 2014
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00010BB0 DllCanUnloadNow
+          2    1 00010BE0 DllGetClassObject
+          3    2 00010C20 DllRegisterServer
+          4    3 00010C40 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        4000 .pdata
+       16000 .rdata
+        2000 .reloc
+        4000 .rsrc
+       3C000 .text
+        1000 RT_BSS
+        1000 RT_CODE
+        1000 RT_CONST
+        2000 RT_DATA

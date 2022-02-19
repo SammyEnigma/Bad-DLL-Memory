@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\mssprxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for mssprxy.dll
+
+    00000000 characteristics
+    96BA6557 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000019D0 DllCanUnloadNow
+          2    1 00001960 DllGetClassObject
+          3    2 00002CB0 DllRegisterServer
+          4    3 00002CF0 DllUnregisterServer
+          5    4 00002D30 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       1F000 .rdata
+        3000 .reloc
+        1000 .rsrc
+        2000 .text

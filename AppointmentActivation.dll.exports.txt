@@ -1,0 +1,52 @@
+
+Dump of file C:\Windows\System32\AppointmentActivation.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppointmentActivation.dll
+
+    00000000 characteristics
+    33A7268A time date stamp
+        0.00 version
+           1 ordinal base
+          26 number of functions
+          26 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00008DF0 AwaitAppointmentActivation
+          4    1 0000BC50 DeserializeActivationArgs
+          5    2 0000BFB0 DeserializeAppointment
+          6    3 00001260 DllCanUnloadNow
+          7    4 00005270 DllGetActivationFactory
+          8    5 000014E0 DllGetClassObject
+          9    6 00009020 GetAddAppointmentArgument
+         10    7 000091D0 GetCalendarChooserArgument
+         11    8 0000D290 GetLegacyAppointmentDetailsArgumentString
+         12    9 00004E10 GetProxyDllInfo
+         13    A 00009480 GetRemoveAppointmentArgument
+         14    B 000096B0 GetReplaceAppointmentArgument
+         15    C 0000DAC0 GetWindowIdOfHost
+         16    D 0000C190 ReleaseActivationArgs
+          1    E 000054F0 SerializeAppointmentIdsResult
+          2    F 00005650 SerializeCalendarIdResult
+         17   10 00009910 ShowAddAppointment
+         18   11 00009A00 ShowAddAppointmentAsync
+         19   12 00009AC0 ShowAppointmentDetails
+         20   13 00009E20 ShowCalendarChooser
+         21   14 00009F00 ShowCalendarChooserAsync
+         22   15 00009FB0 ShowRemoveAppointment
+         23   16 0000A0A0 ShowRemoveAppointmentAsync
+         24   17 0000A170 ShowReplaceAppointment
+         25   18 0000A270 ShowReplaceAppointmentAsync
+         26   19 0000A350 ShowTimeFrame
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\dokan1.dll
+
+File Type: DLL
+
+  Section contains the following exports for dokan1.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004C40 DokanDebugMode
+          2    1 0000F6A0 DokanDriverVersion
+          3    2 00006BA0 DokanGetMountPointList
+          4    3 000043B0 DokanIsNameInExpression
+          5    4 00005090 DokanMain
+          6    5 00006EE0 DokanMapKernelToUserCreateFileFlags
+          7    6 000096B0 DokanNetworkProviderInstall
+          8    7 00009910 DokanNetworkProviderUninstall
+          9    8 000071F0 DokanNotifyCreate
+         10    9 00007210 DokanNotifyDelete
+         11    A 00007250 DokanNotifyRename
+         12    B 00007230 DokanNotifyUpdate
+         13    C 00007240 DokanNotifyXAttrUpdate
+         14    D 0000A960 DokanNtStatusFromWin32
+         15    E 00001350 DokanOpenRequestorToken
+         16    F 00006E00 DokanReleaseMountPointList
+         17   10 0000A7C0 DokanRemoveMountPoint
+         18   11 0000F370 DokanResetTimeout
+         19   12 00009550 DokanServiceDelete
+         20   13 00009410 DokanServiceInstall
+         21   14 000068A0 DokanSetDebugMode
+         22   15 00009630 DokanUnmount
+         23   16 00004C30 DokanUseStdErr
+         24   17 0000F690 DokanVersion
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

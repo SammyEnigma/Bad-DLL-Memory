@@ -1,0 +1,65 @@
+
+Dump of file C:\Windows\System32\WsmWmiPl.dll
+
+File Type: DLL
+
+  Section contains the following exports for WsmWmiPl.DLL
+
+    00000000 characteristics
+    D754394E time date stamp
+        0.00 version
+           1 ordinal base
+          39 number of functions
+          39 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000027B0 ??0?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ
+          2    1 000027F0 ??0?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@AEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z
+          3    2 000028A0 ??0?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@AEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z
+          4    3 000028E0 ??1?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ
+          5    4 00002920 ??1?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@XZ
+          6    5 000029B0 ??1?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ
+          7    6 00002A90 ??1CWSManCriticalSectionWithConditionVar@@QEAA@XZ
+          8    7 00038A98 ??_7?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@6B@
+          9    8 00002C40 ?Acquire@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEBAXXZ
+         10    9 00002C40 ?Acquire@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ
+         11    A 00002C50 ?Acquire@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAXXZ
+         12    B 00002CB0 ?Acquired@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA_NXZ
+         13    C 00002CC0 ?AsReference@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAAEAV1@XZ
+         14    D 00002CD0 ?Data@?$SafeMap_Iterator@VKey@Locale@@K@@IEBAAEAV?$STLMap@VKey@Locale@@K@@XZ
+         15    E 00002CE0 ?DeInitialize@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEAA_NAEAVIRequestContext@@@Z
+         16    F 00002D40 ?DeInitialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z
+         17   10 00002DA0 ?GetInitError@CWSManCriticalSection@@QEBAKXZ
+         18   11 00002DB0 ?GetMap@?$SafeMap_Iterator@VKey@Locale@@K@@QEBAAEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ
+         19   12 00002DB0 ?GetMap@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEBAAEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ
+         20   13 00002DC0 ?Initialize@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEAA_NAEAVIRequestContext@@@Z
+         21   14 00002EA0 ?Initialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z
+         22   15 00002F80 ?IsValid@?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@QEBA_NXZ
+         23   16 00002F80 ?IsValid@?$SafeMap_Iterator@VKey@Locale@@K@@QEBA_NXZ
+         24   17 00002C40 ?Release@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEBAXXZ
+         25   18 00002C40 ?Release@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ
+         26   19 00002F90 ?Reset@?$SafeMap_Iterator@VKey@Locale@@K@@QEAAXXZ
+         27   1A 00003000 ?SkipOrphans@?$SafeMap_Iterator@VKey@Locale@@K@@IEAAXXZ
+         28   1B 00003B00 WSManPluginShutdown
+         29   1C 00003E80 WSManPluginStartup
+         30   1D 00004590 WSManProvCreate
+         31   1E 000047F0 WSManProvDelete
+         32   1F 000049D0 WSManProvEnumerate
+         33   20 00004CC0 WSManProvGet
+         34   21 00004EF0 WSManProvIdentify
+         35   22 00005150 WSManProvInvoke
+         36   23 000053E0 WSManProvPullEvents
+         37   24 00005560 WSManProvPut
+         38   25 00005810 WSManProvSubscribe
+         39   26 00005B00 WSManProvUnsubscribe
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       16000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

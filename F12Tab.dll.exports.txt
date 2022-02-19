@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\F12\F12Tab.dll
+
+File Type: DLL
+
+  Section contains the following exports for Tab.dll
+
+    00000000 characteristics
+    A2347888 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001530 DllCanUnloadNow
+          2    1 00001570 DllGetClassObject
+          3    2 000016B0 DllRegisterServer
+          4    3 000017B0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       2A000 .text

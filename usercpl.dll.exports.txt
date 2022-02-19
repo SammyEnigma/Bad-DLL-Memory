@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\usercpl.dll
+
+File Type: DLL
+
+  Section contains the following exports for usercpl.dll
+
+    00000000 characteristics
+    B44E5601 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000B9D0 DllCanUnloadNow
+          2    1 0000BA40 DllGetClassObject
+          3    2 0000BA30 DllRegisterServer
+          4    3 0000BA30 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        5000 .pdata
+       37000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       80000 .text

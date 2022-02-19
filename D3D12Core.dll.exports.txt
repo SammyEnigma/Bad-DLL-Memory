@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\D3D12Core.dll
+
+File Type: DLL
+
+  Section contains the following exports for d3d12core.dll
+
+    00000000 characteristics
+    7B50F390 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014710 D3D12GetInterface
+          2    1 00152640 D3D12SDKVersion
+
+  Summary
+
+        1000 .DDIData
+        E000 .data
+        1000 .didat
+        D000 .pdata
+       5C000 .rdata
+        5000 .reloc
+       12000 .rsrc
+      10C000 .text
+       30000 .text_hf

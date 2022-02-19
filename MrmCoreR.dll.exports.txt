@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\MrmCoreR.dll
+
+File Type: DLL
+
+  Section contains the following exports for MrmCoreR.dll
+
+    00000000 characteristics
+    E5D132FE time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0003EBC0 DllCanUnloadNow
+          2    1 0003DEA0 DllGetActivationFactory
+          3    2 0003E5B0 DllGetClassObject
+          4    3 00060EA0 GetInternalReferenceBlobForManifestValue
+          5    4 00063740 GetMergedSystemPri
+          6    5 00063770 GetMergedSystemPriEx
+          7    6 00007B60 GetStringValueForManifestField
+          8    7 000637E0 MergeResourcePackPri
+          9    8 00063880 MergeSystemPriFiles
+         10    9 000051A0 ResourceManagerQueueGetCurrentDepth
+         11    A 00060FA0 ResourceManagerQueueGetGlobalFlags
+         12    B 00060FC0 ResourceManagerQueueGetMrtCachePathForPackage
+         13    C 000392F0 ResourceManagerQueueGetString
+         14    D 00061030 ResourceManagerQueueGetStringDirect
+         15    E 0001ADA0 ResourceManagerQueueIsResourceReference
+         16    F 00003F20 ResourceManagerQueueReset
+         17   10 00061090 ResourceManagerQueueSetGlobalFlags
+         18   11 00020620 ShouldMergeInproc
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        C000 .pdata
+       35000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       A9000 .text

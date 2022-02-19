@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\MBAPO264.dll
+
+File Type: DLL
+
+  Section contains the following exports for MBAPO264.dll
+
+    00000000 characteristics
+    59A520D1 time date stamp Tue Aug 29 10:07:45 2017
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00029740 DllCanUnloadNow
+          2    1 00029770 DllGetClassObject
+          3    2 000297B0 DllRegisterServer
+          4    3 000297D0 DllUnregisterServer
+
+  Summary
+
+       26000 .data
+       12000 .pdata
+       6D000 .rdata
+        4000 .reloc
+        8000 .rsrc
+      15D000 .text
+        1000 RT_BSS
+        1000 RT_CODE
+        2000 RT_DATA
+        9000 _RDATA

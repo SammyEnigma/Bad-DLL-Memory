@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmpmem.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmpmem.dll
+
+    00000000 characteristics
+    F6393D5E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0003C7C0 DllCanUnloadNow
+          2    1 0003C7F0 DllGetClassObject
+          3    2 0003C810 DllRegisterServer
+          4    3 0003C820 DllUnregisterServer
+
+  Summary
+
+        D000 .data
+        4000 .pdata
+       1B000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       58000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wbem\wbemess.dll
+
+File Type: DLL
+
+  Section contains the following exports for wbemess.dll
+
+    00000000 characteristics
+    FE35F213 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001F470 DllCanUnloadNow
+          2    1 0004EE30 DllGetClassObject
+          3    2 0004F190 DllRegisterServer
+          4    3 0004F340 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        4000 .pdata
+       24000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       56000 .text

@@ -1,0 +1,315 @@
+
+Dump of file C:\Windows\System32\windows.storage.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Storage.dll
+
+    00000000 characteristics
+    C6C08306 time date stamp
+        0.00 version
+           2 ordinal base
+        2008 number of functions
+         242 number of names
+
+    ordinal hint RVA      name
+
+          8    0 00013EF0 AssocCreateForClasses
+          9    1 004C79B0 AssocGetDetailsOfPropKey
+         10    2 002E7E90 AssocShouldProcessUseAppToAppLaunching
+         11    3 0015BEF0 CCachedShellItem_CreateInstance
+         12    4 001AB2F0 CCollectionFactory_CreateInstance
+         13    5 000DE250 CDesktopFolder_CreateInstanceWithBindContext
+         14    6 0041E8B0 CFSFolder_AdjustForSlowColumn
+         15    7 000E4E70 CFSFolder_CreateFolder
+         16    8 001AE6E0 CFSFolder_IsCommonItem
+         17    9 00437F60 CFileOperationRecorder_CreateInstance
+         18    A 00112470 CFreeThreadedItemContainer_CreateInstance
+         19    B 00439730 CMruLongList_CreateInstance
+         20    C 001B3000 CPrivateProfileCache_Save
+         21    D 001AE480 CRegFolder_CreateAndInit
+         22    E 001AD420 CRegFolder_CreateInstance
+         23    F 000DB460 CShellItemArrayAsCollection_CreateInstance
+         24   10 00405930 CShellItemArrayAsVirtualizedObjectArray_CreateInstance
+         25   11 0005D950 CShellItemArrayWithCommonParent_CreateInstance
+         26   12 0016A820 CShellItemArray_CreateInstance
+         29   13 00106610 CShellItem_CreateInstance
+         30   14 002E3530 CStorageItem_GetValidatedStorageItemObject
+         31   15 00024230 CTaskAddDoc_Create
+         32   16 0019FDD0 CViewSettings_CreateInstance
+         33   17 003D7030 CopyDefaultLibrariesFromGroupPolicy
+        943   18 00448DE0 CreateExtrinsicPropertyStore
+         34   19 004059B0 CreateItemArrayFromItemStore
+         35   1A 000763B0 CreateItemArrayFromObjectArray
+         36   1B 003D17F0 CreateLocalizationDesktopIni
+         37   1C 001498C0 CreateSortColumnArray
+          3   1D 002ACBA0 CreateStorageItemFromPath_FullTrustCaller
+          5   1E 002ACBC0 CreateStorageItemFromPath_FullTrustCaller_ForPackage
+         38   1F 002E3630 CreateStorageItemFromPath_PartialTrustCaller
+        942   20 000963D0 CreateStorageItemFromShellItem
+        925   21 00088C80 CreateStorageItemFromShellItem_FullTrustCaller_ForPackage
+         39   22 001B47C0 CreateVolatilePropertyStore
+         40   23 0044A3D0 CustomStatePropertyDescription_CreateWithItemPropertyStore
+         41   24 0044A500 CustomStatePropertyDescription_CreateWithStateIdentifier
+         43   25 0004A290 DataAccessCaches_InvalidateForLibrary
+         44   26 0001A020 DeserializeTextToLink
+         45   27 00026710 DetermineFolderDestinationParentAppID
+         46   28 001896D0 DllCanUnloadNow
+         47   29 00181550 DllGetActivationFactory
+         48   2A 000FA1B0 DllGetClassObject
+         49   2B 001C2580 DllMain
+         50   2C 001AF670 DllRegisterServer
+         51   2D 001AF670 DllUnregisterServer
+         52   2E 004CD4D0 DragQueryFileW
+         53   2F 00405A60 EnumShellItemsFromEnumFullIdList
+        938   30 002E3820 GetCachedFileUpdateInformation
+         54   31 00457420 GetCommandProviderForFolderType
+         55   32 00438140 GetFileUndoText
+         56   33 001059F0 GetFindDataForPath
+         57   34 00134940 GetFindDataFromFileInformationByHandle
+        945   35 002E9210 GetInfoForFileInUse
+         58   36 000963A0 GetRegDataDrivenCommand
+         59   37 000BA8E0 GetRegDataDrivenCommandWithAssociation
+         60   38 004574C0 GetSelectionStateFromItemArray
+         61   39 00069A60 GetSystemPersistedStorageItemList
+         62   3A 002E92A0 GetSystemPersistedStorageItemListForUser
+         63   3B 0009A5E0 GetThreadFlags
+          6   3C 00041BE0 GetUserChoiceForUrl
+         64   3D 001AE6D0 Global_WindowsStorage_MaxIcons
+         65   3E 001ABCD0 Global_WindowsStorage_Untyped_FileClassSRWLock
+         66   3F 00191AC0 Global_WindowsStorage_Untyped_MountPoint
+         67   40 001ABC80 Global_WindowsStorage_Untyped_pFileClassCacheTable
+         69   41 001AE250 Global_WindowsStorage_Untyped_pFileHanderMap
+         70   42 0018D2F0 Global_WindowsStorage_Untyped_rgshil
+         71   43 001A2010 Global_WindowsStorage_afNotRedirected
+         72   44 001A9050 Global_WindowsStorage_ccIcon
+         73   45 00190770 Global_WindowsStorage_csIconCache
+         76   46 001B7E50 Global_WindowsStorage_csSCN
+         77   47 001AAD80 Global_WindowsStorage_dwThreadBindCtx
+         78   48 001AA520 Global_WindowsStorage_dwThreadInitializing
+         79   49 001AC440 Global_WindowsStorage_esServerMode
+         80   4A 0019D750 Global_WindowsStorage_fEndInitialized
+         81   4B 00097290 Global_WindowsStorage_fIconCacheHasBeenSuccessfullyCreated
+         82   4C 001A2410 Global_WindowsStorage_fIconCacheIsValid
+         83   4D 00097280 Global_WindowsStorage_fNeedsInitBroadcast
+         84   4E 001A3870 Global_WindowsStorage_hwndSCN
+         85   4F 001AEA80 Global_WindowsStorage_iLastSysIcon
+         86   50 001AE9E0 Global_WindowsStorage_iLastSystemColorDepth
+         87   51 002E9AB0 Global_WindowsStorage_iUseLinkPrefix
+         88   52 00096F70 Global_WindowsStorage_lProcessClassCount
+         89   53 001A8C80 Global_WindowsStorage_lrFlags
+         91   54 002E9AC0 Global_WindowsStorage_nImageManagerVersion
+         92   55 001A67B0 Global_WindowsStorage_tlsChangeClientProxy
+         93   56 001AAAD0 Global_WindowsStorage_tlsIconCache
+         94   57 002E9AD0 Global_WindowsStorage_tlsThreadFlags
+         96   58 001AC4F0 Global_WindowsStorage_ulNextID
+         97   59 002E9400 GrantPathAccess_FullTrustCaller_ForPackage
+         98   5A 002E94D0 GrantWorkingDirectoryAccess_FullTrustCaller_ForPackage
+         99   5B 00035530 HideExtension
+        101   5C 004CD6A0 ILAppendID
+        102   5D 000E5CC0 ILClone
+        103   5E 001178E0 ILCloneFirst
+        104   5F 000E5DE0 ILCombine
+        105   60 004CD780 ILFindChild
+        106   61 000ED460 ILFindLastID
+        107   62 001175C0 ILFree
+        108   63 00192800 ILGetNext
+        109   64 000E5FC0 ILGetSize
+        110   65 000DE7F0 ILIsEqual
+        111   66 0011B470 ILIsParent
+        846   67 0011A0A0 ILLoadFromStreamEx
+        112   68 001191F0 ILRemoveLastID
+         27   69 00192700 ILSaveToStream
+         42   6A 001AF630 IsLFNDriveW
+        113   6B 003D7160 IsLibraryCreatedByPolicy
+        114   6C 0007C960 IsLibraryPolicyEnabled
+        115   6D 00461940 IsNameListedUnderKey
+        680   6E 004CE6D0 IsUserAnAdmin
+        116   6F 000373F0 NeverProvidedByJunction
+        117   70 00185150 PathCleanupSpec
+          7   71 002E5850 PathContainedByManifestedKnownFolder_FullTrustCaller_ForPackage
+        118   72 004CDCA0 PathIsExe
+        119   73 004CDF80 PathMakeUniqueName
+         75   74 000482B0 PathYetAnotherMakeUniqueName
+        120   75 002E95A0 QueryStorageAccess_FullTrustCaller_ForPackage
+        121   76 002E97A0 QueryStorageAccess_FullTrustCaller_ForToken
+        122   77 0000F350 RebaseOnDriveLetter
+        123   78 00028C80 RebaseOnVolumeID
+        124   79 0019C9C0 RegistryVerbs_GetHandlerMultiSelectModel
+        125   7A 0019E410 SHBindToFolderIDListParent
+        126   7B 000E0C70 SHBindToFolderIDListParentEx
+        127   7C 00119230 SHBindToObject
+        128   7D 00119130 SHBindToParent
+        147   7E 000BC6D0 SHCLSIDFromString
+        644   7F 0015EA10 SHChangeNotification_Lock
+        645   80 0015E7F0 SHChangeNotification_Unlock
+        129   81 000D3260 SHChangeNotify
+          4   82 001B35C0 SHChangeNotifyDeregister
+          2   83 00196970 SHChangeNotifyRegister
+        130   84 000E00F0 SHCoCreateInstanceWorker
+        131   85 004E5590 SHCreateAssociationRegistration
+        132   86 0008F530 SHCreateDataObject
+        133   87 0009FB90 SHCreateDefaultExtractIcon
+        134   88 00461EC0 SHCreateDirectory
+        135   89 00461EE0 SHCreateDirectoryExA
+        136   8A 001AD100 SHCreateDirectoryExW
+        137   8B 00105E20 SHCreateItemFromIDList
+        138   8C 0011F1C0 SHCreateItemFromParsingName
+        139   8D 004D2F00 SHCreateItemInKnownFolder
+        140   8E 00156E20 SHCreateItemWithParent
+        141   8F 00114F80 SHCreateItemWithParentAndChildId
+        142   90 000C22B0 SHCreateShellItemArray
+        143   91 000C25B0 SHCreateShellItemArrayFromDataObject
+        144   92 000C2A30 SHCreateShellItemArrayFromIDLists
+        145   93 000C21A0 SHCreateShellItemArrayFromShellItem
+        146   94 00405B90 SHCreateShellItemArrayWithFolderParent
+         74   95 00068440 SHCreateStdEnumFmtEtc
+        148   96 00438990 SHFileOperationWithAdditionalFlags
+         90   97 004CACC0 SHFindFiles
+        149   98 004E8700 SHFlushSFCache
+        150   99 001ACD00 SHGetDesktopFolder
+        151   9A 00156620 SHGetFileInfoW
+        152   9B 0018D330 SHGetFolderLocation
+        153   9C 001B3830 SHGetFolderPathA
+        154   9D 00461AE0 SHGetFolderPathAndSubDirA
+        155   9E 00194550 SHGetFolderPathAndSubDirW
+        156   9F 0012AC70 SHGetFolderPathEx
+        157   A0 001019F0 SHGetFolderPathW
+        158   A1 00104C80 SHGetIDListFromObject
+        159   A2 000973C0 SHGetInstanceExplorer
+        160   A3 0014EC10 SHGetItemFromObject
+        161   A4 00195D00 SHGetKnownFolderIDList
+        162   A5 000FCA70 SHGetKnownFolderIDList_Internal
+        163   A6 00180010 SHGetKnownFolderItem
+        164   A7 000FBF30 SHGetKnownFolderPath
+        165   A8 00193440 SHGetNameFromIDList
+        166   A9 00129900 SHGetPathFromIDListEx
+        167   AA 004CAEA0 SHGetPathFromIDListW
+         68   AB 0009C7E0 SHGetSetSettings
+        168   AC 0018D300 SHGetSpecialFolderLocation
+        169   AD 00461BC0 SHGetSpecialFolderPathA
+        170   AE 001A34F0 SHGetSpecialFolderPathW
+        171   AF 0003CC90 SHGetStockIconInfo
+        172   B0 004D3470 SHGetTemporaryPropertyForItem
+         28   B1 004CD8A0 SHILCreateFromPath
+        173   B2 00100460 SHKnownFolderFromCSIDL
+        174   B3 0017A920 SHKnownFolderToCSIDL
+        175   B4 0010E6A0 SHParseDisplayName
+        176   B5 003D18B0 SHPrepareKnownFoldersCommon
+        177   B6 003D18C0 SHPrepareKnownFoldersUser
+        178   B7 003DCB40 SHResolveLibrary
+        100   B8 0010EA60 SHRestricted
+        179   B9 00461C00 SHSetFolderPathA
+        180   BA 00461C80 SHSetFolderPathW
+        181   BB 003D18D0 SHSetKnownFolderPath
+        182   BC 004D3B10 SHSetLocalizedName
+        183   BD 000B0FC0 SHSetTemporaryPropertyForItem
+        184   BE 004CB390 SHSysErrorMessageBox
+        245   BF 000C6A20 SHTestTokenMembership
+        185   C0 0002E590 STORAGE_AddItemToRecentDocs
+        186   C1 00461D70 STORAGE_AddNewFolderToFrequentPlaces
+        187   C2 00461D80 STORAGE_CEnumFiles_CreateInstance
+        188   C3 00461D90 STORAGE_CStatusProvider_CreateInstance
+        189   C4 0004ECF0 STORAGE_CStorageItem_GetValidatedStorageItem
+        190   C5 00461DA0 STORAGE_CStorageItem_GetValidatedStorageItemObject
+        191   C6 00461DB0 STORAGE_ClearDestinationsForAllApps
+        192   C7 00461DC0 STORAGE_CreateSortColumnArrayFromListDesc
+        193   C8 002ACBA0 STORAGE_CreateStorageItemFromPath_FullTrustCaller
+        194   C9 00461DD0 STORAGE_CreateStorageItemFromPath_FullTrustCaller_ForPackage
+        195   CA 00461DE0 STORAGE_CreateStorageItemFromPath_PartialTrustCaller
+        196   CB 00461DF0 STORAGE_CreateStorageItemFromShellItem_FullTrustCaller
+        197   CC 00088C80 STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_ForPackage
+        198   CD 00461E20 STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_ForPackage_WithProcessHandle
+        199   CE 001AF7C0 STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_ForPackage_WithProcessHandleAndSecondaryStreamName
+        200   CF 00461E60 STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_UseImplicitFlagsAndPackage
+        201   D0 001AF7C0 STORAGE_FillResultWithNullForKeys
+        202   D1 00096F20 STORAGE_GetShellItemFromStorageItem
+        203   D2 00461E70 STORAGE_GetSystemPersistedStorageItemList
+        204   D3 00461E80 STORAGE_MakeDestinationItem
+        205   D4 00461E90 STORAGE_PathIsEqualOrSubFolderOfKnownFolders
+        206   D5 00097700 STORAGE_SHAddToRecentDocs
+        207   D6 00461EA0 STORAGE_SHAddToRecentDocsEx
+        208   D7 00461EB0 STORAGE_SHConfirmOperation
+        209   D8 00461EC0 STORAGE_SHCreateDirectory
+        210   D9 00461EE0 STORAGE_SHCreateDirectoryExA
+        211   DA 001AD100 STORAGE_SHCreateDirectoryExWWorker
+        212   DB 00461F00 STORAGE_SHCreateShellItemArray
+        213   DC 000C25A0 STORAGE_SHCreateShellItemArrayFromDataObject
+        214   DD 000C2190 STORAGE_SHCreateShellItemArrayFromIDLists
+        215   DE 00097020 STORAGE_SHCreateShellItemArrayFromShellItem
+        216   DF 00461F10 STORAGE_SHFileOperation
+        217   E0 00461F20 STORAGE_SHFileOperationA
+        218   E1 00461F30 STORAGE_SHFreeNameMappings
+        219   E2 000E1600 STORAGE_SHGetDesktopFolderWorker
+        220   E3 00461FA0 STORAGE_SHGetPathFromMsUri
+        221   E4 00461FB0 STORAGE_SHPathPrepareForWriteA
+        222   E5 00462030 STORAGE_SHPathPrepareForWriteW
+        223   E6 00462040 STORAGE_SHValidateMSUri
+        224   E7 003DFCB0 SendNotificationsForLibraryItem
+        225   E8 0002D7E0 SerializeLinkToText
+        226   E9 001B6B90 SetThreadFlags
+        227   EA 004F0E50 ShellExecuteExW
+        228   EB 00463550 StateRepoVerbsCache_Destroy
+        229   EC 0017EDA0 StateRepoVerbsCache_GetContextMenuVerbs
+        230   ED 0017ECB0 StateRepoVerbsCache_RebuildCacheAsync
+        231   EE 002E39E0 StorageItemHelpers_IsSupportedRemovablePath
+        232   EF 002E98C0 Storage_Internal_GetAccessListForPackage
+        233   F0 00442BE0 _CleanRecentDocs
+        234   F1 001A1630 _PredictReasonableImpact
+         95      004CB310 [NONAME]
+        264      004CD220 [NONAME]
+        740      0014EF40 [NONAME]
+        764      000F4BB0 [NONAME]
+        781      004CFF30 [NONAME]
+        788      00166530 [NONAME]
+        789      00165D70 [NONAME]
+        791      000347D0 [NONAME]
+        814      002D3650 [NONAME]
+        815      000226D0 [NONAME]
+        816      002D3590 [NONAME]
+        817      003EF940 [NONAME]
+        818      002D3640 [NONAME]
+        819      002D3A30 [NONAME]
+        823      001ACE70 [NONAME]
+        824      0003CE80 [NONAME]
+        825      002D34C0 [NONAME]
+        830      00122A10 [NONAME]
+        844      002813F0 [NONAME]
+        845      004B46C0 [NONAME]
+        847      000B6270 [NONAME]
+        849      00280020 [NONAME]
+        850      00100D30 [NONAME]
+        851      000BDC00 [NONAME]
+        862      004CD800 [NONAME]
+        866      001A5E70 [NONAME]
+        873      0007FDA0 [NONAME]
+        880      004C99F0 [NONAME]
+        887      004D4700 [NONAME]
+        897      001AF7C0 [NONAME]
+        898      004D2FE0 [NONAME]
+        910      004B9DD0 [NONAME]
+        911      000BE820 [NONAME]
+        914      00149780 [NONAME]
+        915      00042110 [NONAME]
+        916      00042930 [NONAME]
+        923      0012CD40 [NONAME]
+        928      004E85C0 [NONAME]
+       2000      00438BA0 [NONAME]
+       2001      0007CDD0 [NONAME]
+       2002      00083490 [NONAME]
+       2003      00448EB0 [NONAME]
+       2004      00448ED0 [NONAME]
+       2005      00457570 [NONAME]
+       2006      003FD3A0 [NONAME]
+       2007      00053BE0 [NONAME]
+       2009      001E3690 [NONAME]
+
+  Summary
+
+        9000 .data
+        3000 .didat
+       52000 .pdata
+      184000 .rdata
+       1F000 .reloc
+        4000 .rsrc
+      58E000 .text

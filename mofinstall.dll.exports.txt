@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\wbem\mofinstall.dll
+
+File Type: DLL
+
+  Section contains the following exports for mofinstall.DLL
+
+    00000000 characteristics
+    A4BFA783 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005D50 DllCanUnloadNow
+          2    1 00005D70 DllGetClassObject
+
+  Summary
+
+        6000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

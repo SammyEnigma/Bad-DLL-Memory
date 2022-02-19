@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MixedReality.Broker.dll
+
+File Type: DLL
+
+  Section contains the following exports for MixedReality.Broker.dll
+
+    00000000 characteristics
+    BF543A7B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00006170 DllCanUnloadNow
+          1    1 00006240 DllGetActivationFactory
+          3    2 00006140 DllMain
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       15000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4D000 .text

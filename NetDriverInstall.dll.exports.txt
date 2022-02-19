@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\NetDriverInstall.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetDriverInstall.dll
+
+    00000000 characteristics
+    30DE968C time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005550 NetDriverInstallClose
+          2    1 000056F0 NetDriverInstallCommit
+          3    2 00005490 NetDriverInstallInitialize
+          4    3 00005770 NetDriverInstallProcessAdditions
+          5    4 000057F0 NetDriverInstallProcessRemovals
+          6    5 00005670 NetDriverInstallSync
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

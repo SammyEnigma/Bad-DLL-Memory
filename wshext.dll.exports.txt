@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\wshext.dll
+
+File Type: DLL
+
+  Section contains the following exports for WSHEXT.dll
+
+    00000000 characteristics
+    4DE62D80 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008D90 CreateIndirectData
+          7    1 00001760 DllCanUnloadNow
+          8    2 00006180 DllGetClassObject
+          9    3 000061D0 DllRegisterServer
+         10    4 00006620 DllUnregisterServer
+          2    5 00001150 GetSignedDataMsg
+          3    6 00001010 IsFileSupportedName
+          4    7 00009E20 PutSignedDataMsg
+          5    8 00009FB0 RemoveSignedDataMsg
+          6    9 0000A5B0 VerifyIndirectData
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        E000 .text

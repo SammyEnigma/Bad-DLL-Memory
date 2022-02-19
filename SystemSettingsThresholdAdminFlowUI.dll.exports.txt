@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\SystemSettingsThresholdAdminFlowUI.dll
+
+File Type: DLL
+
+  Section contains the following exports for SystemSettingsThresholdAdminFlowUI.dll
+
+    00000000 characteristics
+    67AF718C time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0007F560 AddDomainUserPage_CreateInstance
+          6    1 00083880 CamSystemGlobalSwitch_CreateInstance
+          7    2 000821D0 ChangeKbLayoutPage_CreateInstance
+          8    3 000825E0 DeveloperModePage_CreateInstance
+          9    4 00082F10 DeviceDiscoveryUnpairAllDevicesPage_CreateInstance
+         10    5 00081A10 DeviceEncryptionPage_CreateInstance
+         11    6 00082B30 DevicePortalAuthenticationPage_CreateInstance
+         12    7 00082D00 DevicePortalSetAuthenticationPage_CreateInstance
+         13    8 0007FDE0 DisableUserPage_CreateInstance
+         14    9 0023DCE0 DllCanUnloadNow
+         15    A 0023DD00 DllGetActivationFactory
+         16    B 0007F940 EditUserPage_CreateInstance
+         17    C 0007FB50 EnableUserPage_CreateInstance
+         18    D 000804A0 EnterProductKeyPage_CreateInstance
+         19    E 000832E0 FeaturedResetPCPage_CreateInstance
+         20    F 000830E0 HolographicUninstallPage_CreateInstance
+          1   10 00083F40 InitializeXamlCustomResourceLoader
+          2   11 00083EA0 InitializeXamlRuntime
+         21   12 00080D80 JoinDomainPage_CreateInstance
+         22   13 00080FF0 LeaveDomainPage_CreateInstance
+         23   14 000816E0 LockdownAppPage_CreateInstance
+         24   15 00081430 LockdownUserPage_CreateInstance
+         25   16 000808A0 ManageExclusionPage_CreateInstance
+         26   17 00080260 RemoteDesktopPage_CreateInstance
+         27   18 0007F730 RemoveUserPage_CreateInstance
+         28   19 00080060 RenamePCPage_CreateInstance
+         29   1A 000834C0 ResetPCPage_CreateInstance
+         30   1B 000823F0 RetailDemoConfirmPage_CreateInstance
+         31   1C 00081260 SetDateTimePage_CreateInstance
+         32   1D 00082000 SetFindMyDevicePage_CreateInstance
+         33   1E 00081E30 SetGeolocationMasterPage_CreateInstance
+         34   1F 00082920 SurfaceHubDeveloperModePage_CreateInstance
+         35   20 000806A0 TroubleshootActivationPage_CreateInstance
+         36   21 00081C20 UnblockSimPinPage_CreateInstance
+          3   22 000840C0 UninitializeXamlCustomResourceLoader
+          4   23 00003C50 UninitializeXamlRuntime
+         37   24 000836A0 UninstallOSPage_CreateInstance
+
+  Summary
+
+       27000 .data
+        1000 .didat
+       21000 .pdata
+      122000 .rdata
+        A000 .reloc
+        1000 .rsrc
+      261000 .text

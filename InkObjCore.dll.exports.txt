@@ -1,0 +1,61 @@
+
+Dump of file C:\Windows\System32\InkObjCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for inkobjcore.dll
+
+    00000000 characteristics
+    1E5B2CA7 time date stamp
+        0.00 version
+           1 ordinal base
+          35 number of functions
+          35 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00017650 AddStroke
+          2    1 00017730 AddStrokeWithId
+          3    2 00018660 AddWordsToWordList
+          4    3 00018290 AdviseInkChange
+          5    4 00017440 CreateContext
+          6    5 00017080 CreateRecognizer
+          7    6 00017570 DestroyContext
+          8    7 000171A0 DestroyRecognizer
+          9    8 00018570 DestroyWordList
+         10    9 000043F0 DllCanUnloadNow
+         11    A 00004410 DllGetClassObject
+         12    B 00004530 DllRegisterServer
+         13    C 00004600 DllUnregisterServer
+         14    D 00017A90 EndInkInput
+         15    E 00016CD0 GetAllRecognizers
+         16    F 00017900 GetBestResultString
+         17   10 00017E50 GetLatticePtr
+         18   11 000180F0 GetLeftSeparator
+         19   12 00017380 GetRecoAttributes
+         20   13 00018000 GetResultPropertyList
+         21   14 000181C0 GetRightSeparator
+         22   15 00017290 GetUnicodeRanges
+         23   16 00004690 InvokeIDispatch
+         24   17 00018350 IsStringSupported
+         25   18 00018AF0 LoadCachedAttributes
+         26   19 00018420 MakeWordList
+         27   1A 00017B40 Process
+         28   1B 00017CC0 SetConstraint
+         29   1C 000179C0 SetEnabledUnicodeRanges
+         30   1D 00017BF0 SetFactoid
+         31   1E 00017D90 SetFlags
+         32   1F 000170D0 SetGuide
+         33   20 00017830 SetStrokeGroupId
+         34   21 00017F10 SetTextContext
+         35   22 00018720 SetWordList
+
+  Summary
+
+        8000 .data
+        1000 .didat
+        8000 .pdata
+       35000 .rdata
+        2000 .reloc
+       19000 .rsrc
+       8D000 .text

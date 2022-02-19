@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_Pen.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_Pen.dll
+
+    00000000 characteristics
+    FFBA4F94 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004680 DllCanUnloadNow
+          2    1 00004580 DllGetClassObject
+          3    2 00004700 GetSetting
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

@@ -1,0 +1,156 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igfx11cmrt32.dll
+
+File Type: DLL
+
+  Section contains the following exports for igfx11cmrt32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         132 number of functions
+         132 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000015A0 ??0CM_AVS_STATE_MSG_EX@@QAE@XZ
+          2    1 00001240 ??0CM_FLAG@@QAE@XZ
+          3    2 00001980 ?CloneKernel@CmDevice_RT@@UAEHAAPAVCmKernel@@PAV2@@Z
+          4    3 000019D0 ?CreateBuffer@CmDevice_RT@@UAEHIAAPAVCmBuffer@@@Z
+          5    4 000019E0 ?CreateBufferAlias@CmDevice_RT@@UAEHPAVCmBuffer@@AAPAVSurfaceIndex@@@Z
+          6    5 00001A30 ?CreateBufferSVM@CmDevice_RT@@UAEHIAAPAXIAAPAVCmBufferSVM@@@Z
+          7    6 00001A40 ?CreateBufferStateless@CmDevice_RT@@UAEHIIPAXAAPAVCmBufferStateless@@@Z
+          8    7 00001A50 ?CreateBufferUP@CmDevice_RT@@UAEHIPAXAAPAVCmBufferUP@@@Z
+          9    8 00001A60 ?CreateHevcVmeSurfaceG10@CmDevice_RT@@UAEHPAVCmSurface2D@@PAPAV2@1IIAAPAVSurfaceIndex@@@Z
+         10    9 00001AD0 ?CreateKernel@CmDevice_RT@@UAEHPAVCmProgram@@PBDAAPAVCmKernel@@1@Z
+         11    A 00001B40 ?CreateKernel@CmDevice_RT@@UAEHPAVCmProgram@@PBDPBXAAPAVCmKernel@@1@Z
+         12    B 00001B50 ?CreateQueue@CmDevice_RT@@UAEHAAPAVCmQueue@@@Z
+         13    C 00001BB0 ?CreateQueueEx@CmDevice_RT@@UAEHAAPAVCmQueue@@UCM_QUEUE_CREATE_OPTION@@@Z
+         14    D 00001CE0 ?CreateSampler8x8@CmDevice_RT@@UAEHABUCM_SAMPLER_8X8_DESCR@@AAPAVCmSampler8x8@@@Z
+         15    E 00001D90 ?CreateSampler8x8Surface@CmDevice_RT@@UAEHPAVCmSurface2D@@AAPAVSurfaceIndex@@W4_CM_SAMPLER8x8_SURFACE_@@W4_CM_SURFACE_ADDRESS_CONTROL_MODE_@@@Z
+         16    F 00001DF0 ?CreateSampler8x8SurfaceEx@CmDevice_RT@@UAEHPAVCmSurface2D@@AAPAVSurfaceIndex@@W4_CM_SAMPLER8x8_SURFACE_@@W4_CM_SURFACE_ADDRESS_CONTROL_MODE_@@PAUCM_FLAG@@@Z
+         17   10 00001E60 ?CreateSampler@CmDevice_RT@@UAEHABU_CM_SAMPLER_STATE@@AAPAVCmSampler@@@Z
+         18   11 00001ED0 ?CreateSamplerEx@CmDevice_RT@@UAEHABU_CM_SAMPLER_STATE_EX@@AAPAVCmSampler@@@Z
+         19   12 00001F50 ?CreateSamplerSurface2D@CmDevice_RT@@UAEHPAVCmSurface2D@@AAPAVSurfaceIndex@@@Z
+         20   13 00001FA0 ?CreateSamplerSurface2DEx@CmDevice_RT@@UAEHPAVCmSurface2D@@AAPAVSurfaceIndex@@PAUCM_FLAG@@@Z
+         21   14 00002000 ?CreateSamplerSurface2DUP@CmDevice_RT@@UAEHPAVCmSurface2DUP@@AAPAVSurfaceIndex@@@Z
+         22   15 00002050 ?CreateSamplerSurface3D@CmDevice_RT@@UAEHPAVCmSurface3D@@AAPAVSurfaceIndex@@@Z
+         23   16 000020A0 ?CreateSurface2D@CmDevice_RT@@UAEHIIW4DXGI_FORMAT@@AAPAVCmSurface2D@@@Z
+         24   17 000046C0 ?CreateSurface2D@CmDevice_RT@@UAEHPAPAUID3D11Texture2D@@IPAPAVCmSurface2D@@@Z
+         25   18 000046D0 ?CreateSurface2D@CmDevice_RT@@UAEHPAUID3D11Texture2D@@AAPAVCmSurface2D@@@Z
+         26   19 000020B0 ?CreateSurface2DAlias@CmDevice_RT@@UAEHPAVCmSurface2D@@AAPAVSurfaceIndex@@@Z
+         27   1A 00002100 ?CreateSurface2DStateless@CmDevice_RT@@UAEHIIAAIAAPAVCmSurface2DStateless@@@Z
+         28   1B 000046E0 ?CreateSurface2DSubresource@CmDevice_RT@@UAEHPAUID3D11Texture2D@@IPAPAVCmSurface2D@@AAII@Z
+         29   1C 00002110 ?CreateSurface2DUP@CmDevice_RT@@UAEHIIW4DXGI_FORMAT@@PAXAAPAVCmSurface2DUP@@@Z
+         30   1D 000046F0 ?CreateSurface2DbySubresourceIndex@CmDevice_RT@@UAEHPAUID3D11Texture2D@@IIAAPAVCmSurface2D@@@Z
+         31   1E 00002120 ?CreateSurface3D@CmDevice_RT@@UAEHIIIW4DXGI_FORMAT@@AAPAVCmSurface3D@@@Z
+         32   1F 00002130 ?CreateTask@CmDevice_RT@@UAEHAAPAVCmTask@@@Z
+         33   20 00002190 ?CreateThreadGroupSpace@CmDevice_RT@@UAEHIIIIAAPAVCmThreadGroupSpace@@@Z
+         34   21 00002200 ?CreateThreadGroupSpaceEx@CmDevice_RT@@UAEHIIIIIIAAPAVCmThreadGroupSpace@@@Z
+         35   22 00002270 ?CreateThreadSpace@CmDevice_RT@@UAEHIIAAPAVCmThreadSpace@@@Z
+         36   23 000022C0 ?CreateVebox@CmDevice_RT@@UAEHAAPAVCmVebox@@@Z
+         37   24 00002310 ?CreateVmeSurfaceG7_5@CmDevice_RT@@UAEHPAVCmSurface2D@@PAPAV2@1IIAAPAVSurfaceIndex@@@Z
+         38   25 00002380 ?DestroyBufferSVM@CmDevice_RT@@UAEHAAPAVCmBufferSVM@@@Z
+         39   26 00002390 ?DestroyBufferStateless@CmDevice_RT@@UAEHAAPAVCmBufferStateless@@@Z
+         40   27 000023A0 ?DestroyBufferUP@CmDevice_RT@@UAEHAAPAVCmBufferUP@@@Z
+         41   28 00003180 ?DestroyEvent@CmQueue_RT@@UAEHAAPAVCmEvent@@@Z
+         42   29 000031E0 ?DestroyEventFast@CmQueue_RT@@UAEHAAPAVCmEvent@@@Z
+         43   2A 000023B0 ?DestroyHevcVmeSurfaceG10@CmDevice_RT@@UAEHAAPAVSurfaceIndex@@@Z
+         44   2B 000023F0 ?DestroyKernel@CmDevice_RT@@UAEHAAPAVCmKernel@@@Z
+         45   2C 00002430 ?DestroyProgram@CmDevice_RT@@UAEHAAPAVCmProgram@@@Z
+         46   2D 00002480 ?DestroySampler8x8@CmDevice_RT@@UAEHAAPAVCmSampler8x8@@@Z
+         47   2E 000024C0 ?DestroySampler8x8Surface@CmDevice_RT@@UAEHAAPAVSurfaceIndex@@@Z
+         48   2F 00002500 ?DestroySampler@CmDevice_RT@@UAEHAAPAVCmSampler@@@Z
+         49   30 00002540 ?DestroySamplerSurface@CmDevice_RT@@UAEHAAPAVSurfaceIndex@@@Z
+         50   31 00002580 ?DestroySurface2DStateless@CmDevice_RT@@UAEHAAPAVCmSurface2DStateless@@@Z
+         51   32 00002590 ?DestroySurface2DUP@CmDevice_RT@@UAEHAAPAVCmSurface2DUP@@@Z
+         52   33 000025A0 ?DestroySurface@CmDevice_RT@@UAEHAAPAVCmBuffer@@@Z
+         53   34 000025B0 ?DestroySurface@CmDevice_RT@@UAEHAAPAVCmSurface2D@@@Z
+         54   35 000025C0 ?DestroySurface@CmDevice_RT@@UAEHAAPAVCmSurface3D@@@Z
+         55   36 000025D0 ?DestroyTask@CmDevice_RT@@UAEHAAPAVCmTask@@@Z
+         56   37 00002630 ?DestroyThreadGroupSpace@CmDevice_RT@@UAEHAAPAVCmThreadGroupSpace@@@Z
+         57   38 00002670 ?DestroyThreadSpace@CmDevice_RT@@UAEHAAPAVCmThreadSpace@@@Z
+         58   39 000026B0 ?DestroyVebox@CmDevice_RT@@UAEHAAPAVCmVebox@@@Z
+         59   3A 000023B0 ?DestroyVmeSurfaceG7_5@CmDevice_RT@@UAEHAAPAVSurfaceIndex@@@Z
+         60   3B 000026F0 ?DispatchTask@CmDevice_RT@@UAEHXZ
+         61   3C 00003240 ?Enqueue@CmQueue_RT@@UAEHPAVCmTask@@AAPAVCmEvent@@PBVCmThreadSpace@@@Z
+         62   3D 000033B0 ?EnqueueCopyCPUToCPU@CmQueue_RT@@UAEHPAE0IIAAPAVCmEvent@@@Z
+         63   3E 00003460 ?EnqueueCopyCPUToGPU@CmQueue_RT@@UAEHPAVCmSurface2D@@PBEAAPAVCmEvent@@@Z
+         64   3F 00003480 ?EnqueueCopyCPUToGPUFullStride@CmQueue_RT@@UAEHPAVCmSurface2D@@PBEIIIAAPAVCmEvent@@@Z
+         65   40 00003480 ?EnqueueCopyCPUToGPUFullStrideDup@CmQueue_RT@@UAEHPAVCmSurface2D@@PBEIIIAAPAVCmEvent@@@Z
+         66   41 000034A0 ?EnqueueCopyGPUToCPU@CmQueue_RT@@UAEHPAVCmSurface2D@@PAEAAPAVCmEvent@@@Z
+         67   42 000034C0 ?EnqueueCopyGPUToCPUFullStride@CmQueue_RT@@UAEHPAVCmSurface2D@@PAEIIIAAPAVCmEvent@@@Z
+         68   43 000034C0 ?EnqueueCopyGPUToCPUFullStrideDup@CmQueue_RT@@UAEHPAVCmSurface2D@@PAEIIIAAPAVCmEvent@@@Z
+         69   44 000034E0 ?EnqueueCopyGPUToGPU@CmQueue_RT@@UAEHPAVCmSurface2D@@0IAAPAVCmEvent@@@Z
+         70   45 00003590 ?EnqueueFast@CmQueue_RT@@UAEHPAVCmTask@@AAPAVCmEvent@@PBVCmThreadSpace@@@Z
+         71   46 00003640 ?EnqueueInitSurface2D@CmQueue_RT@@UAEHPAVCmSurface2D@@IAAPAVCmEvent@@@Z
+         72   47 000036E0 ?EnqueueVebox@CmQueue_RT@@UAEHPAVCmVebox@@AAPAVCmEvent@@@Z
+         73   48 00003780 ?EnqueueWithGroup@CmQueue_RT@@UAEHPAVCmTask@@AAPAVCmEvent@@PBVCmThreadGroupSpace@@@Z
+         74   49 00003830 ?EnqueueWithGroupFast@CmQueue_RT@@UAEHPAVCmTask@@AAPAVCmEvent@@PBVCmThreadGroupSpace@@@Z
+         75   4A 000038E0 ?EnqueueWithHints@CmQueue_RT@@UAEHPAVCmTask@@AAPAVCmEvent@@I@Z
+         76   4B 00002700 ?FlushPrintBuffer@CmDevice_RT@@UAEHXZ
+         77   4C 00002730 ?FlushPrintBufferIntoFile@CmDevice_RT@@UAEHPBD@Z
+         78   4D 00002770 ?GetCaps@CmDevice_RT@@UAEHW4_CM_DEVICE_CAP_NAME@@AAIPAX@Z
+         79   4E 00004890 ?GetD3D11Device@CmDevice_RT@@UAEHAAPAUID3D11Device@@@Z
+         80   4F 000027C0 ?GetSurface2DInfo@CmDevice_RT@@UAEHIIW4DXGI_FORMAT@@AAI1@Z
+         81   50 00002840 ?GetVISAVersion@CmDevice_RT@@UAEHAAI0@Z
+         82   51 000028B0 ?InitPrintBuffer@CmDevice_RT@@UAEHI@Z
+         83   52 000028F0 ?LoadProgram@CmDevice_RT@@UAEHPAXIAAPAVCmProgram@@PBD@Z
+         84   53 00002960 ?SetCaps@CmDevice_RT@@UAEHW4_CM_DEVICE_CAP_NAME@@IPAX@Z
+         85   54 000029C0 ?SetL3Config@CmDevice_RT@@UAEHPBUL3ConfigRegisterValues@@@Z
+         86   55 000039B0 ?SetResidentGroupAndParallelThreadNum@CmQueue_RT@@QAEHII@Z
+         87   56 00002A10 ?SetSuggestedL3Config@CmDevice_RT@@UAEHW4_L3_SUGGEST_CONFIG@@@Z
+         88   57 00002A50 ?SetVmeSurfaceStateParam@CmDevice_RT@@UAEHPAVSurfaceIndex@@PAUCM_VME_SURFACE_STATE_PARAM@@@Z
+         89   58 00001250 CMRT_CreateBuffer
+         90   59 00001280 CMRT_CreateKernel
+         91   5A 000012C0 CMRT_CreateQueue
+         92   5B 000012F0 CMRT_CreateSurface2D
+         93   5C 00001330 CMRT_CreateSurface3D
+         94   5D 00001370 CMRT_CreateTask
+         95   5E 000013A0 CMRT_CreateThreadSpace
+         96   5F 000013D0 CMRT_DestroyBuffer
+         97   60 00001400 CMRT_DestroyEvent
+         98   61 00001430 CMRT_DestroyProgram
+         99   62 00001460 CMRT_DestroySurface2D
+        100   63 00001490 CMRT_DestroySurface3D
+        101   64 000014C0 CMRT_DestroyTask
+        102   65 000014F0 CMRT_DestroyThreadSpace
+        103   66 00005D60 CMRT_EnableGTPinMarkers
+        104   67 00002AB0 CMRT_Enqueue
+        105   68 00005780 CMRT_GetCompleteTime
+        106   69 000057B0 CMRT_GetEnqueueTime
+        107   6A 000057E0 CMRT_GetHWEndTime
+        108   6B 00005810 CMRT_GetHWStartTime
+        109   6C 00005840 CMRT_GetKernelCount
+        110   6D 00005880 CMRT_GetKernelName
+        111   6E 000058B0 CMRT_GetKernelThreadSpace
+        112   6F 00005930 CMRT_GetSubmitTime
+        113   70 00005D70 CMRT_GetSurfaceDetails
+        114   71 00001520 CMRT_LoadProgram
+        115   72 00005DA0 CMRT_PrepareGTPinBuffers
+        116   73 00005960 CMRT_SetEventCallback
+        117   74 00005E50 CMRT_SetGTPinArguments
+        118   75 00005EC0 CMRT_SetGTPinCompileMode
+        119   76 00005ED0 CmrtCodeMarkerForGTPin_AddKernel
+        120   77 00005EF0 CmrtCodeMarkerForGTPin_CreateQueue
+        121   78 00005F10 CmrtCodeMarkerForGTPin_CreateTask
+        122   79 00005F30 CmrtCodeMarkerForGTPin_DestroyTask
+        123   7A 00005F50 CmrtCodeMarkerForGTPin_Enqueue
+        124   7B 00005F80 CmrtCodeMarkerForGTPin_EnqueueWithGroup
+        125   7C 00005FB0 CmrtCodeMarkerForGTPin_SetThreadCount
+        126   7D 00005990 CreateCmDevice
+        127   7E 000059F0 CreateCmDeviceEx
+        128   7F 00005A50 CreateCmDeviceFromAdapter
+        129   80 00002AE0 DestroyCmDevice
+        130   81 00001560 GetCmErrorString
+        131   82 00005AC0 GetCmSupportedAdapters
+        132   83 00005AD0 QueryCmAdapterInfo
+
+  Summary
+
+        5000 .data
+        B000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       17000 .text

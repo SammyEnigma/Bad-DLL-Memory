@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.AllJoyn.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.AllJoyn.dll
+
+    00000000 characteristics
+    E291B30E time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005D100 DllCanUnloadNow
+          2    1 0005CBE0 DllGetActivationFactory
+          3    2 0005CDC0 DllGetClassObject
+          4    3 0005CF50 DllMain
+          5    4 0005CF20 DllRegisterServer
+          6    5 0005CEF0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        5000 .pdata
+       34000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       61000 .text

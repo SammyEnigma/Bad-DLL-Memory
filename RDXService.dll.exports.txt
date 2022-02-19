@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\RDXService.dll
+
+File Type: DLL
+
+  Section contains the following exports for RetailDemoService.dll
+
+    00000000 characteristics
+    2DF51F53 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0000B330 DllCanUnloadNow
+          4    1 0000B3A0 DllGetClassObject
+          5    2 00003340 GetProxyDllInfo
+          1    3 0000B4D0 OpenRDXDocumentW
+          2    4 0000B2D0 ServiceMain
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       32000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       78000 .text

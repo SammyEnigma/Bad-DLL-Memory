@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvoglv32.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvoglv32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          30 number of functions
+          30 number of names
+
+    ordinal hint RVA      name
+
+         20    0 00A6A260 DllMain
+          1    1 00A59180 DrvCopyContext
+          2    2 00A59380 DrvCreateContext
+          3    3 00A593A0 DrvCreateLayerContext
+          4    4 00A593D0 DrvDeleteContext
+          5    5 00A59950 DrvDescribeLayerPlane
+          6    6 00A59B30 DrvDescribePixelFormat
+          7    7 00A59E70 DrvGetLayerPaletteEntries
+          8    8 00A5A150 DrvGetProcAddress
+          9    9 00A89890 DrvPresentBuffers
+         10    A 00A5A250 DrvRealizeLayerPalette
+         11    B 00A5A4D0 DrvReleaseContext
+         12    C 00A5A610 DrvSetCallbackProcs
+         13    D 00A5A7B0 DrvSetContext
+         14    E 00A5AD70 DrvSetLayerPaletteEntries
+         15    F 00A5B0F0 DrvSetPixelFormat
+         16   10 00A5B280 DrvShareLists
+         17   11 00A5B4F0 DrvSwapBuffers
+         18   12 00A5B510 DrvSwapLayerBuffers
+         19   13 00A5B7D0 DrvValidateVersion
+         21   14 00D36AF0 vkCreateInstance
+         22   15 00D373C0 vkEnumerateInstanceExtensionProperties
+         23   16 00D373E0 vkEnumerateInstanceLayerProperties
+         24   17 00D37AF0 vkGetInstanceProcAddr
+         25   18 00A53C30 vkGetProcAddressNV
+         26   19 00DBC9E0 vk_icdGetInstanceProcAddr
+         27   1A 00DBCAD0 vk_icdGetPhysicalDeviceProcAddr
+         28   1B 00DBCB40 vk_icdNegotiateLoaderICDInterfaceVersion
+         29   1C 00D3B640 vk_optimusGetDeviceProcAddr
+         30   1D 00D3B6A0 vk_optimusGetInstanceProcAddr
+
+  Summary
+
+      169000 .data
+      61C000 .rdata
+       DB000 .reloc
+        1000 .rsrc
+     16C7000 .text

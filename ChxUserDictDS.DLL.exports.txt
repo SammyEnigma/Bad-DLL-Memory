@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\InputMethod\SHARED\ChxUserDictDS.DLL
+
+File Type: DLL
+
+  Section contains the following exports for ChxUserDictDS.dll
+
+    00000000 characteristics
+    F10558D7 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000053E0 DllCanUnloadNow
+          2    1 000052A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       20000 .text

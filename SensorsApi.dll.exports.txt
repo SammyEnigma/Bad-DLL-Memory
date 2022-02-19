@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\SensorsApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for SensorsApi.DLL
+
+    00000000 characteristics
+    4C756739 time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+         31    0 0000CA50 DllCanUnloadNow
+         32    1 0000CC00 DllGetClassObject
+         33    2 0000CD70 DllRegisterServer
+         34    3 0000CEC0 DllUnregisterServer
+          1    4 00010F20 SensorCloseCOM
+          2    5 00011210 SensorEnableIdleOperationCOM
+          3    6 00011320 SensorGetAccDataCOM
+          4    7 00011530 SensorGetAlsDataCOM
+          5    8 00011560 SensorGetAlsDataWithColorCOM
+          6    9 000118A0 SensorGetBarDataCOM
+          7    A 000119E0 SensorGetCapabilitiesCollectionCOM
+          8    B 00011BA0 SensorGetDataCollectionCOM
+          9    C 00011E20 SensorGetDeviceIdCOM
+         10    D 00012030 SensorGetFusDataCOM
+         11    E 000121E0 SensorGetGyrDataCOM
+         12    F 000123E0 SensorGetMagDataCOM
+         13   10 00012610 SensorGetPropertiesCOM
+         14   11 00012B80 SensorGetPrxDataCOM
+         15   12 00012B90 SensorGetThresholdsCOM
+         16   13 000131A0 SensorOpenByInterfaceCOM
+         35   14 0000D220 SensorPermissionsHandler
+         36   15 0000D220 SensorPermissionsHandlerA
+         37   16 0000D270 SensorPermissionsHandlerW
+         17   17 00013380 SensorRegisterEventCOM
+         18   18 00013490 SensorSetAccThresholdsCOM
+         19   19 000136C0 SensorSetAlsThresholdsCOM
+         20   1A 000136F0 SensorSetAlsWithColorThresholdsCOM
+         21   1B 000139A0 SensorSetBarThresholdsCOM
+         22   1C 00013AC0 SensorSetFusThresholdsCOM
+         23   1D 00013C80 SensorSetGyrThresholdsCOM
+         24   1E 00013EB0 SensorSetIntervalCOM
+         25   1F 00014080 SensorSetMagThresholdsCOM
+         26   20 000142B0 SensorSetOrientationSensorThresholdsCOM
+         27   21 00014430 SensorSetThresholdsCOM
+         28   22 00014600 SensorStartCollectionCOM
+         29   23 00014710 SensorStopCOM
+         30   24 00014840 SensorUnregisterEventCOM
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       18000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       49000 .text

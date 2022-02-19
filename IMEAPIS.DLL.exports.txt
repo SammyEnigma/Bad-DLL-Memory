@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\IMEAPIS.DLL
+
+File Type: DLL
+
+  Section contains the following exports for imapis.dll
+
+    00000000 characteristics
+    1E757B3F time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001200 DllCanUnloadNow
+          2    1 000011C0 DllGetClassObject
+          3    2 00001270 DllRegisterServer
+          4    3 000012A0 DllUnregisterServer
+          5    4 000011A0 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        F000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        2000 .text

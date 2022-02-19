@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\HoloSHExtensions.dll
+
+File Type: DLL
+
+  Section contains the following exports for HoloSHExtensions.dll
+
+    00000000 characteristics
+    1C76C42B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000BCE0 DllCanUnloadNow
+          2    1 0000BA10 DllGetActivationFactory
+          3    2 0000BBF0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1E000 .text

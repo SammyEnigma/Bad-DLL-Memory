@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.LowLevel.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.LowLevel.dll
+
+    00000000 characteristics
+    6002AECC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000027E0 DllCanUnloadNow
+          2    1 00002600 DllGetActivationFactory
+          3    2 00002850 DllGetClassObject
+          4    3 00043620 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        4000 .pdata
+       41000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       46000 .text

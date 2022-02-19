@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\microsoft-windows-pdc.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       12000 .rsrc

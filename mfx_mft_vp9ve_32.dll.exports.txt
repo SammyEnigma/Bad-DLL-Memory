@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\msdk.inf_amd64_c03be30a746c89a2\mfx_mft_vp9ve_32.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfx_mft_vp9ve_32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005C650 DllCanUnloadNow
+          2    1 0005CF10 DllGetClassObject
+          3    2 0009A560 DllMain
+          4    3 0005C670 DllRegisterServer
+          5    4 0005CDA0 DllUnregisterServer
+
+  Summary
+
+       19000 .data
+       4F000 .rdata
+       12000 .reloc
+        1000 .rsrc
+      202000 .text

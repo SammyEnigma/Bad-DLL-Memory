@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\Clipc.dll
+
+File Type: DLL
+
+  Section contains the following exports for CLIPC.dll
+
+    00000000 characteristics
+    10CBCB85 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00003A50 ClipCallServer
+          4    1 000047C0 ClipCleanUpState
+          5    2 000025E0 ClipClose
+          6    3 00004560 ClipGatherDiagnostics
+          7    4 00004160 ClipGenerateClientChallengeData
+          8    5 00003E70 ClipGenerateDeviceLicenseRequest
+          9    6 000031E0 ClipGetAssociatedResults
+         10    7 00005E40 ClipGetDeviceHardwareData
+         11    8 00003880 ClipGetFileIdFromAssociateId
+         12    9 00005980 ClipGetLicenseAndPolicyForPfn
+         13    A 00002CB0 ClipGetLicenseData
+         14    B 00003580 ClipGetQueryResults
+         15    C 00005760 ClipGetSubscriptionStatus
+         16    D 000026C0 ClipInstallLicense
+         17    E 00002500 ClipOpen
+         18    F 00002F00 ClipQueryAssociateId
+         19   10 00004390 ClipRefreshLicense
+         20   11 00002B20 ClipUninstallLicense
+          1   12 00005390 GetExchangeDeviceUniqueID
+          2   13 00004F20 GetOfflineDeviceUniqueID
+         21   14 000055E0 SLQueryLicenseValueFromApp
+         22   15 000056D0 SLQueryLicenseValueFromApp2
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       25000 .text

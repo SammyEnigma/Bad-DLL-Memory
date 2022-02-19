@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\NvIFR64.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvIFR.dll
+
+    00000000 characteristics
+    5FD3FE36 time date stamp Sat Dec 12 00:18:14 2020
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00029240 NvIFR_ConnectToCrossProcessSharedSurfaceEXT
+          2    1 00028DF0 NvIFR_CopyFromCrossProcessSharedSurfaceEXT
+          3    2 000277C0 NvIFR_CopyFromSharedSurfaceEXT
+          4    3 000299A0 NvIFR_CopyToCrossProcessSharedSurfaceEXT
+          5    4 000273F0 NvIFR_CopyToSharedSurfaceEXT
+          6    5 0002B0F0 NvIFR_Create
+          7    6 00028570 NvIFR_CreateCrossProcessSharedSurfaceEXT
+          8    7 0002AF60 NvIFR_CreateEx
+          9    8 00026D30 NvIFR_CreateSharedSurfaceEXT
+         10    9 00029EF0 NvIFR_DestroyCrossProcessSharedSurfaceEXT
+         11    A 00027050 NvIFR_DestroySharedSurfaceEXT
+         12    B 0002B2C0 NvIFR_GetSDKVersion
+
+  Summary
+
+        B000 .data
+       1A000 .pdata
+       44000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      10C000 .text

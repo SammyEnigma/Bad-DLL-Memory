@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Dism\SysprepProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for SysprepProvider.DLL
+
+    00000000 characteristics
+    7E0122C2 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001C20 DLLGetDISMProviderCLSID
+          2    1 00001C50 DllCanUnloadNow
+          3    2 00001C90 DllGetClassObject
+          4    3 00001DD0 DllRegisterServer
+          5    4 00001ED0 DllUnregisterServer
+
+  Summary
+
+        A000 .data
+        5000 .pdata
+       51000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       60000 .text

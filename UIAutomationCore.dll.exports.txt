@@ -1,0 +1,134 @@
+
+Dump of file C:\Windows\System32\UIAutomationCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for UIAutomationCore.DLL
+
+    00000000 characteristics
+    DA46C7AD time date stamp
+        0.00 version
+           1 ordinal base
+         108 number of functions
+         108 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00036470 DllCanUnloadNow
+          1    1 000B4380 DllGetActivationFactory
+          3    2 0004F5A0 DllGetClassObject
+          4    3 000BB2E0 DockPattern_SetDockPosition
+          5    4 000BB3A0 ExpandCollapsePattern_Collapse
+          6    5 000BB420 ExpandCollapsePattern_Expand
+          7    6 000BB4A0 GridPattern_GetItem
+          8    7 000B8200 IgnoreLeaksInCurrentlyTrackedMemory
+          9    8 000B8250 InitializeChannelBasedConnectionForProviderProxy
+         10    9 000BB680 InvokePattern_Invoke
+         11    A 000B8270 IsIgnoringLeaks
+         12    B 000BB730 ItemContainerPattern_FindItemByProperty
+         13    C 000BBA10 LegacyIAccessiblePattern_DoDefaultAction
+         14    D 000BBA90 LegacyIAccessiblePattern_GetIAccessible
+         15    E 000BBB20 LegacyIAccessiblePattern_Select
+         16    F 000BBBB0 LegacyIAccessiblePattern_SetValue
+         17   10 000BBC40 MultipleViewPattern_GetViewName
+         18   11 000BBCF0 MultipleViewPattern_SetCurrentView
+         19   12 000B8290 PostTestCheckForLeaks
+         20   13 000BBD80 RangeValuePattern_SetValue
+         21   14 000BBE10 ScrollItemPattern_ScrollIntoView
+         22   15 000BBEC0 ScrollPattern_Scroll
+         23   16 000BBF60 ScrollPattern_SetScrollPercent
+         24   17 000BC000 SelectionItemPattern_AddToSelection
+         25   18 000BC080 SelectionItemPattern_RemoveFromSelection
+         26   19 000BC100 SelectionItemPattern_Select
+         27   1A 00062020 StartIgnoringLeaks
+         28   1B 00062020 StopIgnoringLeaks
+         29   1C 000BC180 SynchronizedInputPattern_Cancel
+         30   1D 000BC200 SynchronizedInputPattern_StartListening
+         31   1E 000BC290 TextPattern_GetSelection
+         32   1F 000BC380 TextPattern_GetVisibleRanges
+         33   20 000BC470 TextPattern_RangeFromChild
+         34   21 000BC620 TextPattern_RangeFromPoint
+         35   22 000BC750 TextPattern_get_DocumentRange
+         36   23 000BC800 TextPattern_get_SupportedTextSelection
+         37   24 000BC8A0 TextRange_AddToSelection
+         38   25 000BC910 TextRange_Clone
+         39   26 000BC9B0 TextRange_Compare
+         40   27 000BCA50 TextRange_CompareEndpoints
+         41   28 000BCB10 TextRange_ExpandToEnclosingUnit
+         42   29 000BCB90 TextRange_FindAttribute
+         43   2A 000BCC80 TextRange_FindText
+         44   2B 000BCD50 TextRange_GetAttributeValue
+         45   2C 000BCE20 TextRange_GetBoundingRectangles
+         46   2D 000BCF20 TextRange_GetChildren
+         47   2E 000BD050 TextRange_GetEnclosingElement
+         48   2F 000BD1B0 TextRange_GetText
+         49   30 000BD250 TextRange_Move
+         50   31 000BD300 TextRange_MoveEndpointByRange
+         51   32 000BD3A0 TextRange_MoveEndpointByUnit
+         52   33 000BD460 TextRange_RemoveFromSelection
+         53   34 000BD4D0 TextRange_ScrollIntoView
+         54   35 000BD550 TextRange_Select
+         55   36 000BD5C0 TogglePattern_Toggle
+         56   37 000BD670 TransformPattern_Move
+         57   38 000BD710 TransformPattern_Resize
+         58   39 000BD7B0 TransformPattern_Rotate
+         59   3A 000BD840 UiaAddEvent
+         60   3B 0004C4C0 UiaClientsAreListening
+         61   3C 000B8760 UiaDisconnectAllProviders
+         62   3D 0004AF10 UiaDisconnectProvider
+         63   3E 000BDA40 UiaEventAddWindow
+         64   3F 000BDBE0 UiaEventRemoveWindow
+         65   40 00063DB0 UiaFind
+         66   41 000BDCE0 UiaGetErrorDescription
+         67   42 00063BA0 UiaGetPatternProvider
+         68   43 00063AC0 UiaGetPropertyValue
+         69   44 000501B0 UiaGetReservedMixedAttributeValue
+         70   45 00065190 UiaGetReservedNotSupportedValue
+         71   46 000BDD00 UiaGetRootNode
+         72   47 000BDD90 UiaGetRuntimeId
+         73   48 000641B0 UiaGetUpdatedCache
+         74   49 000B8820 UiaHPatternObjectFromVariant
+         75   4A 000B8820 UiaHTextRangeFromVariant
+         76   4B 00064D90 UiaHUiaNodeFromVariant
+         77   4C 000BDE50 UiaHasServerSideProvider
+         78   4D 00048380 UiaHostProviderFromHwnd
+         79   4E 000BDEA0 UiaIAccessibleFromProvider
+         80   4F 00046250 UiaLookupId
+         81   50 00064520 UiaNavigate
+         82   51 000BE0F0 UiaNodeFromFocus
+         83   52 00064E30 UiaNodeFromHandle
+         84   53 000BE2B0 UiaNodeFromPoint
+         85   54 000BE490 UiaNodeFromProvider
+         86   55 000646D0 UiaNodeRelease
+         87   56 00065060 UiaPatternRelease
+         88   57 000BE550 UiaProviderForNonClient
+         89   58 000B8830 UiaProviderFromIAccessible
+         90   59 000B8A40 UiaRaiseActiveTextPositionChangedEvent
+         91   5A 000B8B70 UiaRaiseAsyncContentLoadedEvent
+         92   5B 0005DBB0 UiaRaiseAutomationEvent
+         93   5C 00061CE0 UiaRaiseAutomationPropertyChangedEvent
+         94   5D 000B8C30 UiaRaiseChangesEvent
+         95   5E 000B8D10 UiaRaiseNotificationEvent
+         96   5F 0004B100 UiaRaiseStructureChangedEvent
+         97   60 000B8DF0 UiaRaiseTextEditTextChangedEvent
+         98   61 000652A0 UiaRegisterProviderCallback
+         99   62 000BE640 UiaRemoveEvent
+        100   63 00022880 UiaReturnRawElementProvider
+        101   64 00063D30 UiaSetFocus
+        102   65 000BE740 UiaTextRangeRelease
+        103   66 000B82E0 UpdateErrorLoggingCallback
+        104   67 000BE7A0 ValuePattern_SetValue
+        105   68 000BE860 VirtualizedItemPattern_Realize
+        106   69 00064F00 WindowPattern_Close
+        107   6A 000BE910 WindowPattern_SetWindowVisualState
+        108   6B 000BE9A0 WindowPattern_WaitForInputIdle
+
+  Summary
+
+        7000 .data
+        1000 .didat
+       1D000 .pdata
+       8F000 .rdata
+        4000 .reloc
+       49000 .rsrc
+      1F4000 .text

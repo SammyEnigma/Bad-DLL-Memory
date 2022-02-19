@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\fwcfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for FWCFG.DLL
+
+    00000000 characteristics
+    1E27C282 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011F0 InitHelperDll
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

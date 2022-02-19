@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\LanguageOverlayUtil.dll
+
+File Type: DLL
+
+  Section contains the following exports for LanguageOverlayUtil.dll
+
+    00000000 characteristics
+    F25494F4 time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00009CC0 AddLanguageToMachineLanguageList
+          4    1 00008110 CloseOverlayPaths
+          5    2 00007FD0 EnumOverlayPaths
+          6    3 0000BEA0 EnumerateInstalledLocalExperiencePacks
+          7    4 0000A620 EnumerateInstalledMachineLanguagePacks
+          8    5 00005C30 EnumerateSupportedUILanguages
+          9    6 0000E560 FetchLanguageOverlayPackageForFirstLogon
+         10    7 00007A20 GetBcp47TagFromPackageFamilyName
+         11    8 0000DA30 GetLanguageDataForLogging
+         12    9 000075E0 GetLanguageOverlayPackageFamilyName
+         13    A 0000CC60 GetLanguagesInUse
+         14    B 0000CA30 GetLanguagesNotInUse
+         15    C 00005790 GetOverlayFilePath
+         16    D 0000C1E0 GetWindowsUpdateServer
+         17    E 0000C0F0 GroupUserLanguages
+         18    F 000074E0 InvalidateLanguageResourceCaches
+         19   10 0000BFF0 IsGroupingUserLanguagesNeeded
+         20   11 0000AE00 IsLegacyLanguagePackInstalledForLanguage
+         21   12 0000A540 IsLocalExperiencePackReadyForRemoval
+          1   13 0000B3D0 OnMachineUILanguageInit
+          2   14 0000B460 OnMachineUILanguageSwitch
+         22   15 00007EB0 OpenOverlayPaths
+         23   16 0000D530 OverlaySetPreferredUILanguages
+         24   17 00009ED0 RemoveLanguageFromMachineLanguageList
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1B000 .text

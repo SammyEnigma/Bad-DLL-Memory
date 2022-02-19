@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\JpMapControl.dll
+
+File Type: DLL
+
+  Section contains the following exports for JpMapControl.dll
+
+    00000000 characteristics
+    C81B90DC time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E70 DllCanUnloadNow
+          2    1 00001BA0 DllGetActivationFactory
+          3    2 00001D80 DllGetClassObject
+          4    3 000318D0 JpIs3DSupported
+          5    4 000318C0 JpIsUnifiedMapsStack
+          6    5 00032040 JpMapControlSettings_Create
+          7    6 00030FC0 JpMapControl_Create
+          8    7 000329E0 JpMapFactory_Create
+          9    8 000316E0 JpMapModel3DFrom3MFStreamOperation_Create
+         10    9 00033020 JpMapOverlayModel_Create
+         11    A 00036D50 JpMapStyleSheetFactory_Create
+         12    B 00031110 JpOverviewMapControl_Create
+         13    C 00031870 JpRestrictedApiAccessCheck
+         14    D 00031250 JpStreetsideExperience_Create
+         15    E 00031530 JpStreetsidePanoramaOperation_Create
+         16    F 00032400 MapSettings_GetMosBingMapsKey
+         17   10 000324F0 MapSettings_ResetMosKeys
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        5000 .pdata
+       33000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       65000 .text

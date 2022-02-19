@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\cdosys.dll
+
+File Type: DLL
+
+  Section contains the following exports for CdoSys.dll
+
+    00000000 characteristics
+    29E2ED60 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000FBB0 DllCanUnloadNow
+          2    1 0000FBF0 DllGetClassObject
+          3    2 0000FCC0 DllRegisterServer
+          4    3 0000FE60 DllUnregisterServer
+
+  Summary
+
+        B000 .data
+        5000 .pdata
+       48000 .rdata
+        3000 .reloc
+       11000 .rsrc
+       A0000 .text

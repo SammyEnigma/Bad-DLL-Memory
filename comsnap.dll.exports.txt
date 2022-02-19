@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\comsnap.dll
+
+File Type: DLL
+
+  Section contains the following exports for ComSnap.DLL
+
+    00000000 characteristics
+    4AE40C5D time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000A060 DllCanUnloadNow
+          3    1 0000A080 DllGetClassObject
+          4    2 0000A0A0 DllRegisterServer
+          5    3 0000A170 DllUnregisterServer
+          1    4 000154E0 InstallDsExtension
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+       15000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       2C000 .text

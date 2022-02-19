@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvlicensings.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvLicensings.DLL
+
+    00000000 characteristics
+    5FD404F2 time date stamp Sat Dec 12 00:46:58 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00064620 DllCanUnloadNow
+          2    1 00064670 DllGetClassObject
+          3    2 00064690 DllRegisterServer
+          4    3 000646A0 DllUnregisterServer
+
+  Summary
+
+       22000 .data
+        1000 .didat
+       1F000 .pdata
+       ED000 .rdata
+       11000 .reloc
+       9F000 .rsrc
+      287000 .text
+        1000 .tls

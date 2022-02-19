@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\AcSpecfc.dll
+
+File Type: DLL
+
+  Section contains the following exports for AcSpecfc.dll
+
+    00000000 characteristics
+    A647A81D time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000AF50 GetHookAPIs
+          2    1 0000B000 NotifyShims
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

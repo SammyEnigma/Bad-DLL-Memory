@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\wdigest.dll
+
+File Type: DLL
+
+  Section contains the following exports for wdigest.dll
+
+    00000000 characteristics
+    A42C0D7F time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          4    0 0001D000 CredentialUpdateFree
+          5    1 0001D020 CredentialUpdateNotify
+          2    2 0001CFD0 CredentialUpdateRegister
+          1    3 00002900 SpInitialize
+         32    4 00002030 SpInstanceInit
+          6    5 00003DE0 SpLsaModeInitialize
+          7    6 00001ED0 SpUserModeInitialize
+          8    7 000213A0 SsiCredentialsUpdateFree
+          3    8 0001EED0 SsiCredentialsUpdateNotify
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2D000 .text

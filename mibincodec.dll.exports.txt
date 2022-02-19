@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\mibincodec.dll
+
+File Type: DLL
+
+  Section contains the following exports for mibincodec.dll
+
+    00000000 characteristics
+    8A0B2F0D time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002280 MI_Application_NewDeserializer_Binary
+          2    1 000013B0 MI_Application_NewSerializer_Binary
+          3    2 00016600 NITS_PRESENCE_STUB
+          4    3 000092F0 NITS_STUB
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

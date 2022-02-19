@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\SCardDlg.dll
+
+File Type: DLL
+
+  Section contains the following exports for SCARDDLG.dll
+
+    00000000 characteristics
+    DA77320E time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000020A0 GetOpenCardNameA
+          2    1 000024B0 GetOpenCardNameW
+          3    2 000027F0 SCardDlgExtendedError
+          4    3 00002800 SCardUIDlgSelectCardA
+          5    4 00002AF0 SCardUIDlgSelectCardW
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        7000 .rsrc
+        8000 .text

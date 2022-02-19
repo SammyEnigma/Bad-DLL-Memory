@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SMBHelperClass.dll
+
+File Type: DLL
+
+  Section contains the following exports for SMBHelperClass.DLL
+
+    00000000 characteristics
+    F1B05B96 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000086D0 DllCanUnloadNow
+          2    1 00008710 DllGetClassObject
+          3    2 00008850 DllRegisterServer
+          4    3 00008980 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\InputService.dll
+
+File Type: DLL
+
+  Section contains the following exports for InputService.dll
+
+    00000000 characteristics
+    5FF32E8A time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000A1BA0 CreateInputMethodClient
+          4    1 000A1C50 CreateKeyEventProcessor
+          5    2 00078DB0 InitializeService
+          1    3 000FDB70 ServiceMain
+          2    4 000FE430 SvchostPushServiceGlobals
+          6    5 000FF4B0 UninitializeService
+
+  Summary
+
+       28000 .data
+        1000 .didat
+       28000 .pdata
+      10B000 .rdata
+        9000 .reloc
+        F000 .rsrc
+      328000 .text

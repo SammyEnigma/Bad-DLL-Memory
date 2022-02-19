@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.Internal.UI.Logon.ProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Internal.UI.Logon.ProxyStub.dll
+
+    00000000 characteristics
+    CFFF58FE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001420 DllCanUnloadNow
+          2    1 000013E0 DllGetClassObject
+          3    2 000013C0 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       38000 .rdata
+        7000 .reloc
+        1000 .rsrc
+        2000 .text

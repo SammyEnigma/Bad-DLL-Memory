@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\uwfservicingapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for UwfServicingApi.dll
+
+    00000000 characteristics
+    E25CD7AC time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001070 GetServicingModeState
+          2    1 000010B0 SetServicingModeState
+          3    2 00001110 UwfServicingCleanup
+          4    3 00001100 UwfServicingInitialize
+          5    4 00001D50 UwfServicingWinUpdateApply
+          6    5 00001CA0 UwfServicingWinupdateCleanup
+          7    6 00001C40 UwfServicingWinupdateInitialize
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        5000 .text

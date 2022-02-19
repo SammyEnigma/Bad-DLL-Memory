@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\IMETC\applets\IMTCCAC.dll
+
+File Type: DLL
+
+  Section contains the following exports for main.dll
+
+    00000000 characteristics
+    D662493A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008EC0 DllCanUnloadNow
+          2    1 00008EF0 DllGetClassObject
+          3    2 00008FC0 DllRegisterServer
+          4    3 00008FD0 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        3000 .pdata
+        C000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       50000 .text

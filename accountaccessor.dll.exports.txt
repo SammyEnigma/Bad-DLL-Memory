@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\accountaccessor.dll
+
+File Type: DLL
+
+  Section contains the following exports for AccountAccessor.dll
+
+    00000000 characteristics
+    D5E59BE0 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          6    0 000061C0 CreateDefaultWindowsLiveAccount
+          7    1 000063D0 DllCanUnloadNow
+          8    2 00006410 DllGetClassObject
+          9    3 00012580 FindMatchingPartnership
+         10    4 0000F7C0 GetConversationSyncDateFilter
+          1    5 0000F540 GetConversationSyncEnabled
+          2    6 0000FAD0 GetUnifiedInboxEnabled
+          3    7 0000FBA0 GetUnifiedInboxServerValue
+         11    8 0000F910 IsExtendedConversationSyncDateFiltersSupported
+         12    9 000123F0 LoadGoldenPartnershipAccessor
+         13    A 0000F660 SetConversationSyncDateFilter
+          4    B 0000F470 SetConversationSyncEnabled
+          5    C 0000FA00 SetUnifiedInboxEnabled
+         14    D 00012FB0 UnenrollAndMarkAccountForDeletion
+         15    E 000147D0 UpdateGoogleAccountConversationFlags
+         16    F 00014830 UpdateGoogleAccountServerSendsMeetingProp
+         17   10 00013D50 UpdateWebDavAccountProperties
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2E000 .text

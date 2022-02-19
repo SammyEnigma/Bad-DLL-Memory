@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\HolographicExtensions.dll
+
+File Type: DLL
+
+  Section contains the following exports for HolographicExtensions.dll
+
+    00000000 characteristics
+    5A49FAF8 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C630 DllCanUnloadNow
+          2    1 0000C3E0 DllGetActivationFactory
+          3    2 0000C5C0 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        8000 .pdata
+       2C000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       9A000 .text

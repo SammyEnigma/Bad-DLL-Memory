@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\dmenterprisediagnostics.dll
+
+File Type: DLL
+
+  Section contains the following exports for dmenterprisediagnostics.dll
+
+    00000000 characteristics
+    9A361CB8 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004DE0 CollectDiagnosticsAutoLog
+          2    1 00004D40 GatherAutoLogEventsFromMobile
+          3    2 00004DB0 RecordDiagnosticsError
+          4    3 00004700 SetupAutoLog
+          5    4 00004750 SetupAutoLogWithTraceLevel
+          6    5 00004960 StartAutoLog
+          7    6 00004990 StopAutoLog
+          8    7 000049A0 TearDownAutoLog
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+        E000 .rdata
+        1000 .reloc
+       13000 .rsrc
+       2D000 .text

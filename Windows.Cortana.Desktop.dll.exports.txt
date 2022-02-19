@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Cortana.Desktop.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Cortana.Desktop.dll
+
+    00000000 characteristics
+     92647C5 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000F410 DllCanUnloadNow
+          2    1 0000F190 DllGetActivationFactory
+          3    2 00024280 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        7000 .pdata
+       26000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       60000 .text

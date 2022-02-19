@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\MapsStore.dll
+
+File Type: DLL
+
+  Section contains the following exports for MapsStore.dll
+
+    00000000 characteristics
+    121AD4C0 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000103D0 MapsStore_CancelGetData
+          2    1 000107F0 MapsStore_CancelInstallation
+          3    2 000105F0 MapsStore_CheckUpdateAsync
+          4    3 00010540 MapsStore_DeleteData
+          5    4 000107D0 MapsStore_FindNearbyPackages
+          6    5 00010630 MapsStore_GetCopyright
+          7    6 00010360 MapsStore_GetData
+          8    7 00010720 MapsStore_GetGSCode
+          9    8 00010300 MapsStore_Initialize
+         10    9 000105A0 MapsStore_InstallAsync
+         11    A 00010610 MapsStore_IsMapFullyInstalled
+         12    B 00010560 MapsStore_LoadCatalogAsync
+         17    C 00010250 MapsStore_SetServiceCallbacks
+         13    D 00010860 MapsStore_SuspendInstallation
+         14    E 00010580 MapsStore_UnInitialize
+         15    F 000105D0 MapsStore_UpdateAsync
+         16   10 00010890 MapsStore_WaitInstallation
+
+  Summary
+
+        F000 .data
+        8000 .pdata
+       4A000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       B5000 .text

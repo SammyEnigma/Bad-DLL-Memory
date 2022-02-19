@@ -1,0 +1,176 @@
+
+Dump of file C:\Windows\System32\duser.dll
+
+File Type: DLL
+
+  Section contains the following exports for DUser.dll
+
+    00000000 characteristics
+    3EDB1F69 time date stamp
+        0.00 version
+           1 ordinal base
+         150 number of functions
+         150 number of names
+
+    ordinal hint RVA      name
+
+          7    0 00035F30 AddGadgetMessageHandler
+          8    1 00036080 AddLayeredRef
+          9    2 00036160 AdjustClipInsideRef
+         10    3 00036240 AttachWndProcA
+         11    4 0000F3D0 AttachWndProcW
+         12    5 00017480 AutoTrace
+         13    6 0001FA00 BeginHideInputPaneAnimation
+         14    7 0001FA40 BeginShowInputPaneAnimation
+         15    8 0001FA80 BuildAnimation
+         16    9 0001FB10 BuildDropTarget
+         17    A 0001FB90 BuildInterpolation
+         18    B 0001FC20 CacheDWriteRenderTarget
+         19    C 0001FC80 ChangeCurrentAnimationScenario
+         20    D 00036280 ClearPushedOpacitiesFromGadgetTree
+         21    E 0001FCE0 ClearTopmostVisual
+         22    F 000110B0 CreateAction
+         23   10 00006FE0 CreateGadget
+         24   11 0001FD20 CustomGadgetHitTestQuery
+         25   12 00036390 DUserBuildGadget
+         26   13 00036400 DUserCastClass
+         27   14 00036490 DUserCastDirect
+          1   15 00035890 DUserCastHandle
+          2   16 000358B0 DUserDeleteGadget
+         28   17 000364D0 DUserFindClass
+         29   18 00014730 DUserFlushDeferredMessages
+         30   19 000115D0 DUserFlushMessages
+         31   1A 00020FF0 DUserGetAlphaPRID
+         32   1B 00036530 DUserGetGutsData
+         33   1C 00021000 DUserGetRectPRID
+         34   1D 00021010 DUserGetRotatePRID
+         35   1E 00021020 DUserGetScalePRID
+         36   1F 000365C0 DUserInstanceOf
+         37   20 00010A70 DUserPostEvent
+         38   21 00036630 DUserPostMethod
+         39   22 00007AE0 DUserRegisterGuts
+         40   23 00007810 DUserRegisterStub
+         41   24 00008D90 DUserRegisterSuper
+         42   25 0000DB30 DUserSendEvent
+         43   26 000366D0 DUserSendMethod
+         44   27 000215B0 DUserStopAnimation
+         45   28 0001FDC0 DUserStopPVLAnimation
+         46   29 0000FF60 DeleteHandle
+         47   2A 0001FE30 DestroyPendingDCVisuals
+         48   2B 0001FE60 DetachGadgetVisuals
+         49   2C 00013590 DetachWndProc
+         50   2D 00014AE0 DisableContainerHwnd
+         51   2E 00016090 DllMain
+         52   2F 00036780 DrawGadgetTree
+         53   30 0001FF00 EndInputPaneAnimation
+         54   31 0001FF40 EnsureAnimationsEnabled
+         55   32 0001FF90 EnsureGadgetTransInitialized
+         56   33 000368B0 EnumGadgets
+         57   34 00010290 FindGadgetFromPoint
+         58   35 00036A10 FindGadgetMessages
+         59   36 00036AF0 FindGadgetTargetingInfo
+         60   37 0000E0D0 FindStdColor
+         61   38 00036C00 FireGadgetMessages
+         62   39 00009C80 ForwardGadgetMessage
+         63   3A 00036D00 FreeGdiDxInteropStagingBuffer
+         64   3B 00036DD0 GadgetTransCompositionChanged
+         65   3C 0001FFD0 GadgetTransSettingChanged
+         66   3D 00036EE0 GetActionTimeslice
+         67   3E 00020020 GetCachedDWriteRenderTarget
+         68   3F 00036F90 GetDUserModule
+         69   40 000174B0 GetDebug
+         70   41 000200B0 GetFinalAnimatingPosition
+         71   42 00036FA0 GetGadget
+         72   43 000147B0 GetGadgetAnimation
+         73   44 00037080 GetGadgetBitmap
+         74   45 000371B0 GetGadgetBufferInfo
+         75   46 000372C0 GetGadgetCenterPoint
+         76   47 0000E150 GetGadgetFlags
+         77   48 00009700 GetGadgetFocus
+         78   49 000373B0 GetGadgetLayerInfo
+         79   4A 000374C0 GetGadgetMessageFilter
+         80   4B 00011150 GetGadgetProperty
+         81   4C 00006590 GetGadgetRect
+         82   4D 000062B0 GetGadgetRgn
+         83   4E 00037590 GetGadgetRootInfo
+         84   4F 00037690 GetGadgetRotation
+         85   50 00037770 GetGadgetScale
+         86   51 00037860 GetGadgetSize
+         87   52 00037960 GetGadgetStyle
+         88   53 00009880 GetGadgetTicket
+         89   54 00020130 GetGadgetVisual
+         90   55 0000D1F0 GetMessageExA
+         91   56 00037A30 GetMessageExW
+          3   57 00035C50 GetStdColorBrushF
+         92   58 00037AE0 GetStdColorBrushI
+          4   59 00035D00 GetStdColorF
+         93   5A 00037BC0 GetStdColorI
+         94   5B 00037C10 GetStdColorName
+          5   5C 00035D70 GetStdColorPenF
+         95   5D 00037C60 GetStdColorPenI
+         96   5E 00037D50 GetStdPalette
+         97   5F 00037D60 InitGadgetComponent
+         98   60 0000F1D0 InitGadgets
+         99   61 000020C0 InvalidateGadget
+        100   62 00037E30 InvalidateLayeredDescendants
+        101   63 00037F40 IsGadgetParentChainStyle
+        102   64 00038050 IsInsideContext
+        103   65 000380B0 IsStartDelete
+        104   66 00038180 LookupGadgetTicket
+        105   67 00038240 MapGadgetPoints
+        106   68 00038370 PeekMessageExA
+        107   69 00038440 PeekMessageExW
+        108   6A 0000C720 RegisterGadgetMessage
+        109   6B 00038500 RegisterGadgetMessageString
+        110   6C 0000C7C0 RegisterGadgetProperty
+        111   6D 000201B0 ReleaseDetachedObjects
+        112   6E 00038530 ReleaseLayeredRef
+        113   6F 00038610 ReleaseMouseCapture
+        114   70 00020200 RemoveClippingImmunityFromVisual
+        115   71 00038700 RemoveGadgetMessageHandler
+        116   72 00038850 RemoveGadgetProperty
+        117   73 00038970 ResetDUserDevice
+        118   74 00020260 ScheduleGadgetTransitions
+        119   75 00038A80 SetActionTimeslice
+        120   76 00038B30 SetAtlasingHints
+        121   77 00038C40 SetGadgetBufferInfo
+        122   78 00038D80 SetGadgetCenterPoint
+        123   79 00038EC0 SetGadgetFillF
+        124   7A 00038FE0 SetGadgetFillI
+        125   7B 00039130 SetGadgetFlags
+        126   7C 000095C0 SetGadgetFocus
+        127   7D 00039280 SetGadgetFocusEx
+        128   7E 000393A0 SetGadgetLayerInfo
+        129   7F 0000D840 SetGadgetMessageFilter
+        130   80 00014000 SetGadgetOrder
+        131   81 000035F0 SetGadgetParent
+        132   82 000394B0 SetGadgetProperty
+        133   83 000047F0 SetGadgetRect
+        134   84 000092D0 SetGadgetRootInfo
+        135   85 000395E0 SetGadgetRotation
+        136   86 00039710 SetGadgetScale
+        137   87 00005440 SetGadgetStyle
+        138   88 00014CF0 SetHardwareDeviceUsage
+        139   89 000202F0 SetMinimumDCompVersion
+        140   8A 00039850 SetRestoreCachedLayeredRefFlag
+        141   8B 00020360 SetTransitionVisualProperties
+        142   8C 00001740 SetWindowResizeFlag
+        143   8D 00039910 UnregisterGadgetMessage
+        144   8E 00038500 UnregisterGadgetMessageString
+        145   8F 000399B0 UnregisterGadgetProperty
+        146   90 00039A50 UtilBuildFont
+        147   91 00039A60 UtilDrawBlendRect
+          6   92 00035F20 UtilDrawOutlineRect
+        148   93 00039A70 UtilGetColor
+        149   94 00039A80 UtilSetBackground
+        150   95 00039AE0 WaitMessageEx
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        7000 .pdata
+       13000 .rdata
+        1000 .reloc
+        9000 .rsrc
+       6A000 .text

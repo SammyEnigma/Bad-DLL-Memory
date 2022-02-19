@@ -1,0 +1,237 @@
+
+Dump of file C:\Windows\System32\vulkan-1-999-0-0-0.dll
+
+File Type: DLL
+
+  Section contains the following exports for vulkan-1.dll
+
+    00000000 characteristics
+    5F32CAB3 time date stamp Tue Aug 11 18:43:31 2020
+        0.00 version
+           1 ordinal base
+         208 number of functions
+         208 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008140 vkAcquireNextImage2KHR
+          2    1 00009380 vkAcquireNextImageKHR
+          3    2 00001520 vkAllocateCommandBuffers
+          4    3 0000BCB0 vkAllocateDescriptorSets
+          5    4 00007480 vkAllocateMemory
+          6    5 00002EB0 vkBeginCommandBuffer
+          7    6 0000B4E0 vkBindBufferMemory
+          8    7 00006770 vkBindBufferMemory2
+          9    8 0000B530 vkBindImageMemory
+         10    9 0000C760 vkBindImageMemory2
+         11    A 0000B9E0 vkCmdBeginQuery
+         12    B 00001090 vkCmdBeginRenderPass
+         13    C 000013C0 vkCmdBeginRenderPass2
+         14    D 00001CF0 vkCmdBindDescriptorSets
+         15    E 0000AC40 vkCmdBindIndexBuffer
+         16    F 00007960 vkCmdBindPipeline
+         17   10 00009C70 vkCmdBindVertexBuffers
+         18   11 00008550 vkCmdBlitImage
+         19   12 00002150 vkCmdClearAttachments
+         20   13 000056D0 vkCmdClearColorImage
+         21   14 00008C80 vkCmdClearDepthStencilImage
+         22   15 00004930 vkCmdCopyBuffer
+         23   16 000088E0 vkCmdCopyBufferToImage
+         24   17 00007260 vkCmdCopyImage
+         25   18 00007A40 vkCmdCopyImageToBuffer
+         26   19 00005DC0 vkCmdCopyQueryPoolResults
+         27   1A 00005550 vkCmdDispatch
+         28   1B 00007030 vkCmdDispatchBase
+         29   1C 00003960 vkCmdDispatchIndirect
+         30   1D 00009570 vkCmdDraw
+         31   1E 000018B0 vkCmdDrawIndexed
+         32   1F 0000B600 vkCmdDrawIndexedIndirect
+         33   20 00002210 vkCmdDrawIndexedIndirectCount
+         34   21 00007D00 vkCmdDrawIndirect
+         35   22 00004320 vkCmdDrawIndirectCount
+         36   23 00008E30 vkCmdEndQuery
+         37   24 00001C90 vkCmdEndRenderPass
+         38   25 00008980 vkCmdEndRenderPass2
+         39   26 0000BA80 vkCmdExecuteCommands
+         40   27 0000A370 vkCmdFillBuffer
+         41   28 0000BBA0 vkCmdNextSubpass
+         42   29 0000C6C0 vkCmdNextSubpass2
+         43   2A 00008590 vkCmdPipelineBarrier
+         44   2B 000031E0 vkCmdPushConstants
+         45   2C 0000A3E0 vkCmdResetEvent
+         46   2D 0000A460 vkCmdResetQueryPool
+         47   2E 00009530 vkCmdResolveImage
+         48   2F 00002F50 vkCmdSetBlendConstants
+         49   30 000013A0 vkCmdSetDepthBias
+         50   31 00005FE0 vkCmdSetDepthBounds
+         51   32 00007DC0 vkCmdSetDeviceMask
+         52   33 00008DA0 vkCmdSetEvent
+         53   34 00001580 vkCmdSetLineWidth
+         54   35 0000B830 vkCmdSetScissor
+         55   36 00006710 vkCmdSetStencilCompareMask
+         56   37 00006B60 vkCmdSetStencilReference
+         57   38 0000AE70 vkCmdSetStencilWriteMask
+         58   39 00001A50 vkCmdSetViewport
+         59   3A 00008EE0 vkCmdUpdateBuffer
+         60   3B 00001A60 vkCmdWaitEvents
+         61   3C 00008240 vkCmdWriteTimestamp
+         62   3D 00009560 vkCreateBuffer
+         63   3E 00006B90 vkCreateBufferView
+         64   3F 0000B730 vkCreateCommandPool
+         65   40 0000B5B0 vkCreateComputePipelines
+         66   41 00004FB0 vkCreateDescriptorPool
+         67   42 0000BC40 vkCreateDescriptorSetLayout
+         68   43 000089E0 vkCreateDescriptorUpdateTemplate
+         69   44 000094A0 vkCreateDevice
+         70   45 0000C0A0 vkCreateDisplayModeKHR
+         71   46 0000A590 vkCreateDisplayPlaneSurfaceKHR
+         72   47 00003B90 vkCreateEvent
+         73   48 00004590 vkCreateFence
+         74   49 00002610 vkCreateFramebuffer
+         75   4A 00003E90 vkCreateGraphicsPipelines
+         76   4B 00003A40 vkCreateImage
+         77   4C 00003180 vkCreateImageView
+         78   4D 000051A0 vkCreateInstance
+         79   4E 00009F00 vkCreatePipelineCache
+         80   4F 0000B850 vkCreatePipelineLayout
+         81   50 00003C00 vkCreateQueryPool
+         82   51 00006D90 vkCreateRenderPass
+         83   52 0000A980 vkCreateRenderPass2
+         84   53 00002B20 vkCreateSampler
+         85   54 00009090 vkCreateSamplerYcbcrConversion
+         86   55 00001C10 vkCreateSemaphore
+         87   56 00005680 vkCreateShaderModule
+         88   57 00008AE0 vkCreateSharedSwapchainsKHR
+         89   58 00009BD0 vkCreateSwapchainKHR
+         90   59 00005EA0 vkCreateWin32SurfaceKHR
+         91   5A 00005090 vkDestroyBuffer
+         92   5B 00004F50 vkDestroyBufferView
+         93   5C 0000B400 vkDestroyCommandPool
+         94   5D 00006E30 vkDestroyDescriptorPool
+         95   5E 000080A0 vkDestroyDescriptorSetLayout
+         96   5F 00002CB0 vkDestroyDescriptorUpdateTemplate
+         97   60 00004F60 vkDestroyDevice
+         98   61 00006B50 vkDestroyEvent
+         99   62 00006FB0 vkDestroyFence
+        100   63 00005FA0 vkDestroyFramebuffer
+        101   64 000069D0 vkDestroyImage
+        102   65 00007F50 vkDestroyImageView
+        103   66 00005470 vkDestroyInstance
+        104   67 0000B6D0 vkDestroyPipeline
+        105   68 000095A0 vkDestroyPipelineCache
+        106   69 000088C0 vkDestroyPipelineLayout
+        107   6A 00003A30 vkDestroyQueryPool
+        108   6B 00009B50 vkDestroyRenderPass
+        109   6C 00003530 vkDestroySampler
+        110   6D 00007CC0 vkDestroySamplerYcbcrConversion
+        111   6E 00003B20 vkDestroySemaphore
+        112   6F 0000BB90 vkDestroyShaderModule
+        113   70 000037A0 vkDestroySurfaceKHR
+        114   71 00001E20 vkDestroySwapchainKHR
+        115   72 000088A0 vkDeviceWaitIdle
+        116   73 00006F80 vkEndCommandBuffer
+        117   74 0000B550 vkEnumerateDeviceExtensionProperties
+        118   75 0000AEE0 vkEnumerateDeviceLayerProperties
+        119   76 000031C0 vkEnumerateInstanceExtensionProperties
+        120   77 0000B240 vkEnumerateInstanceLayerProperties
+        121   78 0000BA60 vkEnumerateInstanceVersion
+        122   79 00007780 vkEnumeratePhysicalDeviceGroups
+        123   7A 00004BC0 vkEnumeratePhysicalDevices
+        124   7B 00008470 vkFlushMappedMemoryRanges
+        125   7C 00007680 vkFreeCommandBuffers
+        126   7D 00001420 vkFreeDescriptorSets
+        127   7E 00007380 vkFreeMemory
+        128   7F 00003AA0 vkGetBufferDeviceAddress
+        129   80 000057A0 vkGetBufferMemoryRequirements
+        130   81 0000A020 vkGetBufferMemoryRequirements2
+        131   82 00007FC0 vkGetBufferOpaqueCaptureAddress
+        132   83 00009EF0 vkGetDescriptorSetLayoutSupport
+        133   84 000044F0 vkGetDeviceGroupPeerMemoryFeatures
+        134   85 000082E0 vkGetDeviceGroupPresentCapabilitiesKHR
+        135   86 0000A820 vkGetDeviceGroupSurfacePresentModesKHR
+        136   87 00003910 vkGetDeviceMemoryCommitment
+        137   88 0000A860 vkGetDeviceMemoryOpaqueCaptureAddress
+        138   89 00007170 vkGetDeviceProcAddr
+        139   8A 00009C10 vkGetDeviceQueue
+        140   8B 00005BA0 vkGetDeviceQueue2
+        141   8C 000061A0 vkGetDisplayModeProperties2KHR
+        142   8D 00007A80 vkGetDisplayModePropertiesKHR
+        143   8E 000066C0 vkGetDisplayPlaneCapabilities2KHR
+        144   8F 0000C4D0 vkGetDisplayPlaneCapabilitiesKHR
+        145   90 00009100 vkGetDisplayPlaneSupportedDisplaysKHR
+        146   91 00006E70 vkGetEventStatus
+        147   92 00009A80 vkGetFenceStatus
+        148   93 000020E0 vkGetImageMemoryRequirements
+        149   94 000088B0 vkGetImageMemoryRequirements2
+        150   95 0000B2B0 vkGetImageSparseMemoryRequirements
+        151   96 0000C730 vkGetImageSparseMemoryRequirements2
+        152   97 0000B2E0 vkGetImageSubresourceLayout
+        153   98 000021A0 vkGetInstanceProcAddr
+        154   99 000078A0 vkGetPhysicalDeviceDisplayPlaneProperties2KHR
+        155   9A 00007F20 vkGetPhysicalDeviceDisplayPlanePropertiesKHR
+        156   9B 00004B40 vkGetPhysicalDeviceDisplayProperties2KHR
+        157   9C 00004BE0 vkGetPhysicalDeviceDisplayPropertiesKHR
+        158   9D 00006C70 vkGetPhysicalDeviceExternalBufferProperties
+        159   9E 00005FB0 vkGetPhysicalDeviceExternalFenceProperties
+        160   9F 0000BAF0 vkGetPhysicalDeviceExternalSemaphoreProperties
+        161   A0 0000A240 vkGetPhysicalDeviceFeatures
+        162   A1 00006480 vkGetPhysicalDeviceFeatures2
+        163   A2 000025E0 vkGetPhysicalDeviceFormatProperties
+        164   A3 00008BA0 vkGetPhysicalDeviceFormatProperties2
+        165   A4 00001E90 vkGetPhysicalDeviceImageFormatProperties
+        166   A5 00008FB0 vkGetPhysicalDeviceImageFormatProperties2
+        167   A6 00007C70 vkGetPhysicalDeviceMemoryProperties
+        168   A7 0000BD60 vkGetPhysicalDeviceMemoryProperties2
+        169   A8 00001A40 vkGetPhysicalDevicePresentRectanglesKHR
+        170   A9 0000AE60 vkGetPhysicalDeviceProperties
+        171   AA 000075C0 vkGetPhysicalDeviceProperties2
+        172   AB 00006300 vkGetPhysicalDeviceQueueFamilyProperties
+        173   AC 00003BC0 vkGetPhysicalDeviceQueueFamilyProperties2
+        174   AD 00003B50 vkGetPhysicalDeviceSparseImageFormatProperties
+        175   AE 00008180 vkGetPhysicalDeviceSparseImageFormatProperties2
+        176   AF 00002AD0 vkGetPhysicalDeviceSurfaceCapabilities2KHR
+        177   B0 000096C0 vkGetPhysicalDeviceSurfaceCapabilitiesKHR
+        178   B1 00004850 vkGetPhysicalDeviceSurfaceFormats2KHR
+        179   B2 000047F0 vkGetPhysicalDeviceSurfaceFormatsKHR
+        180   B3 00002FB0 vkGetPhysicalDeviceSurfacePresentModesKHR
+        181   B4 00005E90 vkGetPhysicalDeviceSurfaceSupportKHR
+        182   B5 00004710 vkGetPhysicalDeviceWin32PresentationSupportKHR
+        183   B6 00009030 vkGetPipelineCacheData
+        184   B7 000066F0 vkGetQueryPoolResults
+        185   B8 00006660 vkGetRenderAreaGranularity
+        186   B9 000075A0 vkGetSemaphoreCounterValue
+        187   BA 00006F40 vkGetSwapchainImagesKHR
+        188   BB 000063D0 vkInvalidateMappedMemoryRanges
+        189   BC 0000BC10 vkMapMemory
+        190   BD 00009E70 vkMergePipelineCaches
+        191   BE 00009A70 vkQueueBindSparse
+        192   BF 0000ABF0 vkQueuePresentKHR
+        193   C0 00001910 vkQueueSubmit
+        194   C1 000061C0 vkQueueWaitIdle
+        195   C2 0000BDD0 vkResetCommandBuffer
+        196   C3 00006330 vkResetCommandPool
+        197   C4 00008640 vkResetDescriptorPool
+        198   C5 00004180 vkResetEvent
+        199   C6 0000C7F0 vkResetFences
+        200   C7 00008FE0 vkResetQueryPool
+        201   C8 00004650 vkSetEvent
+        202   C9 00003520 vkSignalSemaphore
+        203   CA 00004B80 vkTrimCommandPool
+        204   CB 00002A60 vkUnmapMemory
+        205   CC 00001490 vkUpdateDescriptorSetWithTemplate
+        206   CD 00009270 vkUpdateDescriptorSets
+        207   CE 00004F30 vkWaitForFences
+        208   CF 000019B0 vkWaitSemaphores
+
+  Summary
+
+        1000 .00cfg
+        3000 .cfguard
+        4000 .data
+        2000 .idata
+        9000 .pdata
+       33000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       C3000 .text
+        1000 .tls

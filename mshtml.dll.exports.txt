@@ -1,0 +1,70 @@
+
+Dump of file C:\Windows\System32\mshtml.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSHTML.dll
+
+    00000000 characteristics
+    EE0FB731 time date stamp
+        0.00 version
+         100 ordinal base
+          44 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+        108    0 005FF390 ClearPhishingFilterData
+        109    1 007DEF20 ConvertAndEscapePostData
+        110    2 008F6310 CreateCoreWebView
+        111    3 00601E60 CreateHTMLPropertyPage
+        112    4 005FEAC0 DllCanUnloadNow
+        113    5 005FE220 DllEnumClassObjects
+        114    6 0038EF20 DllGetClassObject
+        115    7 007979F0 GetColorValueFromString
+        116    8 007C7050 GetWebPlatformObject
+        117    9 0080EFE0 IEIsXMLNSRegistered
+        118    A 0080F070 IERegisterXMLNS
+        119    B 0032A310 InitializeLocalHtmlEngine
+        132    C 007AAFB0 MatchExactGetIDsOfNames
+        133    D 00793300 PrintHTML
+        135    E 0092F920 RunHTMLApplication
+        136    F 007BB150 ShowHTMLDialog
+        137   10 007BB160 ShowHTMLDialogEx
+        139   11 007BB2E0 ShowModalDialog
+        140   12 007BB3E0 ShowModelessHTMLDialog
+        141   13 002C1B50 TravelLogCreateInstance
+        142   14 00F3FA40 TravelLogStgCreateInstance
+        143   15 004267E0 UninitializeLocalHtmlEngine
+        100      00F735F0 [NONAME]
+        101      00F73660 [NONAME]
+        102      00F736C0 [NONAME]
+        103      00F748F0 [NONAME]
+        104      00F73570 [NONAME]
+        105      002C0A20 [NONAME]
+        106      00833F00 [NONAME]
+        107      002F2750 [NONAME]
+        120      008EA5F0 [NONAME]
+        121      008EA590 [NONAME]
+        122      008EA730 [NONAME]
+        123      008EA6D0 [NONAME]
+        124      008EA650 [NONAME]
+        125      008EA2E0 [NONAME]
+        126      008EA8B0 [NONAME]
+        127      008EA7C0 [NONAME]
+        128      008EA570 [NONAME]
+        129      00922D90 [NONAME]
+        130      00922DA0 [NONAME]
+        131      007BB4A0 [NONAME]
+        134      00F79E50 [NONAME]
+        138      00F79F80 [NONAME]
+
+  Summary
+
+       43000 .data
+        2000 .didat
+       E3000 .pdata
+      4F6000 .rdata
+       87000 .reloc
+        1000 .rsrc
+      FD0000 .text

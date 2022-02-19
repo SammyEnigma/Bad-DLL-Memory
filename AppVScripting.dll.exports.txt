@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\AppVScripting.dll
+
+File Type: DLL
+
+  Section contains the following exports for module.dll
+
+    00000000 characteristics
+    89310203 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 0000D1B0 Deinitialize
+          4    1 0000D300 GetComponent
+          1    2 0000D190 Initialize
+          2    3 0000D1A0 InitializeISV
+
+  Summary
+
+        3000 .data
+        3000 .pdata
+       25000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2D000 .text

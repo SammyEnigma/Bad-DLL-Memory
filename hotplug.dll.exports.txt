@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\hotplug.dll
+
+File Type: DLL
+
+  Section contains the following exports for hotplug.DLL
+
+    00000000 characteristics
+    2721D18A time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004240 CPlApplet
+         13    1 00001230 DllGetClassObject
+          2    2 00003FA0 HotPlugChildWithInvalidIdW
+          3    3 00003D20 HotPlugDriverBlockedW
+          4    4 00005DF0 HotPlugEjectDevice
+          5    5 00005E00 HotPlugEjectDeviceEx
+          6    6 00003770 HotPlugEjectVetoedW
+          7    7 000037D0 HotPlugHibernateVetoedW
+          8    8 00003740 HotPlugRemovalVetoedW
+          9    9 00003BF0 HotPlugSafeRemovalDriveNotificationW
+         10    A 00003B50 HotPlugSafeRemovalNotificationW
+         11    B 000037A0 HotPlugStandbyVetoedW
+         12    C 00003800 HotPlugWarmEjectVetoedW
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        C000 .rsrc
+        8000 .text

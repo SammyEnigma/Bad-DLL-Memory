@@ -1,0 +1,134 @@
+
+Dump of file C:\Windows\System32\msodbcsql17.dll
+
+File Type: DLL
+
+  Section contains the following exports for msodbcsql17.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         107 number of functions
+         107 number of names
+
+    ordinal hint RVA      name
+
+          9    0 0013E2C0 ConfigDSNW
+         10    1 0013E7C0 ConfigDriverW
+          1    2 0011AE60 ConnectDlgProc
+          2    3 0011D590 FinishDlgProc
+         11    4 00143550 OpenSqlFilestream
+         12    5 000F1010 SQLAllocHandle
+         13    6 00112760 SQLBindCol
+         14    7 00112770 SQLBindParameter
+         15    8 000F1280 SQLBrowseConnectW
+         16    9 000FADB0 SQLBulkOperations
+         17    A 001330B0 SQLCancel
+         18    B 000F2230 SQLCancelHandle
+         19    C 00095820 SQLCleanupConnectionPoolID
+         20    D 000D1200 SQLCloseCursor
+         21    E 001127E0 SQLColAttributeW
+         22    F 001019A0 SQLColumnPrivilegesW
+         23   10 00101CC0 SQLColumnsW
+         24   11 000F2380 SQLConnectW
+         25   12 00112B80 SQLCopyDesc
+         26   13 001139A0 SQLDescribeColW
+         27   14 00113C90 SQLDescribeParam
+         28   15 000F2A40 SQLDisconnect
+         29   16 000F2A50 SQLDriverConnectW
+         30   17 0013D540 SQLEndTran
+         31   18 000D13B0 SQLExecDirectW
+         32   19 000D13C0 SQLExecute
+         33   1A 000FB420 SQLExtendedFetch
+         34   1B 001352C0 SQLFetch
+         35   1C 000FB620 SQLFetchScroll
+         36   1D 00101FD0 SQLForeignKeysW
+         37   1E 000F36E0 SQLFreeHandle
+         38   1F 000D13D0 SQLFreeStmt
+         39   20 001330C0 SQLGetConnectAttrW
+         40   21 001330D0 SQLGetConnectOptionW
+         41   22 000FB840 SQLGetCursorNameW
+         42   23 00100170 SQLGetData
+         43   24 001140B0 SQLGetDescFieldW
+         44   25 00114B70 SQLGetDescRecW
+         45   26 00121EE0 SQLGetDiagFieldW
+         46   27 00122860 SQLGetDiagRecW
+         47   28 00133270 SQLGetEnvAttr
+         48   29 001287B0 SQLGetFunctions
+         49   2A 00128960 SQLGetInfoW
+         50   2B 000958A0 SQLGetPoolID
+         51   2C 00133410 SQLGetStmtAttrW
+         52   2D 00102450 SQLGetTypeInfoW
+         53   2E 001352D0 SQLMoreResults
+         54   2F 000D13E0 SQLNativeSqlW
+         55   30 00115160 SQLNumParams
+         56   31 00115300 SQLNumResultCols
+         57   32 000D1710 SQLParamData
+         58   33 00115310 SQLParamOptions
+         59   34 00095960 SQLPoolConnectW
+         60   35 000D1B10 SQLPrepareW
+         61   36 00102D00 SQLPrimaryKeysW
+         62   37 00102F90 SQLProcedureColumnsW
+         63   38 001032C0 SQLProceduresW
+         64   39 000D1B20 SQLPutData
+         65   3A 00095CF0 SQLRateConnection
+         66   3B 00115490 SQLRowCount
+         67   3C 00095E20 SQLSetConnectAttrForDbcInfoW
+         68   3D 00133420 SQLSetConnectAttrW
+         69   3E 000964B0 SQLSetConnectInfoW
+         70   3F 00133430 SQLSetConnectOptionW
+         71   40 000FBB90 SQLSetCursorNameW
+         72   41 00115690 SQLSetDescFieldW
+         73   42 00116140 SQLSetDescRec
+         74   43 000966F0 SQLSetDriverConnectInfoW
+         75   44 001335D0 SQLSetEnvAttr
+         76   45 000FBF20 SQLSetPos
+         77   46 000FBF30 SQLSetScrollOptions
+         78   47 00133710 SQLSetStmtAttrW
+         79   48 00103590 SQLSpecialColumnsW
+         80   49 00103930 SQLStatisticsW
+         81   4A 00103C60 SQLTablePrivilegesW
+         82   4B 00103F20 SQLTablesW
+          3   4C 0011FB20 TestDlgProc
+          4   4D 00116720 WizDSNDlgProc
+          5   4E 00118670 WizDatabaseDlgProc
+          6   4F 00117570 WizIntSecurityDlgProc
+          7   50 00119470 WizLanguageDlgProc
+         83   51 00141180 bcp_batch
+         84   52 00141240 bcp_bind
+         85   53 00141370 bcp_colfmt
+         86   54 001414A0 bcp_collen
+         87   55 00141580 bcp_colptr
+         88   56 00141670 bcp_columns
+         89   57 00141740 bcp_control
+         90   58 00141950 bcp_done
+         91   59 00141A20 bcp_exec
+         92   5A 00141AF0 bcp_getcolfmt
+         93   5B 00141C00 bcp_gettypenameA
+         94   5C 00141C80 bcp_gettypenameW
+         95   5D 00141D10 bcp_initA
+         96   5E 00141E60 bcp_initW
+         97   5F 00141E70 bcp_moretext
+         98   60 00141F50 bcp_readfmtA
+         99   61 00142030 bcp_readfmtW
+        100   62 00142040 bcp_sendrow
+        101   63 00142110 bcp_sendtdsdata
+        102   64 00142200 bcp_setbulkmode
+        103   65 00142310 bcp_setcolfmt
+          8   66 00140FB0 bcp_setcoltype
+        104   67 00142410 bcp_writefmtA
+        105   68 001424B0 bcp_writefmtW
+        106   69 001424C0 dbprtypeA
+        107   6A 00142540 dbprtypeW
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        9000 .pdata
+       88000 .rdata
+        3000 .reloc
+        1000 .rsrc
+        6000 .sdbid
+      14B000 .text

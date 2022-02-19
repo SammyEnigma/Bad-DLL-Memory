@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Logon.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Logon.dll
+
+    00000000 characteristics
+    35085D94 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0007AD10 DllCanUnloadNow
+          2    1 0007B8F0 DllGetActivationFactory
+          3    2 000CC290 DllGetClassObject
+
+  Summary
+
+       28000 .data
+        1000 .didat
+       28000 .pdata
+       AC000 .rdata
+        C000 .reloc
+        1000 .rsrc
+      1EE000 .text

@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\sfc_os.dll
+
+File Type: DLL
+
+  Section contains the following exports for sfc_os.dll
+
+    00000000 characteristics
+    AD233A3D time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004AA0 BeginFileMapEnumeration
+          2    1 00004B10 CloseFileMapEnumeration
+          3    2 00004B70 GetNextFileMapContent
+          4    3 00004D20 SRSetRestorePointA
+          5    4 00004DD0 SRSetRestorePointW
+          6    5 00003810 SfcClose
+          7    6 00003820 SfcConnectToServer
+          8    7 00003820 SfcFileException
+          9    8 00004C40 SfcGetNextProtectedFile
+         10    9 00004E80 SfcInitProt
+         11    A 00003820 SfcInitiateScan
+         12    B 00003820 SfcInstallProtectedFiles
+         13    C 00001010 SfcIsFileProtected
+         14    D 00004CE0 SfcIsKeyProtected
+         15    E 00003810 SfcTerminateWatcherThread
+         16    F 00004E80 SfpDeleteCatalog
+         17   10 00004E80 SfpInstallCatalog
+         18   11 00004E90 SfpVerifyFile
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

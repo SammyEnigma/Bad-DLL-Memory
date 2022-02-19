@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\LVUI2.dll
+
+File Type: DLL
+
+  Section contains the following exports for LVUI2.dll
+
+    00000000 characteristics
+    5085FD09 time date stamp Tue Oct 23 04:12:25 2012
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          6    0 00025E90 DllCanUnloadNow
+          7    1 00025F10 DllGetClassObject
+          8    2 00001974 DllRegisterServer
+          9    3 000019F6 DllUnregisterServer
+          5    4 00001721 EnumPropPages
+          1    5 00001217 VFWWDMExtension
+          2    6 00001A3C VFWWDMExtensionF
+          3    7 00001249 VFWWDMExtensionNew
+          4    8 00001753 VFWWDMExtensionPhilips
+
+  Summary
+
+        6000 .data
+        2000 .idata
+       12000 .rdata
+        5000 .reloc
+        2000 .rsrc
+       63000 .text

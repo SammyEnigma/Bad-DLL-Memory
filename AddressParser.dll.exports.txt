@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\AddressParser.dll
+
+File Type: DLL
+
+  Section contains the following exports for AddressParser.Dll
+
+    00000000 characteristics
+    4E7C7877 time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001120 DestroyAddressParser
+          2    1 000011C0 GetCity
+          3    2 000011A0 GetCountryName
+          4    3 000015B0 GetCountryStringFromIndex
+          5    4 00001220 GetFullAddress
+          6    5 000010F0 GetNewAddressParser
+          7    6 00001180 GetPostalCode
+          8    7 000011E0 GetState
+          9    8 00001200 GetStreet
+         10    9 00001240 ParseAddress
+         11    A 000013A0 RebuildAddress
+         12    B 00001410 SetCity
+         13    C 000014A0 SetCountryName
+         14    D 000013B0 SetFullAddress
+         15    E 00001470 SetPostalCode
+         16    F 00001440 SetState
+         17   10 000013E0 SetStreet
+         18   11 00001600 UpdateDefCountry
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

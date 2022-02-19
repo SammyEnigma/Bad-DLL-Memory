@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Gaming.Preview.dll
+
+File Type: DLL
+
+  Section contains the following exports for windows.gaming.preview.dll
+
+    00000000 characteristics
+    BAAA9E67 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009770 DllCanUnloadNow
+          2    1 000094A0 DllGetActivationFactory
+          3    2 00009680 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       12000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       47000 .text

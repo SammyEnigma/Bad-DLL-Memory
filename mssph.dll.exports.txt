@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\mssph.dll
+
+File Type: DLL
+
+  Section contains the following exports for mssph.DLL
+
+    00000000 characteristics
+    332F738B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005490 DllCanUnloadNow
+          2    1 000099F0 DllGetClassObject
+          3    2 0001B960 DllRegisterServer
+          4    3 0001BAB0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       22000 .text

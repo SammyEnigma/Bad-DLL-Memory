@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\jsproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for JSProxy.dll
+
+    00000000 characteristics
+    9561FBC5 time date stamp
+        0.00 version
+         101 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+        102    0 00001C60 InternetDeInitializeAutoProxyDll
+        105    1 000021A0 InternetDeInitializeAutoProxyDllEx
+        103    2 00001CE0 InternetGetProxyInfo
+        106    3 000021C0 InternetGetProxyInfoEx
+        101    4 000019F0 InternetInitializeAutoProxyDll
+        104    5 00001FE0 InternetInitializeAutoProxyDllEx
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text
+        1000 .wpp_sf

@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\dokanfuse1.dll
+
+File Type: DLL
+
+  Section contains the following exports for dokanfuse1.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          38 number of functions
+          38 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0000C3E0 convert_args
+          6    1 0000C5E0 errno_to_ntstatus_error
+          1    2 0000BBD0 extract_dir_name
+          2    3 0000BCF0 extract_file_name
+          7    4 0000C630 filetimeToUnixTime
+          8    5 0000C670 free_converted_args
+          9    6 00001060 fuse_daemonize
+         10    7 00003CC0 fuse_destroy
+         11    8 00003D10 fuse_exit
+         12    9 0000B920 fuse_get_context
+         13    A 00003D70 fuse_get_session
+         14    B 00003D80 fuse_interrupted
+         15    C 00003D90 fuse_is_lib_option
+         16    D 00003DA0 fuse_loop
+         17    E 00003DB0 fuse_loop_mt
+         18    F 00003DC0 fuse_main_real
+         19   10 00003EA0 fuse_mount
+         20   11 00003F30 fuse_new
+         21   12 00001690 fuse_opt_add_arg
+         22   13 00001750 fuse_opt_add_opt
+         23   14 00001820 fuse_opt_free_args
+         24   15 000018A0 fuse_opt_insert_arg
+         25   16 00001930 fuse_opt_match
+         26   17 00001950 fuse_opt_parse
+         27   18 00001230 fuse_parse_cmdline
+         28   19 000013B0 fuse_remove_signal_handlers
+         29   1A 000013C0 fuse_set_signal_handlers
+         30   1B 00004120 fuse_setup
+         31   1C 00004400 fuse_teardown
+         32   1D 00004480 fuse_unmount
+         33   1E 000013D0 fuse_version
+         34   1F 0000C6C0 is_filetime_set
+         35   20 0000C6E0 ntstatus_error_to_errno
+         36   21 0000C720 unixTimeToFiletime
+          3   22 0000C120 unixify
+         37   23 0000C750 utf8_to_wchar_buf
+         38   24 0000C820 utf8_to_wchar_buf_old
+          4   25 0000C380 wchar_to_utf8_cstr
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\PerceptionDevice.dll
+
+File Type: DLL
+
+  Section contains the following exports for PerceptionDevice.dll
+
+    00000000 characteristics
+    24CB77E5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000EBA0 CreateSpatialObjectDDIClientFactory
+          2    1 00005850 DllMain
+          3    2 0000ECB0 PerceptionDeviceCreateFactory
+          4    3 0000ECE0 PerceptionDeviceSetCreateFactoryOverride
+
+  Summary
+
+        1000 .data
+        3000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       23000 .text

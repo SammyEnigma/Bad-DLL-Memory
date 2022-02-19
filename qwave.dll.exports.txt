@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\qwave.dll
+
+File Type: DLL
+
+  Section contains the following exports for qwave.dll
+
+    00000000 characteristics
+    172AAE9E time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001C070 QDLHPathDiagnostics
+          2    1 0001BED0 QDLHStartDiagnosingPath
+          3    2 0001CBF0 QOSAddSocketToFlow
+          4    3 0001D430 QOSCancel
+          5    4 0001C740 QOSCloseHandle
+          6    5 0001C4F0 QOSCreateHandle
+          7    6 0001CAA0 QOSEnumerateFlows
+          8    7 0001D2B0 QOSNotifyFlow
+          9    8 0001D130 QOSQueryFlow
+         10    9 0001CE10 QOSRemoveSocketFromFlow
+         11    A 0001CFB0 QOSSetFlow
+         12    B 0001C760 QOSStartTrackingClient
+         13    C 0001C900 QOSStopTrackingClient
+         14    D 00003B00 ServiceMain
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       39000 .text

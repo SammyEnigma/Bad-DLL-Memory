@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CloudExperienceHostUser.dll
+
+File Type: DLL
+
+  Section contains the following exports for CloudExperienceHostUser.dll
+
+    00000000 characteristics
+      EF62E4 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005920 DllCanUnloadNow
+          2    1 00005610 DllGetActivationFactory
+          3    2 000057F0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       12000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2A000 .text

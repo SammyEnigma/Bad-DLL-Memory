@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\Windows.UI.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.dll
+
+    00000000 characteristics
+     16F5668 time date stamp
+        0.00 version
+        1500 ordinal base
+         201 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+       1601    0 000599E0 CreateControlInput
+       1603    1 0001FB30 CreateControlInputEx
+       1501    2 00025510 DllCanUnloadNow
+       1502    3 00021A70 DllGetActivationFactory
+       1503    4 00023740 DllGetClassObject
+       1504    5 0004F340 DllRegisterServer
+       1505    6 0004F370 DllUnregisterServer
+       1500      00020200 [NONAME]
+       1600      00008F20 [NONAME]
+       1602      00056200 [NONAME]
+       1604      00056240 [NONAME]
+       1700      0001F610 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        C000 .pdata
+       71000 .rdata
+        C000 .reloc
+        1000 .rsrc
+       B3000 .text

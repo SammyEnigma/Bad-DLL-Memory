@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\MSWB7.dll
+
+File Type: DLL
+
+  Section contains the following exports for mswb7.dll
+
+    00000000 characteristics
+    E5E5C7FA time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A680 DllCanUnloadNow
+          2    1 0000A0C0 DllGetClassObject
+
+  Summary
+
+        9000 .data
+        3000 .pdata
+       15000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       21000 .text

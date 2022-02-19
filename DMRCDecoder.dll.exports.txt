@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\DMRCDecoder.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMRCDecoder.dll
+
+    00000000 characteristics
+    CD1B5C06 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006220 CreateDecoder
+          2    1 00006350 DeleteDecoder
+          3    2 00006730 Detect
+          4    3 000069A0 EnableExtendedReadingDistance
+          5    4 00006910 EnableFalsePositiveMitigation
+          6    5 00006960 EnableInvertedReads
+          7    6 000065D0 GetActiveBarcodeTypes
+          8    7 00006620 GetBarcodeAttributesSupport
+          9    8 000069E0 GetExceptions
+         10    9 00006AE0 GetMillisecsPerFrameBarcode
+         11    A 00006A80 GetMillisecsPerFrameDWCode
+         12    B 00006800 GetPayloadBarcodeType
+         13    C 000067C0 GetPayloadCount
+         14    D 00006850 GetPayloadData
+         15    E 000068B0 GetPayloadRawData
+         16    F 00006B30 GetRebarNV12BufferPtr
+         17   10 00006A30 GetStatus
+         18   11 00006530 GetSupportedBarcodeTypes
+         19   12 00006580 SetActiveBarcodeTypes
+         20   13 00006690 SetBarcodeCheckDigitAttribute
+         21   14 000066C0 SetBarcodeDecodeLengthAttribute
+         22   15 00006690 SetBarcodeTransmitCheckDigitAttribute
+
+  Summary
+
+        2000 .data
+        5000 .pdata
+      199000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       92000 .text

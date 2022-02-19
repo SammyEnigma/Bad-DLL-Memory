@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DeveloperOptionsSettingsHandlers.dll
+
+File Type: DLL
+
+  Section contains the following exports for DeveloperOptionsSettingsHandlers.dll
+
+    00000000 characteristics
+    61B5A323 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002190 DllCanUnloadNow
+          2    1 000021A0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       18000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       32000 .text

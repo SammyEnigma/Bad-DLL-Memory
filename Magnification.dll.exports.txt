@@ -1,0 +1,46 @@
+
+Dump of file C:\Windows\System32\Magnification.dll
+
+File Type: DLL
+
+  Section contains the following exports for MAGNIFICATION.dll
+
+    00000000 characteristics
+    7BE00D98 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00001B20 MagGetColorEffect
+          4    1 00003270 MagGetFullscreenColorEffect
+          5    2 00003160 MagGetFullscreenTransform
+          6    3 00001A10 MagGetImageScalingCallback
+          7    4 00003380 MagGetInputTransform
+          8    5 000018B0 MagGetWindowFilterList
+          9    6 00001680 MagGetWindowSource
+         10    7 000017A0 MagGetWindowTransform
+         11    8 00001440 MagInitialize
+         12    9 00001A90 MagSetColorEffect
+         13    A 000032D0 MagSetFullscreenColorEffect
+         14    B 000031A0 MagSetFullscreenTransform
+          1    C 00003330 MagSetFullscreenUseBitmapSmoothing
+         15    D 00001980 MagSetImageScalingCallback
+         16    E 000033F0 MagSetInputTransform
+          2    F 00001BC0 MagSetLensUseBitmapSmoothing
+         17   10 000017F0 MagSetWindowFilterList
+         18   11 000015B0 MagSetWindowSource
+         19   12 000016D0 MagSetWindowTransform
+         20   13 00003460 MagShowSystemCursor
+         21   14 00001540 MagUninitialize
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        8000 .text

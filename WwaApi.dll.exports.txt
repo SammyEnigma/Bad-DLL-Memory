@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WwaApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for WwaApi.dll
+
+    00000000 characteristics
+    90D9761F time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002C250 DllCanUnloadNow
+          2    1 00001C00 DllGetActivationFactory
+          3    2 0002C2A0 DllGetClassObject
+          4    3 0002C320 DllRegisterServer
+          5    4 0002C350 DllUnregisterServer
+          6    5 0002C380 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        6000 .pdata
+       30000 .rdata
+        7000 .reloc
+        1000 .rsrc
+       4E000 .text

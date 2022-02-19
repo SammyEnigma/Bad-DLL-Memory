@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\dsclient.dll
+
+File Type: DLL
+
+  Section contains the following exports for dsclient.dll
+
+    00000000 characteristics
+    D237E9FE time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002F70 DSCopyFromSharedFile
+          2    1 00003020 DSCreateSharedFileToken
+          3    2 00003140 DSDelegateSharingToken
+          4    3 000031F0 DSFreeString
+          5    4 00003210 DSGetSharedFileName
+          6    5 000032C0 DSGetSharingTokenInformation
+          7    6 00003390 DSOpenSharedFile
+          8    7 00003450 DSRemoveExpiredTokens
+          9    8 00003500 DSRemoveSharingToken
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

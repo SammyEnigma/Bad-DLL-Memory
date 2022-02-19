@@ -1,0 +1,74 @@
+
+Dump of file C:\Windows\System32\StorageUsage.dll
+
+File Type: DLL
+
+  Section contains the following exports for storageusage.dll
+
+    00000000 characteristics
+    C86E704B time date stamp
+        0.00 version
+           1 ordinal base
+          48 number of functions
+          48 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00002830 CloseFindStorage
+          5    1 00002830 CloseFindStorageSearch
+          6    2 00002E00 DismountVolume
+          7    3 00008CA0 DllCanUnloadNow
+          8    4 00008D00 DllGetClassObject
+          1    5 00002CB0 DllRegisterServer
+          2    6 00002CB0 DllUnregisterServer
+          9    7 00003280 FinalizeVolume
+         10    8 000029A0 FindNextStorageType
+         11    9 00002A20 FindNextStorageTypeEx
+         12    A 00002C30 FindNextStorageTypeExAsync
+         13    B 00002E90 FormatVolume
+         14    C 00002CB0 GetAppSize
+         15    D 00003940 GetLastFailedSaveLocationPath
+         16    E 00002AB0 GetStorageDebugInfo
+         17    F 00003190 GetStorageDeviceInfo
+         18   10 00002B20 GetStorageExecutionInfo
+         19   11 00002FF0 GetStorageInstanceCount
+         20   12 00003080 GetStorageInstanceCountForMaps
+         21   13 00003680 GetStoragePolicySettings
+         22   14 00003300 GetStorageSettings
+         23   15 00003560 GetStorageStateName
+          3   16 000079D0 GetStorageUsageInfo
+         24   17 00002BA0 GetTopFolders
+         25   18 00002CC0 MIDL_user_allocate
+         26   19 00002CE0 MIDL_user_free
+         27   1A 00002D70 MountVolume
+         28   1B 00003AC0 MoveFileInheritSecurityW
+         29   1C 000027A0 OpenStorageTypeSearch
+         30   1D 000038B0 PredictStorageHealth
+         31   1E 00003610 ProcessStorageCardChange
+         32   1F 00003110 ProvisionForAppInstall
+         33   20 000039C0 RebootToFlashingMode
+         34   21 00003A40 RebootToUosFlashing
+         35   22 00003C80 ResetPhoneEx
+         36   23 00003720 ResetStoragePolicySettings
+         37   24 00002F20 ScanVolume
+         38   25 00002870 SelectStorageVolume
+         39   26 00002900 SelectStorageVolumeEx
+         40   27 00003790 SetStoragePolicySettings
+         41   28 000033B0 SetStorageSettings
+         42   29 00002CB0 TriggerBlinkCleanup
+         43   2A 00002CB0 TriggerDownloadsCleanup
+         44   2B 000034E0 TriggerLowStorageNotification
+         45   2C 00003460 TriggerStorageCleanup
+         46   2D 00003830 TriggerStoragePolicies
+         47   2E 00002CB0 TriggerStorageTypeRefresh
+         48   2F 00002CB0 TriggerTempFileCleanup
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1C000 .text

@@ -1,0 +1,51 @@
+
+Dump of file C:\Windows\System32\ntlanman.dll
+
+File Type: DLL
+
+  Section contains the following exports for NTLANMAN.dll
+
+    00000000 characteristics
+    15853EB5 time date stamp
+        0.00 version
+          12 ordinal base
+          45 number of functions
+          25 number of names
+
+    ordinal hint RVA      name
+
+         14    0 00009620 DllMain
+         15    1 0000D2A0 I_SystemFocusDialog
+         17    2 0000CCB0 NPAddConnection
+         38    3 0000CCE0 NPAddConnection3
+         55    4 0000CEC0 NPAddConnection4
+         18    5 0000D070 NPCancelConnection
+         35    6 00002670 NPCloseEnum
+         34    7 000023E0 NPEnumResource
+         36    8 0000D0C0 NPFormatNetworkName
+         13    9 00002330 NPGetCaps
+         12    A 0000C6C0 NPGetConnection
+         54    B 0000D0D0 NPGetConnection3
+         49    C 0000D170 NPGetConnectionPerformance
+         56    D 00009610 NPGetPersistentUseOptionsForConnection
+         53    E 0000C840 NPGetReconnectFlags
+         52    F 0000D1B0 NPGetResourceInformation
+         41   10 0000D220 NPGetResourceParent
+         40   11 0000C870 NPGetUniversalName
+         16   12 0000D230 NPGetUser
+         33   13 00001D70 NPOpenEnum
+         19   14 0000D4E0 QueryAppInstanceVersion
+         20   15 0000D5C0 RegisterAppInstance
+         21   16 0000D680 RegisterAppInstanceVersion
+         22   17 0000D740 ResetAllAppInstanceVersions
+         23   18 0000D7B0 SetAppInstanceCsvFlags
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       14000 .text

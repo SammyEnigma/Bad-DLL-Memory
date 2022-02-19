@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DdcClaimsApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for DdcClaimsApi.dll
+
+    00000000 characteristics
+     7FED391 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010F0 DdcGetDeviceClaimsForUser
+          2    1 00001120 FreeDeviceClaimsResponse
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

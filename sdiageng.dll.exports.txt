@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\sdiageng.dll
+
+File Type: DLL
+
+  Section contains the following exports for sdiageng.dll
+
+    00000000 characteristics
+     578450F time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001220 DllCanUnloadNow
+          2    1 00001240 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       23000 .text

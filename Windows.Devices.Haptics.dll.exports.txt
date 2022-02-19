@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Haptics.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Haptics.dll
+
+    00000000 characteristics
+    3401F8CE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003890 DllCanUnloadNow
+          2    1 00003920 DllGetActivationFactory
+          3    2 00003B00 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       11000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       1B000 .text

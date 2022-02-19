@@ -1,0 +1,94 @@
+
+Dump of file C:\Windows\System32\UserDataPlatformHelperUtil.dll
+
+File Type: DLL
+
+  Section contains the following exports for UserDataPlatformHelperUtil.dll
+
+    00000000 characteristics
+    6CA5FBC7 time date stamp
+        0.00 version
+           1 ordinal base
+          68 number of functions
+          68 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000023E0 ??0CalculateSize@Comms@@QEAA@_N0@Z
+          2    1 00001950 ??0Deserializer@Comms@@QEAA@PEBE0_N1@Z
+          3    2 00001CC0 ??0RpcClient@Comms@@QEAA@XZ
+          4    3 00001E50 ??0SecureRpcClient@Comms@@QEAA@XZ
+          5    4 00002460 ??0SerializeBuffer@Comms@@QEAA@AEBVCalculateSize@1@_N1@Z
+          6    5 000011E0 ??1Deserializer@Comms@@QEAA@XZ
+          7    6 00001CE0 ??1RpcClient@Comms@@QEAA@XZ
+          8    7 00001E70 ??1SecureRpcClient@Comms@@UEAA@XZ
+          9    8 00002410 ?CopyBytesIn@CalculateSize@Comms@@UEAAXPEBX_KAEBVtype_info@@@Z
+         10    9 00002540 ?CopyBytesIn@SerializeBuffer@Comms@@UEAAXPEBX_KAEBVtype_info@@@Z
+         11    A 00001980 ?CopyBytesOut@Deserializer@Comms@@QEAA_NPEAX_KAEBVtype_info@@@Z
+         13    B 00001A80 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAPEAD@Z
+         14    C 00001B40 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAPEAG@Z
+         15    D 00001B30 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAPEBD@Z
+         16    E 00001C00 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAPEBG@Z
+         17    F 00001390 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAV?$basic_string@GU?$char_traits@G@utl@@V?$allocator@G@2@@utl@@@Z
+         18   10 000014C0 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAV?$vector@EV?$allocator@E@utl@@@utl@@@Z
+         19   11 00001C10 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEAVNullType@detail@1@@Z
+         20   12 00001C10 ?DeserializeObject@Comms@@YA_NAEAVDeserializer@1@AEBVNullType@detail@1@@Z
+         21   13 00001240 ?GetBuffer@Deserializer@Comms@@QEAAPEAX_K@Z
+         22   14 00001190 ?GetBuffer@SerializeBuffer@Comms@@QEAAXAEAV?$vector@EV?$allocator@E@utl@@@utl@@@Z
+         23   15 00001180 ?GetBuffer@SerializeBuffer@Comms@@QEBAPEBV?$vector@EV?$allocator@E@utl@@@utl@@XZ
+         28   16 00001170 ?GetTotal@CalculateSize@Comms@@QEBA_KXZ
+         29   17 00002500 ?Initialize@SerializeBuffer@Comms@@QEAA_NXZ
+         30   18 00001D30 ?InitializeBinding@RpcClient@Comms@@QEAAJPEBGAEAPEAX@Z
+         33   19 000012E0 ?ReleaseBuffer@Deserializer@Comms@@QEAAXPEBX@Z
+         36   1A 00001310 ?SerializeObject@Comms@@YAXAEAVSerializeBase@1@AEBV?$basic_string@GU?$char_traits@G@utl@@V?$allocator@G@2@@utl@@@Z
+         37   1B 00001450 ?SerializeObject@Comms@@YAXAEAVSerializeBase@1@AEBV?$vector@EV?$allocator@E@utl@@@utl@@@Z
+         38   1C 000023D0 ?SerializeObject@Comms@@YAXAEAVSerializeBase@1@AEBVNullType@detail@1@@Z
+         39   1D 000022D0 ?SerializeObject@Comms@@YAXAEAVSerializeBase@1@PEBD@Z
+         40   1E 00002350 ?SerializeObject@Comms@@YAXAEAVSerializeBase@1@PEBG@Z
+         43   1F 00001EB0 ?_InitializeSecureRpcBinding@SecureRpcClient@Comms@@IEAAJPEBG0@Z
+         44   20 00006480 ConvertHtmlStringToPlainTextStringOneCore
+         45   21 000065C0 ConvertPlainTextStringToHtmlStringOneCore
+         12   22 00003B20 CreateKnownFolderPath
+         46   23 00007530 DefaultMakeHresultFromJetError
+         47   24 000029B0 DllCanUnloadNow
+         48   25 000029F0 DllGetClassObject
+         49   26 00007140 FreeEnumColumn
+         50   27 000044F0 GenerateUserModeServiceName
+         51   28 00006640 GetCalendarColors
+         52   29 000048C0 GetCombinedTransientObjectSecurityDescriptor
+         53   2A 00006B30 GetContentTypeFromFilePath
+         54   2B 00006E00 GetFileExtensionFromContentType
+         55   2C 000066B0 GetNextNewCalendarColor
+         56   2D 00004AD0 GetQueryProcessHandle
+         24   2E 00004390 GetRpcClientThreadToken
+         25   2F 00004BF0 GetSupportedImageFileExtensions
+         26   30 000037C0 GetTempFileNameWithExt
+         27   31 00005EC0 GetThreadIOPriority
+         57   32 00003E80 GetUserContextFromHandle
+         58   33 00003E30 GetUserTokenFromContext
+         31   34 00001E10 IsActiveDebugger
+         59   35 00004450 IsCommsSystemService
+         32   36 00004FE0 IsImageExtension
+         60   37 000070B0 JetReallocMethod
+         61   38 000065E0 PrependHtmlOneCore
+         34   39 00005800 ResizeImageBySizeInMemory
+         35   3A 00005BE0 ResizeImageBySizeToStream
+         62   3B 00003ED0 RunServicesInProc
+         63   3C 000074C0 SetCommsServiceJetGlobalSystemParameters
+         41   3D 00005FC0 SetPoolThreadBasePriority
+         42   3E 00005F40 SetThreadIOPriority
+         64   3F 00003EF0 StartAndWaitForService
+         65   40 00003F30 StartAndWaitForServiceForUser
+         66   41 000041B0 StopAndWaitForFullyNamedService
+         67   42 00004130 StopAndWaitForService
+         68   43 000063F0 UT_UninitializeTrident
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

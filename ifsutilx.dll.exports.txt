@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\ifsutilx.dll
+
+File Type: DLL
+
+  Section contains the following exports for IfsUtilx.dll
+
+    00000000 characteristics
+    E5AA4F3E time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001750 CheckSnapshotPresence
+          2    1 00001150 CreateVolumeSnapshot
+          3    2 00001800 GetSnapshotErrorMessage
+          4    3 000018F0 InitializeCOM
+          5    4 000016A0 ReleaseVolumeSnapshot
+          6    5 00001980 UninitializeCOM
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

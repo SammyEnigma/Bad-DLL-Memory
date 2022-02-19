@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\PSCRIPT5.DLL
+
+File Type: DLL
+
+  Section contains the following exports for pscript5.dll
+
+    00000000 characteristics
+    D224733C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001340 DllMain
+          2    1 000024C0 DrvDisableDriver
+          3    2 000013C0 DrvEnableDriver
+          4    3 00001370 DrvQueryDriverInfo
+
+  Summary
+
+        4000 .data
+        3000 .pdata
+       12000 .rdata
+        1000 .reloc
+       30000 .rsrc
+       56000 .text

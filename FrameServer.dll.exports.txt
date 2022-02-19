@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\FrameServer.dll
+
+File Type: DLL
+
+  Section contains the following exports for FrameServer.dll
+
+    00000000 characteristics
+    61E34A73 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002B70 ServiceMain
+          2    1 00002B20 SvchostPushServiceGlobals
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       1D000 .rdata
+        2000 .reloc
+        3000 .rsrc
+       C8000 .text

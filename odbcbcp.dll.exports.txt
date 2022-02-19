@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\odbcbcp.dll
+
+File Type: DLL
+
+  Section contains the following exports for odbcbcp.dll
+
+    00000000 characteristics
+    3618CCD3 time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+         24    0 00005A20 LibMain
+         27    1 00004270 SQLCloseEnumServers
+         26    2 00004240 SQLGetNextEnumeration
+         25    3 00004140 SQLInitEnumServers
+         23    4 00003CF0 SQLLinkedCatalogsA
+         22    5 00003F80 SQLLinkedCatalogsW
+         21    6 00003CD0 SQLLinkedServers
+          2    7 00001240 bcp_batch
+          3    8 000013D0 bcp_bind
+          4    9 00001660 bcp_colfmt
+          5    A 000018F0 bcp_collen
+          6    B 00001AB0 bcp_colptr
+          8    C 00001C70 bcp_columns
+          9    D 00001E20 bcp_control
+         10    E 00001FE0 bcp_done
+         12    F 00002180 bcp_exec
+         28   10 00002330 bcp_getcolfmt
+         11   11 00002580 bcp_initA
+         18   12 00002820 bcp_initW
+         13   13 00002A70 bcp_moretext
+         15   14 00002C30 bcp_readfmtA
+         19   15 00002E00 bcp_readfmtW
+         14   16 00002FB0 bcp_sendrow
+         29   17 00003150 bcp_setcolfmt
+         16   18 00003360 bcp_writefmtA
+         20   19 000034E0 bcp_writefmtW
+          1   1A 00003690 dbprtypeA
+         17   1B 00003A00 dbprtypeW
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .sdbid
+        6000 .text

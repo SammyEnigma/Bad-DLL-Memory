@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\oobe\SetupCleanupTask.dll
+
+File Type: DLL
+
+  Section contains the following exports for SetupCleanupTask.dll
+
+    00000000 characteristics
+    A6DE735B time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001990 DllCanUnloadNow
+          2    1 000019B0 DllGetClassObject
+          3    2 00001610 DllRegisterServer
+          4    3 00001610 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       1A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       33000 .text

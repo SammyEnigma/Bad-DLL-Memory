@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\imgutil.dll
+
+File Type: DLL
+
+  Section contains the following exports for ImgUtil.dll
+
+    00000000 characteristics
+    C9C210EE time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005CE0 ComputeInvCMAP
+          2    1 00005DB0 CreateDDrawSurfaceOnDIB
+          3    2 00005E90 CreateMIMEMap
+          4    3 00005EE0 DecodeImage
+          5    4 00005EF0 DecodeImageEx
+          6    5 00008870 DitherTo8
+          7    6 00004AE0 DllCanUnloadNow
+          8    7 00004B00 DllGetClassObject
+          9    8 00005650 GetMaxMIMEIDBytes
+         10    9 00001100 IdentifyMIMEType
+         11    A 00005780 SniffStream
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

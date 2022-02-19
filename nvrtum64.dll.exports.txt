@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvrtum64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvrtum64.dll
+
+    00000000 characteristics
+    5FD4010E time date stamp Sat Dec 12 00:30:22 2020
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00030BD0 rtcGetExportTable
+
+  Summary
+
+       7D000 .data
+        1000 .nvFatBi
+     1B9B000 .nv_fatb
+       86000 .pdata
+     11AB000 .rdata
+       12000 .reloc
+        1000 .rsrc
+      D41000 .text
+        2000 .tls

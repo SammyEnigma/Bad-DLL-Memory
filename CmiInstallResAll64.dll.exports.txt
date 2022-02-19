@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\CmiInstallResAll64.dll
+
+File Type: DLL
+
+  Section contains the following exports for RESOURCEDLL.dll
+
+    00000000 characteristics
+    4A8BB12C time date stamp Wed Aug 19 10:00:44 2009
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        9000 .data
+        3000 .pdata
+        D000 .rdata
+        2000 .reloc
+       1C000 .rsrc
+       29000 .text

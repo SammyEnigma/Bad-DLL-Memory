@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\HoloSI.PCShell.dll
+
+File Type: DLL
+
+  Section contains the following exports for HoloSI.PCShell.dll
+
+    00000000 characteristics
+    BF63945E time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000AC90 DllCanUnloadNow
+          2    1 0000AA40 DllGetActivationFactory
+          3    2 0000AC20 DllGetClassObject
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        9000 .pdata
+       3A000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       BE000 .text

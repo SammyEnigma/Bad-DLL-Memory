@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for wvc.dll
+
+    00000000 characteristics
+    B0A6FC88 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000032C0 DllCanUnloadNow
+          2    1 000032E0 DllGetClassObject
+          3    2 00003130 DllMain
+          4    3 000033A0 DllRegisterServer
+          5    4 000033C0 DllUnregisterServer
+
+  Summary
+
+        A000 .data
+        4000 .pdata
+       23000 .rdata
+        2000 .reloc
+       13000 .rsrc
+       4B000 .text

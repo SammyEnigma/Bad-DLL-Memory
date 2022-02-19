@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\rascustom.dll
+
+File Type: DLL
+
+  Section contains the following exports for RASCUSTOM.DLL
+
+    00000000 characteristics
+    32C9F329 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000023D0 InitializeProtocolEngine
+          2    1 00002650 SendMessageToProtocolEngine
+          3    2 00002580 UninitializeProtocolEngine
+          4    3 000284F0 VpnBrokerPluginIsInstalled
+          5    4 00028B00 VpnBrokerRegisterForPluginInstallations
+          6    5 00038FD0 VpnSmCommsPluginsNotifyLogOff
+          7    6 0003A070 VpnSmCommsPluginsRoamToBestCostInterface
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       19000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       60000 .text

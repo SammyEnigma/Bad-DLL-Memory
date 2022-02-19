@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\ttdplm.dll
+
+File Type: DLL
+
+  Section contains the following exports for TTDPlm.dll
+
+    00000000 characteristics
+    E342C8AB time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000023C0 CreateModernAppToDelete
+          2    1 000022F0 CreateModernAppToTrace
+          3    2 00002400 GetMaxPackageNameLength
+          4    3 00002410 GetPackageFromPid
+          5    4 000024C0 SetPermisionsForFolder
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

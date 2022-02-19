@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\bi.dll
+
+File Type: DLL
+
+  Section contains the following exports for bi.dll
+
+    00000000 characteristics
+    BAC38731 time date stamp
+        0.00 version
+           1 ordinal base
+          34 number of functions
+          34 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001010 BiActivateDeferredWorkItem
+          2    1 000010A0 BiActivateInBackground
+          3    2 00001120 BiActivateInBackgroundEx
+          4    3 00001380 BiActivateWorkItem
+          5    4 00001410 BiAssociateActivationProxy
+          6    5 00001530 BiAssociateApplicationExtensionClass
+          7    6 00001670 BiCancelWorkItem
+          8    7 00001710 BiCancelWorkItemEx
+          9    8 000017B0 BiCreateEvent
+         10    9 00001900 BiCreateEventForPackageName
+         11    A 00001A40 BiDeleteEvent
+         12    B 00001AD0 BiDisassociateWorkItem
+         13    C 00001B70 BiDiscardPendingActivations
+         14    D 00001C00 BiEnumerateBrokeredEvents
+         15    E 00001CC0 BiEnumerateUserContexts
+         16    F 00001D60 BiEnumerateUserSessions
+         17   10 00001E00 BiEnumerateWorkItemsForPackageName
+         18   11 00001F00 BiEnumerateWorkItemsForPackageNameEx
+         19   12 00002010 BiFreeMemory
+         20   13 00002040 BiQueryBrokeredEvent
+         21   14 00002100 BiQuerySystemStateBroadcastChannels
+         22   15 00002190 BiQueryUserContext
+         23   16 00002250 BiQueryUserSession
+         24   17 000022F0 BiQueryWorkItem
+         25   18 000023B0 BiQueryWorkItemEx
+         26   19 00002480 BiQueryWorkItemStatusStateName
+         27   1A 00002A00 BiSignalEvent
+         28   1B 00002520 BiSignalEventEx
+         29   1C 00002600 BiSignalMultipleEvents
+         30   1D 000026E0 BiSignalTriggerEvent
+         31   1E 00002710 BiSignalTriggerEventEx
+         32   1F 000027F0 BiUpdateEventFlags
+         33   20 000028A0 BiUpdateEventInformation
+         34   21 00002960 BiUpdateEventParameters
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

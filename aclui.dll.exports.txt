@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\aclui.dll
+
+File Type: DLL
+
+  Section contains the following exports for ACLUI.dll
+
+    00000000 characteristics
+    373DB8DB time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000468F0 CreateSecurityPage
+          5    1 0003AF40 EditConditionalAceClaims
+          4    2 0003B490 EditResourceCondition
+          2    3 00046A20 EditSecurity
+          3    4 00019770 EditSecurityAdvanced
+          6    5 000165F0 GetLocalizedStringForCondition
+          7    6 000294A0 GetTlsIndexForClaimDictionary
+         16    7 000736A8 IID_ISecurityInformation
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        5000 .pdata
+       21000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       64000 .text

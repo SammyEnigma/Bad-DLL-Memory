@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\Microsoft-WindowsPhone-SEManagementProvider.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        1000 .rsrc

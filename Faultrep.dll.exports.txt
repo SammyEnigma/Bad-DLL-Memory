@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\Faultrep.dll
+
+File Type: DLL
+
+  Section contains the following exports for faultrep.dll
+
+    00000000 characteristics
+    58AC5AD5 time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          7    0 0000D570 AddERExcludedApplicationA
+          8    1 0000D540 AddERExcludedApplicationW
+          3    2 0000C4A0 BasepReportFault
+          9    3 0000BE40 CancelHangReporting
+          4    4 0000C4E0 CheckForReadOnlyResourceFilter
+          5    5 0000B7C0 CheckPerUserCrossProcessThrottle
+         10    6 00005620 DllCanUnloadNow
+         11    7 00005660 DllGetClassObject
+         12    8 0000BD90 ReportCoreHang
+         13    9 0000D4F0 ReportFault
+         14    A 0000BCE0 ReportHang
+          6    B 0000B850 UpdatePerUserLastCrossProcessCollectionTime
+         15    C 0000BDD0 WerReportHang
+         16    D 00018F80 WerpGetDebugger
+         17    E 0000CF70 WerpInitiateCrashReporting
+         18    F 000193B0 WerpLaunchAeDebug
+          1      0000BD10 [NONAME]
+          2      0000BD50 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       16000 .rdata
+        1000 .reloc
+       14000 .rsrc
+       4A000 .text

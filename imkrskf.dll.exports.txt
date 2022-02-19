@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\IMEKR\APPLETS\imkrskf.dll
+
+File Type: DLL
+
+  Section contains the following exports for main.dll
+
+    00000000 characteristics
+     3A249C6 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002AA0 DllCanUnloadNow
+          2    1 00002AD0 DllGetClassObject
+          3    2 00002BA0 DllRegisterServer
+          4    3 00002BB0 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       27000 .text

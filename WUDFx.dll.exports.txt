@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\WUDFx.dll
+
+File Type: DLL
+
+  Section contains the following exports for WUDFx.DLL
+
+    00000000 characteristics
+    7DE2782B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0003D630 DllCanUnloadNow
+          2    1 0003D670 DllGetClassObject
+          3    2 0008DFA0 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        3000 .data
+        5000 .pdata
+       1E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       6D000 .text
+        1000 PAGEWdfV

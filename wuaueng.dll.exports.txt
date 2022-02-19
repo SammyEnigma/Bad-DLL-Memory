@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wuaueng.dll
+
+File Type: DLL
+
+  Section contains the following exports for wuaueng.dll
+
+    00000000 characteristics
+    1520FAD2 time date stamp
+        0.00 version
+           3 ordinal base
+           6 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          8    0 00104120 DllMain
+          4    1 00193D00 GeneralizeForImaging
+          5    2 000978F0 WUCreateExpressionEvaluator
+          6    3 000F2D50 WUCreateUpdateHandler
+          7    4 000C0950 WUServiceMain
+          3      00209D10 [NONAME]
+
+  Summary
+
+       10000 .data
+        1000 .didat
+       1A000 .pdata
+       C6000 .rdata
+        5000 .reloc
+       10000 .rsrc
+      23F000 .text

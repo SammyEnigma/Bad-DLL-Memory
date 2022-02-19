@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\UserDataService.dll
+
+File Type: DLL
+
+  Section contains the following exports for UserDataService.dll
+
+    00000000 characteristics
+    F1BB51F2 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0005B690 CleanupUDSGlobals
+          2    1 0005C330 CreateInprocConnectionHandle
+          3    2 0005C590 ServiceMain
+          4    3 0005C5A0 SvchostPushServiceGlobals
+          5    4 0005C5B0 TeardownInprocConnectionHandle
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        E000 .pdata
+       2D000 .rdata
+        3000 .reloc
+        7000 .rsrc
+      134000 .text

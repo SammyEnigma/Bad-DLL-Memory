@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\migwiz\replacementmanifests\Microsoft-Windows-Mup\MupMigPlugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for MupMigPlugin.dll
+
+    00000000 characteristics
+    DD0EB793 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000015D0 DllCanUnloadNow
+          2    1 000012C0 DllGetClassObject
+          3    2 00001610 DllMain
+          4    3 00001400 DllRegisterServer
+          5    4 00001530 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

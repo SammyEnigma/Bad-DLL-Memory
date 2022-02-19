@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\SyncSettings.dll
+
+File Type: DLL
+
+  Section contains the following exports for dll.dll
+
+    00000000 characteristics
+    65E5F0DB time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005440 DllCanUnloadNow
+          2    1 00005140 DllGetActivationFactory
+          3    2 00005320 DllGetClassObject
+          4    3 000050B0 GetProxyDllInfo
+          5    4 000054C0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       17000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       34000 .text

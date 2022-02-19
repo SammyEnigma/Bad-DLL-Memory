@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\GraphicsPerfSvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for dll.dll
+
+    00000000 characteristics
+    6F879334 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006370 DllMain
+          2    1 00006D40 ServiceMain
+          3    2 00006D30 SvchostPushServiceGlobalsEx
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

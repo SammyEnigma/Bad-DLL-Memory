@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\UIRibbon.dll
+
+File Type: DLL
+
+  Section contains the following exports for UIRibbon.dll
+
+    00000000 characteristics
+    F10D2C96 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000086F0 DllCanUnloadNow
+          2    1 00008710 DllGetClassObject
+          3    2 00061A80 DllMain
+
+  Summary
+
+        1000 .bootdat
+       25000 .data
+        1000 .didat
+       15000 .pdata
+      145000 .rdata
+       11000 .reloc
+       40000 .rsrc
+      219000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Media.Playback.ProxyStub.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.Playback.ProxyStub.dll
+
+    00000000 characteristics
+    F8183D58 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012F0 DllCanUnloadNow
+          2    1 000012B0 DllGetClassObject
+          3    2 00001380 DllRegisterServer
+          4    3 000013B0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       17000 .rdata
+        3000 .reloc
+        1000 .rsrc
+        2000 .text

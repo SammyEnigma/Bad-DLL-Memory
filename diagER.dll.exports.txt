@@ -1,0 +1,70 @@
+
+Dump of file C:\Windows\System32\oobe\diagER.dll
+
+File Type: DLL
+
+  Section contains the following exports for diagER.dll
+
+    00000000 characteristics
+    D9AEE1D6 time date stamp
+        0.00 version
+           1 ordinal base
+          44 number of functions
+          44 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001220 ??0CDwWinER@@QEAA@AEBV0@@Z
+          2    1 000024F0 ??0CDwWinER@@QEAA@PEBGH@Z
+          3    2 000010F0 ??0CWfpER@@QEAA@AEBV0@@Z
+          4    3 00001600 ??0CWfpER@@QEAA@PEBGW4_DIAG_REPORT_TYPE@@H@Z
+          5    4 00001060 ??0IDiagER@@QEAA@AEBV0@@Z
+          6    5 00004180 ??0IDiagER@@QEAA@PEBGH@Z
+          7    6 000029F0 ??1CDwWinER@@UEAA@XZ
+          8    7 00001A20 ??1CWfpER@@UEAA@XZ
+          9    8 000047B0 ??1IDiagER@@UEAA@XZ
+         10    9 000014F0 ??4CDiagERFactory@@QEAAAEAV0@$$QEAV0@@Z
+         11    A 000014F0 ??4CDiagERFactory@@QEAAAEAV0@AEBV0@@Z
+         12    B 000013B0 ??4CDwWinER@@QEAAAEAV0@AEBV0@@Z
+         13    C 00001150 ??4CWfpER@@QEAAAEAV0@AEBV0@@Z
+         14    D 000010B0 ??4IDiagER@@QEAAAEAV0@AEBV0@@Z
+         15    E 00007198 ??_7CDwWinER@@6B@
+         16    F 00007168 ??_7CWfpER@@6B@
+         17   10 000071C8 ??_7IDiagER@@6B@
+         18   11 00002B90 ?AddBucketingParameters@CDwWinER@@UEAAKPEAPEBGI@Z
+         19   12 00001DB0 ?AddBucketingParameters@CWfpER@@UEAAKPEAPEBGI@Z
+         20   13 00004370 ?AddBucketingParameters@IDiagER@@UEAAKPEAPEBGI@Z
+         21   14 00002E80 ?AddFiles@CDwWinER@@UEAAKPEAPEBGI@Z
+         22   15 00001F60 ?AddFiles@CWfpER@@UEAAKPEAPEBGI@Z
+         23   16 00004540 ?AddFiles@IDiagER@@UEAAKPEAPEBGI@Z
+         24   17 00004A70 ?CreateInstance@CDiagERFactory@@SAKPEBGW4_DIAG_REPORT_TYPE@@HPEAPEAVIDiagER@@@Z
+         32   18 00004A60 ?GetErrorReporter@CDiagERFactory@@SAPEAVIDiagER@@XZ
+         33   19 000025D0 ?Initialize@CDwWinER@@UEAAKXZ
+         34   1A 000016D0 ?Initialize@CWfpER@@UEAAKXZ
+         35   1B 00004C60 ?ReleaseInstance@CDiagERFactory@@SAXXZ
+         36   1C 00002A30 ?SetHeader@CDwWinER@@UEAAKPEBG@Z
+         37   1D 00001C40 ?SetHeader@CWfpER@@UEAAKPEBG@Z
+         38   1E 000042A0 ?SetHeader@IDiagER@@UEAAKPEBG@Z
+         39   1F 00003160 ?Submit@CDwWinER@@UEAAKK@Z
+         40   20 000021B0 ?Submit@CWfpER@@UEAAKK@Z
+         44   21 0000B608 ?m_diagER@CDiagERFactory@@0PEAVIDiagER@@EA
+         25   22 00004EA0 DiagERAddBucketingParameters
+         26   23 00005010 DiagERAddFiles
+         27   24 00004CA0 DiagERInitialize
+         28   25 00004DC0 DiagERSetHeader
+         29   26 00005100 DiagERSubmit
+         30   27 000051B0 DiagERSubmitEx
+         31   28 00005280 DiagERTerminate
+         41   29 0000B010 g_Kernel32
+         42   2A 0000B008 g_Shell32
+         43   2B 0000B000 g_WerApi
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

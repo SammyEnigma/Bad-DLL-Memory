@@ -1,0 +1,169 @@
+
+Dump of file C:\Windows\System32\TpmCoreProvisioning.dll
+
+File Type: DLL
+
+  Section contains the following exports for TpmCoreProvisioning.DLL
+
+    00000000 characteristics
+    7B464C10 time date stamp
+        0.00 version
+           1 ordinal base
+         143 number of functions
+         143 number of names
+
+    ordinal hint RVA      name
+
+        141    0 0000F990 DllCanUnloadNow
+          1    1 00031B40 Tpm20CanClearUsingAuthPolicy
+          2    2 00031C00 Tpm20ClearUsingAuthPolicy
+          3    3 00034AB0 Tpm20GetCompleteManufacturerVersion
+          4    4 00031FF0 Tpm20IsResetLockoutCountNeeded
+          5    5 000320B0 Tpm20ResetLockoutCountIfNeeded
+          6    6 00031090 Tpm2CreateWindowsNvBits
+          7    7 00031150 Tpm2ReadWindowsNvBit
+          8    8 00031220 Tpm2SetWindowsNvBit
+          9    9 000327F0 TpmAddBlockedCommand
+         10    A 00043210 TpmCertCheckEkCertMatchedEkPub
+         11    B 000407D0 TpmCertDeleteHealthCert
+         12    C 0003FB70 TpmCertDeleteHealthEndpoint
+         13    D 00040700 TpmCertGetCurrentProtocolVersion
+         14    E 000480F0 TpmCertGetEkCertFromWeb
+         15    F 00047CE0 TpmCertGetFormattedHASUrl
+         16   10 000477D0 TpmCertGetFormattedUrl
+         17   11 00045AA0 TpmCertGetFwLinkId
+        142   12 0003F820 TpmCertGetHASProtocolVersion
+         18   13 000403C0 TpmCertGetHealthCert
+         19   14 0004AF30 TpmCertGetHealthCertFromWeb
+         20   15 0003FD60 TpmCertGetHealthCorrelationId
+         21   16 0003FAA0 TpmCertGetHealthEndpoint
+         22   17 0003FF10 TpmCertGetHealthForceRetrieve
+         23   18 000400B0 TpmCertGetHealthStatusCode
+         24   19 0004A980 TpmCertGetHealthStatusRequestBlob
+         25   1A 00044BC0 TpmCertGetIsActiveZeroExhaust
+         26   1B 000404A0 TpmCertGetMaximumSupportedProtocolVersion
+         27   1C 00040560 TpmCertGetPreferredMaximumProtocolVersion
+         28   1D 00042CC0 TpmCertGetTpmManufacturerId
+         29   1E 00041280 TpmCertGetWindowsAik
+         30   1F 00043300 TpmCertInstallEkCertInRegistry
+         31   20 00042D80 TpmCertInstallNvEkCerts
+         32   21 00040B30 TpmCertIsHealthCertOnBootEnabled
+         33   22 000466B0 TpmCertParseHealthResponse
+         34   23 0004AAC0 TpmCertPostHealthXmlData
+         35   24 00043050 TpmCertQueryEkPub
+        143   25 0003F910 TpmCertSetEkAttestationOverride
+         36   26 0003F9E0 TpmCertSetHealthEndpoint
+         37   27 0003FE40 TpmCertSetHealthForceRetrieve
+         38   28 0003FFE0 TpmCertSetHealthStatusCode
+         39   29 00040630 TpmCertSetPreferredMaximumProtocolVersion
+         40   2A 0004B210 TpmCertVerifyHealthCertFromWeb
+         41   2B 00031F00 TpmChangeOwnerAuth
+         42   2C 00033D20 TpmCheckCreateWindowsAIK
+         43   2D 0004DF90 TpmCheckIFXRSAKeyGenVulnerability
+         44   2E 00031CC0 TpmClear
+         45   2F 000346E0 TpmClearUsingPhysicalPresence
+         46   30 00034EC0 TpmClearWithPolicyOrPPI
+         47   31 00032310 TpmConvertToOwnerAuth
+         48   32 00030DB0 TpmCreateEndorsementKeyPair
+         49   33 00040F60 TpmCreateHealthAttestationClaim
+         50   34 00040BA0 TpmCreateHealthStatusClaim
+         51   35 00033040 TpmDeleteOwnerAuth
+         52   36 00030B70 TpmDisable
+         53   37 00032EB0 TpmDisableAutoProvisioning
+         54   38 00034560 TpmEKCertValidateAndCleanup
+         55   39 00030AB0 TpmEnable
+         56   3A 00032D80 TpmEnableAutoProvisioning
+         57   3B 00035300 TpmEnrollWindowsAikCertificate
+         58   3C 00034F90 TpmGatherLogs
+         59   3D 0004DA90 TpmGatherTpmData
+         60   3E 00033C50 TpmGetCapLockoutInfo
+         61   3F 00034D30 TpmGetDeviceInformation
+         62   40 000339C0 TpmGetDictionaryAttackParameters
+         63   41 00033860 TpmGetEffectiveGroupPolicyOwnerAuthLevel
+         64   42 000343E0 TpmGetEndorsementKeyCertificateState
+         65   43 00041D10 TpmGetHealthCertRequest
+         66   44 00033B90 TpmGetOrderlyShutdownInfo
+         67   45 00032F70 TpmGetOwnerAuth
+         68   46 00033600 TpmGetOwnerAuthForEscrow
+         69   47 000337A0 TpmGetOwnerAuthStatus
+         70   48 000304A0 TpmGetOwnershipAuthBits
+         71   49 00034C40 TpmGetPPIVersion
+         72   4A 000332A0 TpmGetPhysicalPresenceConfirmationStatus
+         73   4B 00032580 TpmGetPhysicalPresenceRequest
+         74   4C 00032700 TpmGetPhysicalPresenceResponse
+         75   4D 00032640 TpmGetPhysicalPresenceTransition
+         76   4E 00035110 TpmGetPssSalt
+         77   4F 00032170 TpmGetRandomAuthValue
+         78   50 000351F0 TpmGetSignedEKFromVendorCommand
+         79   51 00033440 TpmGetSrkADThumbprint
+         80   52 00033370 TpmGetSrkPublicKeyModulus
+         81   53 00033530 TpmGetTcgLog
+         82   54 00034B80 TpmGetTpmVersion
+         83   55 00041E40 TpmGetVerificationRequest
+         84   56 0002FEB0 TpmGet_IsPpiVersion12
+         85   57 0002FC90 TpmGet_IsTpmPresent
+         86   58 0002FDD0 TpmGet_IsTpmVersion20
+         87   59 0002F780 TpmGet_ManufacturerId
+         88   5A 0002F860 TpmGet_ManufacturerVersion
+         89   5B 0002F930 TpmGet_ManufacturerVersionInfo
+         90   5C 0002FAD0 TpmGet_PhysicalPresenceVersionInfo
+         91   5D 0002FA00 TpmGet_SpecVersion
+         92   5E 0002FBA0 TpmGet_TpmVersionInfo
+         93   5F 00034DF0 TpmHasVulnerableFW
+         94   60 00041530 TpmHealthCertGetAndVerify
+         95   61 000331E0 TpmImportOwnerAuth
+         96   62 00030560 TpmIsActivated
+         97   63 00032C90 TpmIsAutoProvisioningEnabled
+         98   64 00032CB0 TpmIsAutoProvisioningEnabledEx
+         99   65 00032A30 TpmIsCommandBlocked
+        100   66 00030920 TpmIsCommandPresent
+        101   67 00030320 TpmIsEnabled
+        102   68 00030C30 TpmIsEndorsementKeyPairPresent
+        103   69 00030CF0 TpmIsFIPS
+        104   6A 000309F0 TpmIsKeyAttestationCapable
+        105   6B 00034620 TpmIsLockedOut
+        106   6C 000303E0 TpmIsOwned
+        107   6D 000306E0 TpmIsOwnerClearDisabled
+        108   6E 00030860 TpmIsOwnershipAllowed
+        109   6F 00030620 TpmIsPhysicalClearDisabled
+        110   70 000307A0 TpmIsPhysicalPresenceHardwareEnabled
+        111   71 00032B00 TpmIsReady
+        112   72 00032BC0 TpmIsReadyInformation
+        113   73 00031D80 TpmIsSrkAuthCompatible
+        114   74 00030F30 TpmIsUseLegacyDictionaryAttackParametersPolicySet
+        115   75 0002FF70 TpmManufacturerId_From_TpmVersionInfo
+        116   76 00030140 TpmManufacturerVersionInfo_From_TpmVersionInfo
+        117   77 00030050 TpmManufacturerVersion_From_TpmVersionInfo
+        118   78 000336E0 TpmOwnerAuthEscrowed
+        119   79 00034170 TpmPrepForNgc
+        120   7A 00033100 TpmProvision
+        121   7B 000328B0 TpmRemoveBlockedCommand
+        122   7C 000340B0 TpmRemoveRegisteredWindowsAIK
+        123   7D 00032970 TpmResetAuthLockOut
+        124   7E 00031E40 TpmResetSrkAuth
+        125   7F 00034240 TpmRetrieveEkCertOrReschedule
+        126   80 00044610 TpmRetrieveEkCertificate
+        127   81 00044450 TpmRetrieveEkCertificateURL
+        128   82 00034300 TpmRetrieveHealthCertOrReschedule
+        129   83 00041420 TpmRetrieveHealthCertificate
+        130   84 00032240 TpmSelfTest
+        131   85 00033AA0 TpmSetDictionaryAttackParameters
+        132   86 0002F460 TpmSetInstance
+        133   87 000323F0 TpmSetPhysicalPresenceRequest
+        134   88 000324B0 TpmSetPhysicalPresenceRequestEx
+        135   89 000344A0 TpmSetToLegacyDictionaryAttackParameters
+        136   8A 00030230 TpmSpecVersion_From_TpmVersionInfo
+        137   8B 00030E70 TpmTakeOwnership
+        138   8C 000347A0 TpmUnattendedSetup
+        139   8D 00041C50 TpmVerifyDeviceHealth
+        140   8E 00035050 TpmWriteInformationSnapshotFile
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        8000 .pdata
+       49000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       CC000 .text

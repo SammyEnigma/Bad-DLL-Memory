@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\RotMgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for RotMgr.DLL
+
+    00000000 characteristics
+    9CF2CD2C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002C90 DllCanUnloadNow
+          2    1 00002CF0 DllGetClassObject
+          3    2 000029F0 DllRegisterServer
+          4    3 00002B70 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        7000 .text

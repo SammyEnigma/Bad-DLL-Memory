@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\msdtctm.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSDTCTM.dll
+
+    00000000 characteristics
+    E11E7244 time date stamp
+        0.00 version
+           4 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          7    0 0006D780 ASCDefer
+          6    1 0006D820 ASCDeliverDeferred
+          8    2 0006D6D0 ASCGetSafeReference
+         10    3 0006D580 ASCWrapClassFactory
+          5    4 0006D410 ASCWrapObject
+          9    5 00013AB0 CreateInstance
+         11    6 00013FE0 DllGetClassObject
+          4    7 0006F330 DtcMainExt
+         12    8 0006F320 GetTipFunctionalityWorking
+         13    9 0006F310 SetTipFunctionalityWorking
+
+  Summary
+
+       18000 .data
+        E000 .pdata
+       9B000 .rdata
+       19000 .reloc
+        1000 .rsrc
+       C2000 .text

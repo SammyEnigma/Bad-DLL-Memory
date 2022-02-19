@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Devices.Portable.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Devices.Portable.dll
+
+    00000000 characteristics
+    B47604BE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001590 DllCanUnloadNow
+          2    1 00001600 DllGetActivationFactory
+          3    2 000017E0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\devmgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for DEVMGR.DLL
+
+    00000000 characteristics
+    1D293DF9 time date stamp
+        0.00 version
+           5 ordinal base
+          23 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+         17    0 0003C390 DeviceAdvancedPropertiesA
+         18    1 0003C450 DeviceAdvancedPropertiesW
+         19    2 00044040 DeviceCreateHardwarePage
+         25    3 00044060 DeviceCreateHardwarePageCustom
+         20    4 00044170 DeviceCreateHardwarePageEx
+          9    5 0003C500 DeviceManager_ExecuteA
+         10    6 0003C500 DeviceManager_ExecuteW
+         11    7 0003C590 DeviceProblemTextA
+         12    8 0003C6D0 DeviceProblemTextW
+         13    9 0003C6F0 DeviceProblemWizardA
+         14    A 0003C7C0 DeviceProblemWizardW
+         23    B 0003C870 DeviceProblenWizard_RunDLLA
+         24    C 0003C920 DeviceProblenWizard_RunDLLW
+          7    D 0003C9C0 DevicePropertiesA
+         21    E 0003CAA0 DevicePropertiesExA
+         22    F 0003CB90 DevicePropertiesExW
+          8   10 0003CC50 DevicePropertiesW
+          5   11 0003CD20 DeviceProperties_RunDLLA
+          6   12 0003CDD0 DeviceProperties_RunDLLW
+         15   13 000072F0 DllCanUnloadNow
+         16   14 000056F0 DllGetClassObject
+         26   15 00016310 DllRegisterServer
+         27   16 00016320 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       21000 .rdata
+        1000 .reloc
+       6B000 .rsrc
+       4C000 .text

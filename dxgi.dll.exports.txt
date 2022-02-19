@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\dxgi.dll
+
+File Type: DLL
+
+  Section contains the following exports for dxgi.dll
+
+    00000000 characteristics
+    B2922C7C time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001C380 ApplyCompatResolutionQuirking
+          2    1 0000AE90 CompatString
+          3    2 0000AAB0 CompatValue
+         10    3 0001DBD0 CreateDXGIFactory
+         11    4 0001DD70 CreateDXGIFactory1
+         12    5 0001DC70 CreateDXGIFactory2
+         13    6 0001FB90 DXGID3D10CreateDevice
+         14    7 0001FB90 DXGID3D10CreateLayeredDevice
+         15    8 0001FD40 DXGID3D10GetLayeredDeviceSize
+         16    9 0001FB90 DXGID3D10RegisterLayers
+         17    A 000080C0 DXGIDeclareAdapterRemovalSupport
+          4    B 00059C70 DXGIDumpJournal
+         18    C 0005D530 DXGIGetDebugInterface1
+         19    D 00003190 DXGIReportAdapterConfiguration
+          5    E 0001FD40 PIXBeginCapture
+          6    F 0001FD40 PIXEndCapture
+          7   10 0001FD40 PIXGetCaptureState
+          8   11 0005B560 SetAppCompatStringPointer
+          9   12 0005C460 UpdateHMDEmulationStatus
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        8000 .pdata
+       33000 .rdata
+        2000 .reloc
+       18000 .rsrc
+       98000 .text

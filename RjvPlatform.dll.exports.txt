@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SystemResetPlatform\RjvPlatform.dll
+
+File Type: DLL
+
+  Section contains the following exports for RjvPlatform.dll
+
+    00000000 characteristics
+    2FE4F17E time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004F80 RejuvShutdown
+          2    1 00005030 RejuvStartup
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

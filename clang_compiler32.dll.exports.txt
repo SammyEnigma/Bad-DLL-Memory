@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x86\clang_compiler32.dll
+
+File Type: DLL
+
+  Section contains the following exports for clang_compiler32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C2E0 CreateFrontEndInstance
+          2    1 00024B10 RegisterGlobalAtExitNotification
+
+  Summary
+
+        D000 .data
+        1000 .didat
+       89000 .rdata
+       18000 .reloc
+        1000 .rsrc
+      25D000 .text

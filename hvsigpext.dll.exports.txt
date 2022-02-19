@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\hvsigpext.dll
+
+File Type: DLL
+
+  Section contains the following exports for HVSIGPEXT.dll
+
+    00000000 characteristics
+    B70BBE09 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00017DC0 DllRegisterServer
+          3    1 00017F50 DllUnregisterServer
+          1    2 00017C70 ProcessHVSIPolicy
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       1A000 .text

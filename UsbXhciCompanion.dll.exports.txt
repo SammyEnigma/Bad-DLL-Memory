@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\usbxhci.inf_amd64_9afb87f4cdf04a25\UsbXhciCompanion.dll
+
+File Type: DLL
+
+  Section contains the following exports for UsbXhciCompanion.dll
+
+    00000000 characteristics
+     8052BAB time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000172E0 FxDriverEntryUm
+          2    1 00021040 __ImagePolicyMetadata
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .tPolicy
+       19000 .text

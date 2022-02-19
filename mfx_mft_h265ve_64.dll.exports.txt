@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\msdk.inf_amd64_c03be30a746c89a2\mfx_mft_h265ve_64.dll
+
+File Type: DLL
+
+  Section contains the following exports for mfx_mft_h265ve_64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0006CEE0 DllCanUnloadNow
+          2    1 0006D730 DllGetClassObject
+          3    2 000AF340 DllMain
+          4    3 0006CF00 DllRegisterServer
+          5    4 0006D570 DllUnregisterServer
+
+  Summary
+
+       1F000 .data
+       17000 .pdata
+       81000 .rdata
+        4000 .reloc
+        1000 .rsrc
+      189000 .text
+       D0000 TRSCODE

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmemulateddevices.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmEmulatedDevices.dll
+
+    00000000 characteristics
+    98A4A8E6 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006270 DllCanUnloadNow
+          2    1 000062A0 DllGetClassObject
+          3    2 000062C0 DllRegisterServer
+          4    3 000062D0 DllUnregisterServer
+
+  Summary
+
+        F000 .data
+        4000 .pdata
+       1C000 .rdata
+        1000 .reloc
+       C9000 .rsrc
+       46000 .text

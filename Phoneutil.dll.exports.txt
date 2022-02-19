@@ -1,0 +1,121 @@
+
+Dump of file C:\Windows\System32\Phoneutil.dll
+
+File Type: DLL
+
+  Section contains the following exports for PhoneUtil.dll
+
+    00000000 characteristics
+    34922388 time date stamp
+        0.00 version
+           1 ordinal base
+          95 number of functions
+          95 number of names
+
+    ordinal hint RVA      name
+
+         43    0 00017690 AsyncWorkDispatcher_CreateInstance
+         44    1 00031730 CauseCode_GetCodeFriendlyText
+         45    2 00031640 CauseCode_IsCodeRegistered
+         46    3 00017D20 CellVoiceHelper_FreeUiccAppSet
+         47    4 00017A20 CellVoiceHelper_GetSingleInstance
+         48    5 000187D0 CellularApiHelper_CreateInstance
+         49    6 00023C10 CellularApiHelper_FreeCountedModemArray
+         50    7 00023C10 CellularApiHelper_FreeCountedRegistrationStatusArray
+         51    8 00023C10 CellularApiHelper_FreeCountedSimAppArray
+         52    9 00023C10 CellularApiHelper_FreeCountedSimArray
+         53    A 00023C10 CellularApiHelper_FreeCountedSimLineArray
+         54    B 00023C10 CellularApiHelper_FreeCountedSlotArray
+         55    C 00023C10 CellularApiHelper_FreeCountedSlotCanAssociationArray
+         56    D 00028010 ComparePhoneNumbers
+         57    E 00031530 ConvertPhoneNumberToUINT64
+         58    F 00031280 CopyOnlyCharsetCharacters
+          1   10 000072A0 CreateAudioHardwareHelper
+          2   11 000086F0 CreateBrandingInfo
+         59   12 00010890 CreateCellularApiLineConfig
+         60   13 000109B0 CreateCellularPhoneLineConfig
+         61   14 0002A2C0 CreateDialAssist
+          3   15 00009860 CreatePerUserSecurityPolicy
+          4   16 0000A5A0 CreatePerUserSecurityToken
+          5   17 0000BAD0 CreatePerUserSecurityTokenForRpcClient
+          6   18 0000B300 CreateUdmDataSessionForSignedInUserContext
+          7   19 0000D0E0 DeinitDialingPrefixTable
+          8   1A 0000DBE0 DetectMultiPrefix
+          9   1B 0000BBA0 DuplicateSidIfValid
+         62   1C 0002A720 FindAreaCode
+         63   1D 00032210 FormatPhoneNumberWithLeftToRightMarker
+         64   1E 00010FA0 FreeTextReplyPresetMessages
+         10   1F 0000FC00 Get3GGPInCallToneDefaultForRegion
+         11   20 0000FC90 Get3GPPInCallToneDefault
+         12   21 0000F790 Get3GPPInCallToneForTypeAndMcc
+         13   22 0000FC50 Get3GPPInCallToneTypeString
+         65   23 00011020 GetAdjustCDMACallTimeSetting
+         66   24 000364F0 GetCchTailMin
+         67   25 00017BB0 GetCellvoiceLineIdAsString_LocalAlloc
+         14   26 0000D620 GetCountryCodeFromOperatorNum
+         15   27 000114B0 GetDefaultWiFiCallingBranding
+         16   28 000113A0 GetDialStringFromTelUri
+         68   29 00031090 GetDialableNumber
+         69   2A 00031070 GetDialableNumberAndDTMF
+         70   2B 00031020 GetDialableNumberEtc
+         17   2C 0000DDE0 GetDialingPrefixes
+         71   2D 00027DD0 GetDisplayNameFromCallInformation
+         72   2E 00032170 GetDisplayNumberWithLeftToRightMarker
+         18   2F 0000FEB0 GetDtmfInCallToneTypeString
+         19   30 0000D890 GetIddPrefix
+         20   31 0000E8B0 GetIddPrefixTable
+         73   32 00010780 GetMethodFromPropId
+         21   33 0000D780 GetNationalNumberLength
+         22   34 0000DA40 GetNddPrefix
+         23   35 0000BCC0 GetRpcClientUser
+         24   36 0000B480 GetSidForUserToken
+         25   37 0000A910 GetSignedInUserForAppActivation
+         26   38 000111E0 GetTelUriFromDialString
+         74   39 00010BA0 GetTextReplyPresetMessages
+         75   3A 000102B0 GetTimeDeltaFormat
+         27   3B 0000AEF0 GetUserContextTokenForUser
+         28   3C 0000B0C0 GetUserTokenForUser
+         76   3D 00023C40 GetZerothCellularPhoneLineId
+         29   3E 0000B1A0 ImpersonateSignedInUser
+         30   3F 0000CE60 InitDialingPrefixTable
+         77   40 00023C60 IsCellularVoiceCapableDevice
+         78   41 00030A30 IsDialableChar
+         79   42 00030A80 IsDialableCharEx
+         31   43 00010B80 IsEqualWnfStateNameHelper
+         80   44 000310B0 IsNumberDialable
+         32   45 000309B0 IsTTYEnabled
+         33   46 0000C090 IsUserAccountLoggedOn
+         81   47 00031220 IsValidCharacterForCharset
+         34   48 0000E580 MapPlusToDialingPrefix
+         82   49 00010590 MaskPhoneNumber
+         83   4A 00010630 MaskPhoneUri
+         84   4B 00010710 MaskString
+         85   4C 0002AC50 OneShotTimer_CreateInstance
+         86   4D 00028260 OptimizedReverseNumberCompare
+         87   4E 00036610 PhoneLineIdToString
+         88   4F 000366B0 PhoneLineIdToUrlEscapedString
+         89   50 00032150 Phone_FmtText
+         90   51 00011700 Phone_FmtText_GlobalFormat
+         91   52 00032160 Phone_FmtText_NonDialerFormat
+         92   53 00031120 RemoveMetadataFromNumber
+         35   54 0000BF40 ShouldSupportUdmCallHistory
+         93   55 00036550 StringToPhoneLineId
+         36   56 0000E0E0 StripExtraneousNDD
+         37   57 00031400 StripNonDtmfChars
+         94   58 000110B0 UrlEscapeString
+         95   59 00031320 ValidPhoneNumberInplaceStripInvalidCharacters
+         38   5A 00016D80 VoipAppIdentityUtilities_GetApplicationByAumid
+         39   5B 00016FA0 VoipAppIdentityUtilities_GetApplicationResourceResolverFromApplication
+         40   5C 000170D0 VoipAppIdentityUtilities_GetLifecycleManagerPolicy
+         41   5D 00016240 VoipAppIdentityUtilities_GetRpcClientApplicationUserModelId
+         42   5E 00016350 VoipAppIdentityUtilities_GetVoipAppAUMIDFromPFN
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       1B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       3C000 .text

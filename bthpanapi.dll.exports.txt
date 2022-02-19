@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\bthpanapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for bthpanapi.dll
+
+    00000000 characteristics
+    F643E60E time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003B70 BluetoothCloseNetworkHandle
+          2    1 00004080 BluetoothConnectToNetwork
+          3    2 00003070 BluetoothCreateNetworkHandle
+          4    3 000042C0 BluetoothDisconnectFromNetwork
+          5    4 00003150 BluetoothDuplicateNetworkHandle
+          6    5 00003C30 BluetoothFindFirstNetwork
+          7    6 00003FA0 BluetoothFindNetworkClose
+          8    7 00003E90 BluetoothFindNextNetwork
+          9    8 000031E0 BluetoothGetIncompleteConnectedNetworkHandle
+         10    9 000038C0 BluetoothGetNetworkAddress
+         11    A 000037E0 BluetoothGetNetworkAvailableRoles
+         12    B 00003700 BluetoothGetNetworkContainerId
+         13    C 000035A0 BluetoothGetNetworkInterfaceId
+         14    D 000033A0 BluetoothGetNetworkName
+         15    E 000039A0 BluetoothGetNetworkStatus
+         16    F 00004450 BluetoothRegisterNetworkNotifications
+         17   10 000045E0 BluetoothUnregisterNetworkNotifications
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

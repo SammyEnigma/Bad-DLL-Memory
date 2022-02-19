@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\sysmain.dll
+
+File Type: DLL
+
+  Section contains the following exports for sysmain.dll
+
+    00000000 characteristics
+    2D40CBA4 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000696E0 AgGlLoad
+          3    1 0006A410 AgPdLoad
+          4    2 00071500 AgTwLoad
+          5    3 0004D4A0 CloseReadyBoostPerfData
+          6    4 000677F0 CollectReadyBoostPerfData
+          7    5 000686C0 DllCanUnloadNow
+          8    6 00068700 DllGetClassObject
+          9    7 00068890 DllRegisterServer
+         10    8 000688D0 DllUnregisterServer
+         11    9 00068910 GetProviderClassID
+         12    A 000680D0 MI_Main
+         13    B 00067920 OpenReadyBoostPerfData
+         14    C 0007A4C0 PfSvSysprepCleanup
+         15    D 0007AA90 PfSvUnattendCallback
+          1    E 000682F0 PfSvWsSwapAssessmentTask
+         16    F 00067DC0 SysMtServiceMain
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        8000 .pdata
+       1D000 .rdata
+        1000 .reloc
+        B000 .rsrc
+       C5000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\cliconfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for CLICONFG.DLL
+
+    00000000 characteristics
+     6FF3700 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A9E0 CPlApplet
+          2    1 0000AAB0 ClientConfigureAddEdit
+          3    2 0000AFA0 OnInitDialogMain
+
+  Summary
+
+       10000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

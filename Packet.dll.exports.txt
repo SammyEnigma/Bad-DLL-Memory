@@ -1,0 +1,62 @@
+
+Dump of file C:\Windows\System32\Npcap\Packet.dll
+
+File Type: DLL
+
+  Section contains the following exports for packet.dll
+
+    00000000 characteristics
+    5AA7EA6B time date stamp Tue Mar 13 16:12:43 2018
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005750 PacketAllocatePacket
+          3    1 000056F0 PacketCloseAdapter
+          4    2 00005770 PacketFreePacket
+          5    3 00006100 PacketGetAdapterNames
+          6    4 00005E40 PacketGetAirPcapHandle
+          7    5 00005390 PacketGetDriverName
+          8    6 00005380 PacketGetDriverVersion
+          9    7 00006B10 PacketGetMonitorMode
+         10    8 000063D0 PacketGetNetInfoEx
+         11    9 000065F0 PacketGetNetType
+         12    A 00005CE0 PacketGetReadEvent
+         13    B 00005E50 PacketGetStats
+         14    C 00005EF0 PacketGetStatsEx
+         15    D 00005370 PacketGetVersion
+         16    E 000057A0 PacketInitPacket
+         17    F 00005C60 PacketIsDumpEnded
+         18   10 00006750 PacketIsLoopbackAdapter
+         19   11 00006840 PacketIsMonitorModeSupported
+          1   12 0002B0D0 PacketLibraryVersion
+         20   13 00005490 PacketOpenAdapter
+         21   14 000057C0 PacketReceivePacket
+         22   15 00005FA0 PacketRequest
+         23   16 00005830 PacketSendPacket
+         24   17 00005870 PacketSendPackets
+         25   18 00005DA0 PacketSetBpf
+         26   19 00005D50 PacketSetBuff
+         27   1A 00005C00 PacketSetDumpLimits
+         28   1B 00005AA0 PacketSetDumpName
+         29   1C 00006000 PacketSetHwFilter
+         30   1D 00005DF0 PacketSetLoopbackBehavior
+         31   1E 00005A00 PacketSetMinToCopy
+         32   1F 00005A50 PacketSetMode
+         33   20 00006980 PacketSetMonitorMode
+         34   21 00005CF0 PacketSetNumWrites
+         35   22 00005D40 PacketSetReadTimeout
+         36   23 00005E40 PacketSetSnapLen
+         37   24 000053A0 PacketStopDriver
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1B000 .text

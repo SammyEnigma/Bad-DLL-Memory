@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\offreg.dll
+
+File Type: DLL
+
+  Section contains the following exports for OFFREG.dll
+
+    00000000 characteristics
+    23FAF5E5 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001490 ORCloseHive
+          2    1 00002C20 ORCloseKey
+          3    2 00001060 ORCreateHive
+          4    3 00001C80 ORCreateKey
+          5    4 00002350 ORDeleteKey
+          6    5 00003D80 ORDeleteValue
+          7    6 00002810 OREnumKey
+          8    7 00003B50 OREnumValue
+          9    8 000042C0 ORGetKeySecurity
+         10    9 000032B0 ORGetValue
+         11    A 00004630 ORGetVersion
+         12    B 00002CB0 ORGetVirtualFlags
+         13    C 00005C50 ORMergeHives
+         14    D 00001390 OROpenHive
+         15    E 00001380 OROpenHiveByHandle
+         16    F 00001AD0 OROpenKey
+         17   10 00002550 ORQueryInfoKey
+         18   11 00002E20 ORRenameKey
+         19   12 00001670 ORSaveHive
+         20   13 00004470 ORSetKeySecurity
+         21   14 00003960 ORSetValue
+         22   15 00002D50 ORSetVirtualFlags
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text
+        3000 PAGE

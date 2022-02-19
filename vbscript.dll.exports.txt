@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\vbscript.dll
+
+File Type: DLL
+
+  Section contains the following exports for VBSCRIPT.dll
+
+    00000000 characteristics
+    386CB58A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00015C00 DllCanUnloadNow
+          2    1 00002250 DllGetClassObject
+          3    2 0003E8B0 DllRegisterServer
+          4    3 0003EE90 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        5000 .pdata
+       15000 .rdata
+        2000 .reloc
+        9000 .rsrc
+       6F000 .text

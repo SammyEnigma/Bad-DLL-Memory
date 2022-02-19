@@ -1,0 +1,108 @@
+
+Dump of file C:\Windows\System32\vmcompute.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmcompute.dll
+
+    00000000 characteristics
+    4EE41E79 time date stamp
+        0.00 version
+           1 ordinal base
+          81 number of functions
+          81 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00020690 ActivateLayer
+          6    1 00020C50 ApplyRegistryChangesToLayer
+          7    2 00018530 ComputeSystemExists
+          8    3 00022270 CreateBaseImageVHD
+          9    4 00022410 CreateBaseImageVHDWithFolders
+         10    5 00017D30 CreateComputeSystem
+         11    6 000223F0 CreateDifferencingVHD
+         12    7 00020460 CreateLayer
+         13    8 00018C60 CreateProcessInComputeSystem
+         14    9 000186C0 CreateProcessWithStdHandlesInComputeSystem
+         15    A 00020A80 CreateSandboxLayer
+         16    B 000208D0 DeactivateLayer
+         17    C 00020560 DestroyLayer
+         18    D 00023C70 DismountVhdByHandle
+         19    E 00017D20 EnumerateComputeSystems
+         20    F 000211E0 ExpandSandboxSize
+         21   10 00021AB0 ExportLayer
+         22   11 000185C0 GetComputeSystemProperties
+         23   12 000191F0 GetHostProperties
+         24   13 000209A0 GetLayerMountPath
+         25   14 000220F0 GrantVmAccess
+         26   15 000220C0 GrantVmGroupAccess
+         27   16 000281D0 HNSCall
+         28   17 00010000 HcsAddComputeSystemResource
+         29   18 0000E330 HcsCloseComputeSystem
+         30   19 00010920 HcsCloseProcess
+         31   1A 0000ED10 HcsCrashComputeSystem
+         32   1B 0000E000 HcsCreateComputeSystem
+         33   1C 00010380 HcsCreateProcess
+         34   1D 0000DE00 HcsEnumerateComputeSystems
+          1   1E 00028460 HcsEnumerateVmWorkerProcesses
+          2   1F 000285E0 HcsFindVmWorkerProcesses
+         35   20 0000F9E0 HcsGetComputeSystemProperties
+         36   21 00010D50 HcsGetProcessInfo
+         37   22 000110F0 HcsGetProcessProperties
+         38   23 000119D0 HcsGetServiceProperties
+          3   24 000286B0 HcsGetWorkerProcessJob
+         39   25 0000FC70 HcsModifyComputeSystem
+         40   26 00010000 HcsModifyComputeSystemResource
+         41   27 0000FC90 HcsModifyComputeSystemWithUserToken
+         42   28 00011370 HcsModifyProcess
+         43   29 00011BF0 HcsModifyServiceSettings
+         44   2A 0000E1F0 HcsOpenComputeSystem
+         45   2B 00010780 HcsOpenProcess
+         46   2C 0000F0B0 HcsPauseComputeSystem
+         47   2D 00010010 HcsRegisterComputeSystemCallback
+         48   2E 00011670 HcsRegisterProcessCallback
+         49   2F 00010000 HcsRemoveComputeSystemResource
+         50   30 0000F3C0 HcsResumeComputeSystem
+         51   31 0000F6D0 HcsSaveComputeSystem
+         52   32 0000E710 HcsShutdownComputeSystem
+         53   33 00010A60 HcsSignalProcess
+         54   34 0000E400 HcsStartComputeSystem
+          4   35 00028360 HcsStartVmWorkerProcess
+         55   36 00011D60 HcsSubmitWerReport
+         56   37 0000EAB0 HcsTerminateComputeSystem
+         57   38 00010D40 HcsTerminateProcess
+         58   39 000101F0 HcsUnregisterComputeSystemCallback
+         59   3A 00011850 HcsUnregisterProcessCallback
+         60   3B 00021E50 ImportLayer
+         61   3C 00020400 LayerExists
+         62   3D 00018640 ModifyComputeSystemResource
+         63   3E 00023BC0 MountVhdForSetup
+         64   3F 00022010 NameToGuid
+         65   40 00021650 PrepareLayer
+         66   41 00021670 PrepareLayerEx
+         67   42 00023B00 ProcessBaseImage
+         68   43 00023B30 ProcessHostImage
+         69   44 00022C00 ProcessImage
+         70   45 00022C20 ProcessImageEx
+         71   46 00023B90 ProcessUtilityHostImage
+         72   47 00023B60 ProcessUtilityImage
+         73   48 00018C90 ResizeConsoleInComputeSystem
+         74   49 000221B0 RevokeVmAccess
+         75   4A 00018100 ShutdownComputeSystem
+         76   4B 00017F10 StartComputeSystem
+         77   4C 00018340 TerminateComputeSystem
+         78   4D 00019130 TerminateProcessInComputeSystem
+         79   4E 00021920 UnprepareLayer
+         80   4F 00021930 UnprepareLayerEx
+         81   50 00018E00 WaitForProcessInComputeSystem
+
+  Summary
+
+        E000 .data
+        1000 .didat
+        6000 .pdata
+       25000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       72000 .text
+        3000 PAGE

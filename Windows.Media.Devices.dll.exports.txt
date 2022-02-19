@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Media.Devices.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.Devices.dll
+
+    00000000 characteristics
+    C23D22CA time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001F80 DllCanUnloadNow
+          1    1 00019340 DllGetActivationFactory
+          3    2 0001CE40 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       2D000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       56000 .text

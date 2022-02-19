@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\prnfldr.dll
+
+File Type: DLL
+
+  Section contains the following exports for PRNFLDR.dll
+
+    00000000 characteristics
+    FD52C138 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002400 DllCanUnloadNow
+          2    1 000024A0 DllGetClassObject
+          3    2 00002A10 DllRegisterServer
+          4    3 00002A10 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2B000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Media.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Media.dll
+
+    00000000 characteristics
+    7CFBAA29 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00022770 DllCanUnloadNow
+          1    1 00022520 DllGetActivationFactory
+          3    2 000215C0 DllGetClassObject
+
+  Summary
+
+        7000 .data
+        1000 .didat
+       2D000 .pdata
+      1B5000 .rdata
+       2F000 .reloc
+        6000 .rsrc
+      509000 .text

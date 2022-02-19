@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\ProximityCommon.dll
+
+File Type: DLL
+
+  Section contains the following exports for ProximityCommon.dll
+
+    00000000 characteristics
+    AC445710 time date stamp
+        0.00 version
+           3 ordinal base
+          26 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00003D30 DllCanUnloadNow
+          5    1 00003D50 DllGetClassObject
+          3    2 00003D90 GetProxyDllInfo
+         10      00004020 [NONAME]
+         19      00003DB0 [NONAME]
+         20      00010700 [NONAME]
+         21      00001AD0 [NONAME]
+         22      00009E00 [NONAME]
+         23      00004C00 [NONAME]
+         24      00008560 [NONAME]
+         25      00011300 [NONAME]
+         26      0000DB00 [NONAME]
+         27      00005260 [NONAME]
+         28      000021B0 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        F000 .rdata
+        2000 .reloc
+        2000 .rsrc
+       17000 .text

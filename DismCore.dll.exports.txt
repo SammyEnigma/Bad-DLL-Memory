@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Dism\DismCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for DismCore.dll
+
+    00000000 characteristics
+    DD7EE032 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00016920 DllCanUnloadNow
+          2    1 00016960 DllGetClassObject
+          3    2 00016AA0 DllRegisterServer
+          4    3 00016BA0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+       18000 .rdata
+        1000 .reloc
+       18000 .rsrc
+       30000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\AppVEntStreamingManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppVStreamingManager.dll
+
+    00000000 characteristics
+    402486A5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 000148C0 Deinitialize
+          4    1 00014A00 GetComponent
+          1    2 00014570 Initialize
+          2    3 00014860 InitializeISV
+
+  Summary
+
+        4000 .data
+        4000 .pdata
+       3B000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       6D000 .text

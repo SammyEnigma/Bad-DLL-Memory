@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\mfsensorgroup.dll
+
+File Type: DLL
+
+  Section contains the following exports for MFSENSORGROUP.dll
+
+    00000000 characteristics
+    16F4FA51 time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          32 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00027820 MFCheckProcessCapabilities
+          2    1 000295F0 MFCloneSensorProfile
+          3    2 00026EF0 MFCreatePackageFamilyNameTag
+          4    3 00026C10 MFCreatePassthroughTranslatedMediaType
+          5    4 00029F70 MFCreateRelativePanelWatcher
+          6    5 00028960 MFCreateSensorActivityMonitor
+          7    6 000261D0 MFCreateSensorGroup
+          8    7 00025640 MFCreateSensorGroupById
+          9    8 00025D80 MFCreateSensorGroupCollection
+         10    9 000266B0 MFCreateSensorGroupIdManager
+         11    A 00028EC0 MFCreateSensorProfile
+         12    B 00028CC0 MFCreateSensorProfileCollection
+         13    C 00028FB0 MFCreateSensorProfileWithFlags
+         14    D 00026700 MFCreateSensorStream
+         15    E 00026A90 MFCreateTranslatedMediaType
+         16    F 00025310 MFDeleteSensorGroupById
+         17   10 00028680 MFGetDeviceFromFSUniqueId
+         18   11 00028380 MFGetDeviceFromSGHash
+         19   12 00029C70 MFGetSGCH
+         20   13 000266C0 MFGetSensorDeviceProperty
+         21   14 00026A50 MFGetSensorDeviceRegistryProperty
+         22   15 00027C40 MFGetSensorGroupAttributesFromId
+         23   16 00029E10 MFGetSensorGroupPropertyName
+         24   17 00029BA0 MFGetSensorOrientation
+         25   18 00025260 MFInitializeSensorGroupStore
+         26   19 000255B0 MFIsSensorGroupName
+         27   1A 00026D80 MFIsStreamAvailableToAppPackage
+         28   1B 00029920 MFLoadSensorGroupFromRegistry
+         29   1C 00029090 MFLoadSensorProfiles
+         30   1D 00028EA0 MFPublishSensorProfiles
+         31   1E 00028B60 MFSensorProfileParseFilterSetString
+         32   1F 00029610 MFValidateSensorProfile
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       50000 .text

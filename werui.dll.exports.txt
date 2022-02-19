@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\werui.dll
+
+File Type: DLL
+
+  Section contains the following exports for werui.dll
+
+    00000000 characteristics
+    712F38F1 time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000023D0 WerUICreate
+          3    1 000024F0 WerUIDelete
+          4    2 000025C0 WerUIGetUserSelection
+          5    3 00002630 WerUIPromptForSecondLevel
+          6    4 00002900 WerUIPromptUser
+          1    5 0000B950 WerUIReportSilentProcessExit
+          7    6 000028A0 WerUIShowUpsell
+          8    7 00002550 WerUIStart
+          9    8 000026A0 WerUITerminate
+         10    9 00002800 WerUIUpdateStateProgress
+         11    A 00002760 WerUIUpdateUIForState
+         12    B 00002700 WerUIWaitForUserAction
+         13    C 00002110 WerUIpCheckWindow
+         14    D 00002330 WerUIpDefSubclassProc
+         15    E 000022E0 WerUIpHeadlessOrImersive
+         16    F 000023B0 WerUIpRemoveWindowSubclass
+         17   10 00002350 WerUIpSetWindowSubclass
+         18   11 00002390 WerUIpTaskDialogIndirect
+         19   12 000022D0 WerUIpUIHandleWERWindowMsg
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+       14000 .rsrc
+       20000 .text

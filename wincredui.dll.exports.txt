@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\wincredui.dll
+
+File Type: DLL
+
+  Section contains the following exports for wincredui.dll
+
+    00000000 characteristics
+    C9465A90 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000D0F0 CredUIInternalCmdLinePromptForCredentialsA
+          2    1 0000D080 CredUIInternalCmdLinePromptForCredentialsW
+          3    2 0000CFF0 CredUIInternalConfirmCredentialsA
+          4    3 0000CFD0 CredUIInternalConfirmCredentialsW
+          5    4 0000CAE0 CredUIInternalInitControls
+          6    5 0000AD20 CredUIInternalPromptForCredentialsA
+          7    6 0000AC40 CredUIInternalPromptForCredentialsW
+          8    7 0000CAD0 CredUIInternalPromptForWindowsCredentialsA
+          9    8 0000C960 CredUIInternalPromptForWindowsCredentialsW
+         10    9 0000BDC0 CredUIInternalPromptForWindowsCredentialsWorker
+         11    A 0000CD00 DllCanUnloadNow
+         12    B 0000CD20 DllGetClassObject
+         13    C 0000CDF0 DllRegisterServer
+         14    D 0000CF50 DllUnregisterServer
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       23000 .text

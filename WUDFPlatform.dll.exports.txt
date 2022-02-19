@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\WUDFPlatform.dll
+
+File Type: DLL
+
+  Section contains the following exports for WUDFPlatform.dll
+
+    00000000 characteristics
+    D2A41067 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000023B0 ClearPlatformTestingCallbacks
+          3    1 0000B0A0 DllGetClassObject
+          4    2 00001990 DllMain
+          5    3 0000B150 GetAndInitializePlatformObject
+          1    4 0000AFE0 GetPlatformObject
+          6    5 0000A660 InitializePlatformLibrary
+          7    6 00011AD0 PlatformSimulateUnhandledException
+          8    7 00011B30 PlatformUnhandledExceptionFilter
+          9    8 0000B240 SetPlatformErrorReportingCallbacks
+         10    9 00011B40 SetPlatformTestingCallbacks
+         11    A 0000B260 ShutdownPlatformLibrary
+         12    B 00012700 WdfGetLpcInterface
+         13    C 0000B320 WudfDebugBreakPoint
+         14    D 0000B380 WudfIsAnyDebuggerPresent
+         15    E 0000B430 WudfIsKernelDebuggerPresent
+         16    F 0000B460 WudfIsUserDebuggerPresent
+         17   10 0000B490 WudfWaitForDebugger
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        A000 .rsrc
+       16000 .text

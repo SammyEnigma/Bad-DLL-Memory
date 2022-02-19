@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\ExplorerFrame.dll
+
+File Type: DLL
+
+  Section contains the following exports for EXPLORERFRAME.dll
+
+    00000000 characteristics
+      D83FBE time date stamp
+        0.00 version
+         110 ordinal base
+          25 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+        112    0 00065630 DllCanUnloadNow
+        113    1 0003B190 DllGetClassObject
+        114    2 00114040 DllGetVersion
+        110               [NONAME] (forwarded to SHUNIMPL.#280)
+        111               [NONAME] (forwarded to SHUNIMPL.#281)
+        134      00185270 [NONAME]
+
+  Summary
+
+        4000 .data
+        2000 .didat
+       19000 .pdata
+       5E000 .rdata
+        6000 .reloc
+        1000 .rsrc
+      19B000 .text

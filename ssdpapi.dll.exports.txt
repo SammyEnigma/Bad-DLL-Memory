@@ -1,0 +1,55 @@
+
+Dump of file C:\Windows\System32\ssdpapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for SSDPAPI.dll
+
+    00000000 characteristics
+    7D8A778E time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008610 BeginRegisterPropChangeNotificationEx
+          2    1 00006A00 CleanupCache
+          3    2 00009F80 DHSetICSInterfaces
+          4    3 00009FC0 DHSetICSOff
+          5    4 00008980 DeregisterNotification
+          6    5 000012D0 DeregisterService
+          7    6 00009FF0 DisableFirewallRule
+          8    7 0000A140 EnableFirewallRule
+          9    8 00008C60 EndRegisterPropChangeNotificationEx
+         10    9 00001980 FindServices
+         11    A 00009A50 FindServicesCallback
+         12    B 00009AA0 FindServicesCallbackEx
+         13    C 00009AF0 FindServicesCancel
+         14    D 00009B60 FindServicesClose
+         15    E 00009BD0 FindServicesEx
+         16    F 00002FE0 FindServicesOnNetworkCallbackEx
+         17   10 00007520 FreeSsdpMessage
+         18   11 00001060 FreeSsdpMessageEx
+         19   12 00009BE0 GetFirstService
+         20   13 00009C90 GetFirstServiceEx
+         21   14 00009D50 GetNextService
+         22   15 00009E00 GetNextServiceEx
+         23   16 000039B0 RegisterAliveNotificationOnNetworkEx
+         24   17 00001E00 RegisterNotification
+         25   18 00008E00 RegisterNotificationEx
+         26   19 00009020 RegisterService
+         27   1A 00001390 RegisterServiceEx
+         28   1B 000018D0 SsdpCleanup
+         29   1C 00002AA0 SsdpStartup
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

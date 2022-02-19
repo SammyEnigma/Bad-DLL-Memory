@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\mbsmsapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for MbSmsApi.dll
+
+    00000000 characteristics
+    FD8D0258 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E90 DllCanUnloadNow
+          2    1 00001AF0 DllGetActivationFactory
+          3    2 00001CD0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        5000 .pdata
+       35000 .rdata
+        5000 .reloc
+        2000 .rsrc
+       69000 .text

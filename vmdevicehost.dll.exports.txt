@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\vmdevicehost.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmdevicehost.dll
+
+    00000000 characteristics
+    56E86277 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005D20 HdvCreateDeviceInstance
+          2    1 000061A0 HdvCreateGuestMemoryAperture
+          3    2 000062F0 HdvDeliverGuestInterrupt
+          4    3 00006270 HdvDestroyGuestMemoryAperture
+          5    4 00005A40 HdvInitializeDeviceHost
+          6    5 00005AE0 HdvInitializeDeviceHostForProxy
+          7    6 00005E80 HdvProxyDeviceHost
+          8    7 00005FE0 HdvReadGuestMemory
+          9    8 00006360 HdvRegisterDoorbell
+         10    9 000063F0 HdvRegisterDoorbellPage
+         11    A 00005C20 HdvTeardownDeviceHost
+         12    B 00006470 HdvUnregisterDoorbell
+         13    C 000064F0 HdvUnregisterDoorbellPage
+         14    D 000060C0 HdvWriteGuestMemory
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1E000 .text

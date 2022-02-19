@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\XpsGdiConverter.dll
+
+File Type: DLL
+
+  Section contains the following exports for XpsGdiConverter.dll
+
+    00000000 characteristics
+    280F614F time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          1      00008E30 [NONAME]
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        3000 .pdata
+       15000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       52000 .text

@@ -1,0 +1,60 @@
+
+Dump of file C:\Windows\System32\utildll.dll
+
+File Type: DLL
+
+  Section contains the following exports for UTILDLL.dll
+
+    00000000 characteristics
+     A02AD5D time date stamp
+        0.00 version
+           1 ordinal base
+          34 number of functions
+          34 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000024A0 AsyncDeviceEnumerate
+          2    1 00001010 CachedGetUserFromSid
+          3    2 00002850 CalculateDiffTime
+          4    3 00002870 CalculateElapsedTime
+          5    4 00002B80 CompareElapsedTime
+          6    5 00002BD0 ConfigureModem
+          7    6 00002D70 CurrentDateTimeString
+          8    7 00002F40 DateTimeString
+          9    8 00003210 ElapsedTimeString
+         10    9 00003320 EnumerateMultiUserServers
+         11    A 00003B40 FormDecoratedAsyncDeviceName
+         12    B 00003B80 GetAssociatedPortName
+         13    C 00003C90 GetSystemMessageA
+         14    D 00003D40 GetSystemMessageW
+         15    E 00003F80 GetUnknownString
+         16    F 00003FE0 GetUserFromSid
+         17   10 00004210 HaveAnonymousUsersChanged
+         18   11 00004330 InitializeAnonymousUserCompareList
+         19   12 00004380 InstallModem
+         20   13 000044C0 IsPartOfDomain
+         21   14 00004580 NetBIOSDeviceEnumerate
+         22   15 00004900 NetworkDeviceEnumerate
+         23   16 00004B50 ParseDecoratedAsyncDeviceName
+         24   17 00004C00 QueryCurrentWinStation
+         25   18 00004D30 RegGetNetworkDeviceName
+         26   19 000053A0 RegGetNetworkServiceName
+         27   1A 000058F0 StandardErrorMessage
+         28   1B 00005C20 StrAsyncConnectState
+         29   1C 00005C90 StrConnectState
+         30   1D 00005E10 StrProcessState
+         31   1E 00005E90 StrSdClass
+         32   1F 00005FB0 StrSystemWaitReason
+         33   20 00006360 TestUserForAdmin
+         34   21 00006430 WinEnumerateDevices
+
+  Summary
+
+        B000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        6000 .text

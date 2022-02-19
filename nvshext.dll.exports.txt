@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvshext.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvshext.dll
+
+    00000000 characteristics
+    5FD405AE time date stamp Sat Dec 12 00:50:06 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001270 DllCanUnloadNow
+          2    1 00001390 DllGetClassObject
+          3    2 00001360 DllRegisterServer
+          4    3 00001370 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        F000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\windowslivelogin.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsLiveLogin.DLL
+
+    00000000 characteristics
+    610D7C75 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009210 DllCanUnloadNow
+          2    1 00009250 DllGetClassObject
+          3    2 000020B0 DllRegisterServer
+          4    3 000020B0 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        2000 .pdata
+       16000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       2A000 .text

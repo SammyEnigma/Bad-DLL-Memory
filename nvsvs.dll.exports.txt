@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvsvs.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvSVS.DLL
+
+    00000000 characteristics
+    5FD404F4 time date stamp Sat Dec 12 00:47:00 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000813E0 DllCanUnloadNow
+          2    1 00081450 DllGetClassObject
+          3    2 00081480 DllRegisterServer
+          4    3 000814C0 DllUnregisterServer
+
+  Summary
+
+       22000 .data
+        1000 .didat
+       20000 .pdata
+       FB000 .rdata
+       11000 .reloc
+       E2000 .rsrc
+      2B1000 .text
+        1000 .tls

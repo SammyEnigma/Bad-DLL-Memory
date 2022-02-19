@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\dbnmpntw.dll
+
+File Type: DLL
+
+  Section contains the following exports for DBnmpntw.dll
+
+    00000000 characteristics
+    3F6911D5 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+         13    0 000034E0 ConnectionCheckForData
+          4    1 00001900 ConnectionClose
+          5    2 00001D70 ConnectionError
+         15    3 00001BC0 ConnectionErrorW
+          9    4 000018C0 ConnectionMode
+          1    5 00001560 ConnectionObjectSize
+         11    6 00002260 ConnectionOpen
+         14    7 000020D0 ConnectionOpenW
+          2    8 000027A0 ConnectionRead
+         12    9 00003920 ConnectionServerEnum
+         16    A 000036C0 ConnectionServerEnumW
+         10    B 000018E0 ConnectionStatus
+          7    C 000030E0 ConnectionTransact
+          6    D 00001BB0 ConnectionVer
+          3    E 00002E50 ConnectionWrite
+          8    F 000015D0 ConnectionWriteOOB
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

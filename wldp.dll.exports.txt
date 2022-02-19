@@ -1,0 +1,47 @@
+
+Dump of file C:\Windows\System32\wldp.dll
+
+File Type: DLL
+
+  Section contains the following exports for Wldp.dll
+
+    00000000 characteristics
+    25AC8A73 time date stamp
+        0.00 version
+           1 ordinal base
+          21 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00011EC0 WldpAddDeveloperCertificateForDynamicCodeTrust
+          6    1 000164E0 WldpCheckDeviceEncryptionNotStarted
+          7    2 00002D40 WldpCheckRetailConfiguration
+          8    3 000160C0 WldpCheckSecurityWatermarkState
+          9    4 00016560 WldpCheckWcosDeviceEncryptionSecure
+         10    5 00012230 WldpDisableDeveloperMode
+         11    6 000123F0 WldpEnableDeveloperMode
+         12    7 000024E0 WldpGetLockdownPolicy
+         13    8 00014D30 WldpIsAllowedEntryPoint
+          1    9 000113E0 WldpIsAppApprovedByPolicy
+         14    A 00012840 WldpIsClassInApprovedList
+         15    B 00013000 WldpIsDebugAllowed
+         16    C 00013230 WldpIsDynamicCodePolicyEnabled
+         17    D 000132C0 WldpQueryDynamicCodeTrust
+         18    E 00013330 WldpQuerySecurityPolicy
+          2    F 00002AC0 WldpQueryWindowsLockdownMode
+          3   10 00011420 WldpQueryWindowsLockdownRestriction
+         19   11 000164A0 WldpResetSecurityWatermarkState
+         20   12 00013390 WldpSetDynamicCodeTrust
+         21   13 000133E0 WldpSetDynamicCodeTrust2
+          4   14 000114A0 WldpSetWindowsLockdownRestriction
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       18000 .text

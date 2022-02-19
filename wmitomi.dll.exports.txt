@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\wmitomi.dll
+
+File Type: DLL
+
+  Section contains the following exports for wmitomi.dll
+
+    00000000 characteristics
+    A6B34B86 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001100 ??0CCritSec@@QEAA@XZ
+          2    1 00016690 ??0MIServer@@QEAA@XZ
+          3    2 00001130 ??1CCritSec@@QEAA@XZ
+          4    3 00001190 ??4CAutoSetActivityId@@QEAAAEAV0@AEBV0@@Z
+          5    4 00001160 ??4CCritSec@@QEAAAEAV0@AEBV0@@Z
+          6    5 00007560 ??4MIServer@@QEAAAEAV0@$$QEAV0@@Z
+          7    6 000074F0 ??4MIServer@@QEAAAEAV0@AEBV0@@Z
+          8    7 00001860 ?SetAdapter@AdapterContextBase@@QEAAJPEAUIUnknown@@@Z
+          9    8 00010610 Adapter_CreateAdapterObject
+         10    9 000105C0 Adapter_DllCanUnloadNow
+         11    A 00010490 Adapter_DllGetClassObject
+         12    B 00010600 Adapter_RegisterDLL
+         13    C 00010600 Adapter_UnRegisterDLL
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       12000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

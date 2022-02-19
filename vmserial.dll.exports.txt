@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmserial.dll
+
+File Type: DLL
+
+  Section contains the following exports for VmSerial.dll
+
+    00000000 characteristics
+    EBB2F054 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000065C0 DllCanUnloadNow
+          2    1 000065F0 DllGetClassObject
+          3    2 00006610 DllRegisterServer
+          4    3 00006620 DllUnregisterServer
+
+  Summary
+
+        F000 .data
+        4000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       51000 .text

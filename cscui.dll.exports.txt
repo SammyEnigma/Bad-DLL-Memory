@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\cscui.dll
+
+File Type: DLL
+
+  Section contains the following exports for CSCUI.dll
+
+    00000000 characteristics
+    8C31E680 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A6A0 CPlApplet
+          3    1 0000A910 CSCOptions_RunDLL
+          4    2 0000A910 CSCOptions_RunDLLA
+          5    3 0000A9B0 CSCOptions_RunDLLW
+          6    4 00004D50 CSCUIInitialize
+          2    5 0000A900 CSCUIOptionsPropertySheet
+          7    6 0000B320 CSCUIRemoveFolderFromCache
+          8    7 00004D50 CSCUISetState
+          9    8 00004130 DllCanUnloadNow
+         10    9 00003400 DllGetClassObject
+         11    A 0000B400 DllRegisterServer
+         12    B 0000B450 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       18000 .rdata
+        2000 .reloc
+       58000 .rsrc
+       50000 .text

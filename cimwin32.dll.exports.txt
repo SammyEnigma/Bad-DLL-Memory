@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\wbem\cimwin32.dll
+
+File Type: DLL
+
+  Section contains the following exports for cimwin32.dll
+
+    00000000 characteristics
+    AB3E3138 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000ACDF0 ??0CTcpMib@@QEAA@AEBV0@@Z
+          2    1 000ACDF0 ??0CTcpMib@@QEAA@XZ
+          3    2 000ACE10 ??1CTcpMib@@UEAA@XZ
+          4    3 000ACE30 ??4CTcpMib@@QEAAAEAV0@AEBV0@@Z
+          5    4 0013F040 ??_7CTcpMib@@6B@
+          6    5 001EE130 ?MySecurityDescriptor@@3VWin32SecurityDescriptor@@A
+          7    6 0000CF70 DllCanUnloadNow
+          8    7 0000CCD0 DllGetClassObject
+          9    8 0003A630 DllRegisterServer
+         10    9 0003A6A0 DllUnregisterServer
+         11    A 00114E30 GetSDFromWin32SecurityDescriptor
+         12    B 00114F10 SetWin32SecurityDescriptorFromSD
+
+  Summary
+
+        A000 .data
+        1000 .didat
+        C000 .pdata
+       AD000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      137000 .text

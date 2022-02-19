@@ -1,0 +1,77 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvngx.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvngx.dll
+
+    00000000 characteristics
+    5FD3FDA8 time date stamp Sat Dec 12 00:15:52 2020
+        0.00 version
+           1 ordinal base
+          51 number of functions
+          51 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003050 NVSDK_NGX_CUDA_AllocateParameters
+          2    1 00003180 NVSDK_NGX_CUDA_CreateFeature
+          3    2 00003060 NVSDK_NGX_CUDA_DestroyParameters
+          4    3 000031A0 NVSDK_NGX_CUDA_EvaluateFeature
+          5    4 000030D0 NVSDK_NGX_CUDA_GetCapabilityParameters
+          6    5 00003100 NVSDK_NGX_CUDA_GetParameters
+          7    6 00003160 NVSDK_NGX_CUDA_GetScratchBufferSize
+          8    7 00002E20 NVSDK_NGX_CUDA_Init
+          9    8 00002BF0 NVSDK_NGX_CUDA_Init_Ext
+         10    9 00003190 NVSDK_NGX_CUDA_ReleaseFeature
+         11    A 000030E0 NVSDK_NGX_CUDA_Shutdown
+         12    B 00043AA0 NVSDK_NGX_D3D11_AllocateParameters
+         13    C 00043BD0 NVSDK_NGX_D3D11_CreateFeature
+         14    D 00043AB0 NVSDK_NGX_D3D11_DestroyParameters
+         15    E 00043C00 NVSDK_NGX_D3D11_EvaluateFeature
+         16    F 00043B20 NVSDK_NGX_D3D11_GetCapabilityParameters
+         17   10 00043B50 NVSDK_NGX_D3D11_GetParameters
+         18   11 00043BB0 NVSDK_NGX_D3D11_GetScratchBufferSize
+         19   12 00043970 NVSDK_NGX_D3D11_Init
+         20   13 00043840 NVSDK_NGX_D3D11_Init_Ext
+         21   14 00043BF0 NVSDK_NGX_D3D11_ReleaseFeature
+         22   15 00043B30 NVSDK_NGX_D3D11_Shutdown
+         23   16 00044D70 NVSDK_NGX_D3D12_AllocateParameters
+         24   17 00044EA0 NVSDK_NGX_D3D12_CreateFeature
+         25   18 00044D80 NVSDK_NGX_D3D12_DestroyParameters
+         26   19 00044ED0 NVSDK_NGX_D3D12_EvaluateFeature
+         27   1A 00044DF0 NVSDK_NGX_D3D12_GetCapabilityParameters
+         28   1B 00044E20 NVSDK_NGX_D3D12_GetParameters
+         29   1C 00044E80 NVSDK_NGX_D3D12_GetScratchBufferSize
+         30   1D 00044C40 NVSDK_NGX_D3D12_Init
+         31   1E 00044B10 NVSDK_NGX_D3D12_Init_Ext
+         32   1F 00044EC0 NVSDK_NGX_D3D12_ReleaseFeature
+         33   20 00044E00 NVSDK_NGX_D3D12_Shutdown
+         34   21 0000F120 NVSDK_NGX_OTA_UPDATES_CheckForUpdate
+         35   22 00010E60 NVSDK_NGX_OTA_UPDATES_GetPath
+         36   23 00010580 NVSDK_NGX_OTA_UPDATES_Install
+         37   24 0000DF20 NVSDK_NGX_OTA_UPDATES_Register
+         38   25 0000E590 NVSDK_NGX_OTA_UPDATES_Unregister
+         39   26 000109D0 NVSDK_NGX_OTA_UPDATES_Update
+         40   27 00006FB0 NVSDK_NGX_VULKAN_AllocateParameters
+         41   28 00007B60 NVSDK_NGX_VULKAN_CreateFeature
+         42   29 00006FC0 NVSDK_NGX_VULKAN_DestroyParameters
+         43   2A 00007B90 NVSDK_NGX_VULKAN_EvaluateFeature
+         44   2B 00007030 NVSDK_NGX_VULKAN_GetCapabilityParameters
+         45   2C 00007AE0 NVSDK_NGX_VULKAN_GetParameters
+         46   2D 00007B40 NVSDK_NGX_VULKAN_GetScratchBufferSize
+         47   2E 00007840 NVSDK_NGX_VULKAN_Init
+         48   2F 00007980 NVSDK_NGX_VULKAN_Init_Ext
+         49   30 00007B80 NVSDK_NGX_VULKAN_ReleaseFeature
+         50   31 00006B10 NVSDK_NGX_VULKAN_RequiredExtensions
+         51   32 00007AC0 NVSDK_NGX_VULKAN_Shutdown
+
+  Summary
+
+       23000 .data
+        9000 .pdata
+       36000 .rdata
+        2000 .reloc
+       7B000 .rsrc
+       9B000 .text
+        1000 .tls

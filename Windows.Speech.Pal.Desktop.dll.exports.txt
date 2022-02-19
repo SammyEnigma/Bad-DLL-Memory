@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech_OneCore\common\Windows.Speech.Pal.Desktop.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Speech.Pal.Desktop.dll
+
+    00000000 characteristics
+    9F236E59 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005A00 DllCanUnloadNow
+          2    1 00005730 DllGetActivationFactory
+          3    2 00005910 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       25000 .text

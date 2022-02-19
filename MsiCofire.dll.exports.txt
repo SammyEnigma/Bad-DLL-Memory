@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MsiCofire.dll
+
+File Type: DLL
+
+  Section contains the following exports for msire.dll
+
+    00000000 characteristics
+    DD627F21 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00001310 DllMain
+          1    1 00001340 WdiDiagnosticModuleMain
+          2    2 00001330 WdiGetDiagnosticModuleInterfaceVersion
+          3    3 000013B0 WdiHandleInstance
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

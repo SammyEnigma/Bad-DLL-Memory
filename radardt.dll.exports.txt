@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\radardt.dll
+
+File Type: DLL
+
+  Section contains the following exports for radardt.dll
+
+    00000000 characteristics
+    9461C67F time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A020 RdrSysprepSpecialize
+          2    1 00005180 RdrSysprepSpecializeOffline
+          3    2 00001100 WdiDiagnosticModuleMain
+          4    3 00001060 WdiGetDiagnosticModuleInterfaceVersion
+          5    4 00001730 WdiHandleInstance
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       12000 .text

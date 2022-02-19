@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\aadauthhelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for AADAUTHHELPER.DLL
+
+    00000000 characteristics
+    64B7EE61 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000034E0 CloseFidoAuthenticationSession
+          2    1 00003260 CreateAuthBuffer
+          3    2 000032A0 CreateResourceAccountAuthBuffer
+          4    3 00003270 CreateTokenAuthBuffer
+          5    4 00003290 CreateTokenAuthBufferEx
+          6    5 000033D0 GetFidoAuthenticationSessionStatus
+          7    6 000037E0 GetSerializedAuthBuffer
+          8    7 000036E0 StartChangingFidoPin
+          9    8 000032B0 StartFidoAuthenticationSession
+         10    9 000035E0 StartSigningFidoClientData
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       23000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4B000 .text

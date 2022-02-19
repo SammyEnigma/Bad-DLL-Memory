@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\F12\perfcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for com.dll
+
+    00000000 characteristics
+    23ED6ED9 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00024120 DllCanUnloadNow
+          2    1 000241F0 DllGetClassObject
+          3    2 00001580 DllRegisterServer
+          4    3 00001580 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       30000 .text

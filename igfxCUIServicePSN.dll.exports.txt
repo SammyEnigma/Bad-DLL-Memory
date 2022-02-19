@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_f3a64c75ee4defb7\igfxCUIServicePSN.dll
+
+File Type: DLL
+
+  Section contains the following exports for igfxCUIServicePSN.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001020 DllCanUnloadNow
+          2    1 00001030 DllGetClassObject
+          3    2 00001090 DllRegisterServer
+          4    3 000010D0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .orpc
+        5000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       49000 .text

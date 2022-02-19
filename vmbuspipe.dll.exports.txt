@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\wvmbus.inf_amd64_b3e8f3ce60e5c8b5\vmbuspipe.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmbuspipe.dll
+
+    00000000 characteristics
+    6FA65CEC time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002BE0 VmbusPipeClientEnumeratePipes
+          2    1 00002F30 VmbusPipeClientOpenChannel
+          3    2 00002F70 VmbusPipeClientOpenChannelEx
+          4    3 00003050 VmbusPipeClientReadyForChannelNotification
+          5    4 00003180 VmbusPipeClientRegisterChannelNotification
+          6    5 00003350 VmbusPipeClientUnregisterChannelNotification
+          7    6 000033F0 VmbusPipeClientWaitChannel
+          8    7 00002190 VmbusPipeServerConnectPipe
+          9    8 00002200 VmbusPipeServerOfferChannel
+         10    9 00002310 VmbusPipeServerOfferChannelEx
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

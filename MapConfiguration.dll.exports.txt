@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\MapConfiguration.dll
+
+File Type: DLL
+
+  Section contains the following exports for MapConfiguration.dll
+
+    00000000 characteristics
+    2CF6B71C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A2C0 ConfigurationManager_Create
+          2    1 0000A820 ConfigurationManager_GetLocaleMapConfiguration
+          3    2 0000A220 ConfigurationManager_SetCustomStorageFolder
+          4    3 0000B6C0 ConfigurationManager_SetServiceCallbacks
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        4000 .pdata
+       33000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4B000 .text

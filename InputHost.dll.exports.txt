@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\InputHost.dll
+
+File Type: DLL
+
+  Section contains the following exports for InputHost.dll
+
+    00000000 characteristics
+    4A24E6A9 time date stamp
+        0.00 version
+        2601 ordinal base
+          30 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+       2613    0 0002B0A0 CreateComboButtonProxy
+       2614    1 0002C8C0 CreateCursorClient
+       2615    2 0002C8D0 CreateCursorManager
+       2616    3 0002B180 CreateDragOperationPrivate
+       2617    4 0002B980 CreateGenericInputHost
+       2618    5 000EA8C0 CreateHeatGripServiceClient
+       2619    6 0000D170 CreateInputDeviceWatcher
+       2620    7 0002B990 CreateInputHost
+       2621    8 0000D440 CreateInputHostForProcess
+       2622    9 00037060 CreateInputSystemClientConnection
+       2623    A 0002B9A0 CreateMPCManagerClient
+       2608    B 00017740 CreatePointerInputHost
+       2609    C 00017740 CreateTouchInputHost
+       2624    D 0002BB20 CreateViewHitTestRequestClient
+       2625    E 00036FD0 DllCanUnloadNow
+       2626    F 00012700 DllGetActivationFactory
+       2627   10 00037010 DllGetClassObject
+       2628   11 0002BB30 SetInputButtonEnabledOnIdle
+       2610   12 00017740 SetInputDeviceIndicatorState
+       2629   13 0002BBB0 SetInputDeviceRepeatParameters
+       2611   14 0000E380 SetInputFocus
+       2612   15 00017740 TouchInputHostCreate
+       2630   16 0002BC30 ViewHitTestClientCreate
+       2601      0000E8E0 [NONAME]
+       2602      0002C680 [NONAME]
+       2603      0002C6F0 [NONAME]
+       2604      0000EB40 [NONAME]
+       2605      0002C640 [NONAME]
+       2606      0002C850 [NONAME]
+       2607      0002C760 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .didat
+       12000 .pdata
+       43000 .rdata
+        7000 .reloc
+        1000 .rsrc
+       EF000 .text

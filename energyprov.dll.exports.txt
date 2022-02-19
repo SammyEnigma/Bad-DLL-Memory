@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\energyprov.dll
+
+File Type: DLL
+
+  Section contains the following exports for EnergyProv.dll
+
+    00000000 characteristics
+    1BC20E2D time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008440 SruInitializeProvider
+          2    1 0000FAC0 SruUninitializeProvider
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       1F000 .text

@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\DocumentPerformanceEvents.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+       13000 .rsrc

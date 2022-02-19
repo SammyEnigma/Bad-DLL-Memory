@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\migwiz\MXEAgent.dll
+
+File Type: DLL
+
+  Section contains the following exports for MXEAgent.dll
+
+    00000000 characteristics
+    E6E657C0 time date stamp
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001790 ??0CMXEAgent@Mig@@QEAA@$$QEAV01@@Z
+          2    1 00001700 ??0CMXEAgent@Mig@@QEAA@AEBV01@@Z
+          3    2 000019B0 ??0CMXEAgent@Mig@@QEAA@PEAVString@UnBCL@@@Z
+          4    3 000016F0 ??1CMXEAgent@Mig@@UEAA@XZ
+          5    4 00001820 ??4CMXEAgent@Mig@@QEAAAEAV01@$$QEAV01@@Z
+          6    5 00001820 ??4CMXEAgent@Mig@@QEAAAEAV01@AEBV01@@Z
+          7    6 00026BE8 ??_7CMXEAgent@Mig@@6B01@@
+          8    7 00025D80 ??_7CMXEAgent@Mig@@6BCAgent@1@@
+          9    8 00033528 ??_8CMXEAgent@Mig@@7B@
+         10    9 00001910 ??_DCMXEAgent@Mig@@QEAAXXZ
+         11    A 00002F30 ?AddApplyInfo@CMXEAgent@Mig@@UEAAXPEAVCMigUnit@2@@Z
+         12    B 00002BF0 ?AddGatherInfo@CMXEAgent@Mig@@UEAAXPEAVCMigUnit@2@PEAUICancelable@@@Z
+         13    C 00003200 ?AddXmlFile@CMXEAgent@Mig@@IEAAXPEAVString@UnBCL@@@Z
+         14    D 00003080 ?AdjustRules@CMXEAgent@Mig@@UEAAXPEAVCMigUnit@2@0@Z
+         15    E 00002610 ?Detect@CMXEAgent@Mig@@UEAAPEAVCMigUnitList@2@PEAVCUserContext@2@PEAUICancelable@@@Z
+         16    F 000025B0 ?Done@CMXEAgent@Mig@@UEAAXH@Z
+         17   10 00001E20 ?Init@CMXEAgent@Mig@@UEAAXPEAVCPlatform@2@PEAVString@UnBCL@@@Z
+         18   11 00001A80 ?Init@CMXEAgent@Mig@@UEAAXPEAVCPlatform@2@PEAVString@UnBCL@@PEAV?$ArrayList@PEAVString@UnBCL@@@5@@Z
+         19   12 00002CF0 ?InitApply@CMXEAgent@Mig@@UEAAXPEAVCPlatform@2@0PEAVString@UnBCL@@@Z
+         20   13 00001930 LoadAgent
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+       23000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       24000 .text

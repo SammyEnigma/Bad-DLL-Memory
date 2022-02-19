@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\d3d9on12.dll
+
+File Type: DLL
+
+  Section contains the following exports for d3d9on12.dll
+
+    00000000 characteristics
+    5943A9CC time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009C50 GetPrivateDDITable
+          2    1 00002E10 OpenAdapter
+          3    2 00009C40 SetAppCompatData
+
+  Summary
+
+        7000 .data
+        1000 .didat
+        5000 .pdata
+       19000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       8E000 .text

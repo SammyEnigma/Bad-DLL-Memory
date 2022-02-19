@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\WinSync.dll
+
+File Type: DLL
+
+  Section contains the following exports for WinSync.dll
+
+    00000000 characteristics
+    D308D68B time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          1      00023D00 [NONAME]
+
+  Summary
+
+        1000 .data
+        7000 .pdata
+       19000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       A9000 .text

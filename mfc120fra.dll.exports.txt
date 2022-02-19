@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\mfc120fra.dll
+
+File Type: DLL
+
+  Summary
+
+        F000 .rsrc

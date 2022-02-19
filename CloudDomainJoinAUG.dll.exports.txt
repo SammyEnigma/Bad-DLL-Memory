@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\CloudDomainJoinAUG.dll
+
+File Type: DLL
+
+  Section contains the following exports for CloudDomainJoinAUG.dll
+
+    00000000 characteristics
+     5768232 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003770 DllCanUnloadNow
+          2    1 00003670 DllGetClassObject
+          3    2 000037D0 DllMain
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

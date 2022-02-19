@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Windows.Web.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Web.dll
+
+    00000000 characteristics
+     B32FF12 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000DBE0 DllCanUnloadNow
+          2    1 0000D670 DllGetActivationFactory
+          3    2 0005EAB0 DllGetClassObject
+          4    3 000100A0 DllMain
+          5    4 0005EB40 DllRegisterServer
+          6    5 0005EB70 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        9000 .pdata
+       39000 .rdata
+        7000 .reloc
+        5000 .rsrc
+       71000 .text

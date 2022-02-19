@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\appleusb.inf_amd64_dbdeb39f14f38d7a\AppleUsbFilter.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppleUsbFilter.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002B70 FxDriverEntryUm
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

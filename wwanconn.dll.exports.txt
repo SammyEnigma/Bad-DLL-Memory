@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wwanconn.dll
+
+File Type: DLL
+
+  Section contains the following exports for WWanConn.dll
+
+    00000000 characteristics
+    C3B9FFD6 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004990 DllCanUnloadNow
+          2    1 000049B0 DllGetClassObject
+          3    2 000046A0 DllMain
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        3000 .pdata
+       24000 .rdata
+        3000 .reloc
+        8000 .rsrc
+       49000 .text

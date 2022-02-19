@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\XInput1_4.dll
+
+File Type: DLL
+
+  Section contains the following exports for XINPUT1_4.dll
+
+    00000000 characteristics
+    E2C16D62 time date stamp
+        0.00 version
+           1 ordinal base
+         108 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001260 DllMain
+          5    1 00001E00 XInputEnable
+         10    2 00002550 XInputGetAudioDeviceIds
+          7    3 000020C0 XInputGetBatteryInformation
+          4    4 00001CC0 XInputGetCapabilities
+          8    5 00002890 XInputGetKeystroke
+          2    6 00001750 XInputGetState
+          3    7 000019F0 XInputSetState
+        100      000018C0 [NONAME]
+        101      00002300 [NONAME]
+        102      00002450 [NONAME]
+        103      00001EB0 [NONAME]
+        104      00001FA0 [NONAME]
+        108      00001B20 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

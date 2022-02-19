@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ucmhc.dll
+
+File Type: DLL
+
+  Section contains the following exports for UCMHC.DLL
+
+    00000000 characteristics
+    1F8D345E time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006F90 DllCanUnloadNow
+          2    1 00006FD0 DllGetClassObject
+          3    2 00007110 DllRegisterServer
+          4    3 00007240 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

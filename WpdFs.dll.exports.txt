@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\wpdfs.inf_amd64_1183fd0f13045f2e\WpdFs.dll
+
+File Type: DLL
+
+  Section contains the following exports for WpdFs.DLL
+
+    00000000 characteristics
+    EC5EBBBC time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001680 DllCanUnloadNow
+          2    1 000016C0 DllGetClassObject
+          3    2 00001800 DllRegisterServer
+          4    3 00001930 DllUnregisterServer
+          5    4 0003DBB0 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       2F000 .text

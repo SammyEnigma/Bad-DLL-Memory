@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\iuilp.dll
+
+File Type: DLL
+
+  Section contains the following exports for iuilp.dll
+
+    00000000 characteristics
+    7933DC8B time date stamp
+        0.00 version
+           2 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00003EC0 CloseLayoutPolicyCheckerInstance
+          6    1 00005430 GetAllDefaultApps
+          2    2 00005060 GetDefaultAppsList
+          4    3 00003E70 GetLayoutPolicy
+          3    4 00003E10 GetLayoutPolicyCheckerInstance
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

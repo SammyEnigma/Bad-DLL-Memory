@@ -1,0 +1,68 @@
+
+Dump of file C:\Windows\System32\wcmapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for wcmapi.dll
+
+    00000000 characteristics
+    93B2229A time date stamp
+        0.00 version
+           1 ordinal base
+          43 number of functions
+          43 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007C50 DllCanUnloadNow
+          2    1 00007C70 DllGetClassObject
+          3    2 00003310 DllRegisterServer
+          4    3 00003310 DllUnregisterServer
+          5    4 0000B620 WcmAddRoutePolicy
+          6    5 0000B840 WcmBeginIgnoreProfileList
+          7    6 0000BA70 WcmCancelOnDemandRequest
+          8    7 0000BD30 WcmCheckCapabilityStatus
+          9    8 0000BED0 WcmCloseHandle
+         10    9 0000C0C0 WcmCloseOnDemandRequestHandle
+         11    A 0000C3A0 WcmDeleteProxyInformation
+         12    B 0000C560 WcmDeprovisionCapability
+         13    C 0000C730 WcmEndIgnoreProfileList
+         14    D 0000C930 WcmEnterConnectedStandby
+         15    E 0000CA70 WcmEnterNetQuiet
+         16    F 0000CBB0 WcmEnumInterfaces
+         17   10 0000CE50 WcmExitConnectedStandby
+         18   11 0000CF90 WcmExitNetQuiet
+         19   12 00003130 WcmFreeMemory
+         20   13 00002E40 WcmGetInterfaceContextTable
+         21   14 0000D0D0 WcmGetInterfaceToken
+         22   15 0000D2E0 WcmGetProfileList
+         23   16 0000D490 WcmGetProfileListByPurpose
+         24   17 0000D710 WcmGetRoutingHint
+         25   18 0000D920 WcmOpenHandle
+         26   19 0000DC90 WcmOpenOnDemandRequestHandle
+         27   1A 0000E180 WcmOpenOnDemandRequestHandleByWwanProfileName
+         28   1B 0000E580 WcmOrderConnection
+         29   1C 0000E7B0 WcmQueryOnDemandRequestStateInfo
+         30   1D 0000EA90 WcmQueryParameter
+         31   1E 0000EE10 WcmQueryProperty
+         32   1F 0000F0C0 WcmRemoveMatchingRoutePolicy
+         33   20 0000F290 WcmRemoveRoutePolicy
+         34   21 0000F3E0 WcmResetIgnoreProfileList
+         35   22 0000F610 WcmSetOperatorConnectionCost
+         36   23 0000F7F0 WcmSetOperatorCycleData
+         37   24 0000F9C0 WcmSetOperatorDataplanStatus
+         38   25 0000FBA0 WcmSetParameter
+         39   26 0000FEC0 WcmSetProfileList
+         40   27 000101A0 WcmSetProperty
+         41   28 00010400 WcmSetProxyInformation
+         42   29 000105D0 WcmStartOnDemandRequest
+         43   2A 000109F0 WcmUpdateCapabilityAccess
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text

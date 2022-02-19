@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.Globalization.Fontgroups.dll
+
+File Type: DLL
+
+  Section contains the following exports for windows.globalization.fontgroups.dll
+
+    00000000 characteristics
+    965F1624 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002360 DllCanUnloadNow
+          2    1 00002940 DllGetActivationFactory
+          3    2 00002880 DllGetClassObject
+          4    3 00005010 GetPreferredFont
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

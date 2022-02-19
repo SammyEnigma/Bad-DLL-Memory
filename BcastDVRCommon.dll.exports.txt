@@ -1,0 +1,114 @@
+
+Dump of file C:\Windows\System32\BcastDVRCommon.dll
+
+File Type: DLL
+
+  Section contains the following exports for BcastDVRCommon.dll
+
+    00000000 characteristics
+    1131B6A4 time date stamp
+        0.00 version
+           1 ordinal base
+          88 number of functions
+          88 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001AE00 ??0BcastDVR_OutputDebug@@QEAA@PEBD@Z
+          2    1 0001C360 ??0ImpersonateHelper@Internal@Capture@Media@Windows@@QEAA@XZ
+          3    2 0001C370 ??1ImpersonateHelper@Internal@Capture@Media@Windows@@QEAA@XZ
+          5    3 0001CA10 ?AppendPath@EnvironmentManager@Internal@Capture@Media@Windows@@YAJAEBVString@25@0PEAV625@@Z
+          6    4 0001F0D0 ?CalcPreviewVideoBufferDataSize@GameDVRUtility@Internal@Capture@Media@Windows@@YAJKKPEAK@Z
+          7    5 0001F060 ?CalcPreviewVideoFrameDataSize@GameDVRUtility@Internal@Capture@Media@Windows@@YAJKKPEAK@Z
+          8    6 00015270 ?CleanupObsoletePlugIns@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@@Z
+          9    7 0001E4A0 ?CloseDuplicatedHandle@GameDVRUtility@Internal@Capture@Media@Windows@@YAJKPEAX@Z
+         10    8 0001E340 ?CloseDuplicatedHandles@GameDVRUtility@Internal@Capture@Media@Windows@@YAJKKQEAPEAX@Z
+         18    9 000141B0 ?FreeBroadcastSebEventIds@PlugInUtility@Internal@Capture@Media@Windows@@YAXPEAPEAU_GUID@@@Z
+         19    A 0001CF80 ?GetBroadcastPlugInRegistryPathFromSebEventId@EnvironmentManager@Internal@Capture@Media@Windows@@YAJAEBU_GUID@@PEAVString@25@@Z
+         20    B 0001D0F0 ?GetBroadcastPlugInRegistryPathFromSebEventIdString@EnvironmentManager@Internal@Capture@Media@Windows@@YAJPEBGPEAVString@25@@Z
+         21    C 00014080 ?GetBroadcastSebEventIds@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAKPEAPEAU_GUID@@@Z
+         22    D 00015DA0 ?GetCallersPlugInInfo@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@AEBU_GUID@@PEAVString@25@2@Z
+         23    E 00014620 ?GetCallersSebEventId@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAU_GUID@@@Z
+         24    F 000144E0 ?GetDefaultPlugIn@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEAU_GUID@@@Z
+         25   10 0001A750 ?GetErrorHistoryCount@BcastDVRLogProviderBase@@SAKXZ
+         26   11 0001A760 ?GetFormattedErrorHistory@BcastDVRLogProviderBase@@SAKPEAVString@Internal@Windows@@@Z
+         27   12 0001E8A0 ?GetGuidFromGuidString@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEBGPEAU_GUID@@@Z
+         28   13 0001E720 ?GetGuidStringFromGuid@GameDVRUtility@Internal@Capture@Media@Windows@@YAJAEBU_GUID@@_NPEAVString@25@@Z
+         29   14 0001F280 ?GetHKeyCurrentUserForDefaultUser@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAPEAUHKEY__@@@Z
+         30   15 0001F150 ?GetHKeyCurrentUserForIUser@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIUser@System@5@PEAPEAUHKEY__@@@Z
+         31   16 0001DFF0 ?GetIUserSID@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIUser@System@5@PEAVString@25@@Z
+         32   17 00020D00 ?GetJsonArray@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAEPEAPEAU?$IVector@PEAUIJsonValue@Json@Data@Windows@@@785@@Z
+         33   18 000215C0 ?GetJsonBoolean@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAE2@Z
+         34   19 00021A90 ?GetJsonDateTime@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAEPEAUDateTime@85@@Z
+         35   1A 000211B0 ?GetJsonDouble@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAEPEAN@Z
+         36   1B 000217B0 ?GetJsonGuid@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAEPEAU_GUID@@@Z
+         37   1C 00020FB0 ?GetJsonNumber@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAEPEA_J@Z
+         38   1D 000213A0 ?GetJsonString@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAEPEAVString@25@@Z
+         39   1E 0001CC20 ?GetKnownFolderSubFolder@EnvironmentManager@Internal@Capture@Media@Windows@@YAJAEBU_GUID@@PEBGPEAVString@25@@Z
+         40   1F 0001E0B0 ?GetOSVersionString@GameDVRUtility@Internal@Capture@Media@Windows@@YAXPEAVString@25@@Z
+         41   20 000159F0 ?GetPlugInInfo@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@AEBU_GUID@@PEAVString@25@22@Z
+         42   21 00015EA0 ?GetPlugInPackageFullName@PlugInUtility@Internal@Capture@Media@Windows@@YAJAEBU_GUID@@PEAVString@25@@Z
+         43   22 0001CD90 ?GetUserGameDVRConfigFolderPath@EnvironmentManager@Internal@Capture@Media@Windows@@YAJPEAVString@25@PEBG@Z
+         44   23 0001C600 ?ImpersonateDefaultUser@ImpersonateHelper@Internal@Capture@Media@Windows@@QEAAJXZ
+         45   24 0001C3A0 ?ImpersonateUser@ImpersonateHelper@Internal@Capture@Media@Windows@@QEAAJPEAUIUser@System@5@@Z
+         46   25 0001AF20 ?Initialize@BcastDVR_OutputDebug@@SAXPEBGW4BcastDVR_OutputDebug_TraceToFileType@@0@Z
+         47   26 0001FDC0 ?InsertJsonArray@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAPEAU?$IVector@PEAUIJsonValue@Json@Data@Windows@@@785@@Z
+         48   27 000203E0 ?InsertJsonBoolean@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@E@Z
+         49   28 00020660 ?InsertJsonDateTime@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@UDateTime@Foundation@5@@Z
+         50   29 00020180 ?InsertJsonDouble@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@N@Z
+         51   2A 00020510 ?InsertJsonGuid@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@U_GUID@@@Z
+         52   2B 00020050 ?InsertJsonNumber@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@_J@Z
+         53   2C 0001FC20 ?InsertJsonObject@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@PEAPEAUIJsonObject@Json@Data@5@@Z
+         54   2D 000202B0 ?InsertJsonString@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@2@Z
+         55   2E 00020B30 ?InsertNamedJsonEnumBitfields@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIJsonValueStatics@Json@Data@5@PEAU?$IMap@PEAUHSTRING__@@PEAUIJsonValue@Json@Data@Windows@@@Collections@Foundation@5@PEAUHSTRING__@@_KPEBQEBGH@Z
+         56   2F 00019DA0 ?LogError@BcastDVRLogProviderBase@@SAXJPEBD0H_N@Z
+         57   30 00019F60 ?LogErrorEx@BcastDVRLogProviderBase@@SAXJPEBD0H00_N@Z
+         58   31 0001F690 ?MapConstantToString@GameDVRUtility@Internal@Capture@Media@Windows@@YAPEBGQEAPEBGKKKK@Z
+         59   32 0001A9F0 ?MostRecentErrorInHistory@BcastDVRLogProviderBase@@SAJXZ
+         60   33 0001B880 ?OutputString@BcastDVR_OutputDebug@@QEAAXXZ
+         61   34 0001F6D0 ?PrintGuid@GameDVRUtility@Internal@Capture@Media@Windows@@YAJU_GUID@@PEAVString@25@@Z
+         62   35 0001B830 ?PrintHRESULT@BcastDVR_OutputDebug@@QEAAXJ@Z
+         63   36 0001B5F0 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBD0@Z
+         64   37 0001B730 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDE@Z
+         65   38 0001B790 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDH@Z
+         66   39 0001B690 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDI@Z
+         67   3A 0001B690 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDK@Z
+         68   3B 0001B7E0 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDN@Z
+         69   3C 0001B640 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDPEAX@Z
+         70   3D 0001B5A0 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBDPEBG@Z
+         71   3E 0001B6E0 ?PrintType@BcastDVR_OutputDebug@@QEAAXPEBD_K@Z
+         72   3F 0001A1C0 ?Printf@BcastDVRLogProviderBase@@SAX_N0PEBD1HPEBGZZ
+         73   40 0001F390 ?RecreateStorageFile@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUIStorageFile@Storage@5@PEAPEAU675@@Z
+         74   41 0001E8F0 ?RegGetDwordValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAXPEAUHKEY__@@PEBG1KPEAK@Z
+         75   42 0001EA60 ?RegGetQwordValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAXPEAUHKEY__@@PEBG1_KPEA_K@Z
+         76   43 0001EBD0 ?RegGetStringValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAXPEAUHKEY__@@PEBG1PEAVString@25@@Z
+         77   44 0001EF40 ?RegSetBinaryValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEBG1PEBEK@Z
+         78   45 0001E950 ?RegSetDwordValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEBG1K@Z
+         79   46 0001EAC0 ?RegSetQwordValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEBG1_K@Z
+         80   47 0001EC60 ?RegSetStringValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEBG1PEAVString@25@@Z
+         81   48 0001EDA0 ?RegSetStringValue@GameDVRUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEBGPEBD2@Z
+         82   49 00014C50 ?RegisterCallingPlugIn@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@PEAUHSTRING__@@1AEBU_GUID@@@Z
+         83   4A 00014B10 ?SetDefaultPlugIn@PlugInUtility@Internal@Capture@Media@Windows@@YAJPEAUHKEY__@@AEBU_GUID@@@Z
+         84   4B 0001B1D0 ?Uninitialize@BcastDVR_OutputDebug@@SAXXZ
+          4   4C 00011160 ActiveMetadataManagerInstances
+         11   4D 000096B0 CreateCallerManagerInstance
+         12   4E 00009820 CreateCallerManagerInstanceForAppId
+         13   4F 000110D0 CreateMetadataManagerInstance
+         14   50 000111B0 CreateMetadataManagerInstanceForAppId
+         15   51 00011250 CreateMetadataManagerInstanceFromJson
+         16   52 00009780 FireCallerManagerEvent
+         17   53 00009900 FireCallerManagerEventForAppId
+         85   54 00005A10 GetBroadcastSharedMemoryReader
+         86   55 00005D90 GetBroadcastSharedMemoryWriter
+         87   56 000061F0 GetPreviewSharedMemoryReader
+         88   57 00006620 GetPreviewSharedMemoryWriter
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        2000 .pdata
+       14000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       25000 .text

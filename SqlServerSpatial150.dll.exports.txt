@@ -1,0 +1,104 @@
+
+Dump of file C:\Windows\System32\SqlServerSpatial150.dll
+
+File Type: DLL
+
+  Section contains the following exports for SqlServerSpatial150.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          79 number of functions
+          79 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00029F10 ??0GeoBundle@@QEAA@PEBUGeoData@@@Z
+          2    1 00029F60 ??0GeoBundle@@QEAA@PEBUGeoData@@_N1@Z
+          3    2 0002A580 ??0SpatialIntrisicCostInfo@GeoBundle@@QEAA@XZ
+          4    3 00022CC0 ?ComputeBounds@@YAJUGeoData@@PEAV?$CMglRect@N@@@Z
+          5    4 0002A510 ?FAddNewCascade@GeoBundle@@QEBA_NAEAH@Z
+          6    5 0002A120 ?FCascadeEliminationEnabled@GeoBundle@@QEBA_NXZ
+          7    6 0002A4D0 ?GetCascadesSaving@GeoBundle@@QEBA_JXZ
+          8    7 0002A150 ?GetNextCascadeAreaReduceFactor@GeoBundle@@QEBANXZ
+          9    8 0002A130 ?IncResidualCost@GeoBundle@@QEAAX_K@Z
+         10    9 0002A500 ?StopAddingNewCascades@GeoBundle@@QEAAXXZ
+         11    A 0002A1E0 ?UpdateNextCascadeCost@GeoBundle@@QEAAXXZ
+         12    B 00077CB8 ?m_Points1@SampleDescriptor@@2QBNB
+         13    C 00077CA8 ?m_Points2@SampleDescriptor@@2QBNB
+         14    D 00077C90 ?m_Points3@SampleDescriptor@@2QBNB
+         15    E 00077C60 ?m_Points6@SampleDescriptor@@2QBNB
+         16    F 00077C00 ?m_Weights1@SampleDescriptor@@2QBNB
+         17   10 00077C20 ?m_Weights2@SampleDescriptor@@2QBNB
+         18   11 00077C08 ?m_Weights3@SampleDescriptor@@2QBNB
+         19   12 00077C30 ?m_Weights6@SampleDescriptor@@2QBNB
+         20   13 00013CE0 Area
+         21   14 000159E0 Boundary
+         22   15 0000F380 Buffer
+         23   16 00014030 Centroid
+         24   17 0000E690 Combine
+         25   18 00013020 Contains
+         26   19 000130C0 ContainsV2
+         27   1A 00010310 ConvexHull
+         28   1B 00012F80 Crosses
+         29   1C 0000F010 CurveToLineWithTolerance
+         30   1D 00014BD0 Distance
+         31   1E 00014C70 DistanceV2
+         32   1F 0000DEC0 Envelope
+         33   20 00011560 Equals
+         34   21 0001CAE0 GeodeticAngleExtent
+         35   22 00016CE0 GeodeticArea
+         36   23 0001B510 GeodeticBuffer
+         37   24 0001CC40 GeodeticCapCenter
+         38   25 0001CF30 GeodeticCapUnion
+         39   26 00018E80 GeodeticCombine
+         40   27 0001A790 GeodeticContains
+         41   28 0001D0B0 GeodeticConvexHull
+         42   29 0001AC20 GeodeticCurveToLineWithTolerance
+         43   2A 00018070 GeodeticDistance
+         44   2B 00019A10 GeodeticEquals
+         45   2C 0001C450 GeodeticGridCoverage
+         46   2D 0001A0F0 GeodeticIntersects
+         47   2E 000185C0 GeodeticIsValid
+         48   2F 00018720 GeodeticIsValidDetailed
+         49   30 000172C0 GeodeticLength
+         50   31 000168A0 GeodeticMakeValid
+         51   32 0001ABA0 GeodeticOverlaps
+         52   33 00017D30 GeodeticPointDistance
+         53   34 0001C790 GeodeticReduce
+         54   35 000180C0 GeodeticShortestLine
+         55   36 00001450 GeodeticTessellate
+         56   37 00001450 GeodeticTile
+         57   38 0000DCB0 GetBounds
+         58   39 00015390 GetGridCoverage
+         59   3A 00001450 Identity
+         60   3B 00012510 Intersects
+         61   3C 000125B0 IntersectsV2
+         62   3D 00014510 IsSimple
+         63   3E 000158B0 IsValid
+         64   3F 000158F0 IsValidDetailed
+         65   40 00013C30 Length
+         66   41 000159A0 MakeValid
+         67   42 00014E90 Outline
+         68   43 00013B10 Overlaps
+         69   44 00015E00 PlanarReduce
+         70   45 00014340 PointOnSurface
+         71   46 00013BA0 Relate
+         72   47 0001D790 SetClrFeatureSwitchMap
+         73   48 0000DB40 SetOSYieldCallback
+         74   49 00014C80 ShortestLine
+         75   4A 0000FC00 SimpleBuffer
+         76   4B 00015F90 SingleSideReduce
+         77   4C 00001450 Tessellate
+         78   4D 00012EF0 Touches
+         79   4E 0001CD70 UpdateGeodeticEnvelope
+
+  Summary
+
+        2000 .data
+        6000 .pdata
+       22000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       75000 .text

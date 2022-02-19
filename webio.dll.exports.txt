@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\webio.dll
+
+File Type: DLL
+
+  Section contains the following exports for webio.dll
+
+    00000000 characteristics
+    39906B29 time date stamp
+        0.00 version
+           1 ordinal base
+          45 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+          1      00023D70 [NONAME]
+          4      00014670 [NONAME]
+          5      00021170 [NONAME]
+          8      00007090 [NONAME]
+          9      0001D790 [NONAME]
+         10      00035DB0 [NONAME]
+         11      00030BF0 [NONAME]
+         14      00057740 [NONAME]
+         15      00057780 [NONAME]
+         17      00006D00 [NONAME]
+         18      0002E5A0 [NONAME]
+         19      0002A0E0 [NONAME]
+         20      0002FB40 [NONAME]
+         21      00031070 [NONAME]
+         22      00031220 [NONAME]
+         23      0001BEE0 [NONAME]
+         24      00016470 [NONAME]
+         25      00018D60 [NONAME]
+         26      00004BB0 [NONAME]
+         27      000577E0 [NONAME]
+         28      00016960 [NONAME]
+         29      00014AA0 [NONAME]
+         31      00006AB0 [NONAME]
+         32      000147E0 [NONAME]
+         33      00018D30 [NONAME]
+         35      00058450 [NONAME]
+         36      00059370 [NONAME]
+         37      00058E10 [NONAME]
+         38      00058410 [NONAME]
+         39      000583D0 [NONAME]
+         40      000587A0 [NONAME]
+         41      000587F0 [NONAME]
+         42      00054AB0 [NONAME]
+         43      00024A60 [NONAME]
+         44      0004E950 [NONAME]
+         45      0003C3A0 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       12000 .rdata
+        1000 .reloc
+       10000 .rsrc
+       68000 .text
+        2000 .wpp_sf

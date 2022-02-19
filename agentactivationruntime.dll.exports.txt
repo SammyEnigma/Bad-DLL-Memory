@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\agentactivationruntime.dll
+
+File Type: DLL
+
+  Section contains the following exports for agentactivationruntime.dll
+
+    00000000 characteristics
+    2EB750D6 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000020F0 ?CreateAgentActivationRuntime@@YA?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ
+          2    1 000022F0 ?GetAgentActivationRuntime@@YA?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ
+          3    2 000024B0 ?GetLoggerInstance@@YAAEAVLogger@VoiceAgentServices@Microsoft@@XZ
+          4    3 000024C0 ?ReleaseAgentActivationRuntime@@YAXXZ
+
+  Summary
+
+        8000 .data
+        6000 .pdata
+       2D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       A7000 .text

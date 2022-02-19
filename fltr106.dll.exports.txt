@@ -1,0 +1,12 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\cm106.inf_amd64_fbfb917e1c20c75c\fltr106.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .data
+        1000 .rdata
+        1000 .reloc
+       46000 .rsrc
+        3000 .text

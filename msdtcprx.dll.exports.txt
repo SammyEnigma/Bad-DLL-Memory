@@ -1,0 +1,63 @@
+
+Dump of file C:\Windows\System32\msdtcprx.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSDTCPRX.dll
+
+    00000000 characteristics
+    DFD6FCC1 time date stamp
+        0.00 version
+           4 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+         27    0 0003D5B0 ContactToNameObject
+          5    1 0003CE20 Create
+          6    2 0000A140 CreateInstance
+         20    3 00042360 CreateLegacyTmInstance
+         21    4 00042350 CreateLocalTmInstance
+         22    5 00042460 CreateRemoteProxyTmInstance
+         23    6 000425A0 CreateTmInstanceForRemoteAdmin
+         19    7 000169A0 DTC_XaClose
+         14    8 000161B0 DTC_XaCommit
+         18    9 00016910 DTC_XaComplete
+         12    A 00015D10 DTC_XaEnd
+         17    B 00016880 DTC_XaForget
+         10    C 000154B0 DTC_XaOpen
+         13    D 00015F60 DTC_XaPrepare
+         16    E 00016600 DTC_XaRecover
+         15    F 000163F0 DTC_XaRollback
+         11   10 00015910 DTC_XaStart
+         31   11 0003F360 DeployDtc
+         32   12 00004350 DllGetClassObject
+         25   13 000446E0 DllGetDTCConnectionManager
+          4   14 00004510 DllGetDTCProxy
+         26   15 00044030 DllGetDTCUtilObject
+          7   16 00032B40 DllGetDtcConfigManager
+         33   17 00009640 DllGetTransactionManagerCore
+         34   18 00002380 DllRegisterServer
+         35   19 00002380 DllUnregisterServer
+          8   1A 000058B0 GetDtcLogPath
+         36   1B 00009460 GetTmInstance
+         37   1C 0003FAD0 InstallContacts
+         38   1D 000406D0 InstallDtc
+         39   1E 0003FD80 InstallDtcClient
+         40   1F 000411E0 RemoveDtc
+         24   20 000449E0 ShutDownCM
+         28   21 00041D40 SysPrepDtcCleanup
+         29   22 00041EE0 SysPrepDtcGeneralize
+         30   23 00042080 SysPrepDtcSpecialize
+          9   24 00032850 UpgradeApplySuccess
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        6000 .pdata
+       50000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       80000 .text

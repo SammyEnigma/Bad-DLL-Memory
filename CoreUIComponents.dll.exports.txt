@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\CoreUIComponents.dll
+
+File Type: DLL
+
+  Section contains the following exports for CoreUIComponents.dll
+
+    00000000 characteristics
+    CE358DE3 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0003CB90 CoreUIClientCreate
+          2    1 0014A810 CoreUIClientTestCreate
+          3    2 000A9BA0 CoreUIConfigureTestHost
+          4    3 0000FCE0 CoreUICreateDuplicateWindowFactory
+          5    4 0004C400 CoreUICreateICoreWindowFactory
+          6    5 00039780 CoreUIFactoryCreate
+          7    6 0007BBB0 CoreUIServerCreate
+          8    7 0014A920 CoreUIServerTestCreate
+          9    8 00197B80 CreateNavigationClientWindowAdapter
+         10    9 0000C170 DllCanUnloadNow
+         11    A 0007D1D0 DllGetActivationFactory
+         12    B 00017E50 DllGetClassObject
+         13    C 00198320 MinUserGetInputHost
+         14    D 00198370 MinUserGetInputRoutingInfo
+         15    E 001983F0 MinUserInputInitialize
+         16    F 00081680 MinUserNotifyOneCoreTransformMode
+         17   10 00196A30 MinUserRegisterPointerInputTarget
+         18   11 00198510 MinUserRequestViewHitTest
+         19   12 00196B50 MinUserReregisterPointerInputTargets
+         20   13 00196BF0 MinUserUnregisterPointerInputTarget
+         21   14 00196CD0 ServiceMain
+         22   15 00196DD0 SvchostPushServiceGlobals
+
+  Summary
+
+        4000 .data
+        1000 .didat
+       29000 .pdata
+      128000 .rdata
+        E000 .reloc
+       40000 .rsrc
+      1B9000 .text

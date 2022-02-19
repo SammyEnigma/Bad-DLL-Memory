@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\VideoHandlers.dll
+
+File Type: DLL
+
+  Section contains the following exports for VideoHandlers.dll
+
+    00000000 characteristics
+    1BADF890 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00004E00 DllCanUnloadNow
+          3    1 00004E70 GetSetting
+          1    2 00004E10 NotifyVideoHandler
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       24000 .text

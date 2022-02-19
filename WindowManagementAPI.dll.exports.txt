@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\WindowManagementAPI.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowManagementAPI.dll
+
+    00000000 characteristics
+    903E2645 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004470 CreateWindowInformation
+          2    1 00004600 CreateWindowLayout
+          3    2 000101D0 DllGetActivationFactory
+          4    3 0001FA50 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        8000 .pdata
+       23000 .rdata
+        4000 .reloc
+       6E000 .text

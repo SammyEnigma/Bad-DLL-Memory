@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\srmtrace.dll
+
+File Type: DLL
+
+  Section contains the following exports for SrmTrace.DLL
+
+    00000000 characteristics
+    66805158 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+         10    0 00002FC0 SrmGetTracingContextPerThread
+         12    1 00003040 SrmGetTracingModuleInfo
+         11    2 00003030 SrmGetTracingSequenceNumber
+          5    3 00002E40 SrmIsTracingEnabled
+          8    4 00002EC0 SrmIsTracingEnabledOnFunction
+          7    5 00002E60 SrmIsTracingEnabledOnModule
+          6    6 00002E90 SrmIsTracingEnabledPerThread
+          9    7 00002F60 SrmSetTracingContextPerThread
+          1    8 00002D90 SrmTraceInitialize
+          3    9 00002DD0 SrmTraceMessage
+          2    A 00002DB0 SrmTraceUninitialize
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

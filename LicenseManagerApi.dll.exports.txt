@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\LicenseManagerApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for LicenseManagerApi.dll
+
+    00000000 characteristics
+    36FB4A1A time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0000CE80 BeginAcquireStoreLicenseForPackageActivation
+          3    1 0000CF10 BeginAcquireStoreLicenseForPackageActivation2
+          4    2 0000ED70 DllMain
+          5    3 0000DAA0 EnsureStoreLicenseForPackageActivation
+          6    4 0000DAE0 EnsureStoreLicenseForPackageActivation2
+          7    5 0000E230 PackageRundownNotificationForStoreLicense
+          8    6 0000E270 PackageRundownNotificationForStoreLicense2
+          9    7 0000DF50 PackageSuspendedNotificationForStoreLicense
+         10    8 0000DF90 PackageSuspendedNotificationForStoreLicense2
+         11    9 0000D620 PrecacheStoreLicenseForPackageResume
+         12    A 0000D660 PrecacheStoreLicenseForPackageResume2
+          1    B 0000E4A0 Reset
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

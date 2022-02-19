@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\rdpcfgex.dll
+
+File Type: DLL
+
+  Section contains the following exports for RDPCFGEX.dll
+
+    00000000 characteristics
+    B4BFAB97 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011D0 ExGetCfgVersionInfo
+          2    1 000011E0 ExtEncryptionLevels
+          3    2 00001040 ExtEnd
+          4    3 00001200 ExtGetCapabilities
+          5    4 000010A0 ExtGetEncryptionLevelAndDescrEx
+          6    5 00001050 ExtGetEncryptionLevelDescr
+          7    6 000012E0 ExtGetSecurityLayerDescrString
+          8    7 00001240 ExtGetSecurityLayerName
+          9    8 00001210 ExtSecurityLayers
+         10    9 00001040 ExtStart
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

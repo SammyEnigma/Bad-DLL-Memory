@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\TtlsCfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for TtlsCfg.dll
+
+    00000000 characteristics
+    5348EA68 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00002200 EapPeerConfigBlob2Xml
+          6    1 00007C40 EapPeerConfigXml2Blob
+          1    2 00010F10 EapPeerCreateMethodConfiguration
+          7    3 0000DAB0 EapPeerCredentialsXml2Blob
+          8    4 0000EC50 EapPeerFreeErrorMemory
+          9    5 0000ECB0 EapPeerFreeMemory
+         10    6 0000ED10 EapPeerGetConfigBlobAndUserBlob
+          2    7 000102A0 EapPeerGetIdentityPageGuid
+          3    8 000104F0 EapPeerGetMethodProperties
+          4    9 000102E0 EapPeerGetNextPageGuid
+         11    A 0000F250 EapPeerInvokeConfigUI
+         12    B 0000F320 EapPeerInvokeIdentityUI
+         13    C 00010100 EapPeerInvokeInteractiveUI
+         14    D 00011120 EapPeerQueryCredentialInputFields
+         15    E 000127A0 EapPeerQueryInteractiveUIInputFields
+         16    F 00012E70 EapPeerQueryUIBlobFromInteractiveUIInputFields
+         17   10 00011C70 EapPeerQueryUserBlobFromCredentialInputFields
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       28000 .text

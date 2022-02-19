@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\msscntrs.dll
+
+File Type: DLL
+
+  Section contains the following exports for pkmcntrs.dll
+
+    00000000 characteristics
+    4B9777B8 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007620 Close
+          2    1 00007180 Collect
+          3    2 00007730 DllRegisterServer
+          4    3 00007A10 DllUnregisterServer
+          5    4 00006FD0 Open
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

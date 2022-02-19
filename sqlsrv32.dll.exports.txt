@@ -1,0 +1,117 @@
+
+Dump of file C:\Windows\System32\sqlsrv32.dll
+
+File Type: DLL
+
+  Section contains the following exports for SQLSRV32.dll
+
+    00000000 characteristics
+    6891A36C time date stamp
+        0.00 version
+           4 ordinal base
+         224 number of functions
+          90 number of names
+
+    ordinal hint RVA      name
+
+        204    0 00015DA0 BCP_batch
+        205    1 000160F0 BCP_bind
+        206    2 000168C0 BCP_colfmt
+        208    3 00016C30 BCP_collen
+        209    4 00016EC0 BCP_colptr
+        210    5 000170B0 BCP_columns
+        211    6 00017450 BCP_control
+        212    7 00017B00 BCP_done
+        214    8 00017E90 BCP_exec
+        226    9 000186B0 BCP_getcolfmt
+        213    A 00018A00 BCP_init
+        215    B 00019280 BCP_moretext
+        217    C 00019860 BCP_readfmt
+        216    D 0001A650 BCP_sendrow
+        227    E 0001ACC0 BCP_setcolfmt
+        218    F 0001B960 BCP_writefmt
+        201   10 0007B680 ConfigDSNW
+        202   11 0007BC00 ConfigDriverW
+        219   12 0005B5D0 ConnectDlgProc
+        224   13 0005D2D0 FinishDlgProc
+        200   14 000083E0 LibMain
+        101   15 00002650 SQLAllocHandle
+          4   16 00057660 SQLBindCol
+         72   17 000577F0 SQLBindParameter
+         55   18 00040EB0 SQLBrowseConnectW
+         24   19 00045F60 SQLBulkOperations
+          5   1A 000711B0 SQLCancel
+        103   1B 0002F470 SQLCloseCursor
+          6   1C 00057B40 SQLColAttributeW
+         56   1D 0004E740 SQLColumnPrivilegesW
+         40   1E 0004E8B0 SQLColumnsW
+          7   1F 000419E0 SQLConnectW
+        104   20 00057DB0 SQLCopyDesc
+        203   21 0004D2F0 SQLDebug
+          8   22 00058550 SQLDescribeColW
+         58   23 00058700 SQLDescribeParam
+          9   24 00041D10 SQLDisconnect
+         41   25 00002430 SQLDriverConnectW
+        105   26 00079CF0 SQLEndTran
+         11   27 0002F550 SQLExecDirectW
+         12   28 000315B0 SQLExecute
+         59   29 00046680 SQLExtendedFetch
+         13   2A 00074170 SQLFetch
+        121   2B 00046730 SQLFetchScroll
+         60   2C 0004EA40 SQLForeignKeysW
+        106   2D 000011A0 SQLFreeHandle
+         16   2E 000013E0 SQLFreeStmt
+        107   2F 000713D0 SQLGetConnectAttrW
+         42   30 000719A0 SQLGetConnectOptionW
+         17   31 00046860 SQLGetCursorNameW
+         43   32 0004B710 SQLGetData
+        108   33 00058A00 SQLGetDescFieldW
+        109   34 00059140 SQLGetDescRecW
+        110   35 00005930 SQLGetDiagFieldW
+        111   36 000063D0 SQLGetDiagRecW
+        112   37 00071A80 SQLGetEnvAttr
+         44   38 000697A0 SQLGetFunctions
+         45   39 00006810 SQLGetInfoW
+        114   3A 00071B30 SQLGetStmtAttrW
+         47   3B 0004EC70 SQLGetTypeInfoW
+         61   3C 00074300 SQLMoreResults
+         62   3D 00031C40 SQLNativeSqlW
+         63   3E 000593D0 SQLNumParams
+         18   3F 00059440 SQLNumResultCols
+         48   40 00031E10 SQLParamData
+         64   41 00059510 SQLParamOptions
+         19   42 00033C20 SQLPrepareW
+         65   43 0004F5D0 SQLPrimaryKeysW
+         66   44 0004F720 SQLProcedureColumnsW
+         67   45 0004F850 SQLProceduresW
+         49   46 00034130 SQLPutData
+         20   47 00059580 SQLRowCount
+        116   48 00006D30 SQLSetConnectAttrW
+         50   49 00072050 SQLSetConnectOptionW
+         21   4A 00046A30 SQLSetCursorNameW
+        117   4B 00059640 SQLSetDescFieldW
+        118   4C 00059F80 SQLSetDescRec
+        119   4D 000076D0 SQLSetEnvAttr
+         68   4E 00046D00 SQLSetPos
+         69   4F 000476F0 SQLSetScrollOptions
+        120   50 00072160 SQLSetStmtAttrW
+         52   51 0004F960 SQLSpecialColumnsW
+         53   52 0004FB20 SQLStatisticsW
+         70   53 0004FCE0 SQLTablePrivilegesW
+         54   54 0004FE30 SQLTablesW
+        225   55 0005F340 TestDlgProc
+        220   56 0005FFC0 WizDSNDlgProc
+        222   57 00060D20 WizDatabaseDlgProc
+        221   58 00061540 WizIntSecurityDlgProc
+        223   59 000621B0 WizLanguageDlgProc
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        2000 .pdata
+       30000 .rdata
+        2000 .reloc
+        1000 .rsrc
+        4000 .sdbid
+       7F000 .text

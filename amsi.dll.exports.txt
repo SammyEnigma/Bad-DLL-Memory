@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\amsi.dll
+
+File Type: DLL
+
+  Section contains the following exports for Amsi.dll
+
+    00000000 characteristics
+    690BA034 time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000035C0 AmsiCloseSession
+          2    1 00003240 AmsiInitialize
+          3    2 00003560 AmsiOpenSession
+          4    3 000035E0 AmsiScanBuffer
+          5    4 000036E0 AmsiScanString
+          6    5 00003740 AmsiUacInitialize
+          7    6 000039C0 AmsiUacScan
+          8    7 00003960 AmsiUacUninitialize
+          9    8 00003500 AmsiUninitialize
+         10    9 00001970 DllCanUnloadNow
+         11    A 000019B0 DllGetClassObject
+         12    B 00001AF0 DllRegisterServer
+         13    C 00001AF0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        B000 .text

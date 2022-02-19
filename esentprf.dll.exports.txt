@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\esentprf.dll
+
+File Type: DLL
+
+  Section contains the following exports for ESENTPRF.dll
+
+    00000000 characteristics
+    C4956675 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003680 ClosePerformanceData
+          2    1 00001D60 CollectPerformanceData
+          3    2 000012B0 OpenPerformanceData
+
+  Summary
+
+        E000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

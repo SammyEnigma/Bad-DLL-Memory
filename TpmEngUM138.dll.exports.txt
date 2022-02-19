@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\TpmEngUM138.dll
+
+File Type: DLL
+
+  Section contains the following exports for TpmEngUM138.dll
+
+    00000000 characteristics
+    235027F7 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011B0 VTpmColdInitWithPersistentState
+          2    1 00001350 VTpmExecuteCommand
+          3    2 00001430 VTpmGetRuntimeState
+          4    3 00001500 VTpmSetCancelFlag
+          5    4 000011A0 VTpmSetTargetVersion
+          6    5 00001330 VTpmShutdown
+          7    6 00001230 VTpmWarmInit
+
+  Summary
+
+        D000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       36000 .text

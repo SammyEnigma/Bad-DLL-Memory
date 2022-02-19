@@ -1,0 +1,68 @@
+
+Dump of file C:\Windows\System32\msacm32.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSACM32.dll
+
+    00000000 characteristics
+    7EEAE755 time date stamp
+        0.00 version
+           1 ordinal base
+          42 number of functions
+          42 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000071A0 acmDriverAddA
+          2    1 00007240 acmDriverAddW
+          3    2 00007380 acmDriverClose
+          4    3 00007400 acmDriverDetailsA
+          5    4 000075C0 acmDriverDetailsW
+          6    5 00007660 acmDriverEnum
+          7    6 000077B0 acmDriverID
+          8    7 00007870 acmDriverMessage
+          9    8 00007A20 acmDriverOpen
+         10    9 00007AD0 acmDriverPriority
+         11    A 00007CF0 acmDriverRemove
+         12    B 00011060 acmFilterChooseA
+         13    C 00011320 acmFilterChooseW
+         14    D 000080B0 acmFilterDetailsA
+         15    E 000081B0 acmFilterDetailsW
+         16    F 000084A0 acmFilterEnumA
+         17   10 00008580 acmFilterEnumW
+         18   11 00008990 acmFilterTagDetailsA
+         19   12 00008A80 acmFilterTagDetailsW
+         20   13 00008C90 acmFilterTagEnumA
+         21   14 00008D70 acmFilterTagEnumW
+         22   15 000116C0 acmFormatChooseA
+         23   16 00011980 acmFormatChooseW
+         24   17 00009F10 acmFormatDetailsA
+         25   18 0000A010 acmFormatDetailsW
+         26   19 0000A330 acmFormatEnumA
+         27   1A 0000A400 acmFormatEnumW
+         28   1B 0000B360 acmFormatSuggest
+         29   1C 0000AAD0 acmFormatTagDetailsA
+         30   1D 0000ABC0 acmFormatTagDetailsW
+         31   1E 0000AE10 acmFormatTagEnumA
+         32   1F 00001210 acmFormatTagEnumW
+         33   20 000033B0 acmGetVersion
+         34   21 0000AEF0 acmMetrics
+         35   22 0000B660 acmStreamClose
+         36   23 0000B840 acmStreamConvert
+         37   24 0000BA00 acmStreamMessage
+         38   25 0000BAB0 acmStreamOpen
+         39   26 0000C050 acmStreamPrepareHeader
+         40   27 0000C200 acmStreamReset
+         41   28 0000C290 acmStreamSize
+         42   29 0000C3C0 acmStreamUnprepareHeader
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

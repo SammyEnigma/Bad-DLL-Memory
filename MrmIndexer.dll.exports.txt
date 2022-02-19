@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\MrmIndexer.dll
+
+File Type: DLL
+
+  Section contains the following exports for MrmIndexer.dll
+
+    00000000 characteristics
+    1BC4B4B9 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004720 DllCanUnloadNow
+          2    1 00004450 DllGetActivationFactory
+          3    2 00004630 DllGetClassObject
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       2C000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       90000 .text

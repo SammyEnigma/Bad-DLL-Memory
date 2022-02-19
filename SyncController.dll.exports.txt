@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\SyncController.dll
+
+File Type: DLL
+
+  Section contains the following exports for SyncController.dll
+
+    00000000 characteristics
+    2AA6BA67 time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008B30 AccountsMgmtAdviseAccount
+          2    1 00008020 AccountsMgmtConvertWebAccountIdFromAppSpecificId
+          3    2 00008120 AccountsMgmtConvertWebAccountIdToAppSpecificId
+          4    3 00007CC0 AccountsMgmtCreateAccount
+          5    4 00007EA0 AccountsMgmtDeleteAccount
+          6    5 0000CBD0 AccountsMgmtDiscoverExchangeServerConfig
+          7    6 000089B0 AccountsMgmtEnumAccounts
+          8    7 000090C0 AccountsMgmtGetNotifications
+          9    8 00010190 AccountsMgmtMayIgnoreInvalidServerCertificate
+         10    9 000085C0 AccountsMgmtQueryAccountProperties
+         11    A 000087C0 AccountsMgmtSaveAccountProperties
+         12    B 00008220 AccountsMgmtSyncAccount
+         13    C 000083F0 AccountsMgmtSyncAccountAndWaitForCompletion
+         14    D 00008EA0 AccountsMgmtUnadviseAccount
+         15    E 0000CDF0 AccountsMgmtVerifyExchangeMailBoxTokenAuth
+         16    F 00005650 DllCanUnloadNow
+         17   10 00005690 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       1E000 .rdata
+        2000 .reloc
+        5000 .rsrc
+       6D000 .text

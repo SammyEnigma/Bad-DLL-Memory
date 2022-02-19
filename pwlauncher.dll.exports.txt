@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\pwlauncher.dll
+
+File Type: DLL
+
+  Section contains the following exports for pwlauncher.dll
+
+    00000000 characteristics
+    849C0828 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00004500 DllCanUnloadNow
+          5    1 00004550 DllGetClassObject
+          6    2 000048C0 DllInstall
+          7    3 000045D0 DllRegisterServer
+          8    4 00004730 DllUnregisterServer
+          3    5 00008C70 ProcessHibernateGroupPolicy
+          2    6 00008B40 ProcessLauncherGroupPolicy
+          1    7 00008780 ShowPortableWorkspaceLauncherConfigurationUX
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+       36000 .rsrc
+       12000 .text

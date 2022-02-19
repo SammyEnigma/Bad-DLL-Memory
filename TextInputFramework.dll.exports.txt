@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\TextInputFramework.dll
+
+File Type: DLL
+
+  Section contains the following exports for TextInputFramework.dll
+
+    00000000 characteristics
+    876E4E6B time date stamp
+        0.00 version
+           1 ordinal base
+          17 number of functions
+          17 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00064E00 DllCanUnloadNow
+          2    1 00064E30 DllGetActivationFactory
+          3    2 00064E70 DllGetClassObject
+          4    3 00037A50 InputFocusChanged
+          5    4 0000B790 NavigateFocusInfoCreate
+          6    5 0002E3F0 TextInputClientCreate
+          7    6 0002E420 TextInputClientCreate2
+          8    7 00021A90 TextInputHostCreate
+          9    8 000691C0 TextInputHostCreate2
+         10    9 00021BA0 TextInputHostCreateEx
+         11    A 00069270 TextInputHostGetCurrent
+         12    B 000046F0 TextInputHostSiteCreate
+         13    C 00031290 TextInputServerCreate
+         14    D 00020A40 TsfOneCreate
+         15    E 000692F0 tsfGetAsyncKeyState
+         16    F 00022020 tsfGetKeyState
+         17   10 00069380 tsfGetKeyboardState
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        B000 .pdata
+       34000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       B1000 .text

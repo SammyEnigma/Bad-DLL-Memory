@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\sppcommdlg.dll
+
+File Type: DLL
+
+  Section contains the following exports for sppcommdlg.dll
+
+    00000000 characteristics
+     CC5D602 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000A2B0 SLUXActivationWizard
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+       31000 .rsrc
+       19000 .text

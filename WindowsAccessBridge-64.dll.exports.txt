@@ -1,0 +1,126 @@
+
+Dump of file C:\Windows\System32\WindowsAccessBridge-64.dll
+
+File Type: DLL
+
+  Section contains the following exports for WindowsAccessBridge-64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         101 number of functions
+         101 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00002448 Windows_run
+          6    1 00002464 activateAccessibleHyperlink
+          1    2 00003540 addAccessibilityEventNotification
+          7    3 00002484 addAccessibleSelectionFromContext
+          2    4 0000364C addJavaEventNotification
+          8    5 000024A8 clearAccessibleSelectionFromContext
+          9    6 000024CC doAccessibleActions
+         10    7 000024FC getAccessibleActions
+         11    8 0000251C getAccessibleChildFromContext
+         12    9 0000253C getAccessibleContextAt
+         13    A 00002578 getAccessibleContextFromHWND
+         14    B 00002598 getAccessibleContextInfo
+         15    C 000025B8 getAccessibleContextWithFocus
+         16    D 000025D8 getAccessibleHyperlink
+         17    E 00002608 getAccessibleHyperlinkCount
+         18    F 00002624 getAccessibleHypertext
+         19   10 00002644 getAccessibleHypertextExt
+         20   11 00002674 getAccessibleHypertextLinkIndex
+         21   12 00002694 getAccessibleIcons
+         22   13 000026B4 getAccessibleKeyBindings
+         23   14 000026D4 getAccessibleParentFromContext
+         24   15 000026F0 getAccessibleRelationSet
+         25   16 00002710 getAccessibleSelectionCountFromContext
+         26   17 0000272C getAccessibleSelectionFromContext
+         27   18 0000274C getAccessibleTableCellInfo
+         28   19 00002788 getAccessibleTableColumn
+         29   1A 000027A8 getAccessibleTableColumnDescription
+         30   1B 000027C8 getAccessibleTableColumnHeader
+         31   1C 000027E8 getAccessibleTableColumnSelectionCount
+         32   1D 00002804 getAccessibleTableColumnSelections
+         33   1E 00002834 getAccessibleTableIndex
+         34   1F 00002864 getAccessibleTableInfo
+         35   20 00002884 getAccessibleTableRow
+         36   21 000028A4 getAccessibleTableRowDescription
+         37   22 000028C4 getAccessibleTableRowHeader
+         38   23 000028E4 getAccessibleTableRowSelectionCount
+         39   24 00002900 getAccessibleTableRowSelections
+         40   25 00002930 getAccessibleTextAttributes
+         41   26 00002960 getAccessibleTextInfo
+         42   27 00002998 getAccessibleTextItems
+         43   28 000029C8 getAccessibleTextLineBounds
+         44   29 00002A04 getAccessibleTextRange
+         45   2A 00002A48 getAccessibleTextRect
+         46   2B 00002A78 getAccessibleTextSelectionInfo
+         47   2C 00002A98 getActiveDescendent
+         48   2D 00002AB4 getCaretLocation
+         49   2E 00002AE4 getCurrentAccessibleValueFromContext
+         50   2F 00002B14 getEventsWaiting
+         51   30 00002B28 getHWNDFromAccessibleContext
+         52   31 00002B44 getMaximumAccessibleValueFromContext
+         53   32 00002B74 getMinimumAccessibleValueFromContext
+         54   33 00002BA4 getObjectDepth
+         55   34 00002BC0 getParentWithRole
+         56   35 00002BE0 getParentWithRoleElseRoot
+         57   36 00002C00 getTextAttributesInRange
+         58   37 00002C90 getTopLevelObject
+         59   38 00002CAC getVersionInfo
+         60   39 00002CD0 getVirtualAccessibleName
+         61   3A 00002D00 getVisibleChildren
+         62   3B 00002D30 getVisibleChildrenCount
+         63   3C 00002D4C isAccessibleChildSelectedFromContext
+         64   3D 00002D6C isAccessibleTableColumnSelected
+         65   3E 00002D8C isAccessibleTableRowSelected
+         66   3F 00002DAC isJavaWindow
+         67   40 00002DC4 isSameObject
+         68   41 00002E14 releaseJavaObject
+          3   42 00006D18 removeAccessibilityEventNotification
+         69   43 00002E38 removeAccessibleSelectionFromContext
+          4   44 00006E24 removeJavaEventNotification
+         70   45 00002E5C requestFocus
+         71   46 00002E78 selectAllAccessibleSelectionFromContext
+         72   47 00002E9C selectTextRange
+         73   48 00002ECC setCaretPosition
+         74   49 00002EEC setCaretUpdateFP
+         75   4A 00002F0C setFocusGainedFP
+         76   4B 00002F2C setFocusLostFP
+         77   4C 00002F4C setJavaShutdownFP
+         78   4D 00002F6C setMenuCanceledFP
+         79   4E 00002F8C setMenuDeselectedFP
+         80   4F 00002FAC setMenuSelectedFP
+         81   50 00002FCC setMouseClickedFP
+         82   51 00002FEC setMouseEnteredFP
+         83   52 0000300C setMouseExitedFP
+         84   53 0000302C setMousePressedFP
+         85   54 0000304C setMouseReleasedFP
+         86   55 0000306C setPopupMenuCanceledFP
+         87   56 0000308C setPopupMenuWillBecomeInvisibleFP
+         88   57 000030AC setPopupMenuWillBecomeVisibleFP
+         89   58 000030CC setPropertyActiveDescendentChangeFP
+         90   59 000030EC setPropertyCaretChangeFP
+         91   5A 0000310C setPropertyChangeFP
+         92   5B 0000312C setPropertyChildChangeFP
+         93   5C 0000314C setPropertyDescriptionChangeFP
+         94   5D 0000316C setPropertyNameChangeFP
+         95   5E 0000318C setPropertySelectionChangeFP
+         96   5F 000031AC setPropertyStateChangeFP
+         97   60 000031CC setPropertyTableModelChangeFP
+         98   61 000031EC setPropertyTextChangeFP
+         99   62 0000320C setPropertyValueChangeFP
+        100   63 0000322C setPropertyVisibleDataChangeFP
+        101   64 0000324C setTextContents
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1B000 .text

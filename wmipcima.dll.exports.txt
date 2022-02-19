@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wbem\wmipcima.dll
+
+File Type: DLL
+
+  Section contains the following exports for cimwin32A.dll
+
+    00000000 characteristics
+    25BF4EF4 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001B90 DllCanUnloadNow
+          2    1 00001700 DllGetClassObject
+          3    2 000083A0 DllRegisterServer
+          4    3 00008410 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       18000 .text

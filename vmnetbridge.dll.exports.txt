@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\netbridge.inf_amd64_b061d10c6fb98c9c\vmnetbridge.dll
+
+File Type: DLL
+
+  Section contains the following exports for VMnetBridge.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000076C0 DllCanUnloadNow
+          2    1 000076D0 DllGetClassObject
+          3    2 000077C0 DllRegisterServer
+          4    3 000077E0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        4000 .rsrc
+        9000 .text

@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\modemui.dll
+
+File Type: DLL
+
+  Section contains the following exports for modemui.dll
+
+    00000000 characteristics
+    6BE7C016 time date stamp
+        0.00 version
+           2 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          9    0 00012950 CountryRunOnce
+         12    1 000042A0 InvokeControlPanel
+         13    2 000070E0 ModemCplDlgProc
+         14    3 0000FAA0 ModemPropPagesProvider
+         15    4 000120F0 QueryModemForCountrySettings
+          8    5 0000FA60 UnimodemDevConfigDialog
+         10    6 0000F8B0 UnimodemGetDefaultCommConfig
+         11    7 000036D0 UnimodemGetExtendedCaps
+          3    8 0000F660 drvCommConfigDialogA
+          2    9 0000F670 drvCommConfigDialogW
+          7    A 0000F660 drvGetDefaultCommConfigA
+          6    B 0000F680 drvGetDefaultCommConfigW
+          5    C 0000F660 drvSetDefaultCommConfigA
+          4    D 0000F730 drvSetDefaultCommConfigW
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+       15000 .rsrc
+       14000 .text

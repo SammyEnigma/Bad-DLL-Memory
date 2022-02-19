@@ -1,0 +1,62 @@
+
+Dump of file C:\Windows\System32\diagnosticdataquery.dll
+
+File Type: DLL
+
+  Section contains the following exports for DiagnosticDataQuery.dll
+
+    00000000 characteristics
+    AADEBBCD time date stamp
+        0.00 version
+           1 ordinal base
+          37 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004E90 DdqCancelDiagnosticRecordOperation
+          2    1 00004110 DdqCloseSession
+          3    2 00004020 DdqCreateSession
+          4    3 000051C0 DdqExtractDiagnosticReport
+          5    4 00004590 DdqFreeDiagnosticRecordLocaleTags
+          6    5 00004C60 DdqFreeDiagnosticRecordPage
+          7    6 00004950 DdqFreeDiagnosticRecordProducerCategories
+          8    7 00004780 DdqFreeDiagnosticRecordProducers
+          9    8 00005030 DdqFreeDiagnosticReport
+         10    9 00004260 DdqGetDiagnosticDataAccessLevelAllowed
+         11    A 00004D40 DdqGetDiagnosticRecordAtIndex
+         12    B 00005370 DdqGetDiagnosticRecordBinaryDistribution
+         13    C 000049D0 DdqGetDiagnosticRecordCategoryAtIndex
+         14    D 00004680 DdqGetDiagnosticRecordCategoryCount
+         15    E 00004680 DdqGetDiagnosticRecordCount
+         16    F 00004620 DdqGetDiagnosticRecordLocaleTagAtIndex
+         17   10 00004680 DdqGetDiagnosticRecordLocaleTagCount
+         18   11 00004490 DdqGetDiagnosticRecordLocaleTags
+         19   12 00004B30 DdqGetDiagnosticRecordPage
+         20   13 000043D0 DdqGetDiagnosticRecordPayload
+         21   14 00004800 DdqGetDiagnosticRecordProducerAtIndex
+         22   15 00004850 DdqGetDiagnosticRecordProducerCategories
+         23   16 00004680 DdqGetDiagnosticRecordProducerCount
+         24   17 00004690 DdqGetDiagnosticRecordProducers
+         25   18 000042F0 DdqGetDiagnosticRecordStats
+         26   19 00005460 DdqGetDiagnosticRecordSummary
+         27   1A 00005290 DdqGetDiagnosticRecordTagDistribution
+         28   1B 00004F30 DdqGetDiagnosticReport
+         29   1C 00005190 DdqGetDiagnosticReportAtIndex
+         30   1D 00004680 DdqGetDiagnosticReportCount
+         31   1E 00004DD0 DdqGetDiagnosticReportStoreReportCount
+         32   1F 000041A0 DdqGetSessionAccessLevel
+         33   20 000055E0 DdqGetTranscriptConfiguration
+         34   21 00004A20 DdqIsDiagnosticRecordSampledIn
+         35   22 00005530 DdqSetTranscriptConfiguration
+         36   23 00005690 UtcSendTraceLogging
+         37   24 000057A0 UtcSendTraceLogging2
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\pnrpauto.dll
+
+File Type: DLL
+
+  Section contains the following exports for pnrpauto.dll
+
+    00000000 characteristics
+    856AF3D8 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000015B0 PnrpAutoSVCServiceMain
+          2    1 000015A0 SvchostPushServiceGlobals
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

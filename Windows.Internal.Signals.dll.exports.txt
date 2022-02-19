@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Internal.Signals.dll
+
+File Type: DLL
+
+  Section contains the following exports for DllMain.dll
+
+    00000000 characteristics
+    DF8D89F4 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000BCE0 DllCanUnloadNow
+          2    1 0000BE80 DllGetActivationFactory
+          3    2 0000BD50 DllGetClassObject
+
+  Summary
+
+        9000 .data
+        1000 .didat
+        9000 .pdata
+       35000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       C2000 .text

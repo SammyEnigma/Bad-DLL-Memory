@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\msv1_0.dll
+
+File Type: DLL
+
+  Section contains the following exports for msv1_0.dll
+
+    00000000 characteristics
+    85B31AFB time date stamp
+        0.00 version
+           1 ordinal base
+          32 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00028EA0 DllMain
+          6    1 00010C60 LsaApCallPackage
+          7    2 0003F880 LsaApCallPackagePassthrough
+          8    3 000114C0 LsaApCallPackageUntrusted
+          9    4 000218B0 LsaApInitializePackage
+         10    5 00011E00 LsaApLogonTerminated
+         11    6 000187E0 LsaApLogonUserEx2
+         12    7 00044600 Msv1_0ExportSubAuthenticationRoutine
+         13    8 00044710 Msv1_0SubAuthenticationPresent
+         14    9 000432D0 MsvGetLogonAttemptCount
+         15    A 00058A00 MsvIsIpAddressLocal
+          2    B 000119B0 MsvIsLocalhostAliases
+         16    C 000145E0 MsvSamLogoff
+         17    D 00015EC0 MsvSamValidate
+         18    E 000432E0 MsvValidateTarget
+          1    F 00021B80 SpInitialize
+         32   10 000105B0 SpInstanceInit
+          3   11 00024210 SpLsaModeInitialize
+          4   12 00011190 SpUserModeInitialize
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        4000 .pdata
+       14000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       67000 .text

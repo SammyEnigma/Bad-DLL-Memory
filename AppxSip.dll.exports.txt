@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\AppxSip.dll
+
+File Type: DLL
+
+  Section contains the following exports for AppxSip.dll
+
+    00000000 characteristics
+    B224A13F time date stamp
+        0.00 version
+           5 ordinal base
+          33 number of functions
+          33 number of names
+
+    ordinal hint RVA      name
+
+         21    0 000079A0 AppxBundleSipCreateIndirectData
+         18    1 000082D0 AppxBundleSipGetSignedDataMsg
+         17    2 00001060 AppxBundleSipIsFileSupportedName
+         19    3 000084F0 AppxBundleSipPutSignedDataMsg
+         20    4 00008900 AppxBundleSipRemoveSignedDataMsg
+         22    5 00008B90 AppxBundleSipVerifyIndirectData
+          9    6 00009980 AppxSipCreateIndirectData
+          6    7 0000A4A0 AppxSipGetSignedDataMsg
+          5    8 000013C0 AppxSipIsFileSupportedName
+          7    9 0000A6C0 AppxSipPutSignedDataMsg
+          8    A 0000AAD0 AppxSipRemoveSignedDataMsg
+         10    B 0000AD60 AppxSipVerifyIndirectData
+         35    C 00006430 DllCanUnloadNow
+         36    D 00006460 DllRegisterServer
+         37    E 00006780 DllUnregisterServer
+         33    F 0000B440 EappxBundleSipCreateIndirectData
+         30   10 0000BA40 EappxBundleSipGetSignedDataMsg
+         29   11 0000BC00 EappxBundleSipIsFileSupportedName
+         31   12 0000BE30 EappxBundleSipPutSignedDataMsg
+         32   13 0000C050 EappxBundleSipRemoveSignedDataMsg
+         34   14 0000C1E0 EappxBundleSipVerifyIndirectData
+         27   15 0000C640 EappxSipCreateIndirectData
+         24   16 0000CA90 EappxSipGetSignedDataMsg
+         23   17 0000CC50 EappxSipIsFileSupportedName
+         25   18 0000CEC0 EappxSipPutSignedDataMsg
+         26   19 0000D0E0 EappxSipRemoveSignedDataMsg
+         28   1A 0000D370 EappxSipVerifyIndirectData
+         15   1B 0000D7D0 P7xSipCreateIndirectData
+         12   1C 0000D800 P7xSipGetSignedDataMsg
+         11   1D 000020B0 P7xSipIsFileSupportedName
+         13   1E 0000D7D0 P7xSipPutSignedDataMsg
+         14   1F 0000D7D0 P7xSipRemoveSignedDataMsg
+         16   20 0000D9A0 P7xSipVerifyIndirectData
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       32000 .text

@@ -1,0 +1,206 @@
+
+Dump of file C:\Windows\System32\comctl32.dll
+
+File Type: DLL
+
+  Section contains the following exports for COMCTL32.dll
+
+    00000000 characteristics
+    3E15B9F6 time date stamp
+        0.00 version
+           2 ordinal base
+         421 number of functions
+         119 number of names
+
+    ordinal hint RVA      name
+
+        401    0 00001E10 AddMRUStringW
+        400    1 00001C20 CreateMRUListW
+          8    2 000038B0 CreateMappedBitmap
+         12    3 00006A90 CreatePropertySheetPage
+         18    4 00006A90 CreatePropertySheetPageA
+         19    5 00006A80 CreatePropertySheetPageW
+         20    6 0000F230 CreateStatusWindow
+          6    7 0000F230 CreateStatusWindowA
+         21    8 0000F1C0 CreateStatusWindowW
+          7    9 00010960 CreateToolbar
+         22    A 000107C0 CreateToolbarEx
+         16    B 0001A740 CreateUpDownControl
+        331    C 0001B810 DPA_Clone
+        328    D 0001B730 DPA_Create
+        340    E 0001B740 DPA_CreateEx
+        337    F 0001BC20 DPA_DeleteAllPtrs
+        336   10 0001BB20 DPA_DeletePtr
+        329   11 0001B7B0 DPA_Destroy
+        386   12 0001BCF0 DPA_DestroyCallback
+        385   13 0001BC70 DPA_EnumCallback
+        332   14 0001B8A0 DPA_GetPtr
+        333   15 0001B8D0 DPA_GetPtrIndex
+        330   16 0001B920 DPA_Grow
+        334   17 0001BA80 DPA_InsertPtr
+          9   18 0001BEF0 DPA_LoadStream
+         11   19 0001C0B0 DPA_Merge
+         10   1A 0001BD20 DPA_SaveStream
+        339   1B 0001C4F0 DPA_Search
+        335   1C 0001B9F0 DPA_SetPtr
+        338   1D 0001C2B0 DPA_Sort
+        320   1E 0001B280 DSA_Create
+        327   1F 0001B6E0 DSA_DeleteAllItems
+        326   20 0001B5F0 DSA_DeleteItem
+        321   21 0001B2D0 DSA_Destroy
+        388   22 0001B3B0 DSA_DestroyCallback
+        387   23 0001B330 DSA_EnumCallback
+        322   24 0001B3E0 DSA_GetItem
+        323   25 0001B420 DSA_GetItemPtr
+        324   26 0001B510 DSA_InsertItem
+        325   27 0001B440 DSA_SetItem
+        413   28 0001D0C0 DefSubclassProc
+         23   29 000060F0 DestroyPropertySheetPage
+         24   2A 000034E0 DllGetVersion
+         15   2B 0001E090 DrawInsert
+         25   2C 0000D660 DrawStatusText
+          5   2D 0000D660 DrawStatusTextA
+         26   2E 0000D630 DrawStatusTextW
+        403   2F 000026F0 EnumMRUListW
+         27   30 00020F90 FlatSB_EnableScrollBar
+         28   31 00020B50 FlatSB_GetScrollInfo
+         29   32 00020830 FlatSB_GetScrollPos
+         30   33 00020A60 FlatSB_GetScrollProp
+         31   34 000208B0 FlatSB_GetScrollPropPtr
+         32   35 00020A90 FlatSB_GetScrollRange
+         33   36 00021EE0 FlatSB_SetScrollInfo
+         34   37 00021CE0 FlatSB_SetScrollPos
+         35   38 00022000 FlatSB_SetScrollProp
+         36   39 00021D90 FlatSB_SetScrollRange
+         37   3A 00020C70 FlatSB_ShowScrollBar
+        152   3B 00001D20 FreeMRUList
+          4   3C 000227E0 GetEffectiveClientRect
+         38   3D 00022E60 GetMUILanguage
+         39   3E 00077EE0 ImageList_Add
+         40   3F 00077AD0 ImageList_AddIcon
+         41   40 00078190 ImageList_AddMasked
+         42   41 00077510 ImageList_BeginDrag
+         43   42 00078510 ImageList_Copy
+         44   43 000777E0 ImageList_Create
+         45   44 00077DB0 ImageList_Destroy
+         46   45 00077590 ImageList_DragEnter
+         47   46 00077630 ImageList_DragLeave
+         48   47 000775E0 ImageList_DragMove
+         49   48 00077670 ImageList_DragShowNolock
+         50   49 000782E0 ImageList_Draw
+         51   4A 00078200 ImageList_DrawEx
+         52   4B 000783B0 ImageList_DrawIndirect
+         53   4C 00077BA0 ImageList_Duplicate
+         54   4D 000774A0 ImageList_EndDrag
+         55   4E 00078020 ImageList_GetBkColor
+         56   4F 00077450 ImageList_GetDragImage
+         57   50 00078900 ImageList_GetFlags
+         58   51 000784A0 ImageList_GetIcon
+         59   52 000785A0 ImageList_GetIconSize
+         60   53 00077E10 ImageList_GetImageCount
+         61   54 000786A0 ImageList_GetImageInfo
+         62   55 00077D30 ImageList_GetImageRect
+         63   56 000778B0 ImageList_LoadImage
+         64   57 000778B0 ImageList_LoadImageA
+         65   58 00077970 ImageList_LoadImageW
+         66   59 00078720 ImageList_Merge
+         67   5A 00077C80 ImageList_Read
+         68   5B 00078430 ImageList_Remove
+         69   5C 00078100 ImageList_Replace
+         70   5D 00077F50 ImageList_ReplaceIcon
+         75   5E 00077FC0 ImageList_SetBkColor
+         76   5F 000773B0 ImageList_SetDragCursorImage
+         77   60 000232D0 ImageList_SetFilter
+         78   61 00078800 ImageList_SetFlags
+         79   62 00078620 ImageList_SetIconSize
+         80   63 00077E70 ImageList_SetImageCount
+         81   64 00078080 ImageList_SetOverlayImage
+         82   65 00077C00 ImageList_Write
+         17   66 00022CF0 InitCommonControls
+         83   67 00022D00 InitCommonControlsEx
+         84   68 00022E10 InitMUILanguage
+         85   69 0001E560 InitializeFlatSB
+         14   6A 0001DED0 LBItemFromPt
+         13   6B 0001DE20 MakeDragList
+          2   6C 00022450 MenuHelp
+         86   6D 0000CED0 PropertySheet
+         87   6E 0000CED0 PropertySheetA
+         88   6F 0000CEC0 PropertySheetW
+         89   70 00022E70 RegisterClassNameW
+        412   71 0001CFD0 RemoveWindowSubclass
+        410   72 0001CEB0 SetWindowSubclass
+          3   73 000226A0 ShowHideMenuCtl
+        236   74 0001C840 Str_SetPtrW
+         90   75 0001E250 UninitializeFlatSB
+         91   76 00027D00 _TrackMouseEvent
+         71      00002980 [NONAME]
+         72      000029A0 [NONAME]
+         73      000029E0 [NONAME]
+         74      00002A10 [NONAME]
+        151      00001D00 [NONAME]
+        153      000020D0 [NONAME]
+        154      000027D0 [NONAME]
+        155      00002680 [NONAME]
+        156      00002130 [NONAME]
+        157      00001C40 [NONAME]
+        163      000067B0 [NONAME]
+        164      0000CCB0 [NONAME]
+        167      00002240 [NONAME]
+        169      00002470 [NONAME]
+        233      0001C6C0 [NONAME]
+        234      0001C8E0 [NONAME]
+        235      0001C610 [NONAME]
+        341      000244C0 [NONAME]
+        342      000232E0 [NONAME]
+        350               [NONAME] (forwarded to SHUNIMPL.#78)
+        351               [NONAME] (forwarded to SHUNIMPL.#79)
+        352               [NONAME] (forwarded to SHUNIMPL.#80)
+        353               [NONAME] (forwarded to SHUNIMPL.#81)
+        354               [NONAME] (forwarded to SHUNIMPL.#82)
+        355               [NONAME] (forwarded to SHUNIMPL.#83)
+        356               [NONAME] (forwarded to SHUNIMPL.#84)
+        357               [NONAME] (forwarded to SHUNIMPL.#85)
+        358               [NONAME] (forwarded to SHUNIMPL.#86)
+        359               [NONAME] (forwarded to SHUNIMPL.#87)
+        360               [NONAME] (forwarded to SHUNIMPL.#88)
+        361               [NONAME] (forwarded to SHUNIMPL.#89)
+        362               [NONAME] (forwarded to SHUNIMPL.#90)
+        363               [NONAME] (forwarded to SHUNIMPL.#91)
+        364               [NONAME] (forwarded to SHUNIMPL.#92)
+        365               [NONAME] (forwarded to SHUNIMPL.#93)
+        366               [NONAME] (forwarded to SHUNIMPL.#94)
+        367               [NONAME] (forwarded to SHUNIMPL.#95)
+        368               [NONAME] (forwarded to SHUNIMPL.#96)
+        369               [NONAME] (forwarded to SHUNIMPL.#97)
+        372               [NONAME] (forwarded to SHUNIMPL.#98)
+        373               [NONAME] (forwarded to SHUNIMPL.#99)
+        374               [NONAME] (forwarded to SHUNIMPL.#100)
+        375               [NONAME] (forwarded to SHUNIMPL.#101)
+        376               [NONAME] (forwarded to SHUNIMPL.#102)
+        377               [NONAME] (forwarded to SHUNIMPL.#103)
+        382      00004B00 [NONAME]
+        383      0001D710 [NONAME]
+        384      00027230 [NONAME]
+        389      000232D0 [NONAME]
+        390      00078870 [NONAME]
+        402      00002540 [NONAME]
+        404      000017B0 [NONAME]
+        411      0001CE00 [NONAME]
+        414      00022F10 [NONAME]
+        415      00070AC0 [NONAME]
+        416      00070AA0 [NONAME]
+        417      00070A40 [NONAME]
+        418      00070A00 [NONAME]
+        419      00070A20 [NONAME]
+        420      00070A20 [NONAME]
+        421      00070A60 [NONAME]
+        422      00005F80 [NONAME]
+
+  Summary
+
+        4000 .data
+        5000 .pdata
+        D000 .rdata
+        1000 .reloc
+        F000 .rsrc
+       89000 .text

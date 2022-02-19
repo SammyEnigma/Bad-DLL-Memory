@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\Old\1\FXSRES.DLL
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+      6B1000 .rsrc

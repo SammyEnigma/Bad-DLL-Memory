@@ -1,0 +1,9 @@
+
+Dump of file C:\Windows\System32\MUI\0409\mscorees.dll
+
+File Type: DLL
+
+  Summary
+
+        1000 .rdata
+        2000 .rsrc

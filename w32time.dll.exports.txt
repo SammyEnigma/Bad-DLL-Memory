@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\w32time.dll
+
+File Type: DLL
+
+  Section contains the following exports for w32time.dll
+
+    00000000 characteristics
+    6216BD69 time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          4    0 0002BD40 DllInstall
+          5    1 0002BED0 DllRegisterServer
+          6    2 0002BF20 DllUnregisterServer
+          7    3 0003CB80 SvchostEntry_W32Time
+          8    4 0003CBC0 SvchostPushServiceGlobals
+          9    5 00029F80 TimeProvClose
+         10    6 00029FF0 TimeProvCommand
+         11    7 0002A040 TimeProvOpen
+         12    8 0003FFB0 W32TimeBufferFree
+         13    9 0002BF40 W32TimeDcPromo
+         14    A 0004A0E0 W32TimeDeleteConfig
+         15    B 00048F90 W32TimeGetNetlogonServiceBits
+         16    C 00049130 W32TimeLog
+         17    D 0004A150 W32TimeQueryConfig
+         18    E 000492D0 W32TimeQueryConfiguration
+         19    F 00049500 W32TimeQueryHardwareProviderStatus
+         20   10 00049520 W32TimeQueryNTPProviderStatus
+         21   11 00049540 W32TimeQueryNtpProviderConfiguration
+         22   12 00049790 W32TimeQuerySource
+         23   13 000499C0 W32TimeQueryStatus
+         24   14 0004A1F0 W32TimeSetConfig
+         25   15 00049BF0 W32TimeSyncNow
+         26   16 0002C270 W32TimeVerifyJoinConfig
+         27   17 0002C410 W32TimeVerifyUnjoinConfig
+         28   18 0003CBD0 W32TmServiceMain
+          1   19 00078038 fnW32TmI_ScSetServiceBits
+          2   1A 00078048 fnW32TmRegisterServiceCtrlHandlerEx
+          3   1B 00078040 fnW32TmSetServiceStatus
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       2A000 .rdata
+        1000 .reloc
+        C000 .rsrc
+       4B000 .text

@@ -1,0 +1,107 @@
+
+Dump of file C:\Windows\System32\BootMenuUX.dll
+
+File Type: DLL
+
+  Section contains the following exports for BootMenuUX.dll
+
+    00000000 characteristics
+    73DE7B8B time date stamp
+        0.00 version
+           1 ordinal base
+          81 number of functions
+          81 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008BF0 CreateAdvancedOptionsButton
+          2    1 00005AC0 CreateAdvancedRecoveryToolsButtonCollection
+          3    2 00008CA0 CreateAdvancedStartupButton
+          4    3 00008D90 CreateAdvancedStartupLaunchPage
+          5    4 00006020 CreateBareMetalRecoveryButton
+          6    5 00007540 CreateBasicResetFinalChecksPage
+          7    6 00007730 CreateBasicResetLandingPage
+          8    7 00008040 CreateBasicSystemResetButton
+          9    8 00006F10 CreateBasicSystemResetLaunchPage
+         10    9 00007170 CreateBitlockerLandingPage
+         11    A 00008B40 CreateBlackWallpaperButton
+         12    B 00005900 CreateBootableDeviceButtonCollection
+         13    C 000057E0 CreateBootableOSButtonCollection
+         14    D 00007380 CreateCSRTFinalPage
+         15    E 000072D0 CreateClearWallpaperPage
+         16    F 00006530 CreateCloudRecoveryButton
+         17   10 000061F0 CreateDefaultOSButton
+         18   11 00005870 CreateDefaultOSButtonCollection
+         19   12 00005C70 CreateDefaultOSListButton
+         20   13 00005DA0 CreateDeviceListButton
+         21   14 00006430 CreateDirectFactoryResetButton
+         22   15 000093C0 CreateDownloadCloudPBRConfirmButton
+         23   16 000075D0 CreateFactoryResetFinalChecksPage
+         24   17 00007650 CreateFactoryResetLandingPage
+         25   18 000080F0 CreateFactorySystemResetButton
+         26   19 00007040 CreateFactorySystemResetLaunchPage
+         27   1A 00006700 CreateFirmwareSettingsButton
+         28   1B 00006960 CreateFiveMinuteTimeoutAction
+         29   1C 000068E0 CreateFiveSecondTimeoutAction
+         30   1D 00008E20 CreateFlightRemovalConfirmButton
+         31   1E 000075D0 CreateFlightRemovalProgressPage
+         32   1F 00007A80 CreateKeyboardLayoutButtonCollection
+         33   20 000078B0 CreateLanguageButtonCollection
+         34   21 00005B30 CreateOSListButton
+         35   22 00006940 CreateOneMinuteTimeoutAction
+         36   23 00008250 CreatePBRCancelButton
+         37   24 00008300 CreatePBRFactoryResetKeepPackagesButton
+         38   25 000083B0 CreatePBRFactoryResetNotKeepPackagesButton
+         39   26 00007460 CreatePBRFinalPage
+         40   27 000059E0 CreatePBRResetButtonCollection
+         41   28 00006D70 CreatePBRResetPage
+         42   29 00008460 CreatePBRUsePayloadButton
+         43   2A 00008510 CreatePBRUseReconstructionButton
+         44   2B 00008670 CreatePBRfactoryResetAllVolumesButton
+         45   2C 00008A90 CreatePBRfactoryResetBareMetalDisabled
+         46   2D 000089E0 CreatePBRfactoryResetBareMetalEnabled
+         47   2E 000087D0 CreatePBRfactoryResetCancelOperationButton
+         48   2F 00008720 CreatePBRfactoryResetContinueChecksButton
+         49   30 00008930 CreatePBRfactoryResetDataEraseDisabled
+         50   31 00008880 CreatePBRfactoryResetDataEraseEnabled
+         51   32 000085C0 CreatePBRfactoryResetOsOnlyButton
+         52   33 00007F90 CreatePasswordButton
+         53   34 00006B20 CreatePasswordPage
+         54   35 00009260 CreatePayloadWiFiNetworksCollection
+         55   36 00005EF0 CreateRecoveryToolsListButton
+         56   37 00006650 CreateRestartButton
+         57   38 00006980 CreateSelectOSPage
+         58   39 00007220 CreateSetWallpaperPage
+         59   3A 00006330 CreateShutdownButton
+         60   3B 00006A00 CreateSkippableSelectOSPage
+         61   3C 00006900 CreateTenSecondTimeoutAction
+         62   3D 00006920 CreateThirtySecondTimeoutAction
+         63   3E 00005970 CreateTopLevelRecoveryToolsButtonCollection
+         64   3F 00006CA0 CreateTopLevelRecoveryToolsPage
+         65   40 00006E40 CreateUninstallPage
+         66   41 00008ED0 CreateUninstallQualityUpdateConfirmButton
+         67   42 00005A50 CreateUninstallToolsButtonCollection
+         68   43 00007810 CreateUserNameButtonCollection
+         69   44 00006A90 CreateUserSelectionPage
+         70   45 00009310 CreateWiFiConnectButton
+         71   46 00007540 CreateWiFiInitPage
+         72   47 000091B0 CreateWiFiNetworkButtonCollection
+         73   48 00008F80 CreateWinReSkipPage
+         74   49 000081A0 CreateWinReTargetOSButtonCollection
+         75   4A 00006BB0 CreateWinReTargetOSPage
+         76   4B 000068C0 CreateZeroSecondTimeoutAction
+         77   4C 00009100 InitializePasswordDatabase
+         78   4D 000090D0 InitializeSRTSyncInterface
+         79   4E 00009080 InitializeSyncInterface
+         80   4F 00001BE0 UtilBcdCloseSystemStore
+         81   50 00004690 UtilGetCurrentKeyboardLayout
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       14000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       41000 .text

@@ -1,0 +1,69 @@
+
+Dump of file C:\Windows\System32\edgehtml.dll
+
+File Type: DLL
+
+  Section contains the following exports for EDGEHTML.dll
+
+    00000000 characteristics
+    EA52CB64 time date stamp
+        0.00 version
+         105 ordinal base
+          43 number of functions
+          30 number of names
+
+    ordinal hint RVA      name
+
+        107    0 01043530 CIGTestHookLoadLibraryWorkerThread
+        108    1 008D86A0 ClearPhishingFilterData
+        109    2 00EE7960 ClearTemporaryWebDataAsync
+        110    3 007BC7A0 ConvertAndEscapePostData
+        111    4 0057D230 CreateCoreWebView
+        112    5 01090010 CreateDiagnosticsToolObject
+        113    6 007BC7A0 CreateHTMLPropertyPage
+        114    7 007BA5D0 DllCanUnloadNow
+        115    8 00581FF0 DllEnumClassObjects
+        116    9 007B8B70 DllGetClassObject
+        117    A 00C2DE90 Fetch_CreateOriginAgnosticFetch
+        118    B 00810650 GetColorValueFromString
+        119    C 002D6030 GetWebPlatformObject
+        120    D 00477B10 InitializeLocalHtmlEngine
+        121    E 00583AA0 MatchExactGetIDsOfNames
+        122    F 00B27F00 PrintHTML
+        123   10 007BC7A0 ShowHTMLDialog
+        124   11 007BC7A0 ShowHTMLDialogEx
+        125   12 007BC7A0 ShowModalDialog
+        126   13 007BC7A0 ShowModelessHTMLDialog
+        127   14 00258C20 Streams_CreateByteChunk
+        135   15 00C3E8D0 Streams_CreateDefaultSizedByteChunk
+        136   16 00C3E960 Streams_CreateDefaultSizedWideCharChunk
+        137   17 0024EC40 Streams_CreateReadableStream
+        142   18 00C3E9E0 Streams_CreateReadableStreamFromFileHandle
+        143   19 00C3E9F0 Streams_CreateReadableStreamFromFilePath
+        144   1A 00C3E970 Streams_CreateWideCharChunk
+        145   1B 00222C50 Streams_CreateWritableStream
+        146   1C 00FDBD70 TravelLogCreateInstance
+        147   1D 007B8C20 UninitializeLocalHtmlEngine
+        105      0024D830 [NONAME]
+        106      00BE6AA0 [NONAME]
+        128      002F10F0 [NONAME]
+        129      00D49180 [NONAME]
+        130      00D49190 [NONAME]
+        131      00C77AC0 [NONAME]
+        132      00E9CD80 [NONAME]
+        133      00E9CA00 [NONAME]
+        134      01043250 [NONAME]
+        138      01043380 [NONAME]
+        139      00E9D3C0 [NONAME]
+        140      00E9CC50 [NONAME]
+        141      00E9CCF0 [NONAME]
+
+  Summary
+
+       46000 .data
+        2000 .didat
+      12F000 .pdata
+      597000 .rdata
+       9F000 .reloc
+        1000 .rsrc
+     1180000 .text

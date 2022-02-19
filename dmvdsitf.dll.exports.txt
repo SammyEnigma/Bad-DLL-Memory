@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\dmvdsitf.dll
+
+File Type: DLL
+
+  Section contains the following exports for dmivcitf.dll
+
+    00000000 characteristics
+    29E93A18 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012C0 ?AddLDMObjMapEntry@CDataCache@@QEAAXPEAU_LDM_OBJ_MAP_ENTRY@@@Z
+          4    1 000012A0 ?GetDiskCount@CDataCache@@QEAAKXZ
+          5    2 00001260 ?GetLdmObjectId@CDMNodeObj@@QEAA_JXZ
+          6    3 00001290 ?GetNumMembers@CDMNodeObj@@QEAAKXZ
+          7    4 00001480 ?GetOcxFrameCWndPtr@CTaskData@@QEAAPEAVCWnd@@XZ
+          8    5 00001490 ?GetRegionColorStructPtr@CTaskData@@QEAAXPEAPEAU_REGION_COLORS@@AEAH@Z
+          9    6 00001430 ?GetServerName@CDataCache@@QEAA?AVCString@@XZ
+         10    7 000012B0 ?GetVolumeCount@CDataCache@@QEAAKXZ
+          2    8 00001EB0 CreateDataCacheZ
+          3    9 00010F80 CreateServerRequestsZ
+         11    A 0000E720 LoadPropertyPageData
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       20000 .text

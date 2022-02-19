@@ -1,0 +1,58 @@
+
+Dump of file C:\Windows\System32\dcomp.dll
+
+File Type: DLL
+
+  Section contains the following exports for dcomp.dll
+
+    00000000 characteristics
+    31B0223C time date stamp
+        0.00 version
+        1017 ordinal base
+         989 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+       1017    0 000B2260 DCompositionAttachMouseDragToHwnd
+       1018    1 000B22D0 DCompositionAttachMouseWheelToHwnd
+       1020    2 00008A00 DCompositionCreateDevice
+       1021    3 0004F350 DCompositionCreateDevice2
+       1022    4 000500B0 DCompositionCreateDevice3
+       1023    5 00062930 DCompositionCreateSurfaceHandle
+       1024    6 00054510 DllCanUnloadNow
+       1025    7 00054560 DllGetActivationFactory
+       1026    8 000B23D0 DllGetClassObject
+       1027    9 000AA9C0 DwmEnableMMCSS
+       1029    A 00068DB0 DwmFlush
+       1030    B 00068DB0 DwmpEnableDDASupport
+       1019               [NONAME] (forwarded to win32u.NtCreateCompositionInputSink)
+       1028               [NONAME] (forwarded to win32u.NtDesktopCaptureBits)
+       1031      00065160 [NONAME]
+       1038      00006A10 [NONAME]
+       1039      000B2340 [NONAME]
+       1040      000AA9F0 [NONAME]
+       1041      000055E0 [NONAME]
+       1042      000B23C0 [NONAME]
+       1043               [NONAME] (forwarded to win32u.NtCompositionSetDropTarget)
+       1044               [NONAME] (forwarded to win32u.NtCreateImplicitCompositionInputSink)
+       1045               [NONAME] (forwarded to win32u.NtDCompositionCommitSynchronizationObject)
+       1046               [NONAME] (forwarded to win32u.NtDCompositionGetFrameStatistics)
+       1047               [NONAME] (forwarded to win32u.NtDCompositionGetMaterialProperty)
+       1048               [NONAME] (forwarded to win32u.NtDCompositionSetMaterialProperty)
+       2000      00155C50 [NONAME]
+       2001      00155D30 [NONAME]
+       2002      00155C90 [NONAME]
+       2003      000692D0 [NONAME]
+       2004      001585D0 [NONAME]
+       2005      000692D0 [NONAME]
+
+  Summary
+
+        A000 .data
+        1000 .didat
+       18000 .pdata
+       57000 .rdata
+        9000 .reloc
+        8000 .rsrc
+      159000 .text

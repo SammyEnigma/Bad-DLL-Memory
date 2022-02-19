@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\Windows.Internal.Bluetooth.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Internal.Bluetooth.DLL
+
+    00000000 characteristics
+     461B03C time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0001D460 BthEvtBrCreateBroker
+          3    1 0001D530 BthEvtBrDeleteBroker
+          4    2 00009BC0 DllCanUnloadNow
+          1    3 000099E0 DllGetActivationFactory
+          5    4 00009C30 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       19000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       65000 .text
+        2000 PAGE

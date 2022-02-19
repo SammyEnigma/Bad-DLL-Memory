@@ -1,0 +1,153 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igfxcmrt64.dll
+
+File Type: DLL
+
+  Section contains the following exports for igfxcmrt64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         127 number of functions
+         127 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001560 ??0CM_AVS_STATE_MSG_EX@@QEAA@XZ
+          2    1 000012C0 ??0CM_FLAG@@QEAA@XZ
+          3    2 00001CB0 ?CloneKernel@CmDevice_RT@@UEAAHAEAPEAVCmKernel@@PEAV2@@Z
+          4    3 00001D10 ?CreateBuffer@CmDevice_RT@@UEAAHIAEAPEAVCmBuffer@@@Z
+          5    4 00001D20 ?CreateBufferAlias@CmDevice_RT@@UEAAHPEAVCmBuffer@@AEAPEAVSurfaceIndex@@@Z
+          6    5 00001D80 ?CreateBufferSVM@CmDevice_RT@@UEAAHIAEAPEAXIAEAPEAVCmBufferSVM@@@Z
+          7    6 00001D90 ?CreateBufferStateless@CmDevice_RT@@UEAAH_KIPEAXAEAPEAVCmBufferStateless@@@Z
+          8    7 00001DA0 ?CreateBufferUP@CmDevice_RT@@UEAAHIPEAXAEAPEAVCmBufferUP@@@Z
+          9    8 00001DB0 ?CreateHevcVmeSurfaceG10@CmDevice_RT@@UEAAHPEAVCmSurface2D@@PEAPEAV2@1IIAEAPEAVSurfaceIndex@@@Z
+         10    9 00001E40 ?CreateKernel@CmDevice_RT@@UEAAHPEAVCmProgram@@PEBDAEAPEAVCmKernel@@1@Z
+         11    A 00001EC0 ?CreateKernel@CmDevice_RT@@UEAAHPEAVCmProgram@@PEBDPEBXAEAPEAVCmKernel@@1@Z
+         12    B 00001ED0 ?CreateQueue@CmDevice_RT@@UEAAHAEAPEAVCmQueue@@@Z
+         13    C 00001F40 ?CreateQueueEx@CmDevice_RT@@UEAAHAEAPEAVCmQueue@@UCM_QUEUE_CREATE_OPTION@@@Z
+         14    D 00002090 ?CreateSampler8x8@CmDevice_RT@@UEAAHAEBUCM_SAMPLER_8X8_DESCR@@AEAPEAVCmSampler8x8@@@Z
+         15    E 00002150 ?CreateSampler8x8Surface@CmDevice_RT@@UEAAHPEAVCmSurface2D@@AEAPEAVSurfaceIndex@@W4_CM_SAMPLER8x8_SURFACE_@@W4_CM_SURFACE_ADDRESS_CONTROL_MODE_@@@Z
+         16    F 000021C0 ?CreateSampler8x8SurfaceEx@CmDevice_RT@@UEAAHPEAVCmSurface2D@@AEAPEAVSurfaceIndex@@W4_CM_SAMPLER8x8_SURFACE_@@W4_CM_SURFACE_ADDRESS_CONTROL_MODE_@@PEAUCM_FLAG@@@Z
+         17   10 00002240 ?CreateSampler@CmDevice_RT@@UEAAHAEBU_CM_SAMPLER_STATE@@AEAPEAVCmSampler@@@Z
+         18   11 000022D0 ?CreateSamplerEx@CmDevice_RT@@UEAAHAEBU_CM_SAMPLER_STATE_EX@@AEAPEAVCmSampler@@@Z
+         19   12 00002360 ?CreateSamplerSurface2D@CmDevice_RT@@UEAAHPEAVCmSurface2D@@AEAPEAVSurfaceIndex@@@Z
+         20   13 000023C0 ?CreateSamplerSurface2DEx@CmDevice_RT@@UEAAHPEAVCmSurface2D@@AEAPEAVSurfaceIndex@@PEAUCM_FLAG@@@Z
+         21   14 00002430 ?CreateSamplerSurface2DUP@CmDevice_RT@@UEAAHPEAVCmSurface2DUP@@AEAPEAVSurfaceIndex@@@Z
+         22   15 00002490 ?CreateSamplerSurface3D@CmDevice_RT@@UEAAHPEAVCmSurface3D@@AEAPEAVSurfaceIndex@@@Z
+         23   16 000024F0 ?CreateSurface2D@CmDevice_RT@@UEAAHIIW4_D3DFORMAT@@AEAPEAVCmSurface2D@@@Z
+         24   17 000052B0 ?CreateSurface2D@CmDevice_RT@@UEAAHPEAPEAUIDirect3DSurface9@@IPEAPEAVCmSurface2D@@@Z
+         25   18 000052C0 ?CreateSurface2D@CmDevice_RT@@UEAAHPEAUIDirect3DSurface9@@AEAPEAVCmSurface2D@@@Z
+         26   19 00002500 ?CreateSurface2DAlias@CmDevice_RT@@UEAAHPEAVCmSurface2D@@AEAPEAVSurfaceIndex@@@Z
+         27   1A 00002560 ?CreateSurface2DStateless@CmDevice_RT@@UEAAHIIAEAIAEAPEAVCmSurface2DStateless@@@Z
+         28   1B 00002570 ?CreateSurface2DUP@CmDevice_RT@@UEAAHIIW4_D3DFORMAT@@PEAXAEAPEAVCmSurface2DUP@@@Z
+         29   1C 00002580 ?CreateSurface3D@CmDevice_RT@@UEAAHIIIW4_D3DFORMAT@@AEAPEAVCmSurface3D@@@Z
+         30   1D 00002590 ?CreateTask@CmDevice_RT@@UEAAHAEAPEAVCmTask@@@Z
+         31   1E 00002600 ?CreateThreadGroupSpace@CmDevice_RT@@UEAAHIIIIAEAPEAVCmThreadGroupSpace@@@Z
+         32   1F 00002680 ?CreateThreadGroupSpaceEx@CmDevice_RT@@UEAAHIIIIIIAEAPEAVCmThreadGroupSpace@@@Z
+         33   20 00002700 ?CreateThreadSpace@CmDevice_RT@@UEAAHIIAEAPEAVCmThreadSpace@@@Z
+         34   21 00002760 ?CreateVebox@CmDevice_RT@@UEAAHAEAPEAVCmVebox@@@Z
+         35   22 000027B0 ?CreateVmeSurfaceG7_5@CmDevice_RT@@UEAAHPEAVCmSurface2D@@PEAPEAV2@1IIAEAPEAVSurfaceIndex@@@Z
+         36   23 00002840 ?DestroyBufferSVM@CmDevice_RT@@UEAAHAEAPEAVCmBufferSVM@@@Z
+         37   24 00002850 ?DestroyBufferStateless@CmDevice_RT@@UEAAHAEAPEAVCmBufferStateless@@@Z
+         38   25 00002860 ?DestroyBufferUP@CmDevice_RT@@UEAAHAEAPEAVCmBufferUP@@@Z
+         39   26 00003970 ?DestroyEvent@CmQueue_RT@@UEAAHAEAPEAVCmEvent@@@Z
+         40   27 000039E0 ?DestroyEventFast@CmQueue_RT@@UEAAHAEAPEAVCmEvent@@@Z
+         41   28 00002870 ?DestroyHevcVmeSurfaceG10@CmDevice_RT@@UEAAHAEAPEAVSurfaceIndex@@@Z
+         42   29 000028D0 ?DestroyKernel@CmDevice_RT@@UEAAHAEAPEAVCmKernel@@@Z
+         43   2A 00002930 ?DestroyProgram@CmDevice_RT@@UEAAHAEAPEAVCmProgram@@@Z
+         44   2B 000029A0 ?DestroySampler8x8@CmDevice_RT@@UEAAHAEAPEAVCmSampler8x8@@@Z
+         45   2C 00002A00 ?DestroySampler8x8Surface@CmDevice_RT@@UEAAHAEAPEAVSurfaceIndex@@@Z
+         46   2D 00002A60 ?DestroySampler@CmDevice_RT@@UEAAHAEAPEAVCmSampler@@@Z
+         47   2E 00002AC0 ?DestroySamplerSurface@CmDevice_RT@@UEAAHAEAPEAVSurfaceIndex@@@Z
+         48   2F 00002560 ?DestroySurface2DStateless@CmDevice_RT@@UEAAHAEAPEAVCmSurface2DStateless@@@Z
+         49   30 00002B00 ?DestroySurface2DUP@CmDevice_RT@@UEAAHAEAPEAVCmSurface2DUP@@@Z
+         50   31 00002B10 ?DestroySurface@CmDevice_RT@@UEAAHAEAPEAVCmBuffer@@@Z
+         51   32 00002B20 ?DestroySurface@CmDevice_RT@@UEAAHAEAPEAVCmSurface2D@@@Z
+         52   33 00002B30 ?DestroySurface@CmDevice_RT@@UEAAHAEAPEAVCmSurface3D@@@Z
+         53   34 00002B40 ?DestroyTask@CmDevice_RT@@UEAAHAEAPEAVCmTask@@@Z
+         54   35 00002BC0 ?DestroyThreadGroupSpace@CmDevice_RT@@UEAAHAEAPEAVCmThreadGroupSpace@@@Z
+         55   36 00002C20 ?DestroyThreadSpace@CmDevice_RT@@UEAAHAEAPEAVCmThreadSpace@@@Z
+         56   37 00002C80 ?DestroyVebox@CmDevice_RT@@UEAAHAEAPEAVCmVebox@@@Z
+         57   38 00002870 ?DestroyVmeSurfaceG7_5@CmDevice_RT@@UEAAHAEAPEAVSurfaceIndex@@@Z
+         58   39 00002CE0 ?DispatchTask@CmDevice_RT@@UEAAHXZ
+         59   3A 00003A50 ?Enqueue@CmQueue_RT@@UEAAHPEAVCmTask@@AEAPEAVCmEvent@@PEBVCmThreadSpace@@@Z
+         60   3B 00003C20 ?EnqueueCopyCPUToCPU@CmQueue_RT@@UEAAHPEAE0IIAEAPEAVCmEvent@@@Z
+         61   3C 00003D00 ?EnqueueCopyCPUToGPU@CmQueue_RT@@UEAAHPEAVCmSurface2D@@PEBEAEAPEAVCmEvent@@@Z
+         62   3D 00003D30 ?EnqueueCopyCPUToGPUFullStride@CmQueue_RT@@UEAAHPEAVCmSurface2D@@PEBEIIIAEAPEAVCmEvent@@@Z
+         63   3E 00003D30 ?EnqueueCopyCPUToGPUFullStrideDup@CmQueue_RT@@UEAAHPEAVCmSurface2D@@PEBEIIIAEAPEAVCmEvent@@@Z
+         64   3F 00003D70 ?EnqueueCopyGPUToCPU@CmQueue_RT@@UEAAHPEAVCmSurface2D@@PEAEAEAPEAVCmEvent@@@Z
+         65   40 00003DA0 ?EnqueueCopyGPUToCPUFullStride@CmQueue_RT@@UEAAHPEAVCmSurface2D@@PEAEIIIAEAPEAVCmEvent@@@Z
+         66   41 00003DA0 ?EnqueueCopyGPUToCPUFullStrideDup@CmQueue_RT@@UEAAHPEAVCmSurface2D@@PEAEIIIAEAPEAVCmEvent@@@Z
+         67   42 00003DE0 ?EnqueueCopyGPUToGPU@CmQueue_RT@@UEAAHPEAVCmSurface2D@@0IAEAPEAVCmEvent@@@Z
+         68   43 00003EA0 ?EnqueueFast@CmQueue_RT@@UEAAHPEAVCmTask@@AEAPEAVCmEvent@@PEBVCmThreadSpace@@@Z
+         69   44 00003F80 ?EnqueueInitSurface2D@CmQueue_RT@@UEAAHPEAVCmSurface2D@@IAEAPEAVCmEvent@@@Z
+         70   45 00004040 ?EnqueueVebox@CmQueue_RT@@UEAAHPEAVCmVebox@@AEAPEAVCmEvent@@@Z
+         71   46 00004100 ?EnqueueWithGroup@CmQueue_RT@@UEAAHPEAVCmTask@@AEAPEAVCmEvent@@PEBVCmThreadGroupSpace@@@Z
+         72   47 000041E0 ?EnqueueWithGroupFast@CmQueue_RT@@UEAAHPEAVCmTask@@AEAPEAVCmEvent@@PEBVCmThreadGroupSpace@@@Z
+         73   48 000042C0 ?EnqueueWithHints@CmQueue_RT@@UEAAHPEAVCmTask@@AEAPEAVCmEvent@@I@Z
+         74   49 00002CF0 ?FlushPrintBuffer@CmDevice_RT@@UEAAHXZ
+         75   4A 00002D30 ?FlushPrintBufferIntoFile@CmDevice_RT@@UEAAHPEBD@Z
+         76   4B 00002D70 ?GetCaps@CmDevice_RT@@UEAAHW4_CM_DEVICE_CAP_NAME@@AEA_KPEAX@Z
+         77   4C 00005500 ?GetD3DDeviceManager@CmDevice_RT@@UEAAHAEAPEAUIDirect3DDeviceManager9@@@Z
+         78   4D 00002DC0 ?GetSurface2DInfo@CmDevice_RT@@UEAAHIIW4_D3DFORMAT@@AEAI1@Z
+         79   4E 00002E50 ?GetVISAVersion@CmDevice_RT@@UEAAHAEAI0@Z
+         80   4F 00002ED0 ?InitPrintBuffer@CmDevice_RT@@UEAAH_K@Z
+         81   50 00002F10 ?LoadProgram@CmDevice_RT@@UEAAHPEAXIAEAPEAVCmProgram@@PEBD@Z
+         82   51 00002FA0 ?SetCaps@CmDevice_RT@@UEAAHW4_CM_DEVICE_CAP_NAME@@_KPEAX@Z
+         83   52 00003000 ?SetL3Config@CmDevice_RT@@UEAAHPEBUL3ConfigRegisterValues@@@Z
+         84   53 00002560 ?SetResidentGroupAndParallelThreadNum@CmQueue_RT@@QEAAHII@Z
+         85   54 00003050 ?SetSuggestedL3Config@CmDevice_RT@@UEAAHW4_L3_SUGGEST_CONFIG@@@Z
+         86   55 00003090 ?SetVmeSurfaceStateParam@CmDevice_RT@@UEAAHPEAVSurfaceIndex@@PEAUCM_VME_SURFACE_STATE_PARAM@@@Z
+         87   56 000012D0 CMRT_CreateBuffer
+         88   57 000012F0 CMRT_CreateKernel
+         89   58 00001330 CMRT_CreateQueue
+         90   59 00001350 CMRT_CreateSurface2D
+         91   5A 00001390 CMRT_CreateSurface3D
+         92   5B 000013D0 CMRT_CreateTask
+         93   5C 000013F0 CMRT_CreateThreadSpace
+         94   5D 00001420 CMRT_DestroyBuffer
+         95   5E 000012D0 CMRT_DestroyEvent
+         96   5F 00001440 CMRT_DestroyProgram
+         97   60 00001460 CMRT_DestroySurface2D
+         98   61 00001480 CMRT_DestroySurface3D
+         99   62 000014A0 CMRT_DestroyTask
+        100   63 000014C0 CMRT_DestroyThreadSpace
+        101   64 00006750 CMRT_EnableGTPinMarkers
+        102   65 00003160 CMRT_Enqueue
+        103   66 000061B0 CMRT_GetCompleteTime
+        104   67 000061E0 CMRT_GetEnqueueTime
+        105   68 00006210 CMRT_GetHWEndTime
+        106   69 00006240 CMRT_GetHWStartTime
+        107   6A 00006270 CMRT_GetKernelCount
+        108   6B 000062B0 CMRT_GetKernelName
+        109   6C 000062E0 CMRT_GetKernelThreadSpace
+        110   6D 00006370 CMRT_GetSubmitTime
+        111   6E 00006760 CMRT_GetSurfaceDetails
+        112   6F 000014E0 CMRT_LoadProgram
+        113   70 00006780 CMRT_PrepareGTPinBuffers
+        114   71 000063A0 CMRT_SetEventCallback
+        115   72 00006870 CMRT_SetGTPinArguments
+        116   73 000068F0 CMRT_SetGTPinCompileMode
+        117   74 00006900 CmrtCodeMarkerForGTPin_AddKernel
+        118   75 00006920 CmrtCodeMarkerForGTPin_CreateQueue
+        119   76 00006940 CmrtCodeMarkerForGTPin_CreateTask
+        120   77 00006960 CmrtCodeMarkerForGTPin_DestroyTask
+        121   78 00006980 CmrtCodeMarkerForGTPin_Enqueue
+        122   79 000069B0 CmrtCodeMarkerForGTPin_EnqueueWithGroup
+        123   7A 000069E0 CmrtCodeMarkerForGTPin_SetThreadCount
+        124   7B 000063D0 CreateCmDevice
+        125   7C 00006450 CreateCmDeviceEx
+        126   7D 00003180 DestroyCmDevice
+        127   7E 00001520 GetCmErrorString
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1B000 .text
+        1000 _RDATA

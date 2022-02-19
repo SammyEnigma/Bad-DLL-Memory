@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\wsdscdrv.inf_amd64_416a5877e9180787\WSDScDrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for WSDSCANDRIVER.dll
+
+    00000000 characteristics
+    A8882083 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000063E0 DllCanUnloadNow
+          2    1 00020870 DllGetClassObject
+          3    2 00020670 DllMain
+          4    3 000063E0 DllRegisterServer
+          5    4 000063E0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+       18000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2B000 .text

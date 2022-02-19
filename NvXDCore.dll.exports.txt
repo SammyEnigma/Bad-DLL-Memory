@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\Display.NvContainer\plugins\LocalSystem\NvXDCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for NvXDCore.dll
+
+    00000000 characteristics
+    5FD40613 time date stamp Sat Dec 12 00:51:47 2020
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00058CF0 NvPluginGetInfo
+
+  Summary
+
+       4B000 .data
+        1000 .didat
+        E000 .pdata
+       76000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      11A000 .text
+        1000 .tls

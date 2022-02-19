@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\ndfhcdiscovery.dll
+
+File Type: DLL
+
+  Section contains the following exports for ndfhcdiscovery.DLL
+
+    00000000 characteristics
+    B246FABE time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00010490 DllCanUnloadNow
+          2    1 000104D0 DllGetClassObject
+          3    2 00010610 DllRegisterServer
+          4    3 00010750 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       13000 .text

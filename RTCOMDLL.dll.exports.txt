@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\RTCOMDLL.dll
+
+File Type: DLL
+
+  Section contains the following exports for RTCOMDLL.DLL
+
+    00000000 characteristics
+    598AD085 time date stamp Wed Aug  9 11:06:13 2017
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00035A00 DllCanUnloadNow
+          2    1 00035A60 DllGetClassObject
+          3    2 00035A80 DllRegisterServer
+          4    3 00035AA0 DllUnregisterServer
+
+  Summary
+
+        D000 .data
+       1D000 .rdata
+        C000 .reloc
+       81000 .rsrc
+       71000 .text

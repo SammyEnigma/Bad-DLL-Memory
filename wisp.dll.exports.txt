@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wisp.dll
+
+File Type: DLL
+
+  Section contains the following exports for Wisp.DLL
+
+    00000000 characteristics
+    E5403EBC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00024B20 DllCanUnloadNow
+          2    1 00024B60 DllGetClassObject
+          3    2 00024B80 DllRegisterServer
+          4    3 00024B80 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+        D000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       29000 .text

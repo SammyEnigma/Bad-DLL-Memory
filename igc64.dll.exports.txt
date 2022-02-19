@@ -1,0 +1,53 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\igc64.dll
+
+File Type: DLL
+
+  Section contains the following exports for igc64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          27 number of functions
+          27 number of names
+
+    ordinal hint RVA      name
+
+          4    0 0006D1A0 CIFCreateMain
+          5    1 00065A60 Create
+          6    2 00065BE0 Delete
+          7    3 000AFA70 GTPIN_IGC_OCL_CompilerReservedRegs
+          8    4 000AFA90 GTPIN_IGC_OCL_FillAllKernelsInfo
+          9    5 000AFAB0 GTPIN_IGC_OCL_GetCommandLine
+         10    6 000AFAD0 GTPIN_IGC_OCL_GetEnqueueInstanceKernelArgNo
+         11    7 000AFAF0 GTPIN_IGC_OCL_GetGenIsaFromPlatform
+         12    8 000AFB60 GTPIN_IGC_OCL_GetInvokeStruct
+         13    9 0006CEC0 GTPIN_IGC_OCL_GetSupportedFeatures
+         14    A 000AFB80 GTPIN_IGC_OCL_GetSurfaceBTI
+         15    B 000AFBA0 GTPIN_IGC_OCL_GetSurfaceKernelArgNo
+         16    C 000AFBC0 GTPIN_IGC_OCL_Instrument
+         17    D 000AFCD0 GTPIN_IGC_OCL_IsEnabled
+         18    E 000AFCE0 GTPIN_IGC_OCL_NumberOfSurfaces
+         19    F 000AFD00 GTPIN_IGC_OCL_SetEnabled
+         20   10 000AFD10 GTPIN_IGC_OCL_UpdateKernelInfo
+         21   11 004332D0 JITCompile
+         22   12 00433350 JITCompile_v2
+          1   13 00A4D440 OpenCompiler10
+          2   14 00A4D5B0 OpenCompiler12
+          3   15 00AF6560 OpenCompiler9
+         23   16 00B388F0 OpenOGLCompiler
+         24   17 00B48C70 OpenVulkanCompiler
+         25   18 00065C00 Register
+         26   19 00433370 freeBlock
+         27   1A 00433380 getJITVersion
+
+  Summary
+
+       70000 .data
+       7E000 .pdata
+      51E000 .rdata
+       23000 .reloc
+     10DF000 .rsrc
+      CEC000 .text
+        1000 _RDATA

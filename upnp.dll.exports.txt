@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\upnp.dll
+
+File Type: DLL
+
+  Section contains the following exports for UPnP.DLL
+
+    00000000 characteristics
+    F23F1184 time date stamp
+        0.00 version
+           5 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          6    0 000048A0 DllCanUnloadNow
+          7    1 000041E0 DllGetClassObject
+          8    2 000155D0 DllRegisterServer
+          9    3 00015670 DllUnregisterServer
+          5    4 00017BA0 HrRehydratorCreateServiceObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       1E000 .rdata
+        2000 .reloc
+        7000 .rsrc
+       43000 .text

@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\hnetcfg.dll
+
+File Type: DLL
+
+  Section contains the following exports for HNetCfg.dll
+
+    00000000 characteristics
+    317E68EF time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+          4    0 0000B180 DllCanUnloadNow
+          5    1 0000B1C0 DllGetClassObject
+          6    2 00001340 DllRegisterServer
+          7    3 00001340 DllUnregisterServer
+          1    4 0000C570 HNetDeleteRasConnection
+          2    5 00027CD0 HNetFreeSharingServicesPage
+          8    6 00026B40 HNetGetFirewallSettingsPage
+          3    7 00027E10 HNetGetSharingServicesPage
+          9    8 0002C280 HNetSharedAccessSettingsDlg
+         10    9 0002C420 HNetSharingAndFirewallSettingsDlg
+         11    A 00020360 RegisterClassObjects
+         12    B 000204D0 ReleaseSingletons
+         13    C 000205A0 RevokeClassObjects
+         14    D 0000C900 WinBomConfigureWindowsFirewall
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       1C000 .rdata
+        2000 .reloc
+        8000 .rsrc
+       3A000 .text

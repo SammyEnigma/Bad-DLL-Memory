@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\fde.dll
+
+File Type: DLL
+
+  Section contains the following exports for FDE.DLL
+
+    00000000 characteristics
+    A6B01F9B time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00008430 DllCanUnloadNow
+          6    1 00008490 DllGetClassObject
+          1      00013840 [NONAME]
+          2      000138C0 [NONAME]
+          3      00013BC0 [NONAME]
+          4      00013CB0 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        E000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       17000 .text

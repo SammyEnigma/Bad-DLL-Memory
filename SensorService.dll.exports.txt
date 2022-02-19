@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SensorService.dll
+
+File Type: DLL
+
+  Section contains the following exports for SensorService.dll
+
+    00000000 characteristics
+    6F8E42FE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00005D30 DllCanUnloadNow
+          1    1 00005D80 ServiceMain
+          2    2 000059A0 SvchostPushServiceGlobalsEx
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        4000 .pdata
+       12000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5B000 .text

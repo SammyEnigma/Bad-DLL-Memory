@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\wbem\wmiutils.dll
+
+File Type: DLL
+
+  Section contains the following exports for wmiutils.dll
+
+    00000000 characteristics
+    1BE246BA time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00009060 DllCanUnloadNow
+          2    1 00002640 DllGetClassObject
+          3    2 00010540 DllRegisterServer
+          4    3 000105B0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

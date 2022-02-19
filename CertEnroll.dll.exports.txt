@@ -1,0 +1,70 @@
+
+Dump of file C:\Windows\System32\CertEnroll.dll
+
+File Type: DLL
+
+  Section contains the following exports for certenroll.dll
+
+    00000000 characteristics
+    8295D831 time date stamp
+        0.00 version
+          15 ordinal base
+          44 number of functions
+          21 number of names
+
+    ordinal hint RVA      name
+
+         50    0 00073D00 CreateLogonCertificateRequest
+         52    1 00073D60 DeleteLogonCertificateRequest
+         17    2 00002CC0 DllCanUnloadNow
+         54    3 00004210 DllGetActivationFactory
+         55    4 00073DB0 DllGetClassObject
+         56    5 0000A260 DllMain
+         57    6 00073E30 DllRegisterServer
+         58    7 00073EA0 DllUnregisterServer
+         45    8 0008FF60 ImportPFXToProvider
+         46    9 00090220 ImportPFXToProviderFreeData
+         51    A 00073EC0 InstallLogonCertificateResponse
+         49    B 00073F20 IsLogonCertificateTemplateAvailable
+         34    C 00090290 LogCertArchive
+         40    D 000902F0 LogCertCopy
+         33    E 000903B0 LogCertDelete
+         35    F 00090410 LogCertExpire
+         42   10 00090480 LogCertExport
+         41   11 000904E0 LogCertImport
+         39   12 00090540 LogCertInstall
+         32   13 000907E0 LogCertReplace
+         53   14 00074100 UpdateMachinePolicyConfigurationForTemplate
+         15      000F6710 [NONAME]
+         16      000F6600 [NONAME]
+         18      000F6160 [NONAME]
+         19      000F6290 [NONAME]
+         20      00073AA0 [NONAME]
+         21      00073EB0 [NONAME]
+         22      00073A90 [NONAME]
+         23      00074030 [NONAME]
+         24      00074040 [NONAME]
+         25      00074000 [NONAME]
+         26      00073FD0 [NONAME]
+         27      0008FF50 [NONAME]
+         28      0018CEE0 [NONAME]
+         29      000F63A0 [NONAME]
+         30      000FE860 [NONAME]
+         31      0018CD60 [NONAME]
+         36      000F6820 [NONAME]
+         37      0010FDD0 [NONAME]
+         38      0010FEC0 [NONAME]
+         43      000C4710 [NONAME]
+         44      000C5D70 [NONAME]
+         47      0013D120 [NONAME]
+         48      0013CFF0 [NONAME]
+
+  Summary
+
+        9000 .data
+        1000 .didat
+       17000 .pdata
+       F2000 .rdata
+        B000 .reloc
+       38000 .rsrc
+      1E3000 .text

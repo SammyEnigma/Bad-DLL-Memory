@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_BrowserDeclutter.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_BrowserDeclutter.dll
+
+    00000000 characteristics
+    BE892833 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000063E0 DllCanUnloadNow
+          2    1 00006350 DllGetActivationFactory
+          3    2 00006390 DllGetClassObject
+          4    3 00006460 GetSetting
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1A000 .text

@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvEncMFThevcx.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvEncMFThevcx.dll
+
+    00000000 characteristics
+    5FD3FE3F time date stamp Sat Dec 12 00:18:23 2020
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006CE4 DllCanUnloadNow
+          2    1 00001064 DllGetClassObject
+          3    2 00003A99 DllRegisterServer
+          4    3 00001FDC DllUnregisterServer
+
+  Summary
+
+        1000 .00cfg
+        7000 .data
+        3000 .idata
+        E000 .pdata
+       42000 .rdata
+        3000 .reloc
+        1000 .rsrc
+      106000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\nettraceex.dll
+
+File Type: DLL
+
+  Section contains the following exports for NETTRACEEX.DLL
+
+    00000000 characteristics
+    A5E5F1A0 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001420 TraceExGenerateDump
+          2    1 00001450 TraceExGenerateMiniReport
+          3    2 00001360 TraceExGenerateReport
+          4    3 00001470 TraceExRunDiagnostic
+
+  Summary
+
+       25000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        B000 .text

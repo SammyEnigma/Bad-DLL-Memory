@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\mfksproxy.dll
+
+File Type: DLL
+
+  Section contains the following exports for Source.dll
+
+    00000000 characteristics
+    24A21375 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012C60 DllCanUnloadNow
+          2    1 00012C90 DllGetClassObject
+          3    2 00012CB0 DllRegisterServer
+          4    3 00012E50 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

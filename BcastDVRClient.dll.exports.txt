@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\BcastDVRClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for BcastDVRClient.dll
+
+    00000000 characteristics
+    A70389E1 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005970 DllCanUnloadNow
+          2    1 000056A0 DllGetActivationFactory
+          3    2 00005880 DllGetClassObject
+
+  Summary
+
+        6000 .data
+        4000 .pdata
+       25000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       49000 .text

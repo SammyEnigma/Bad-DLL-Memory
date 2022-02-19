@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\ActivationVdev.dll
+
+File Type: DLL
+
+  Section contains the following exports for ActivationVdev.dll
+
+    00000000 characteristics
+    A04C80EA time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006F30 DllCanUnloadNow
+          2    1 00006F50 DllGetClassObject
+          3    2 00007010 DllRegisterServer
+          4    3 00007050 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4D000 .text
+        1000 ?g_Encry

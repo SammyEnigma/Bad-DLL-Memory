@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\OmaDmAgent.dll
+
+File Type: DLL
+
+  Section contains the following exports for omadmagent.dll
+
+    00000000 characteristics
+    E9463C5C time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000046D0 OmaDmRunPostSessionWork
+          2    1 000059F0 ResourceManagerUninstallWmiApp
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       27000 .text

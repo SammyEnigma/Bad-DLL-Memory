@@ -1,0 +1,44 @@
+
+Dump of file C:\Windows\System32\ztrace_maps.dll
+
+File Type: DLL
+
+  Section contains the following exports for ZTrace_Maps.dll
+
+    00000000 characteristics
+    A8815298 time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002430 ZTraceClose
+          2    1 000024B0 ZTraceEnabledHelper
+          3    2 000027A0 ZTraceHelper
+          4    3 000027E0 ZTraceHelperNoThis
+          5    4 00002760 ZTraceHelperV
+          6    5 00002980 ZTraceHelperVC
+          7    6 000023F0 ZTraceInit
+          8    7 00002820 ZTraceReportIgnore
+          9    8 00002A10 ZTraceReportIgnoreC
+         10    9 00002850 ZTraceReportIgnoreNoThis
+         11    A 00002900 ZTraceReportOrigination
+         12    B 00002990 ZTraceReportOriginationC
+         13    C 00002940 ZTraceReportOriginationNoThis
+         14    D 00002880 ZTraceReportPropagation
+         15    E 000029D0 ZTraceReportPropagationC
+         16    F 000028C0 ZTraceReportPropagationNoThis
+         17   10 00002030 ZTraceTestCopyTrace
+         18   11 00002030 ZTraceTestForceClose
+         19   12 00002410 ZTraceTestInit
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        3000 .text

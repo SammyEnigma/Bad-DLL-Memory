@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\msiwer.dll
+
+File Type: DLL
+
+  Section contains the following exports for msiwer.dll
+
+    00000000 characteristics
+    694C7E52 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001280 OutOfProcessExceptionEventCallback
+          2    1 000016D0 OutOfProcessExceptionEventDebuggerLaunchCallback
+          3    2 000013F0 OutOfProcessExceptionEventSignatureCallback
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

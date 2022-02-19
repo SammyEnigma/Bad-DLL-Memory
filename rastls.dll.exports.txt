@@ -1,0 +1,49 @@
+
+Dump of file C:\Windows\System32\rastls.dll
+
+File Type: DLL
+
+  Section contains the following exports for rastls.dll
+
+    00000000 characteristics
+    246833EA time date stamp
+        0.00 version
+           1 ordinal base
+          23 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+          5    0 00009E30 EapTls_SaveUserCredentials
+          6    1 00028240 RasEapCreateConnectionProperties
+          1    2 00028350 RasEapCreateConnectionProperties2
+          2    3 00027AE0 RasEapCreateConnectionPropertiesXml
+          3    4 00028150 RasEapCreateMethodConfiguration
+          7    5 00022F60 RasEapCreateUserProperties
+          4    6 00023090 RasEapCreateUserProperties2
+          8    7 0001C620 RasEapFreeMemory
+          9    8 0001C240 RasEapGetConfigBlobAndUserBlob
+         10    9 0000C600 RasEapGetCredentials
+         11    A 0001C4A0 RasEapGetIdentity
+         12    B 0001BB50 RasEapGetIdentityPageGuid
+         13    C 000034E0 RasEapGetInfo
+         14    D 0001AAD0 RasEapGetMethodProperties
+         15    E 0001BAD0 RasEapGetNextPageGuid
+         16    F 0001C770 RasEapInvokeConfigUI
+         17   10 0001CAC0 RasEapInvokeInteractiveUI
+         18   11 000194B0 RasEapQueryCredentialInputFields
+         19   12 000196E0 RasEapQueryInteractiveUIInputFields
+         20   13 00019740 RasEapQueryUIBlobFromInteractiveUIInputFields
+         21   14 00019520 RasEapQueryUserBlobFromCredentialInputFields
+         22   15 0000C660 RasEapSetRetryFlag
+         23   16 0001C640 RasEapUpdateServerConfig
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4E000 .text

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\InternetMailCsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for InternetMailCsp.dll
+
+    00000000 characteristics
+    9D694016 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003C60 DllCanUnloadNow
+          2    1 00003CA0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

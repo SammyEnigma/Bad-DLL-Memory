@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\mssrch.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSSRCH.DLL
+
+    00000000 characteristics
+    380BB114 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00123670 ??0CSearchServiceObj@@QEAA@AEBV0@@Z
+          2    1 000B8340 ??0CSearchServiceObj@@QEAA@XZ
+          3    2 0008EAE0 ??1CSearchServiceObj@@QEAA@XZ
+          4    3 001248C0 ??4CSearchServiceObj@@QEAAAEAV0@AEBV0@@Z
+          5    4 001F2A30 ??_7CSearchServiceObj@@6B@
+          6    5 00083540 ?Cleanup@CSearchServiceObj@@SAXXZ
+          7    6 0000D450 ?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ
+          8    7 00131170 ?HandleDplKeyChange@CSearchServiceObj@@UEAAJXZ
+          9    8 000B12F0 ?Initialize@CSearchServiceObj@@UEAAJ_NKPEBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z
+         10    9 000C6D80 ?LogoffNotification@CSearchServiceObj@@UEAAJK@Z
+         11    A 000C5FB0 ?LogonNotification@CSearchServiceObj@@UEAAJK@Z
+         12    B 000B4280 ?PostServiceStartup@CSearchServiceObj@@UEAAJXZ
+         13    C 000C5550 ?SetServiceStatusObj@CSearchServiceObj@@UEAAJPEAUIDCOMServiceStatus@@@Z
+         14    D 00085AC0 ?Shutdown@CSearchServiceObj@@UEAAJXZ
+         15    E 000AB280 ?Start@CSearchServiceObj@@UEAAJXZ
+         16    F 00085B40 ?Stop@CSearchServiceObj@@UEAAJH@Z
+         17   10 00074E20 DllCanUnloadNow
+         18   11 00078AF0 DllGetClassObject
+         19   12 0012FA00 DllRegisterServer
+         20   13 0012FA70 DllUnregisterServer
+         21   14 0012FA80 GetCatalogManager
+         22   15 001347C0 MSSrch_SysPrep_Cleanup
+
+  Summary
+
+        7000 .data
+        1000 .didat
+       1E000 .pdata
+       BE000 .rdata
+        5000 .reloc
+        E000 .rsrc
+      1E8000 .text

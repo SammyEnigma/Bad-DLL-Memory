@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\usermgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for usermgr.dll
+
+    00000000 characteristics
+    AE717743 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00028A40 ServiceMain
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        B000 .pdata
+       8D000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       CD000 .text

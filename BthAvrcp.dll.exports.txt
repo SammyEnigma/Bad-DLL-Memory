@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\BthAvrcp.dll
+
+File Type: DLL
+
+  Section contains the following exports for BthAvrcp.dll
+
+    00000000 characteristics
+    347B1A19 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008300 DllCanUnloadNow
+          2    1 00008350 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        4000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       41000 .text
+        1000 PAGE

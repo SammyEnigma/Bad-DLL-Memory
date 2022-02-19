@@ -1,0 +1,144 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_518f2921ba495409\ocl\bin\x86\intelocl32.dll
+
+File Type: DLL
+
+  Section contains the following exports for intelocl32.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+         118 number of functions
+         118 number of names
+
+    ordinal hint RVA      name
+
+          2    0 000093E0 IsCPUSupported
+          3    1 00009400 IsFeatureSupported
+          4    2 000A5FE0 RegisterGlobalAtExitNotification
+          5    3 00009430 clBuildProgram
+          6    4 00009B00 clCloneKernel
+          7    5 0000A0D0 clCompileProgram
+          8    6 0000A8A0 clCreateBuffer
+          9    7 0000AFD0 clCreateCommandQueue
+         10    8 0000B690 clCreateCommandQueueWithProperties
+         11    9 0000BE40 clCreateContext
+         12    A 0000C5B0 clCreateContextFromType
+         15    B 0000DE30 clCreateImage
+         13    C 0000CCE0 clCreateImage2D
+         14    D 0000D530 clCreateImage3D
+         16    E 0000E5C0 clCreateKernel
+         17    F 0000EC10 clCreateKernelsInProgram
+         18   10 0000F330 clCreatePipe
+         19   11 0000FA90 clCreatePipeINTEL
+         20   12 00010300 clCreateProgramWithBinary
+         21   13 00010BC0 clCreateProgramWithBuiltInKernels
+         22   14 000112D0 clCreateProgramWithIL
+         23   15 00011950 clCreateProgramWithSource
+         24   16 00012060 clCreateSampler
+         25   17 00012780 clCreateSamplerWithProperties
+         26   18 00012DD0 clCreateSubBuffer
+         27   19 00013500 clCreateSubDevices
+         28   1A 00013C70 clCreateUserEvent
+         29   1B 00014250 clEnqueueBarrier
+         30   1C 00014780 clEnqueueBarrierWithWaitList
+         31   1D 00014DE0 clEnqueueCopyBuffer
+         32   1E 00015610 clEnqueueCopyBufferRect
+         33   1F 000160B0 clEnqueueCopyBufferToImage
+         34   20 00016A00 clEnqueueCopyImage
+         35   21 000173D0 clEnqueueCopyImageToBuffer
+         36   22 00017D10 clEnqueueFillBuffer
+         37   23 00018540 clEnqueueFillImage
+         38   24 00018D20 clEnqueueMapBuffer
+         39   25 000196A0 clEnqueueMapImage
+         40   26 0001A1C0 clEnqueueMarker
+         41   27 0001A7D0 clEnqueueMarkerWithWaitList
+         42   28 0001AE30 clEnqueueMigrateMemObjects
+         43   29 0001B590 clEnqueueNDRangeKernel
+         44   2A 0001BDF0 clEnqueueNativeKernel
+         45   2B 0001C6A0 clEnqueueReadBuffer
+         46   2C 0001CED0 clEnqueueReadBufferRect
+         47   2D 0001D850 clEnqueueReadImage
+         48   2E 0001E220 clEnqueueSVMFree
+         49   2F 0001E9E0 clEnqueueSVMMap
+         50   30 0001F180 clEnqueueSVMMemFill
+         51   31 0001F930 clEnqueueSVMMemcpy
+         52   32 000200E0 clEnqueueSVMMigrateMem
+         53   33 00020860 clEnqueueSVMUnmap
+         54   34 00020F20 clEnqueueTask
+         55   35 00021620 clEnqueueUnmapMemObject
+         56   36 00021D90 clEnqueueWaitForEvents
+         57   37 00022360 clEnqueueWriteBuffer
+         58   38 00022B90 clEnqueueWriteBufferRect
+         59   39 00023680 clEnqueueWriteImage
+         60   3A 00024050 clFinish
+         61   3B 00024580 clFlush
+         62   3C 00024AB0 clGetCommandQueueInfo
+         63   3D 00025190 clGetContextInfo
+         64   3E 00025870 clGetDeviceAndHostTimer
+         65   3F 00025EB0 clGetDeviceIDs
+         66   40 00026640 clGetDeviceInfo
+         67   41 00026D30 clGetEventInfo
+         68   42 00027410 clGetEventProfilingInfo
+         69   43 00027AF0 clGetExtensionFunctionAddress
+         70   44 00027C10 clGetExtensionFunctionAddressForPlatform
+         71   45 00027DA0 clGetHostTimer
+         72   46 00028350 clGetImageInfo
+         73   47 00028A40 clGetKernelArgInfo
+         74   48 00029170 clGetKernelInfo
+         75   49 00029850 clGetKernelSubGroupInfo
+         76   4A 00029FB0 clGetKernelWorkGroupInfo
+         77   4B 0002A6F0 clGetMemObjectInfo
+         78   4C 0002ADE0 clGetPipeInfo
+         79   4D 0002B480 clGetPlatformIDs
+         80   4E 0002BB50 clGetPlatformInfo
+         81   4F 0002C240 clGetProfileDataDeviceIntelFPGA
+         82   50 0002C9A0 clGetProgramBuildInfo
+         83   51 0002D0E0 clGetProgramInfo
+         84   52 0002D7C0 clGetSamplerInfo
+         85   53 0002DEB0 clGetSupportedImageFormats
+         86   54 0002E680 clLinkProgram
+         87   55 0002EF00 clMapHostPipeIntelFPGA
+         88   56 0002F530 clReadPipeIntelFPGA
+         89   57 0002FA90 clReleaseCommandQueue
+         90   58 0002FFC0 clReleaseContext
+         91   59 000304F0 clReleaseDevice
+         92   5A 000309F0 clReleaseEvent
+         93   5B 00030F20 clReleaseKernel
+         94   5C 00031450 clReleaseMemObject
+         95   5D 00031990 clReleaseProgram
+         96   5E 00031EC0 clReleaseSampler
+         97   5F 00032400 clRetainCommandQueue
+         98   60 00032930 clRetainContext
+         99   61 00032E60 clRetainDevice
+        100   62 00033360 clRetainEvent
+        101   63 00033890 clRetainKernel
+        102   64 00033DC0 clRetainMemObject
+        103   65 00034300 clRetainProgram
+        104   66 00034830 clRetainSampler
+        105   67 00034D70 clSVMAlloc
+        106   68 00035380 clSVMFree
+          1   69 000075B0 clSetCommandQueueProperty
+        107   6A 00035870 clSetDefaultDeviceCommandQueue
+        108   6B 00035E30 clSetEventCallback
+        109   6C 00036410 clSetKernelArg
+        110   6D 00036A10 clSetKernelArgSVMPointer
+        111   6E 00036FC0 clSetKernelExecInfo
+        112   6F 000375A0 clSetMemObjectDestructorCallback
+        113   70 00037B70 clSetUserEventStatus
+        114   71 000380B0 clUnloadCompiler
+        115   72 00038600 clUnloadPlatformCompiler
+        116   73 00038AF0 clUnmapHostPipeIntelFPGA
+        117   74 000390D0 clWaitForEvents
+        118   75 00039630 clWritePipeIntelFPGA
+
+  Summary
+
+        C000 .data
+        1000 .didat
+        1000 .eh_fram
+       2B000 .rdata
+        E000 .reloc
+        1000 .rsrc
+       CF000 .text

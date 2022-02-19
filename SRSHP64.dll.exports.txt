@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\SRSHP64.dll
+
+File Type: DLL
+
+  Section contains the following exports for COM_SRS_HP360_64.dll
+
+    00000000 characteristics
+    481894D9 time date stamp Wed Apr 30 17:48:41 2008
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001590 DllCanUnloadNow
+          2    1 00004350 DllGetClassObject
+          3    2 00004B40 DllRegisterServer
+          4    3 00004BF0 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       22000 .text

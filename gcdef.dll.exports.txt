@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\gcdef.dll
+
+File Type: DLL
+
+  Section contains the following exports for GCDEF.dll
+
+    00000000 characteristics
+    9664EDF7 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000044E0 DllCanUnloadNow
+          2    1 00004420 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+       14000 .rsrc
+        9000 .text

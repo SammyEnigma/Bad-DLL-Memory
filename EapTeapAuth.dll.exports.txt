@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\EapTeapAuth.dll
+
+File Type: DLL
+
+  Section contains the following exports for EapTeapAuth.dll
+
+    00000000 characteristics
+    4FFEC3EB time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00005ED0 EapPeerFreeErrorMemory
+          1    1 00005E80 EapPeerFreeMemory
+          2    2 00005DD0 EapPeerGetInfo
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       29000 .text

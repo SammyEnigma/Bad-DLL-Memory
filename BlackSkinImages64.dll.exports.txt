@@ -1,0 +1,13 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hdxmb3h.inf_amd64_25b5be5c08db6d8a\BlackSkinImages64.dll
+
+File Type: DLL
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+      322000 .rsrc
+        7000 .text

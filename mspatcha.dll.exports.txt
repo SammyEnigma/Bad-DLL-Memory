@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\mspatcha.dll
+
+File Type: DLL
+
+  Section contains the following exports for mspatcha.dll
+
+    00000000 characteristics
+    C2769F09 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003120 ApplyPatchToFileA
+          2    1 00003520 ApplyPatchToFileByBuffers
+          3    2 000030C0 ApplyPatchToFileByHandles
+          4    3 000026F0 ApplyPatchToFileByHandlesEx
+          5    4 00003150 ApplyPatchToFileExA
+          6    5 00003340 ApplyPatchToFileExW
+          7    6 00003310 ApplyPatchToFileW
+          8    7 000011F0 GetFilePatchSignatureA
+          9    8 00001530 GetFilePatchSignatureByBuffer
+         10    9 00001450 GetFilePatchSignatureByHandle
+         11    A 000012D0 GetFilePatchSignatureW
+         12    B 00001090 NormalizeFileForPatchSignature
+         13    C 000030F0 TestApplyPatchToFileA
+         14    D 000034D0 TestApplyPatchToFileByBuffers
+         15    E 00003090 TestApplyPatchToFileByHandles
+         16    F 000032E0 TestApplyPatchToFileW
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        9000 .text

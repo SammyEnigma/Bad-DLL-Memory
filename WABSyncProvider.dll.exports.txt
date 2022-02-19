@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\WABSyncProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for WABSyncProvider.dll
+
+    00000000 characteristics
+    D8581FFA time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00003BF0 DllCanUnloadNow
+          4    1 00003C10 DllGetClassObject
+          5    2 00003D50 DllRegisterServer
+          6    3 00003FF0 DllUnregisterServer
+          1      00001930 [NONAME]
+          2      000019C0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        B000 .text

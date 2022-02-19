@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\dot3ui.dll
+
+File Type: DLL
+
+  Section contains the following exports for dot3ui.dll
+
+    00000000 characteristics
+    F9DC5038 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006780 Dot3CreatePsPage
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        F000 .rdata
+        1000 .reloc
+       28000 .rsrc
+       17000 .text

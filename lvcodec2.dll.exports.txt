@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\lvcodec2.dll
+
+File Type: DLL
+
+  Section contains the following exports for LVCodec2.dll
+
+    00000000 characteristics
+    5085FD0B time date stamp Tue Oct 23 04:12:27 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001600 DriverProc
+
+  Summary
+
+        E000 .data
+        A000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       2D000 .text

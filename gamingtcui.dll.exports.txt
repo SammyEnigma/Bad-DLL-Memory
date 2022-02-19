@@ -1,0 +1,55 @@
+
+Dump of file C:\Windows\System32\gamingtcui.dll
+
+File Type: DLL
+
+  Section contains the following exports for gamingtcui.dll
+
+    00000000 characteristics
+    98E4F2DA time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012B00 CheckGamingPrivilegeSilently
+          2    1 00012B60 CheckGamingPrivilegeSilentlyForUser
+          3    2 00012BF0 CheckGamingPrivilegeWithUI
+          4    3 000131D0 CheckGamingPrivilegeWithUIForUser
+          5    4 00004110 DllCanUnloadNow
+          6    5 00003E40 DllGetActivationFactory
+          7    6 00004020 DllGetClassObject
+          8    7 00012600 ProcessPendingGameUI
+          9    8 00012180 ShowChangeFriendRelationshipUI
+         10    9 00012340 ShowChangeFriendRelationshipUIForUser
+         11    A 000136C0 ShowCustomizeUserProfileUI
+         12    B 00013860 ShowCustomizeUserProfileUIForUser
+         13    C 000134B0 ShowFindFriendsUI
+         14    D 00013650 ShowFindFriendsUIForUser
+         15    E 00013270 ShowGameInfoUI
+         16    F 00013430 ShowGameInfoUIForUser
+         17   10 00011510 ShowGameInviteUI
+         18   11 00011720 ShowGameInviteUIForUser
+         19   12 000117C0 ShowGameInviteUIWithContext
+         20   13 000119D0 ShowGameInviteUIWithContextForUser
+         21   14 00011A80 ShowPlayerPickerUI
+         22   15 00011E70 ShowPlayerPickerUIForUser
+         23   16 00011F40 ShowProfileCardUI
+         24   17 00012100 ShowProfileCardUIForUser
+         25   18 000123C0 ShowTitleAchievementsUI
+         26   19 00012580 ShowTitleAchievementsUIForUser
+         27   1A 000138D0 ShowUserSettingsUI
+         28   1B 00013A80 ShowUserSettingsUIForUser
+         29   1C 00012A30 TryCancelPendingGameUI
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1B000 .text

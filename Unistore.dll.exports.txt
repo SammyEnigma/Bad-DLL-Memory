@@ -1,0 +1,68 @@
+
+Dump of file C:\Windows\System32\Unistore.dll
+
+File Type: DLL
+
+  Section contains the following exports for unistore.dll
+
+    00000000 characteristics
+    41C42EF3 time date stamp
+        0.00 version
+           1 ordinal base
+          42 number of functions
+          42 number of names
+
+    ordinal hint RVA      name
+
+          8    0 0001AB00 AddDWORDPropertyRestrictions
+          1    1 00040510 AppRevisionBlobToUSBlob
+          9    2 00044B70 ClearUSCache
+         10    3 00016F50 CreateStoreManager
+         11    4 00044BE0 CreateStoreManagerWithToken
+         12    5 0004FD80 DetectExistingCorruption
+         13    6 000420C0 DisableLocalUnistore
+         14    7 00042120 EnableLocalUnistore
+         15    8 0005DA40 EndUnifiedStoreWorkForClient
+         16    9 00003A70 FindMaxSeenRevisionForAppInBlob
+         17    A 00044CA0 GetCurrentProcessRundownProtectionIdentifier
+          2    B 00041BF0 GetDeviceStoreDefaultName
+         18    C 00003FA0 GetRealStoreManager
+          3    D 0001E800 GetUSDataFolderPath
+         19    E 00042B60 GetUSDeviceStoreCorruptedVolumeFolderPath
+          4    F 0001EEF0 GetUSDeviceStoreFolderPath
+         20   10 00042D90 GetUSDeviceStoreVolumePath
+         21   11 000421F0 GetUSFileStreamPath
+         22   12 0004FE50 GetUnistoreJetInstance
+         23   13 00042FF0 IsCEPropValPresent
+         24   14 00042FF0 IsUSPropValPresent
+         25   15 000422D0 IsUnistoreInProc
+         26   16 000422E0 IsUnistoreLocal
+         27   17 00044CC0 LowerRPCPriority
+         28   18 0005DAE0 RegisterRundownProtectionForProcess
+         29   19 0004FF30 ReleaseUnistoreJetInstance
+         30   1A 00004B40 RemoveStaleChangeTrackingDataOnStore
+         31   1B 00069520 ServiceMain
+         32   1C 00041AA0 SetMaxRevisionBlobSize
+         33   1D 000422F0 SetUnistoreProcessEventFilter
+         34   1E 00042400 SetUnistoreVersion
+         35   1F 0005DB30 StartUnifiedStoreWorkForClient
+         36   20 00069530 SvchostPushServiceGlobals
+          5   21 00041230 USBlobToAppRevisionBlob
+         37   22 00021360 USComparePropVals
+         38   23 0000A2E0 USCopyPropVals
+         39   24 00043010 USDeleteFileEx
+         40   25 000432E0 USEventMaskToObjectType
+         41   26 00008CF0 USGetPropValsAncillaryBufferSize
+          6   27 00041F60 USIsObjectHidden
+          7   28 00041FD0 USIsSameObject
+         42   29 000434F0 USObjectTypeToEventMask
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        C000 .pdata
+       45000 .rdata
+        3000 .reloc
+        5000 .rsrc
+       CA000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wmpdxm.dll
+
+File Type: DLL
+
+  Section contains the following exports for 64shim.dll
+
+    00000000 characteristics
+    480D232C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001BB0 DllCanUnloadNow
+          2    1 00001AF0 DllGetClassObject
+          3    2 00001990 DllRegisterServer
+          4    3 00001A60 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+       1C000 .rdata
+        2000 .reloc
+        3000 .rsrc
+       14000 .text

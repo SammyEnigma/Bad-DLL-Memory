@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\racpldlg.dll
+
+File Type: DLL
+
+  Section contains the following exports for RESMON.dll
+
+    00000000 characteristics
+    A1A39E1C time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001250 DllCanUnloadNow
+          3    1 00001150 DllGetClassObject
+          4    2 00001270 DllRegisterServer
+          5    3 00001270 DllUnregisterServer
+          1    4 000014C0 ShowPasswordDialog
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        C000 .rsrc
+        B000 .text

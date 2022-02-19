@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\vfbasics.dll
+
+File Type: DLL
+
+  Section contains the following exports for VFBASICS.dll
+
+    00000000 characteristics
+    D4DBC922 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+       20000 .data
+        3000 .pdata
+        A000 .rdata
+        1000 .reloc
+       21000 .rsrc
+       24000 .text

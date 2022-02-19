@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\vsconfig.dll
+
+File Type: DLL
+
+  Section contains the following exports for vsconfig.dll
+
+    00000000 characteristics
+    98982A92 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00011E70 DllCanUnloadNow
+          2    1 00011EA0 DllGetClassObject
+          3    2 00011ED0 DllRegisterServer
+          4    3 00011EE0 DllUnregisterServer
+          5    4 00004BC0 VsCreateConfigurationManager
+
+  Summary
+
+       13000 .data
+        6000 .pdata
+       26000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       53000 .text

@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\UNIDRVUI.DLL
+
+File Type: DLL
+
+  Section contains the following exports for unidrvui.dll
+
+    00000000 characteristics
+    2939F374 time date stamp
+        0.00 version
+         254 ordinal base
+          33 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+        258    0 00001250 DevQueryPrintEx
+        259    1 00001450 DllCanUnloadNow
+        260    2 00001470 DllGetClassObject
+        261    3 00001490 DllMain
+        262    4 00001270 DrvConvertDevMode
+        263    5 000012A0 DrvDeviceCapabilities
+        264    6 000012D0 DrvDevicePropertySheets
+        265    7 000012F0 DrvDocumentEvent
+        266    8 00001330 DrvDocumentPropertySheets
+        267    9 00001350 DrvDriverEvent
+        255    A 00005F20 DrvPopulateFilterServices
+        268    B 00001370 DrvPrinterEvent
+        269    C 00001390 DrvQueryColorProfile
+        285    D 000013D0 DrvQueryJobAttributes
+        256    E 00008DE0 DrvResetConfigCache
+        254    F 00001410 DrvSplDeviceCaps
+        286   10 000013F0 DrvUpgradePrinter
+        257   11 0000ADB0 MxdcGetPDEVAdjustment
+        270      00008E20 [NONAME]
+        271      00008D90 [NONAME]
+        272      000087E0 [NONAME]
+        273      0000BDF0 [NONAME]
+        274      00008D50 [NONAME]
+        275      00008D60 [NONAME]
+        276      00008D70 [NONAME]
+        277      00008D80 [NONAME]
+        278      00002AD0 [NONAME]
+        279      000029A0 [NONAME]
+        280      00003BC0 [NONAME]
+        281      00009C90 [NONAME]
+        282      0000A210 [NONAME]
+        283      000045C0 [NONAME]
+        284      00004380 [NONAME]
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        5000 .pdata
+       34000 .rdata
+        2000 .reloc
+       3F000 .rsrc
+       A7000 .text

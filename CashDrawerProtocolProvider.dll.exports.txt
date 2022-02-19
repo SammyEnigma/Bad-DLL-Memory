@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\PointOfService\ProtocolProviders\CashDrawerProtocolProvider.dll
+
+File Type: DLL
+
+  Section contains the following exports for CashDrawerProtocolProvider.dll
+
+    00000000 characteristics
+    B2F6657D time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005760 DllCanUnloadNow
+          3    1 00005670 DllGetClassObject
+          1    2 000058D0 GetPointOfServiceProtocolMetadata
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        8000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       12000 .text

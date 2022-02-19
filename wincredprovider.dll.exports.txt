@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wincredprovider.dll
+
+File Type: DLL
+
+  Section contains the following exports for dimsroam.dll
+
+    00000000 characteristics
+    964DDC22 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001220 DllCanUnloadNow
+          2    1 00001260 DllGetClassObject
+          3    2 000013A0 DllRegisterServer
+          4    3 000014A0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        3000 .rsrc
+        6000 .text

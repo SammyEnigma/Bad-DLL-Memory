@@ -1,0 +1,41 @@
+
+Dump of file C:\Windows\System32\LocationFramework.dll
+
+File Type: DLL
+
+  Section contains the following exports for LocationFramework.dll
+
+    00000000 characteristics
+    915AEF00 time date stamp
+        0.00 version
+           1 ordinal base
+          14 number of functions
+          14 number of names
+
+    ordinal hint RVA      name
+
+         11    0 00070BD0 DllCanUnloadNow
+         12    1 00040650 DllGetClassObject
+         13    2 0009B940 DllRegisterServer
+         14    3 0009B9A0 DllUnregisterServer
+          1    4 0001C360 LocationObjectManagerInstance
+          2    5 000A8E40 LocationServiceHostShutdown
+          3    6 000A8E60 LocationServiceHostStartup
+          4    7 000A8E80 RegisterLocationCOMServer
+          5    8 00065AB0 SvcLocationAddRef
+          6    9 000A9150 SvcLocationInitServerLock
+          7    A 00065A90 SvcLocationReleaseRef
+          8    B 000A9170 SvcOnConsoleSessionNotification
+          9    C 000A9200 SvcOnUserLogOnStateNotification
+         10    D 000A9220 UnregisterLocationCOMServer
+
+  Summary
+
+        8000 .data
+        1000 .didat
+       12000 .pdata
+       79000 .rdata
+        3000 .reloc
+       18000 .rsrc
+      146000 .text
+        1000 RT_CODE

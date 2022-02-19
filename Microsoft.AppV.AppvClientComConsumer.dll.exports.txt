@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\WindowsPowerShell\v1.0\Modules\AppvClient\Microsoft.AppV.AppvClientComConsumer.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.AppV.AppvClientComConsumer.dll
+
+    00000000 characteristics
+    57D584F1 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        7000 .data
+        1000 .nep
+        2000 .pdata
+       79000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       2E000 .text

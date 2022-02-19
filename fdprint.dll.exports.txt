@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\fdprint.dll
+
+File Type: DLL
+
+  Section contains the following exports for fdprint.dll
+
+    00000000 characteristics
+    FB78E267 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001190 DllCanUnloadNow
+          3    1 000011B0 DllGetClassObject
+          4    2 000012C0 DllRegisterServer
+          5    3 000012C0 DllUnregisterServer
+          1    4 000209C0 InvokeTaskW
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       23000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\netprofmsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for NetworkProfileService.dll
+
+    00000000 characteristics
+    5AD80BD3 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00030110 DllMain
+          1    1 000292D0 ServiceMain
+          2    2 0002E200 SvchostPushServiceGlobalsEx
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        9000 .pdata
+       23000 .rdata
+        2000 .reloc
+       19000 .rsrc
+       91000 .text

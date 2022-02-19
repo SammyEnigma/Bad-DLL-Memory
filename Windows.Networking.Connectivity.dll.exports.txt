@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\Windows.Networking.Connectivity.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Networking.Connectivity.dll
+
+    00000000 characteristics
+    3587753E time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00003370 DllCanUnloadNow
+          3    1 00003FA0 DllGetActivationFactory
+          4    2 00003D00 DllGetClassObject
+          5    3 0002AD20 DllRegisterServer
+          6    4 0002AD50 DllUnregisterServer
+          7    5 0002A730 FixDisabledComponentsForTeredo
+          8    6 0002A7E0 RefreshTeredoClientState
+          1    7 0002A3C0 SetHostNameMediaStreamingMode
+          9    8 0002A890 TeredoExtAcquireTeredoConsumerHandle
+         10    9 0002A960 TeredoExtReleaseTeredoConsumerHandle
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       3E000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       6A000 .text

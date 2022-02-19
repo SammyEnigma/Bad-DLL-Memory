@@ -1,0 +1,97 @@
+
+Dump of file C:\Windows\System32\adal.dll
+
+File Type: DLL
+
+  Section contains the following exports for adal.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          71 number of functions
+          71 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002AFF0 ADALAcquireToken
+          2    1 0002B250 ADALAddClientCapability
+          3    2 0002B420 ADALCreateAuthenticationContext
+          4    3 0002B4F0 ADALCreateAuthenticationContextNoUI
+          5    4 0002B5A0 ADALDeleteRequest
+          6    5 0002B5F0 ADALDeserializeAuthenticationContext
+          7    6 0002B640 ADALGetAccessToken
+          8    7 0002B6E0 ADALGetAccessTokenExpirationTime
+          9    8 0002B780 ADALGetAccountType
+         10    9 0002B8A0 ADALGetAuthority
+         11    A 0002B980 ADALGetClaimsChallenge
+         12    B 0002BA90 ADALGetClientSecret
+         13    C 0002BB70 ADALGetContext
+         14    D 0002BBB0 ADALGetContextAtIndex
+         15    E 0002BD50 ADALGetContextCollection
+         16    F 0002BEE0 ADALGetContextCollectionSize
+         17   10 0002BF90 ADALGetDisplayableUserId
+         18   11 0002C070 ADALGetErrorCode
+         19   12 0002C150 ADALGetErrorDescription
+         20   13 0002C250 ADALGetFamilyName
+         21   14 0002C330 ADALGetFormalAuthority
+         22   15 0002C620 ADALGetGivenName
+         23   16 0002C700 ADALGetIdTokenValue
+         24   17 0002C890 ADALGetIsExtendedLifetimeToken
+         25   18 0002C920 ADALGetLoginHint
+         26   19 0002CA20 ADALGetNetworkConnectionType
+         27   1A 0002CB40 ADALGetOption
+         28   1B 0002CC70 ADALGetPasswordChangeUrl
+         29   1C 0002CD30 ADALGetPasswordExpiryDays
+         30   1D 0002CDE0 ADALGetRefreshToken
+         31   1E 0002CEB0 ADALGetRequestStatus
+         32   1F 0002CF30 ADALGetResponseBody
+         33   20 0002CFF0 ADALGetResponseHeader
+         34   21 0002D050 ADALGetTenantId
+         35   22 0002D130 ADALGetUniqueUserId
+         36   23 0002D210 ADALIsCapabilityPresent
+         37   24 0002D2A0 ADALIsModified
+         38   25 0002D320 ADALIsWAMUsed
+         39   26 0002D3A0 ADALMigrateContextToSharedCache
+         40   27 0002D420 ADALReleaseAuthenticationContext
+         41   28 0002D530 ADALReleaseContextCollection
+         42   29 0002D640 ADALRenewToken
+         43   2A 0002D7B0 ADALSerializeAuthenticationContext
+         44   2B 0002D910 ADALSetAccountType
+         45   2C 0002DA10 ADALSetAdditionalHttpHeaders
+         46   2D 0002DB30 ADALSetAdditionalQueryParams
+         47   2E 0002DC60 ADALSetClaimsChallenge
+         48   2F 0002DE40 ADALSetClientAssertionUsingCertificateContext
+         49   30 0002DF40 ADALSetClientAssertionUsingCertificateThumbprint
+         50   31 0002E050 ADALSetClientSecret
+         51   32 0002E200 ADALSetLogOptions
+         52   33 0002E2C0 ADALSetNetworkConnectionType
+         53   34 0002E3C0 ADALSetOption
+         54   35 0002E6B0 ADALSetRedirectUri
+         55   36 0002E800 ADALSetRefreshToken
+         56   37 0002E8A0 ADALSetSilentLogonOptions
+         57   38 0002E8C0 ADALSetTelemetryDispatchFunction
+         58   39 0002E940 ADALUICancelWAM
+         59   3A 0002EA80 ADALUICreateHostServiceProvider
+         60   3B 0002EC80 ADALUICreateHostUIHandler
+         61   3C 0002ED10 ADALUICreateHostWindow
+         62   3D 0002F1E0 ADALUIGetHostRequirements
+         63   3E 0002F350 ADALUIGetWebBrowser
+         64   3F 0002F430 ADALUIUseWAM
+         65   40 0002F5D0 ADALUIUseWebBrowser
+         66   41 0002F740 ADALUseClientCredential
+         67   42 0002F820 ADALUseClientCredentialWithUserToken
+         68   43 0002F910 ADALUseEndpoint
+         69   44 0002FA20 ADALUseSAMLAssertion
+         70   45 0002FB20 ADALUseUsernamePassword
+         71   46 0002FC20 ADALUseWindowsAuthentication
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        E000 .pdata
+       7D000 .rdata
+        3000 .reloc
+        E000 .rsrc
+      117000 .text

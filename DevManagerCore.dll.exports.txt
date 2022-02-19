@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\DevManagerCore.dll
+
+File Type: DLL
+
+  Section contains the following exports for DevManagerCore.dll
+
+    00000000 characteristics
+    5085FDBB time date stamp Tue Oct 23 04:15:23 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012E0 CreateDeviceManagerFactory
+
+  Summary
+
+        5000 .data
+        E000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       3C000 .text

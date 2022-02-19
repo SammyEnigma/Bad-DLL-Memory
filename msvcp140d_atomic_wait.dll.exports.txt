@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\msvcp140d_atomic_wait.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSVCP140D_ATOMIC_WAIT.dll
+
+    00000000 characteristics
+    60247812 time date stamp Thu Feb 11 01:19:30 2021
+        0.00 version
+           1 ordinal base
+          20 number of functions
+          20 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000020F0 __std_atomic_compare_exchange_128
+          2    1 00002190 __std_atomic_get_mutex
+          3    2 00002210 __std_atomic_has_cmpxchg16b
+          4    3 00002290 __std_atomic_notify_all_direct
+          5    4 000022C0 __std_atomic_notify_all_indirect
+          6    5 00002350 __std_atomic_notify_one_direct
+          7    6 00002380 __std_atomic_notify_one_indirect
+          8    7 00002410 __std_atomic_set_api_level
+          9    8 00002450 __std_atomic_wait_direct
+         10    9 000024E0 __std_atomic_wait_get_deadline
+         11    A 00002510 __std_atomic_wait_get_remaining_timeout
+         12    B 00002580 __std_atomic_wait_indirect
+         13    C 00002700 __std_bulk_submit_threadpool_work
+         14    D 00002750 __std_close_threadpool_work
+         15    E 00002770 __std_create_threadpool_work
+         16    F 000027A0 __std_execution_wait_on_uchar
+         17   10 000027D0 __std_execution_wake_by_address_all
+         18   11 000027F0 __std_parallel_algorithms_hw_threads
+         19   12 00002830 __std_submit_threadpool_work
+         20   13 00002850 __std_wait_for_threadpool_work_callbacks
+
+  Summary
+
+        9000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

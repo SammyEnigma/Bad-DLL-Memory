@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.UI.Input.Inking.Analysis.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.UI.Input.Inking.Analysis.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000370B0 DllCanUnloadNow
+          2    1 00036EE0 DllGetActivationFactory
+          3    2 00036E70 DllMain
+
+  Summary
+
+       33000 .data
+        F000 .pdata
+       D0000 .rdata
+        6000 .reloc
+      140000 .rsrc
+      1FB000 .text

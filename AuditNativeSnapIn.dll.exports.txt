@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\AuditNativeSnapIn.dll
+
+File Type: DLL
+
+  Section contains the following exports for AuditNativeSnapIn.dll
+
+    00000000 characteristics
+    E05E5629 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017B0 DllCanUnloadNow
+          2    1 00001640 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+       32000 .rsrc
+        3000 .text

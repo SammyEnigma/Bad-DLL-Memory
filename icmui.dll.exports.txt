@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\icmui.dll
+
+File Type: DLL
+
+  Section contains the following exports for ICMUI.DLL
+
+    00000000 characteristics
+    3CD19548 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000033C0 SetupColorMatchingA
+          2    1 00003420 SetupColorMatchingW
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

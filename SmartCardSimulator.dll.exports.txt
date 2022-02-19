@@ -1,0 +1,40 @@
+
+Dump of file C:\Windows\System32\SmartCardSimulator.dll
+
+File Type: DLL
+
+  Section contains the following exports for SmartCardSimulator.dll
+
+    00000000 characteristics
+     D3B42D2 time date stamp
+        0.00 version
+           1 ordinal base
+          15 number of functions
+          15 number of names
+
+    ordinal hint RVA      name
+
+         11    0 000248B0 DllCanUnloadNow
+         12    1 00024AC0 DllGetClassObject
+         13    2 00024CF0 DllRegisterServer
+         14    3 00024F00 DllUnregisterServer
+         15    4 000A3430 Microsoft_WDF_UMDF_Version
+          1    5 00026B30 VGidsSimulatorCreate
+          2    6 00026D70 VGidsSimulatorDestroy
+          3    7 000275B0 VGidsSimulatorReadProperties
+          4    8 00026FA0 VGidsSimulatorWriteProperties
+          5    9 00025D20 VTransportClose
+          6    A 00025630 VTransportDeinitialize
+          7    B 00025110 VTransportInitialize
+          8    C 00025850 VTransportOpen
+          9    D 00026460 VTransportReceive
+         10    E 00025F90 VTransportTransmit
+
+  Summary
+
+        4000 .data
+        6000 .pdata
+       26000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       7A000 .text

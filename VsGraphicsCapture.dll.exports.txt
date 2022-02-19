@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\VsGraphicsCapture.dll
+
+File Type: DLL
+
+  Section contains the following exports for VSGraphicsCapture.DLL
+
+    00000000 characteristics
+    95C4FB4F time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00006DD0 PixCapture_BeginCommunication
+          1    1 00006F20 PixCapture_BeginCommunication_2
+          3    2 000072A0 PixCapture_EndCommunication
+          4    3 00007300 PixCapture_ExitProcess
+          5    4 000070B0 PixCapture_IsLegacyMachine
+          6    5 00007240 PixCapture_RunAction
+          7    6 00007260 PixCapture_RunAction_2
+          8    7 00007280 PixCapture_RunAction_3
+          9    8 000070C0 PixCapture_RunExperiment
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\playlistfolder.dll
+
+File Type: DLL
+
+  Section contains the following exports for PlaylistFolder.dll
+
+    00000000 characteristics
+    57B85A0D time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003EE0 DllCanUnloadNow
+          2    1 00003F20 DllGetClassObject
+          3    2 00004060 DllRegisterServer
+          4    3 00004140 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        D000 .text

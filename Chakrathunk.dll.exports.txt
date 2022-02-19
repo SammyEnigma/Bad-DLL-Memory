@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\Chakrathunk.dll
+
+File Type: DLL
+
+  Section contains the following exports for chakrathunk.dll
+
+    00000000 characteristics
+    62A3471F time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002B00 JsThunk_AllocateData
+          2    1 00002E70 JsThunk_Cleanup
+          3    2 00002ED0 JsThunk_CleanupDefer
+          4    3 00002F10 JsThunk_CleanupFinish
+          5    4 00002F80 JsThunk_DataToCode
+          6    5 00002FA0 JsThunk_GetSize
+          7    6 00002FB0 JsThunk_InitData
+          8    7 00002FE0 JsThunk_Is
+
+  Summary
+
+        5000 .data
+        4000 .pdata
+        6000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       14000 .text

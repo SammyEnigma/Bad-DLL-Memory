@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\drprov.dll
+
+File Type: DLL
+
+  Section contains the following exports for drprov.dll
+
+    00000000 characteristics
+    94D208FD time date stamp
+        0.00 version
+           1 ordinal base
+          49 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002FB0 NPAddConnection
+          2    1 00001140 NPAddConnection3
+          3    2 00001470 NPCancelConnection
+          4    3 00002FE0 NPCloseEnum
+          5    4 00003070 NPEnumResource
+          6    5 00001010 NPGetCaps
+          7    6 000030F0 NPGetConnection
+         49    7 000032F0 NPGetConnectionPerformance
+          8    8 00003330 NPGetResourceInformation
+          9    9 00003830 NPGetResourceParent
+         10    A 00003AE0 NPGetUniversalName
+         12    B 00001090 NPOpenEnum
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        4000 .text

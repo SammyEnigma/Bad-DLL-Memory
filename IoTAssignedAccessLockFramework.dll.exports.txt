@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IoTAssignedAccessLockFramework.dll
+
+File Type: DLL
+
+  Section contains the following exports for IoTAssignedAccessLockFramework.dll
+
+    00000000 characteristics
+    85F8EB06 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005460 DllCanUnloadNow
+          2    1 00005280 DllGetActivationFactory
+          3    2 000054E0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       1D000 .text

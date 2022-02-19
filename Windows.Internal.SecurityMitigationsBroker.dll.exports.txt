@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Windows.Internal.SecurityMitigationsBroker.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.Internal.SecurityMitigationsBroker.dll
+
+    00000000 characteristics
+    96949D62 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          3    0 00002A30 DllCanUnloadNow
+          1    1 00002850 DllGetActivationFactory
+          4    2 00002AA0 DllGetClassObject
+          2    3 00001E00 QueryACGPolicyForDriverId
+
+  Summary
+
+        1000 .data
+        1000 .isoapis
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        2000 .rsrc
+        6000 .text

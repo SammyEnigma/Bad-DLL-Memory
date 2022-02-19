@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\nshwfp.dll
+
+File Type: DLL
+
+  Section contains the following exports for NSHWFP.DLL
+
+    00000000 characteristics
+    F6B07C2A time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005ED0 IdpConfigAddPolicy
+          2    1 000078C0 IdpConfigAllocateAndGetPolicy
+          3    2 00007930 IdpConfigFreePolicy
+          4    3 00006B10 IdpConfigInitDefaultPolicy
+          5    4 00006130 IdpConfigRemovePolicy
+          6    5 00001110 InitHelperDll
+          7    6 00003D20 WfpCaptureExportedW
+          8    7 00004450 WfpCaptureStop
+
+  Summary
+
+       27000 .data
+        2000 .pdata
+       6D000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       28000 .text

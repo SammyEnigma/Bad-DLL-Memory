@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\mycomput.dll
+
+File Type: DLL
+
+  Section contains the following exports for MyComput.DLL
+
+    00000000 characteristics
+    25525936 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004C90 DllCanUnloadNow
+          2    1 00004D20 DllGetClassObject
+          3    2 0000A710 DllRegisterServer
+          4    3 0000ACA0 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

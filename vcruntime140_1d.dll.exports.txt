@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\vcruntime140_1d.dll
+
+File Type: DLL
+
+  Section contains the following exports for VCRUNTIME140_1D.dll
+
+    00000000 characteristics
+    60247898 time date stamp Thu Feb 11 01:21:44 2021
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006BF0 __CxxFrameHandler4
+          2    1 00001140 __NLG_Dispatch2
+          3    2 00001150 __NLG_Return2
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

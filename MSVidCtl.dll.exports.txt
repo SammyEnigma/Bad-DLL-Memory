@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\MSVidCtl.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSVidCtl.DLL
+
+    00000000 characteristics
+    57946E83 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004A30 DllCanUnloadNow
+          2    1 00004A70 DllGetClassObject
+          3    2 00004AE0 DllRegisterServer
+          4    3 00004C20 DllUnregisterServer
+          5    4 00004600 GetProxyDllInfo
+
+  Summary
+
+       44000 .data
+       15000 .pdata
+      132000 .rdata
+        F000 .reloc
+       4F000 .rsrc
+      165000 .text

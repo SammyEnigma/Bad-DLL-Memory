@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\Windows.AI.MachineLearning.Preview.dll
+
+File Type: DLL
+
+  Section contains the following exports for winml.dll
+
+    00000000 characteristics
+    AA1DCA33 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003AB0 DllCanUnloadNow
+          2    1 000037E0 DllGetActivationFactory
+          3    2 000039C0 DllGetClassObject
+
+  Summary
+
+        7000 .data
+        1000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

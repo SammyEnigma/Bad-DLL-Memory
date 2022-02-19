@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.Security.Authentication.Identity.Provider.dll
+
+File Type: DLL
+
+  Section contains the following exports for SecondaryAuthFactor.dll
+
+    00000000 characteristics
+    CE7FCECA time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000044C0 DllCanUnloadNow
+          2    1 00004530 DllGetActivationFactory
+          3    2 00004710 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       18000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       26000 .text

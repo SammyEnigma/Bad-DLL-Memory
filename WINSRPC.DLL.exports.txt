@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\WINSRPC.DLL
+
+File Type: DLL
+
+  Section contains the following exports for winsrpc.dll
+
+    00000000 characteristics
+    E504DA4B time date stamp
+        0.00 version
+           1 ordinal base
+          31 number of functions
+          31 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001120 WinsABind
+          2    1 00001290 WinsAllocMem
+          3    2 00001640 WinsBackup
+          4    3 00002110 WinsCheckAccess
+          5    4 00001690 WinsDelDbRecs
+          6    5 00001FB0 WinsDeleteWins
+          7    6 00001500 WinsDoScavenging
+          8    7 00001540 WinsDoScavengingNew
+          9    8 000014B0 WinsDoStaticInit
+         10    9 000012B0 WinsFreeMem
+         11    A 000012E0 WinsGetBrowserNames
+         12    B 00001590 WinsGetDbRecs
+         13    C 00002040 WinsGetDbRecsByName
+         14    D 00001F60 WinsGetNameAndAdd
+         15    E 000016E0 WinsPullRange
+         16    F 00001330 WinsRecordAction
+         17   10 00001780 WinsResetCounters
+         18   11 000017D0 WinsRestore
+         19   12 000017C0 WinsRestoreEx
+         20   13 00002000 WinsSetFlags
+         21   14 00001740 WinsSetPriorityClass
+         22   15 00001370 WinsStatus
+         23   16 000013C0 WinsStatusNew
+         24   17 00001410 WinsStatusWHdl
+         25   18 00001F00 WinsSyncUp
+         26   19 000015F0 WinsTerm
+         27   1A 000020C0 WinsTombstoneDbRecs
+         28   1B 00001460 WinsTrigger
+         29   1C 00001220 WinsUBind
+         30   1D 00001230 WinsUnbind
+         31   1E 00001EC0 WinsWorkerThdUpd
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

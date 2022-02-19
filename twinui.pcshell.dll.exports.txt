@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\twinui.pcshell.dll
+
+File Type: DLL
+
+  Section contains the following exports for twinui.pcshell.dll
+
+    00000000 characteristics
+    56DF3803 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000858E0 DllCanUnloadNow
+          2    1 0013CF80 DllGetActivationFactory
+          3    2 0013CFC0 DllGetClassObject
+
+  Summary
+
+        D000 .data
+        1000 .didat
+       43000 .pdata
+      139000 .rdata
+       14000 .reloc
+        1000 .rsrc
+      487000 .text

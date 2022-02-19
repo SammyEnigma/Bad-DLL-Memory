@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\vfprintpthelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for vfPrintPTHelper.dll
+
+    00000000 characteristics
+    3EF06B58 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00038A80 ConvertDOMDocumentToIStream
+          2    1 00039C60 CopyStream
+          3    2 00038F00 GetXml
+          4    3 00038DC0 IsPrintCapabilitiesConformant
+          5    4 00038C80 IsPrintTicketConformant
+          6    5 00039BE0 RewindStream
+
+  Summary
+
+       30000 .data
+        1000 .didat
+        4000 .pdata
+       4B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       87000 .text

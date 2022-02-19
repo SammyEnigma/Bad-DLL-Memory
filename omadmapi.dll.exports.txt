@@ -1,0 +1,116 @@
+
+Dump of file C:\Windows\System32\omadmapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for omadmapi.dll
+
+    00000000 characteristics
+    AA04EBF4 time date stamp
+        0.00 version
+           3 ordinal base
+         172 number of functions
+          90 number of names
+
+    ordinal hint RVA      name
+
+         62    0 00003920 Base64StringToHexString
+          3    1 00004200 CalcHash
+        123    2 00004A50 DmCreateSecurityAccount
+        120    3 00004A50 DmGetHighestTemplateGroup
+        122    4 00004A70 DmSecGroupSIDToRole
+        121    5 00004A50 DmSecRoleToGroupSID
+        125    6 00004A70 DmSecurityAccountInGroup
+        124    7 00004A80 DmSecurityRoleFromAccountName
+        108    8 00004700 FindEndOfHeader
+        109    9 00004790 FindHeaderValue
+        114    A 00003240 FreeCommandLineOptions
+        112    B 00004030 GetStructFromRegistry
+         45    C 00003760 HashCert
+         63    D 00003850 HexStringToBase64String
+          4    E 00012C30 MdmSendAlert
+         76    F 00013050 OmaDmAbortSession
+        144   10 00012F90 OmaDmAbortSession_Impl
+         21   11 00010580 OmaDmCalcTriggerDigest
+        164   12 0000E2E0 OmaDmClearAcctInfo
+         27   13 0000EBB0 OmaDmClearAcctInfoValues
+         40   14 00012E00 OmaDmCloseSession
+        141   15 00012D70 OmaDmCloseSession_Impl
+         37   16 0000A8F0 OmaDmCreateInternalAcctID
+        151   17 00004A70 OmaDmCreateSecurityAccount
+        162   18 00004A70 OmaDmCreateSessionPolicy
+         25   19 0000F830 OmaDmDeleteAcctInfo
+         19   1A 000100B0 OmaDmDeleteAcctInfoWaitForCompletion
+        143   1B 0000F6E0 OmaDmDeleteAcctInfo_Impl
+        152   1C 00013510 OmaDmDeleteSecurityAccount
+        163   1D 00013820 OmaDmDeleteSessionPolicy
+         88   1E 0000FBB0 OmaDmDeleteUserInfo
+         26   1F 0000CEB0 OmaDmEnumerateAccounts
+         41   20 00011600 OmaDmEnumerateInitiationInfo
+         36   21 0000CF10 OmaDmEnumerateSessions
+         48   22 00009E10 OmaDmFindAppAuthIndex
+         23   23 0000EC20 OmaDmFreeAcctInfo
+        102   24 0000CA30 OmaDmFreeAlertInfo
+         39   25 000114D0 OmaDmFreeInitiationInfo
+         89   26 0000EEF0 OmaDmFreeUserInfo
+         99   27 0000CF70 OmaDmGetAcctIDFromAcctUID
+         22   28 0000D520 OmaDmGetAcctInfo
+         43   29 0000BA20 OmaDmGetAcctInfoFromKey
+         57   2A 00009D30 OmaDmGetAcctMemberInfo
+         47   2B 00009D70 OmaDmGetAllAcctInfo
+         98   2C 0000A9B0 OmaDmGetDefaultAcctUID
+         35   2D 0000CF60 OmaDmGetFirstMatchingAccountID
+         38   2E 00011010 OmaDmGetInitiationInfo
+         44   2F 0000AA80 OmaDmGetInternalAcctID
+        150   30 0000A9A0 OmaDmGetInternalAcctSID
+        100   31 000140B0 OmaDmGetNextSessionIDToUse
+         86   32 0000D5D0 OmaDmGetUserInfo
+         54   33 0000A580 OmaDmGetValueFromStruct
+         20   34 00012BF0 OmaDmInitiateSession
+         34   35 000129F0 OmaDmInitiateSessionEx
+        101   36 00012B90 OmaDmInitiateSessionWithSessionID
+        140   37 00012900 OmaDmInitiateSession_Impl
+         75   38 000131C0 OmaDmIsInformativeServerSessionActive
+         51   39 0000A060 OmaDmIsNodePresent
+         52   3A 0000A0D0 OmaDmIsNodeValuePresent
+         42   3B 0000BA10 OmaDmSaveAcctInfoToKey
+         77   3C 000149C0 OmaDmSendAlertNotification
+         78   3D 00014AF0 OmaDmSendAlertNotificationEx
+         24   3E 0000F3C0 OmaDmSetAcctInfo
+        145   3F 0000F550 OmaDmSetAcctInfoAllowed_Impl
+        165   40 00018A10 OmaDmSetAcctInfoEx
+        142   41 0000EF30 OmaDmSetAcctInfo_Impl
+         50   42 00010BA0 OmaDmSetInitiationInfo
+         55   43 0000A1A0 OmaDmSetNodePresence
+         56   44 0000A200 OmaDmSetNodeValuePresence
+         87   45 0000F3D0 OmaDmSetUserInfo
+         90   46 0000A260 OmaDmSetUserInfoNodeValuePresence
+         91   47 0000A470 OmaDmSetUserInfoValueInStruct
+         53   48 0000A2B0 OmaDmSetValueInStruct
+         49   49 0000A140 OmaDmUnsetNodePresence
+         69   4A 00009AA0 OmaDmValidateSslCertCriteria
+         18   4B 0000FFC0 OmaDmWaitForAllSessionsCompletion
+         64   4C 00002EE0 ProcessCommandLine
+         97   4D 00002DA0 ProcessCommandLineOption
+         29   4E 00017F00 ReadBSTRFromStream
+         85   4F 00017D00 ReadStringFromStream
+         31   50 00018660 ReadVariantFromStream
+        111   51 00003F00 SaveStructInRegistry
+        174   52 00004A70 SyncDmGroupMembershipToPolicy
+        107   53 00004670 Trim
+         65   54 000044C0 TruncateTextToLength
+        166   55 00013890 URIEncodeSegment
+        113   56 00004950 ValidateStringAsFloat
+         28   57 00017E50 WriteBSTRToStream
+         84   58 00017BF0 WriteStringToStream
+         30   59 00018490 WriteVariantToStream
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       22000 .text

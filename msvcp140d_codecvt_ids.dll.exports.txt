@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\msvcp140d_codecvt_ids.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSVCP140D_CODECVT_IDS.dll
+
+    00000000 characteristics
+    60247810 time date stamp Thu Feb 11 01:19:28 2021
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004058 ?id@?$codecvt@_SDU_Mbstatet@@@std@@2V0locale@2@A
+          2    1 00004040 ?id@?$codecvt@_S_QU_Mbstatet@@@std@@2V0locale@2@A
+          3    2 00004050 ?id@?$codecvt@_UDU_Mbstatet@@@std@@2V0locale@2@A
+          4    3 00004048 ?id@?$codecvt@_U_QU_Mbstatet@@@std@@2V0locale@2@A
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        2000 .text

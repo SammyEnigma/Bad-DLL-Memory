@@ -1,0 +1,71 @@
+
+Dump of file C:\Windows\System32\wevtapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for wevtapi.dll
+
+    00000000 characteristics
+    686D3775 time date stamp
+        0.00 version
+           1 ordinal base
+          45 number of functions
+          45 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0002AF60 EvtArchiveExportedLog
+          3    1 0002B1C0 EvtCancel
+          4    2 0002B340 EvtClearLog
+          5    3 00006A40 EvtClose
+          6    4 0000C340 EvtCreateBookmark
+          7    5 00005B20 EvtCreateRenderContext
+          8    6 0002B5B0 EvtExportLog
+          9    7 0000F210 EvtFormatMessage
+         10    8 0000CA40 EvtGetChannelConfigProperty
+         11    9 0002B960 EvtGetEventInfo
+         12    A 0002BA70 EvtGetEventMetadataProperty
+         13    B 0002BC20 EvtGetExtendedStatus
+         14    C 0000FA50 EvtGetLogInfo
+         15    D 00010C70 EvtGetObjectArrayProperty
+         16    E 00012640 EvtGetObjectArraySize
+         17    F 0000E6E0 EvtGetPublisherMetadataProperty
+         18   10 0002BC40 EvtGetQueryInfo
+         19   11 0000D950 EvtIntAssertConfig
+         20   12 0002DA60 EvtIntCreateBinXMLFromCustomXML
+         21   13 0002DAB0 EvtIntCreateLocalLogfile
+         22   14 00012D10 EvtIntGetClassicLogDisplayName
+         23   15 0002DC60 EvtIntRenderResourceEventTemplate
+         24   16          EvtIntReportAuthzEventAndSourceAsync (forwarded to ntdll.EvtIntReportAuthzEventAndSourceAsync)
+         25   17          EvtIntReportEventAndSourceAsync (forwarded to ntdll.EvtIntReportEventAndSourceAsync)
+         26   18 00002140 EvtIntRetractConfig
+          1   19 0002D050 EvtIntSysprepCleanup
+         27   1A 0002E210 EvtIntWriteXmlEventToLocalLogfile
+         28   1B 00004BE0 EvtNext
+         29   1C 00011FB0 EvtNextChannelPath
+         30   1D 0002C200 EvtNextEventMetadata
+         31   1E 00011EF0 EvtNextPublisherId
+         32   1F 00006750 EvtOpenChannelConfig
+         33   20 00011700 EvtOpenChannelEnum
+         34   21 0002C3D0 EvtOpenEventMetadataEnum
+         35   22 000107A0 EvtOpenLog
+         36   23 00011860 EvtOpenPublisherEnum
+         37   24 00005740 EvtOpenPublisherMetadata
+         38   25 00001890 EvtOpenSession
+         39   26 0000ABB0 EvtQuery
+         40   27 00002280 EvtRender
+         41   28 0002C590 EvtSaveChannelConfig
+         42   29 0000C200 EvtSeek
+         43   2A 0002C6F0 EvtSetChannelConfigProperty
+         44   2B 0000AFD0 EvtSubscribe
+         45   2C 00002850 EvtUpdateBookmark
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       11000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       49000 .text

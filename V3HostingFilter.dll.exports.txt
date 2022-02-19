@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ntprint4.inf_amd64_0958c7cad3cd6075\Amd64\V3HostingFilter.dll
+
+File Type: DLL
+
+  Section contains the following exports for V3HostingFilter.dll
+
+    00000000 characteristics
+    79727B81 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001680 DllCanUnloadNow
+          2    1 00001530 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\IMETC\IMTCCFG.DLL
+
+File Type: DLL
+
+  Section contains the following exports for compmgr.dll
+
+    00000000 characteristics
+    5400CCF0 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002730 DllCanUnloadNow
+          2    1 00002630 DllGetClassObject
+          3    2 00002750 DllRegisterServer
+          4    3 00002810 DllUnregisterServer
+
+  Summary
+
+        C000 .data
+        1000 .didat
+        2000 .pdata
+       17000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2C000 .text

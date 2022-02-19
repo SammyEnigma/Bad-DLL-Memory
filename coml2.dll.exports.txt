@@ -1,0 +1,59 @@
+
+Dump of file C:\Windows\System32\coml2.dll
+
+File Type: DLL
+
+  Section contains the following exports for coml2.dll
+
+    00000000 characteristics
+    A2AE2189 time date stamp
+        0.00 version
+           1 ordinal base
+          33 number of functions
+          23 number of names
+
+    ordinal hint RVA      name
+
+          9    0 0001FC20 Coml2DllGetClassObject
+         10    1 00001540 CreateILockBytesOnHGlobal
+         13    2 00035220 DllGetClassObject
+         14    3 00043760 FmtIdToPropStgName
+         15    4 000590F0 GetConvertStg
+         16    5 00058FB0 GetHGlobalFromILockBytes
+         17    6 00043790 PropStgNameToFmtId
+         18    7 00059150 ReadClassStg
+         19    8 000221C0 ReadClassStm
+         20    9 00038180 StgCreateDocfile
+         21    A 0001DB20 StgCreateDocfileOnILockBytes
+         22    B 00043800 StgCreatePropSetStg
+         23    C 00043930 StgCreatePropStg
+         24    D 000385B0 StgCreateStorageEx
+         25    E 00038900 StgIsStorageFile
+         26    F 00038AD0 StgIsStorageILockBytes
+         27   10 00043AF0 StgOpenPropStg
+         28   11 0001D270 StgOpenStorage
+         29   12 000387F0 StgOpenStorageEx
+         30   13 00009AF0 StgOpenStorageOnILockBytes
+         31   14 00038B70 StgSetTimes
+         32   15 000591E0 WriteClassStg
+         33   16 00022260 WriteClassStm
+          1      00054810 [NONAME]
+          2      00054740 [NONAME]
+          3      000545A0 [NONAME]
+          4      000447C0 [NONAME]
+          5      000445C0 [NONAME]
+          6      00044A80 [NONAME]
+          7      00043CA0 [NONAME]
+          8      00046F10 [NONAME]
+         11      00037F40 [NONAME]
+         12      00059120 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        5000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       61000 .text

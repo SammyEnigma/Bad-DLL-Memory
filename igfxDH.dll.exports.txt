@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_f3a64c75ee4defb7\igfxDH.dll
+
+File Type: DLL
+
+  Section contains the following exports for igfxDH.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004D50 DllCanUnloadNow
+          2    1 00004D80 DllGetClassObject
+          3    2 00004EF0 DllInstall
+          4    3 00005080 DllRegisterServer
+          5    4 000051C0 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        8000 .pdata
+       32000 .rdata
+        2000 .reloc
+       28000 .rsrc
+       A4000 .text
+        1000 _RDATA

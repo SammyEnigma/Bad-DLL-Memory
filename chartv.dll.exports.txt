@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\chartv.dll
+
+File Type: DLL
+
+  Section contains the following exports for CHARTV.dll
+
+    00000000 characteristics
+    231C0A62 time date stamp
+        0.00 version
+           1 ordinal base
+           8 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00014C50 CvCloseDataSource
+          2    1 00014BA0 CvCreateDataSource
+          3    2 00014CA0 CvGetData
+          4    3 00014FE0 CvGetDataSourceName
+          5    4 00014A60 CvInitialize
+          6    5 00014C90 CvSetData
+          7    6 00014E30 CvSetDataSourceName
+          8    7 00014B70 CvUninitialize
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       16000 .text

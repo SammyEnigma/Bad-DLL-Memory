@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\onex.dll
+
+File Type: DLL
+
+  Section contains the following exports for OneX.DLL
+
+    00000000 characteristics
+    E6453156 time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00020C90 OneXAddEapAttributes
+          2    1 00020E80 OneXAddTLV
+          3    2 00021060 OneXCompareAuthParams
+          4    3 00021610 OneXCopyAuthParams
+          5    4 00021850 OneXCreateDefaultProfile
+          6    5 00021A60 OneXCreateDiscoveryProfiles
+          7    6 00021CD0 OneXCreateSupplicantPort
+          8    7 00021F60 OneXDeInitialize
+          9    8 000220C0 OneXDestroySupplicantPort
+         10    9 00022260 OneXForceAuthenticatedState
+         11    A 00022440 OneXFreeAuthParams
+         12    B 000224C0 OneXFreeMemory
+         13    C 00022570 OneXIndicatePacket
+         14    D 00022790 OneXIndicateSessionChange
+         15    E 00022960 OneXInitialize
+         16    F 00022A80 OneXQueryAuthParams
+         17   10 00022CA0 OneXQueryPendingUIRequest
+         18   11 00022EE0 OneXQueryState
+         19   12 000230B0 OneXQueryStatistics
+         20   13 000232D0 OneXReasonCodeToString
+         21   14 00023400 OneXRestartReasonCodeToString
+         22   15 00023530 OneXSetAuthParams
+         23   16 00023790 OneXSetRuntimeState
+         24   17 00023950 OneXStartAuthentication
+         25   18 00023B50 OneXStopAuthentication
+         26   19 00023D40 OneXUIResponse
+         27   1A 00023FA0 OneXUpdatePortProfile
+         28   1B 00024250 OneXUpdateProfilePostDiscovery
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        2000 .pdata
+        8000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       2C000 .text

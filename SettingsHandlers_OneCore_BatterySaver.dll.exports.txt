@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_OneCore_BatterySaver.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_OneCore_BatterySaver.dll
+
+    00000000 characteristics
+    525F2E78 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001EA0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1F000 .text

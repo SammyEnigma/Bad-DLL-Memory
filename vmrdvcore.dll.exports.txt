@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\vmrdvcore.dll
+
+File Type: DLL
+
+  Section contains the following exports for vmrdvcore.dll
+
+    00000000 characteristics
+    47C9B993 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001100 VmRdvCore_CreateInstance
+          2    1 00001120 VmRdvCore_GetInstance
+          3    2 00001110 VmRdvCore_TerminateInstance
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       21000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4D000 .text

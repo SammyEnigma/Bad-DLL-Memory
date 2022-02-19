@@ -1,0 +1,56 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvoglv64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvoglv64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          30 number of functions
+          30 number of names
+
+    ordinal hint RVA      name
+
+         20    0 00C7ECA0 DllMain
+          1    1 00C6A790 DrvCopyContext
+          2    2 00C6AA60 DrvCreateContext
+          3    3 00C6AA70 DrvCreateLayerContext
+          4    4 00C6AAB0 DrvDeleteContext
+          5    5 00C6B200 DrvDescribeLayerPlane
+          6    6 00C6B480 DrvDescribePixelFormat
+          7    7 00C6B990 DrvGetLayerPaletteEntries
+          8    8 00C6BD00 DrvGetProcAddress
+          9    9 00CA68C0 DrvPresentBuffers
+         10    A 00C6BE90 DrvRealizeLayerPalette
+         11    B 00C6C1B0 DrvReleaseContext
+         12    C 00C6C310 DrvSetCallbackProcs
+         13    D 00C6C560 DrvSetContext
+         14    E 00C6CCC0 DrvSetLayerPaletteEntries
+         15    F 00C6D120 DrvSetPixelFormat
+         16   10 00C6D370 DrvShareLists
+         17   11 00C6D6B0 DrvSwapBuffers
+         18   12 00C6D6C0 DrvSwapLayerBuffers
+         19   13 00C6D9B0 DrvValidateVersion
+         21   14 01023A30 vkCreateInstance
+         22   15 01024050 vkEnumerateInstanceExtensionProperties
+         23   16 01024060 vkEnumerateInstanceLayerProperties
+         24   17 010245E0 vkGetInstanceProcAddr
+         25   18 00C61F50 vkGetProcAddressNV
+         26   19 010BD1F0 vk_icdGetInstanceProcAddr
+         27   1A 010BD2D0 vk_icdGetPhysicalDeviceProcAddr
+         28   1B 010BD340 vk_icdNegotiateLoaderICDInterfaceVersion
+         29   1C 01028690 vk_optimusGetDeviceProcAddr
+         30   1D 010286E0 vk_optimusGetInstanceProcAddr
+
+  Summary
+
+      1C1000 .data
+      12C000 .pdata
+      9F1000 .rdata
+       55000 .reloc
+        1000 .rsrc
+     1C3E000 .text
+       16000 _RDATA

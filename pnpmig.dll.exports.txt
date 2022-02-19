@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\migration\pnpmig.dll
+
+File Type: DLL
+
+  Section contains the following exports for pnpmig.dll
+
+    00000000 characteristics
+    71E1155E time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00005B00 DllCanUnloadNow
+          3    1 000057F0 DllGetClassObject
+          4    2 00005B40 DllMain
+          5    3 00005930 DllRegisterServer
+          6    4 00005A60 DllUnregisterServer
+          1    5 00009A30 PnpMigRunDllW
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+       18000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       44000 .text

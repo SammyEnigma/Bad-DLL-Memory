@@ -1,0 +1,55 @@
+
+Dump of file C:\Windows\System32\activeds.dll
+
+File Type: DLL
+
+  Section contains the following exports for ACTIVEDS.dll
+
+    00000000 characteristics
+    7F344029 time date stamp
+        0.00 version
+           3 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00020590 ADsBuildEnumerator
+          8    1 00020610 ADsBuildVarArrayInt
+          7    2 00020720 ADsBuildVarArrayStr
+         24    3          ADsDecodeBinaryData (forwarded to ADSLDPC.ADsDecodeBinaryData)
+         20    4          ADsEncodeBinaryData (forwarded to ADSLDPC.ADsEncodeBinaryData)
+          6    5 00020850 ADsEnumerateNext
+          5    6 00020870 ADsFreeEnumerator
+         13    7          ADsGetLastError (forwarded to ADSLDPC.ADsGetLastError)
+          3    8 00001010 ADsGetObject
+          9    9 00021400 ADsOpenObject
+         12    A          ADsSetLastError (forwarded to ADSLDPC.ADsSetLastError)
+         23    B 000059B0 AdsFreeAdsValues
+         22    C 000059F0 AdsTypeToPropVariant
+         25    D 00005A20 AdsTypeToPropVariant2
+         14    E          AllocADsMem (forwarded to ADSLDPC.AllocADsMem)
+         17    F          AllocADsStr (forwarded to ADSLDPC.AllocADsStr)
+         29   10 000208A0 BinarySDToSecurityDescriptor
+         27   11 00027C80 ConvertSecDescriptorToVariant
+         28   12 0002B040 ConvertSecurityDescriptorToSecDes
+         31   13 0002B4D0 ConvertTrusteeToSid
+         10   14 00020A10 DllCanUnloadNow
+         11   15 00020A90 DllGetClassObject
+         15   16          FreeADsMem (forwarded to ADSLDPC.FreeADsMem)
+         18   17          FreeADsStr (forwarded to ADSLDPC.FreeADsStr)
+         21   18 00005BF0 PropVariantToAdsType
+         26   19 00005C20 PropVariantToAdsType2
+         16   1A          ReallocADsMem (forwarded to ADSLDPC.ReallocADsMem)
+         19   1B          ReallocADsStr (forwarded to ADSLDPC.ReallocADsStr)
+         30   1C 00020920 SecurityDescriptorToBinarySD
+
+  Summary
+
+        5000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2E000 .text

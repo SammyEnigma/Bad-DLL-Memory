@@ -1,0 +1,51 @@
+
+Dump of file C:\Windows\System32\verifier.dll
+
+File Type: DLL
+
+  Section contains the following exports for VERIFIER.dll
+
+    00000000 characteristics
+    3CBE5ECD time date stamp
+        0.00 version
+           1 ordinal base
+          26 number of functions
+          26 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000091E0 AVrfAPILookupCallback
+          2    1 0000A4C0 VerifierAddFreeMemoryCallback
+          3    2 0000A8A0 VerifierCheckPageHeapAllocation
+          4    3 0000A3C0 VerifierCreateRpcPageHeap
+          5    4 0000A540 VerifierDeleteFreeMemoryCallback
+          6    5 0000A400 VerifierDestroyRpcPageHeap
+          7    6 00001E00 VerifierDisableFaultInjectionExclusionRange
+          8    7 00001C60 VerifierDisableFaultInjectionTargetRange
+          9    8 00001D40 VerifierEnableFaultInjectionExclusionRange
+         10    9 00001B70 VerifierEnableFaultInjectionTargetRange
+         11    A 0000A1F0 VerifierEnumerateResource
+         12    B 0000A830 VerifierForceNormalHeap
+         13    C 0000A6F0 VerifierGetInfoForException
+         14    D 0000A790 VerifierGetMemoryForDump
+         15    E 0000A9E0 VerifierGetPropertyValueByName
+         16    F 0000A960 VerifierGetProviderHelper
+         17   10 0000A570 VerifierIsAddressInAnyPageHeap
+         18   11 0000A480 VerifierIsCurrentThreadHoldingLocks
+         19   12 0000A440 VerifierIsDllEntryActive
+         20   13 0000A940 VerifierIsPerUserSettingsEnabled
+         21   14 0000A360 VerifierQueryRuntimeFlags
+         22   15 00006760 VerifierRedirectStopFunctions
+         23   16 00001AE0 VerifierSetFaultInjectionProbability
+         24   17 00007960 VerifierSetFlags
+         25   18 0000A320 VerifierSetRuntimeFlags
+         26   19 00006770 VerifierStopMessage
+
+  Summary
+
+       1B000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+       22000 .rsrc
+       29000 .text

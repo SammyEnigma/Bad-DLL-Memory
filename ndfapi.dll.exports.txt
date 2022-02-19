@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\ndfapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for NDFAPI.DLL
+
+    00000000 characteristics
+    5840C621 time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          7    0 00001410 DllCanUnloadNow
+          8    1 00001450 DllGetClassObject
+          9    2 00001590 DllRegisterServer
+         10    3 000016D0 DllUnregisterServer
+         11    4 00014330 NdfCancelIncident
+         12    5 00006C90 NdfCloseIncident
+         13    6 00006480 NdfCreateConnectivityIncident
+         14    7 00006370 NdfCreateDNSIncident
+         15    8 00006770 NdfCreateGroupingIncident
+         16    9 00006A10 NdfCreateInboundIncident
+         17    A 00005800 NdfCreateIncident
+         18    B 00006540 NdfCreateNetConnectionIncident
+         19    C 000065C0 NdfCreatePnrpIncident
+         20    D 00006280 NdfCreateSharingIncident
+         21    E 00006040 NdfCreateWebIncident
+         22    F 00006150 NdfCreateWebIncidentEx
+         23   10 00005C40 NdfCreateWinSockIncident
+         24   11 00014260 NdfDiagnoseIncident
+         25   12 00005C20 NdfExecuteDiagnosis
+         26   13 000143B0 NdfGetTraceFile
+         27   14 000142A0 NdfRepairIncident
+         28   15 000142F0 NdfRepairIncidentEx
+          1   16 00006DB0 NdfRunDllDiagnoseIncident
+          2   17 00006DF0 NdfRunDllDiagnoseNetConnectionIncident
+          3   18 0000B0E0 NdfRunDllDiagnoseWithAnswerFile
+          4   19 00006F80 NdfRunDllDuplicateIPDefendingSystem
+          5   1A 00007280 NdfRunDllDuplicateIPOffendingSystem
+          6   1B 00006CD0 NdfRunDllHelpTopic
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        2000 .pdata
+        E000 .rdata
+        1000 .reloc
+       17000 .rsrc
+       1E000 .text

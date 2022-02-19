@@ -1,0 +1,73 @@
+
+Dump of file C:\Windows\System32\computenetwork.dll
+
+File Type: DLL
+
+  Section contains the following exports for computenetwork.dll
+
+    00000000 characteristics
+    523C4BC3 time date stamp
+        0.00 version
+           1 ordinal base
+          48 number of functions
+          48 number of names
+
+    ordinal hint RVA      name
+
+         19    0 00005790 HcnCloseEndpoint
+          1    1 000065D0 HcnCloseGuestNetworkService
+         20    2 00005C50 HcnCloseLoadBalancer
+         21    3 00005230 HcnCloseNamespace
+         22    4 00004C90 HcnCloseNetwork
+          2    5 00006110 HcnCloseSdnRoute
+         23    6 00005350 HcnCreateEndpoint
+          3    7 00006230 HcnCreateGuestNetworkService
+         24    8 000058B0 HcnCreateLoadBalancer
+         25    9 00004E90 HcnCreateNamespace
+         26    A 000041B0 HcnCreateNetwork
+          4    B 00005D70 HcnCreateSdnRoute
+         27    C 00005710 HcnDeleteEndpoint
+          5    D 00006550 HcnDeleteGuestNetworkService
+         28    E 00005BD0 HcnDeleteLoadBalancer
+         29    F 000051B0 HcnDeleteNamespace
+         30   10 00004A60 HcnDeleteNetwork
+          6   11 00006090 HcnDeleteSdnRoute
+         31   12 00005290 HcnEnumerateEndpoints
+          7   13 00006170 HcnEnumerateGuestNetworkServices
+         32   14 000057F0 HcnEnumerateLoadBalancers
+         33   15 00004DD0 HcnEnumerateNamespaces
+         34   16 00003F00 HcnEnumerateNetworks
+          8   17 00005CB0 HcnEnumerateSdnRoutes
+         35   18 00005560 HcnModifyEndpoint
+          9   19 000063A0 HcnModifyGuestNetworkService
+         36   1A 00005A20 HcnModifyLoadBalancer
+         37   1B 00005000 HcnModifyNamespace
+         38   1C 00004700 HcnModifyNetwork
+         10   1D 00005EE0 HcnModifySdnRoute
+         39   1E 000054B0 HcnOpenEndpoint
+         11   1F 000062F0 HcnOpenGuestNetworkService
+         40   20 00005970 HcnOpenLoadBalancer
+         41   21 00004F50 HcnOpenNamespace
+         42   22 00004470 HcnOpenNetwork
+         12   23 00005E30 HcnOpenSdnRoute
+         43   24 00005620 HcnQueryEndpointProperties
+         13   25 00006460 HcnQueryGuestNetworkServiceProperties
+         44   26 00005AE0 HcnQueryLoadBalancerProperties
+         45   27 000050C0 HcnQueryNamespaceProperties
+         46   28 000048C0 HcnQueryNetworkProperties
+         14   29 00005FA0 HcnQuerySdnRouteProperties
+         15   2A 00006940 HcnRegisterGuestNetworkServiceCallback
+         16   2B 00006A50 HcnRegisterNetworkCallback
+         47   2C 00006630 HcnRegisterServiceCallback
+         17   2D 000069F0 HcnUnregisterGuestNetworkServiceCallback
+         18   2E 00006B00 HcnUnregisterNetworkCallback
+         48   2F 00006880 HcnUnregisterServiceCallback
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

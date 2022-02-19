@@ -1,0 +1,8 @@
+
+Dump of file C:\Windows\System32\spool\drivers\x64\3\PCLXL.DLL
+
+File Type: DLL
+
+  Summary
+
+       32000 .rsrc

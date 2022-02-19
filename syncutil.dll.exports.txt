@@ -1,0 +1,309 @@
+
+Dump of file C:\Windows\System32\syncutil.dll
+
+File Type: DLL
+
+  Section contains the following exports for SYNCUTIL.dll
+
+    00000000 characteristics
+    9DFD6167 time date stamp
+        0.00 version
+           1 ordinal base
+         748 number of functions
+          92 number of names
+
+    ordinal hint RVA      name
+
+         77    0 00014A90 AcquireDataStoreLock
+         78    1 000148F0 AcquireDataStoreLockEx
+         79    2 00016000 AggregateAccountSyncStats
+         80    3 000160D0 AggregateSessionSyncStats
+         81    4 00014D60 CloseDataStoreLock
+         82    5 0001A160 CoCreateInstanceElevated
+         90    6 0001C2A0 CreateAuthHandler
+         91    7 00014C50 CreateDataStoreLock
+         92    8 0001E660 CreateSyncBufferedStream
+         96    9 0001F760 CredVaultDelete
+         97    A 0001F530 CredVaultRead
+         98    B 0001F150 CredVaultWrite
+         99    C 00021480 DeleteAuthCertHash
+        101    D 00023200 DeleteDataSource
+        102    E 000071F0 DeleteHttpTransport
+        110    F 000210B0 DeleteOAuthRefreshTokenForPartnership
+        114   10 0001EFE0 DeletePwd
+          5   11 0003E8C0 DeviceNeedsProvisioning
+        115   12 00004940 DllCanUnloadNow
+        116   13 00004980 DllGetClassObject
+        117   14 000118D0 DoesServerSupportAutoMoveSentItem
+        410   15 0003E6D0 FindErrorCode
+        126   16 00026090 GetAADToken
+        127   17 00015EE0 GetAccountSyncStats
+        129   18 00028720 GetAccountUsernameFromToken
+        136   19 000212A0 GetAuthCertHash
+        137   1A 0001F960 GetAuthCertTargetAndUser
+          6   1B 0000A2E0 GetAuthority
+        138   1C 000103C0 GetBatterySaverWnfName
+        139   1D 00015FA0 GetCurrentSyncStats
+        140   1E 00016220 GetCurrentSyncStatsForMessage
+        141   1F 00016150 GetCurrentSyncStatsForStore
+        142   20 000129F0 GetDefaultDeviceType
+        143   21 000292E0 GetDefaultMsaWebAccountId
+        144   22 000230C0 GetDefaultStoreDirty
+        145   23 00041CE0 GetDomainFromEmail
+          7   24 000059D0 GetGalSearchResultsFolderAndPartnerGuidEx
+        146   25 000231A0 GetGoldenPartnershipId
+        147   26 00007E80 GetMonitorDisplayState
+        148   27 000295D0 GetMsaCustomerId
+        149   28 0002B3E0 GetOAuthAccessTokenForPartnership
+        150   29 00027DA0 GetOAuthHelperForAccount
+        151   2A 00027860 GetOAuthHelperForProvider
+        152   2B 0002BAA0 GetOutgoingMessageSizeLimit
+          8   2C 0000A3B0 GetProviderUri
+          1   2D 00011970 GetSHA1HashOfString
+        153   2E 00015F40 GetSessionSyncStats
+        154   2F 0001EC60 GetSyncTargetName
+        155   30 00012C30 GetSyncWorkOnBehalfTicket
+         11   31 0000C5C0 GetWebAccountId
+         12   32 0000BB30 GetWebAccountProvider
+         16   33 0000B9A0 GetWebAccountProviderFromProviderId
+        156   34 00010570 HasNeverSyncedSuccessfully
+        157   35 0001F8F0 InitializeCredVault
+        158   36 00029A40 InitializeMeContact
+        159   37 00029BC0 InitializeMsaStore
+         43   38 000100A0 InitializeServerReadyEvents
+        160   39 000425B0 InitializeSyncStatus
+        161   3A 0002B600 InvalidateOAuthAccessTokenForPartnership
+         45   3B 00010360 IsACOn
+        162   3C 000105E0 IsFirstSyncEver
+        163   3D 0003F4F0 IsMatchingClientCertificateEx
+        164   3E 0001EEB0 IsPwdSaved
+         46   3F 00010330 IsScreenOn
+        165   40 00026110 IsValidAADAuthUri
+        166   41 0002D1B0 LoadHeartbeatValues
+        167   42 00001EE0 LogSyncBiweeklySQM
+         57   43 00010180 MarkServerReady
+         58   44 000101A0 MarkServerShutdown
+        168   45 00022890 MarkUserDataAccountAsHidden
+        169   46 000277B0 OAuthHelper_CreateInstance
+        170   47 0001E790 OpenMimeBufferedStream
+         62   48 00009F20 OpenProviderKey
+        171   49 000211A0 ReadOAuthRefreshTokenForPartnership
+        172   4A 00020CC0 ReadPasswordForPartnership
+        173   4B 00025F70 RegisterSsoAccountsCallback
+        174   4C 00014C10 ReleaseDataStoreLock
+        175   4D 00021380 SetAuthCertHash
+        176   4E 000103D0 SetBatterySaverWnfName
+        177   4F 00023140 SetDefaultStoreDirty
+        178   50 00007D90 SetMonitorDisplayState
+        179   51 0002B9C0 SetOutgoingMessageSizeLimit
+        180   52 00012CA0 SetSyncWorkOnBehalfTicket
+        181   53 00002060 SyncSqmUpdateStats
+        182   54 00025DF0 TryGetDefaultSignInAccountInfo
+         63   55 00010130 UninitializeServerReadyEvents
+         70   56 000141F0 UpdateYahooAccountType
+        183   57 00002060 VerifyDataStoreLockOwner
+         75   58 00010230 WaitForServerReady
+         76   59 000101C0 WaitForSignalOrShutdown
+        184   5A 00021050 WriteOAuthRefreshTokenForPartnership
+        185   5B 00020AB0 WritePasswordForPartnership
+          2      00040B00 [NONAME]
+          3      000410A0 [NONAME]
+          4      00011E70 [NONAME]
+          9      0002D630 [NONAME]
+         10      0002D780 [NONAME]
+         13      00021E30 [NONAME]
+         14      00017190 [NONAME]
+         15      0003FE50 [NONAME]
+         17      0003FFA0 [NONAME]
+         18      0003FFF0 [NONAME]
+         19      00040030 [NONAME]
+         20      00040070 [NONAME]
+         21      00040D20 [NONAME]
+         22      00040BC0 [NONAME]
+         23      00040A10 [NONAME]
+         24      00040EB0 [NONAME]
+         25      00041140 [NONAME]
+         26      00040970 [NONAME]
+         27      00040F80 [NONAME]
+         28      00040650 [NONAME]
+         29      00040880 [NONAME]
+         30      00040A50 [NONAME]
+         31      00041010 [NONAME]
+         32      00010DA0 [NONAME]
+         33      00016E20 [NONAME]
+         34      00017390 [NONAME]
+         35      00017570 [NONAME]
+         36      00022AC0 [NONAME]
+         37      00021FE0 [NONAME]
+         38      000411F0 [NONAME]
+         39      00041290 [NONAME]
+         40      00016FF0 [NONAME]
+         41      00016F00 [NONAME]
+         42      00021D20 [NONAME]
+         44      00021AB0 [NONAME]
+         47      00021E10 [NONAME]
+         48      00022180 [NONAME]
+         49      00021EF0 [NONAME]
+         50      00021ED0 [NONAME]
+         51      00022290 [NONAME]
+         52      00022230 [NONAME]
+         53      00019690 [NONAME]
+         54      00019790 [NONAME]
+         55      00019A10 [NONAME]
+         56      00021F40 [NONAME]
+         59      00041350 [NONAME]
+         60      00023890 [NONAME]
+         61      000236F0 [NONAME]
+         64      000110B0 [NONAME]
+         65      00010E70 [NONAME]
+         66      00011320 [NONAME]
+         67      000110E0 [NONAME]
+         68      000176A0 [NONAME]
+         69      00017810 [NONAME]
+         71      0002C0D0 [NONAME]
+         72      0002C030 [NONAME]
+         73      0002BBC0 [NONAME]
+         74      0002BD00 [NONAME]
+         83      0002C7B0 [NONAME]
+         84      0002C7D0 [NONAME]
+         85      0002C7F0 [NONAME]
+         86      0003E700 [NONAME]
+         87      00022EC0 [NONAME]
+         88      0003E7E0 [NONAME]
+         89      0003E890 [NONAME]
+         93      0003FF00 [NONAME]
+         94      00041410 [NONAME]
+         95      00041540 [NONAME]
+        100      00041660 [NONAME]
+        103      000202C0 [NONAME]
+        104      00020350 [NONAME]
+        105      000200B0 [NONAME]
+        106      000201C0 [NONAME]
+        107      00020240 [NONAME]
+        108      00040C70 [NONAME]
+        109      00022130 [NONAME]
+        111      000222E0 [NONAME]
+        112      000222F0 [NONAME]
+        113      00022E30 [NONAME]
+        118      0002C2B0 [NONAME]
+        119      0002C390 [NONAME]
+        120      000461D0 [NONAME]
+        121      00046190 [NONAME]
+        122      00046150 [NONAME]
+        123      00046110 [NONAME]
+        124      000460D0 [NONAME]
+        125      00046090 [NONAME]
+        128      00046050 [NONAME]
+        130      00046010 [NONAME]
+        131      00045FD0 [NONAME]
+        132      00045F90 [NONAME]
+        133      00045F50 [NONAME]
+        134      00045F10 [NONAME]
+        135      00045ED0 [NONAME]
+        241      00021D70 [NONAME]
+        242      000220C0 [NONAME]
+        243      00041A60 [NONAME]
+        244      00041A80 [NONAME]
+        245      00041AA0 [NONAME]
+        247      00041AC0 [NONAME]
+        248      00041AE0 [NONAME]
+        249      00041B30 [NONAME]
+        251      00041B80 [NONAME]
+        252      00041BA0 [NONAME]
+        253      00041C20 [NONAME]
+        254      00041C40 [NONAME]
+        255      00022740 [NONAME]
+        256      00040270 [NONAME]
+        257      00040450 [NONAME]
+        268      0002A810 [NONAME]
+        269      0002A920 [NONAME]
+        270      00006F20 [NONAME]
+        271      00006FA0 [NONAME]
+        272      000071A0 [NONAME]
+        273      00007030 [NONAME]
+        274      000071B0 [NONAME]
+        275      00007360 [NONAME]
+        277      00007510 [NONAME]
+        279      00007520 [NONAME]
+        280      000075A0 [NONAME]
+        281      00007740 [NONAME]
+        282      000078E0 [NONAME]
+        283      00007A40 [NONAME]
+        285      00007BF0 [NONAME]
+        286      00007BE0 [NONAME]
+        287      00007C80 [NONAME]
+        288      0001BD20 [NONAME]
+        290      0001A9A0 [NONAME]
+        291      00007D00 [NONAME]
+        292      00029FD0 [NONAME]
+        296      0002A4A0 [NONAME]
+        299      00012410 [NONAME]
+        301      00011350 [NONAME]
+        305      00041960 [NONAME]
+        306      00011560 [NONAME]
+        307      00011860 [NONAME]
+        308      000114F0 [NONAME]
+        311      00010750 [NONAME]
+        312      000113E0 [NONAME]
+        313      000108D0 [NONAME]
+        362      000115A0 [NONAME]
+        363      000117F0 [NONAME]
+        412      00025400 [NONAME]
+        413      00025460 [NONAME]
+        440      00012030 [NONAME]
+        441      000120A0 [NONAME]
+        442      00012110 [NONAME]
+        451      0002CCF0 [NONAME]
+        452      0002CCA0 [NONAME]
+        453      0002CD40 [NONAME]
+        461      00025280 [NONAME]
+        462      000252D0 [NONAME]
+        463      00025370 [NONAME]
+        464      000253C0 [NONAME]
+        470      000104D0 [NONAME]
+        471      000103F0 [NONAME]
+        472      00010510 [NONAME]
+        475      00010640 [NONAME]
+        476      000104F0 [NONAME]
+        500      000241B0 [NONAME]
+        501      000242A0 [NONAME]
+        502      000244B0 [NONAME]
+        503      00024510 [NONAME]
+        504      00024780 [NONAME]
+        505      00024980 [NONAME]
+        506      00024AD0 [NONAME]
+        509      00006F30 [NONAME]
+        510      00006F40 [NONAME]
+        511      0001D1A0 [NONAME]
+        701      0003F180 [NONAME]
+        702      0003F330 [NONAME]
+        703      0003F6F0 [NONAME]
+        704      0003F730 [NONAME]
+        705      0003F910 [NONAME]
+        720      00013E60 [NONAME]
+        721      00013F40 [NONAME]
+        722      00014050 [NONAME]
+        733      00017DE0 [NONAME]
+        734      00022EE0 [NONAME]
+        735      00023060 [NONAME]
+        736      00018070 [NONAME]
+        737      00018100 [NONAME]
+        738      00018AF0 [NONAME]
+        739      00012670 [NONAME]
+        742      00005940 [NONAME]
+        743      00005B90 [NONAME]
+        744      00005D80 [NONAME]
+        745      000060B0 [NONAME]
+        746      00006330 [NONAME]
+        747      000063E0 [NONAME]
+        748      000064B0 [NONAME]
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        4000 .pdata
+       16000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       44000 .text

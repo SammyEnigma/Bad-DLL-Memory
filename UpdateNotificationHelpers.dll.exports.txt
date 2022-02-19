@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\UNP\UpdateNotificationHelpers.dll
+
+File Type: DLL
+
+  Section contains the following exports for UpdateNotificationHelpers.dll
+
+    00000000 characteristics
+    1F68DA76 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000067F0 GetCampaignContentLocation
+          2    1 000069E0 InitializeUpdateNotificationMgrTask
+          3    2 000066C0 IsCampaignActive
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       17000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       4B000 .text

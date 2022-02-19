@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SettingsHandlers_ContentDeliveryManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for SettingsHandlers_ContentDeliveryManager.dll
+
+    00000000 characteristics
+    A4484AA0 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003020 DllCanUnloadNow
+          2    1 00002F20 DllGetClassObject
+          3    2 000030A0 GetSetting
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1E000 .text

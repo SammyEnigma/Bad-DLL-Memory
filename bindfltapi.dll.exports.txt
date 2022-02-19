@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\bindfltapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for BINDFLTAPI.dll
+
+    00000000 characteristics
+    981E285A time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E720 BfAttachFilter
+          2    1 00001450 BfGenerateBatchedConfig
+          3    2 00001A60 BfGetMappings
+          4    3 0000F000 BfRemoveMapping
+          5    4 00001440 BfRemoveMappingEx
+          6    5 0000EC70 BfSetupFilter
+          7    6 00001770 BfSetupFilterBatched
+          8    7 00001430 BfSetupFilterEx
+          9    8 00001DC0 BfTrackWritesFromSilo
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        7000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       11000 .text

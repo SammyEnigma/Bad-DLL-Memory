@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\PlayToManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for PlayToManager.dll
+
+    00000000 characteristics
+    C81372BF time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00023E50 DllCanUnloadNow
+          2    1 00023E90 DllGetActivationFactory
+          3    2 00023ED0 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        6000 .pdata
+       38000 .rdata
+        6000 .reloc
+        1000 .rsrc
+       52000 .text

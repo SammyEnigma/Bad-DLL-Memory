@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\vbsapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for VbsApi.dll
+
+    00000000 characteristics
+    461BF9CB time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003540 HvciGetConfig
+          2    1 000034C0 HvciGetConfigFromVBSKey
+          3    2 000032F0 HvciIncompatibilityScanCancel
+          4    3 00003380 HvciIncompatibilityScanFree
+          5    4 00003350 HvciIncompatibilityScanGetResult
+          6    5 00003170 HvciIncompatibilityScanInitialize
+          7    6 00003210 HvciIncompatibilityScanOverrideDriverCompatDatabase
+          8    7 00003200 HvciIncompatibilityScanOverrideServicesKey
+          9    8 00003260 HvciIncompatibilityScanStart
+         10    9 00003450 HvciIsActive
+         11    A 00001080 VbsGetIssues
+         12    B 000012F0 VbsIsCapable
+         13    C 000012E0 VbsIsRecommended
+         14    D 00001370 VbsIsScenarioEnabled
+         15    E 000015E0 VbsSetScenarioEnable
+         16    F 000013B0 VbsSetScenarioEnableToVBSKey
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

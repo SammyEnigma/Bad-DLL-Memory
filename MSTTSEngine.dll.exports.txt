@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Speech\Engines\TTS\MSTTSEngine.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSTTSEngine.DLL
+
+    00000000 characteristics
+    D65F8F9A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001620 DllCanUnloadNow
+          2    1 00001660 DllGetClassObject
+          3    2 000017A0 DllRegisterServer
+          4    3 000018E0 DllUnregisterServer
+
+  Summary
+
+        6000 .data
+        7000 .pdata
+       27000 .rdata
+        2000 .reloc
+        8000 .rsrc
+       BA000 .text

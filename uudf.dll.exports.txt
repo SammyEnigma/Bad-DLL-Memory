@@ -1,0 +1,43 @@
+
+Dump of file C:\Windows\System32\uudf.dll
+
+File Type: DLL
+
+  Section contains the following exports for UUDF.dll
+
+    00000000 characteristics
+    104193A5 time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001AB90 ??0METADATA_PARTITION@@QEAA@XZ
+          2    1 00012B90 ??0UDF_LVOL@@QEAA@XZ
+          3    2 00019530 ??0UDF_SA@@QEAA@XZ
+          4    3 00019900 ??0UDF_VOL@@QEAA@XZ
+          5    4 0001ABF0 ??1METADATA_PARTITION@@UEAA@XZ
+          6    5 00012ED0 ??1UDF_LVOL@@UEAA@XZ
+          7    6 00019640 ??1UDF_SA@@UEAA@XZ
+          8    7 00019950 ??1UDF_VOL@@UEAA@XZ
+          9    8 00013860 ?CreateOnDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@PEAUEXTENTAD@@K3@Z
+         10    9 00019690 ?Initialize@UDF_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@G@Z
+         11    A 00019990 ?Initialize@UDF_VOL@@QEAA?AW4FORMAT_ERROR_CODE@@PEBVWSTRING@@PEAVMESSAGE@@EGEEE@Z
+         12    B 00013400 ?ReadFromDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@@Z
+         13    C 0000D580 Chkdsk
+         14    D 0000D770 ChkdskEx
+         15    E 0000DF00 Format
+         16    F 0000E240 FormatEx
+         17   10 0000DB50 GetFilesystemInformation
+         18   11 0000E800 Recover
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       24000 .text

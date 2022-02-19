@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\IME\SHARED\IMEDICAPICCPS.DLL
+
+File Type: DLL
+
+  Section contains the following exports for dicapips.dll
+
+    00000000 characteristics
+    F21FC818 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001180 DllCanUnloadNow
+          2    1 00001130 DllGetClassObject
+          3    2 000011F0 DllRegisterServer
+          4    3 00001230 DllUnregisterServer
+          5    4 00001100 GetProxyDllInfo
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        1000 .text

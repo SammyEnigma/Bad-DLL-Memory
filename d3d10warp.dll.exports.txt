@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\d3d10warp.dll
+
+File Type: DLL
+
+  Section contains the following exports for d3d10warp.dll
+
+    00000000 characteristics
+    50C1F389 time date stamp
+        0.00 version
+         199 ordinal base
+           9 number of functions
+           8 number of names
+
+    ordinal hint RVA      name
+
+        201    0 000498D0 D3D11RefGetLastCreation
+        202    1 00049730 D3DLayerGetInterface
+        203    2 0004D190 OpenAdapter
+        204    3 0004D240 OpenAdapter10_2
+        205    4 0004D2F0 OpenAdapter12
+        206    5 0004D510 OpenDisplayAdapter1
+        207    6 0004D740 QueryDListForApplication1
+        200    7 006B2A20 VSD3DDebugConnectionBuffer
+        199      0004DAB0 [NONAME]
+
+  Summary
+
+       19000 .data
+        1000 .didat
+       27000 .pdata
+       D4000 .rdata
+        6000 .reloc
+        1000 .rsrc
+      5D9000 .text

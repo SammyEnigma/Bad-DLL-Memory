@@ -1,0 +1,112 @@
+
+Dump of file C:\Windows\System32\logoncli.dll
+
+File Type: DLL
+
+  Section contains the following exports for logoncli.dll
+
+    00000000 characteristics
+    85DE5763 time date stamp
+        0.00 version
+           1 ordinal base
+          86 number of functions
+          86 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001F7B0 AuthzrExtAccessCheck
+          2    1 0001F840 AuthzrExtFreeContext
+          3    2 0001F8C0 AuthzrExtFreeResourceManager
+          4    3 0001F8F0 AuthzrExtGetInformationFromContext
+          5    4 0001F960 AuthzrExtInitializeCompoundContext
+          6    5 0001F9F0 AuthzrExtInitializeContextFromSid
+          7    6 0001FA90 AuthzrExtInitializeRemoteResourceManager
+          8    7 0001FBF0 AuthzrExtModifyClaims
+          9    8 00015690 DsAddressToSiteNamesA
+         10    9 00015950 DsAddressToSiteNamesExA
+         11    A 00015D30 DsAddressToSiteNamesExW
+         12    B 00015FF0 DsAddressToSiteNamesW
+         13    C 000191C0 DsDeregisterDnsHostRecordsA
+         14    D 000192C0 DsDeregisterDnsHostRecordsW
+         15    E 00019350 DsEnumerateDomainTrustsA
+         16    F 000197C0 DsEnumerateDomainTrustsW
+         17   10 000161C0 DsGetDcCloseW
+         18   11 000161D0 DsGetDcNameA
+         19   12 00007080 DsGetDcNameW
+         20   13 00016210 DsGetDcNameWithAccountA
+         21   14 000070C0 DsGetDcNameWithAccountW
+         22   15 00016760 DsGetDcNextA
+         23   16 00016880 DsGetDcNextW
+         24   17 000169A0 DsGetDcOpenA
+         25   18 00016AD0 DsGetDcOpenW
+         26   19 00016C00 DsGetDcSiteCoverageA
+         27   1A 00016E70 DsGetDcSiteCoverageW
+         28   1B 000198E0 DsGetForestTrustInformationW
+         29   1C 00017040 DsGetSiteNameA
+         30   1D 000170F0 DsGetSiteNameW
+         31   1E 00019980 DsMergeForestTrustInformationW
+         32   1F 000172E0 DsValidateSubnetNameA
+         33   20 00017340 DsValidateSubnetNameW
+         34   21 000174E0 I_DsUpdateReadOnlyServerDnsRecords
+         35   22 000199E0 I_NetAccountDeltas
+         36   23 000199E0 I_NetAccountSync
+         37   24 000199F0 I_NetChainSetClientAttributes
+         38   25 00019AB0 I_NetChainSetClientAttributes2
+         39   26 000199E0 I_NetDatabaseDeltas
+         40   27 000199E0 I_NetDatabaseRedo
+         41   28 000199E0 I_NetDatabaseSync
+         42   29 000199E0 I_NetDatabaseSync2
+         43   2A 00019B70 I_NetExtendMachinePasswordExpirationTimeout
+         44   2B 00015310 I_NetGetDCList
+         45   2C 00019BD0 I_NetGetForestTrustInformation
+         46   2D 00019C70 I_NetLogonControl
+         47   2E 00019D00 I_NetLogonControl2
+         48   2F 00019E60 I_NetLogonGetCapabilities
+         49   30 00019F00 I_NetLogonGetDomainInfo
+         50   31 000186E0 I_NetLogonSamLogoff
+         51   32 00018780 I_NetLogonSamLogon
+         52   33 000188B0 I_NetLogonSamLogonEx
+         53   34 00018A00 I_NetLogonSamLogonWithFlags
+         54   35 00018B40 I_NetLogonSendToSam
+         55   36 00018BE0 I_NetLogonUasLogoff
+         56   37 00018C50 I_NetLogonUasLogon
+         57   38 00019FD0 I_NetQuerySecureChannelDCInfo
+         58   39 0001A040 I_NetServerAuthenticate
+         59   3A 0001A0E0 I_NetServerAuthenticate2
+         60   3B 0001A180 I_NetServerAuthenticate3
+         61   3C 0001A230 I_NetServerGetTrustInfo
+         62   3D 0001A2F0 I_NetServerPasswordGet
+         63   3E 0001A390 I_NetServerPasswordSet
+         64   3F 0001A430 I_NetServerPasswordSet2
+         65   40 0001A4D0 I_NetServerReqChallenge
+         66   41 0001A550 I_NetServerTrustPasswordsGet
+         67   42 0001A600 I_NetlogonComputeClientDigest
+         68   43 0001A690 I_NetlogonComputeClientSignature
+         69   44 0001A740 I_NetlogonComputeServerDigest
+         70   45 0001A7D0 I_NetlogonComputeServerSignature
+         71   46 0001A880 I_NetlogonGetTrustRid
+         72   47 00007E40 I_RpcExtInitializeExtensionPoint
+         73   48 0001AD40 NetAddServiceAccount
+         74   49 0001ADC0 NetEnumerateServiceAccounts
+         75   4A 0001A8F0 NetEnumerateTrustedDomains
+         76   4B 00017580 NetGetAnyDCName
+         77   4C 000175F0 NetGetDCName
+         78   4D 0001AEA0 NetIsServiceAccount
+         79   4E 0001A990 NetLogonGetTimeServiceParentDomain
+         80   4F 0001AA00 NetLogonSetServiceBits
+         81   50 0001AF10 NetQueryServiceAccount
+         82   51 0001AFC0 NetRemoveServiceAccount
+         83   52 00018DF0 NlBindingAddServerToCache
+         84   53 00019080 NlBindingRemoveServerFromCache
+         85   54 000190E0 NlBindingSetAuthInfo
+         86   55 00017850 NlSetDsIsCloningPDC
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+       1B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       21000 .text

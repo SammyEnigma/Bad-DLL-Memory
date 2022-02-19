@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\imapi2fs.dll
+
+File Type: DLL
+
+  Section contains the following exports for imapi2fs.DLL
+
+    00000000 characteristics
+    51926313 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007D00 DllCanUnloadNow
+          2    1 00007D50 DllGetClassObject
+          3    2 00007DD0 DllRegisterServer
+          4    3 00007E80 DllUnregisterServer
+
+  Summary
+
+        7000 .data
+        7000 .pdata
+       3F000 .rdata
+        2000 .reloc
+        C000 .rsrc
+       9D000 .text

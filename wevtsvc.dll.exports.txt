@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\wevtsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for wevtsvc.dll
+
+    00000000 characteristics
+    5A045FBF time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000516F0 ServiceMain
+          2    1 0005CEB0 SvchostPushServiceGlobalsEx
+
+  Summary
+
+       37000 .data
+        1000 .didat
+        C000 .pdata
+       95000 .rdata
+        7000 .reloc
+        6000 .rsrc
+       ED000 .text

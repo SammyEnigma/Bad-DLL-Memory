@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\RstrtMgr.dll
+
+File Type: DLL
+
+  Section contains the following exports for RstrtMgr.DLL
+
+    00000000 characteristics
+    10B7A70B time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000037F0 RmAddFilter
+          2    1 00003890 RmCancelCurrentTask
+          3    2 00003900 RmEndSession
+          4    3 00003980 RmGetFilterList
+          5    4 00003A10 RmGetList
+          6    5 00003AA0 RmJoinSession
+          7    6 00003BF0 RmRegisterResources
+          8    7 00003CA0 RmRemoveFilter
+          9    8 00003D30 RmReserveHeap
+         10    9 00003ED0 RmRestart
+         11    A 00003F40 RmShutdown
+         12    B 00003FC0 RmStartSession
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       25000 .text

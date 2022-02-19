@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\evr.dll
+
+File Type: DLL
+
+  Section contains the following exports for EVR.dll
+
+    00000000 characteristics
+    7F2884CC time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          2    0 0001F0F0 DllCanUnloadNow
+          3    1 00010410 DllGetClassObject
+          4    2 0003E960 DllRegisterServer
+          5    3 0003E970 DllUnregisterServer
+          6    4 0003EDE0 MFConvertColorInfoFromDXVA
+          7    5 0003EE00 MFConvertColorInfoToDXVA
+          8    6 0003EE20 MFConvertFromFP16Array
+          9    7 0003EE40 MFConvertToFP16Array
+         10    8 0003EE60 MFCopyImage
+         11    9 0003EE80 MFCreateDXSurfaceBuffer
+         12    A 0003EF60 MFCreateVideoMediaType
+         13    B 0003EEA0 MFCreateVideoMediaTypeFromBitMapInfoHeader
+         14    C 0003EF00 MFCreateVideoMediaTypeFromSubtype
+         15    D 0003EF40 MFCreateVideoMediaTypeFromVideoInfoHeader
+         16    E 0003EF20 MFCreateVideoMediaTypeFromVideoInfoHeader2
+         17    F 00011E90 MFCreateVideoMixer
+         18   10 0003E980 MFCreateVideoMixerAndPresenter
+         19   11 00017000 MFCreateVideoOTA
+         20   12 0004C440 MFCreateVideoPresenter
+         21   13 0004C4B0 MFCreateVideoPresenter2
+         22   14 00057A10 MFCreateVideoSampleAllocator
+         23   15 0004BBA0 MFCreateVideoSampleFromSurface
+         24   16 0003EF80 MFGetPlaneSize
+         25   17 0003EFA0 MFGetStrideForBitmapInfoHeader
+          1   18 0003EDC0 MFGetUncompressedVideoFormat
+         26   19 0003EFE0 MFInitVideoFormat
+         27   1A 0003EFC0 MFInitVideoFormat_RGB
+         28   1B 0000E850 MFIsFormatYUV
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        8000 .pdata
+       25000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       8A000 .text

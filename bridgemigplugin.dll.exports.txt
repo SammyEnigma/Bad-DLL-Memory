@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\migration\bridgemigplugin.dll
+
+File Type: DLL
+
+  Section contains the following exports for exports.dll
+
+    00000000 characteristics
+    BBCC33CE time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000043B0 DllCanUnloadNow
+          2    1 000040A0 DllGetClassObject
+          3    2 000043F0 DllMain
+          4    3 000041E0 DllRegisterServer
+          5    4 00004310 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

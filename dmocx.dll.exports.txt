@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\dmocx.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMOCX.DLL
+
+    00000000 characteristics
+    B66ADCA5 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002AA0 DllCanUnloadNow
+          2    1 00002AE0 DllGetClassObject
+          3    2 00001260 DllRegisterServer
+          4    3 00001330 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        5000 .rsrc
+        4000 .text

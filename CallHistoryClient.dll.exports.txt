@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\CallHistoryClient.dll
+
+File Type: DLL
+
+  Section contains the following exports for CallHistoryClient.dll
+
+    00000000 characteristics
+    A98C094C time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C8D0 DoesCallHistoryItemMatchFilter
+          2    1 0001E1A0 StringToUdmObjectId
+          3    2 0000C8E0 UdmAreCallEventsEqual
+          4    3 0000DDE0 UdmCancelAsyncTask
+          5    4 0000F520 UdmCreateDataSession
+          6    5 00004170 UdmCreateDataSessionForUser
+          7    6 0000DED0 UdmCreateSyncCallbackHandler
+          8    7 0000F570 UdmDebugModifyNotifyState
+          9    8 00013000 UdmFreeCallFavoriteItemSet
+         10    9 0000C940 UdmFreeCallHistoryItemSet
+         11    A 0001E2F0 UdmObjectIdToString
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       1E000 .text

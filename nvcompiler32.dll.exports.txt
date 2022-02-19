@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvcompiler32.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvcompiler32.dll
+
+    00000000 characteristics
+    5FD3FE78 time date stamp Sat Dec 12 00:19:20 2020
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001DF40 NvCliCompileBitcode
+          2    1 0001E450 NvCliCompileLogFree
+          3    2 0001E460 NvCliCompileProgram
+          4    3 0001E670 NvCliCompileSource
+          5    4 0001E450 NvCliCompiledProgramFree
+          6    5 0001EBC0 NvCliFreeBuffer
+          7    6 0001EC00 NvCliGetBufferData
+          8    7 0001EC30 NvCliLinkBitcode
+          9    8 0001EFF0 NvCliQueryBinaryType
+         10    9 0001F110 nvvmCompilerProperty
+
+  Summary
+
+     14BF000 .data
+      17C000 .rdata
+       5E000 .reloc
+        1000 .rsrc
+      B5F000 .text
+        1000 .tls

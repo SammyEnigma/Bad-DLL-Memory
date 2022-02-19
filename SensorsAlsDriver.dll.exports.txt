@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\sensorsalsdriver.inf_amd64_a6da30fe583368a4\SensorsAlsDriver.dll
+
+File Type: DLL
+
+  Section contains the following exports for ALSSensorDriver.DLL
+
+    00000000 characteristics
+    FB79AFEA time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000016E0 DllCanUnloadNow
+          2    1 000017A0 DllGetClassObject
+          3    2 000018E0 DllRegisterServer
+          4    3 000018E0 DllUnregisterServer
+          5    4 000111F8 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        A000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\XboxGipRadioManager.dll
+
+File Type: DLL
+
+  Section contains the following exports for XboxGipRadioManager.dll
+
+    00000000 characteristics
+    898AD3C4 time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001550 DllCanUnloadNow
+          2    1 00001570 DllGetClassObject
+          3    2 000016A0 DllRegisterServer
+          4    3 000017A0 DllUnregisterServer
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        5000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        C000 .text

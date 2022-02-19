@@ -1,0 +1,34 @@
+
+Dump of file C:\Windows\System32\iasrad.dll
+
+File Type: DLL
+
+  Section contains the following exports for iasrad.dll
+
+    00000000 characteristics
+    4463FD2D time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012C20 ?initialize@VSAFilter@@QEAAJXZ
+          2    1 00012E50 ?radiusFromIAS@VSAFilter@@QEBAJPEAUIAttributesRaw@@H@Z
+          3    2 00013230 ?radiusToIAS@VSAFilter@@QEBAJPEAEKAEAVIASAttributeVector@IASTL@@@Z
+          4    3 00012C70 ?radiusToIAS@VSAFilter@@QEBAJPEAUIAttributesRaw@@@Z
+          5    4 00012C30 ?shutdown@VSAFilter@@QEAAJXZ
+          6    5 00007950 DllCanUnloadNow
+          7    6 00007970 DllGetClassObject
+          8    7 000079A0 DllRegisterServer
+          9    8 000079C0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+        F000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       31000 .text

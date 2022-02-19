@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\IME\IMEKR\DICTS\imkrhjd.dll
+
+File Type: DLL
+
+  Section contains the following exports for imkrhjd.dll
+
+    00000000 characteristics
+     A183E7C time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002780 DllCanUnloadNow
+          2    1 000027A0 DllGetClassObject
+          3    2 000028D0 DllRegisterServer
+          4    3 000029D0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        4000 .rsrc
+       1F000 .text

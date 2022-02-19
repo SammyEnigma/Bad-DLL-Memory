@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_ebe23e5c5a4f4d5f\ibtproppage.dll
+
+File Type: DLL
+
+  Section contains the following exports for ibtproppage.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000011C0 IBTPropPageEntryPoint
+
+  Summary
+
+        3000 .data
+        5000 .pdata
+       11000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       4D000 .text

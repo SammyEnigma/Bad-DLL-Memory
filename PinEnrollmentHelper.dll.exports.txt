@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\PinEnrollmentHelper.dll
+
+File Type: DLL
+
+  Section contains the following exports for PinEnrollmentHelper.dll
+
+    00000000 characteristics
+    CDFEDD03 time date stamp
+        0.00 version
+           1 ordinal base
+           9 number of functions
+           9 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000048D0 DllCanUnloadNow
+          2    1 000045C0 DllGetActivationFactory
+          3    2 000047A0 DllGetClassObject
+          4    3 000049C0 EnablePinForSignIn
+          5    4 00004A90 EnrollEnterpriseKey
+          6    5 000049B0 EnrollPin
+          7    6 00001DB0 GetProxyDllInfo
+          8    7 00004AB0 IsArsoAllowedByPolicy
+          9    8 00004AA0 IsEnrollmentPermittedForLocalAccountWithoutPassword
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       17000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text

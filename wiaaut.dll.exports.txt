@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\wiaaut.dll
+
+File Type: DLL
+
+  Section contains the following exports for WIAAut.DLL
+
+    00000000 characteristics
+    C3A8E68D time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00057AB0 DllCanUnloadNow
+          2    1 00057B50 DllGetClassObject
+          3    2 00057E00 DllRegisterServer
+          4    3 00057E50 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+       31000 .rdata
+        1000 .reloc
+       10000 .rsrc
+       63000 .text

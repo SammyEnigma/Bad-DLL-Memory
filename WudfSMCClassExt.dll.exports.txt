@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\WudfSMCClassExt.dll
+
+File Type: DLL
+
+  Section contains the following exports for WudfSMCClassExt.dll
+
+    00000000 characteristics
+    61A278B7 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012C0 DllCanUnloadNow
+          2    1 000012E0 DllGetClassObject
+          3    2 0000B070 Microsoft_WDF_UMDF_Version
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        4000 .rsrc
+        8000 .text

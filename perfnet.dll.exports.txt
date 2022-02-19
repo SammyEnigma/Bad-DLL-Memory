@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\perfnet.dll
+
+File Type: DLL
+
+  Section contains the following exports for PerfNet.dll
+
+    00000000 characteristics
+    F111B48F time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001440 CloseNetSvcsObject
+          2    1 000012F0 CollectNetSvcsObjectData
+          3    2 00001200 OpenNetSvcsObject
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text

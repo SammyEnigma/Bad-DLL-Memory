@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\EnterpriseAPNCsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for EnterpriseAPNCsp.dll
+
+    00000000 characteristics
+    62A0C9B6 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002D90 DllCanUnloadNow
+          2    1 00002C60 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        2000 .pdata
+        D000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       19000 .text

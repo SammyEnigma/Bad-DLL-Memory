@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\ChxAPDS.dll
+
+File Type: DLL
+
+  Section contains the following exports for ChxAPDS.dll
+
+    00000000 characteristics
+    18B5A4A6 time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000E3A0 DllCanUnloadNow
+          2    1 0000E280 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        5000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       61000 .text

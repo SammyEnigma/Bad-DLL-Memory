@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\cimfs.dll
+
+File Type: DLL
+
+  Section contains the following exports for CIMFS.dll
+
+    00000000 characteristics
+    FB4E9FE5 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00008A70 CimCloseImage
+          2    1 000081C0 CimCloseStream
+          3    2 000086B0 CimCommitImage
+          4    3 00007ED0 CimCreateAlternateStream
+          5    4 000079E0 CimCreateFile
+          6    5 000081F0 CimCreateHardLink
+          7    6 000070F0 CimCreateImage
+          8    7 00008480 CimDeletePath
+          9    8 00009590 CimDismountImage
+         10    9 00008F10 CimMountImage
+         11    A 00008000 CimWriteStream
+
+  Summary
+
+       22000 .data
+        2000 .pdata
+        A000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       23000 .text

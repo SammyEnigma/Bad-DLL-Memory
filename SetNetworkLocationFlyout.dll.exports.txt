@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\SetNetworkLocationFlyout.dll
+
+File Type: DLL
+
+  Section contains the following exports for SetNetworkLocationFlyout.dll
+
+    00000000 characteristics
+    78839E8B time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001540 DllCanUnloadNow
+          3    1 00001580 DllGetClassObject
+          1      00002230 [NONAME]
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        5000 .text

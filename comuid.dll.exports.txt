@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\comuid.dll
+
+File Type: DLL
+
+  Section contains the following exports for ComUID.DLL
+
+    00000000 characteristics
+    1E05A4A4 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0007DF50 CreateDCOMSecurityUIPage
+          2    1 00008BF0 DllCanUnloadNow
+          3    2 00008C80 DllGetClassObject
+          4    3 00008D00 DllRegisterServer
+          5    4 00008D40 DllUnregisterServer
+
+  Summary
+
+        D000 .data
+        1000 .didat
+        6000 .pdata
+       3D000 .rdata
+        5000 .reloc
+        1000 .rsrc
+       83000 .text

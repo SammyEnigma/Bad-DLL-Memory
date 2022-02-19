@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\basecsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for BaseCSP.dll
+
+    00000000 characteristics
+    4CA5C75F time date stamp
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000078F0 CPAcquireContext
+          2    1 00007C60 CPAcquireContextW
+          3    2 00008F60 CPCreateHash
+          4    3 00008E30 CPDecrypt
+          5    4 00007ED0 CPDeriveKey
+          6    5 00009430 CPDestroyHash
+          7    6 00008090 CPDestroyKey
+          8    7 000097F0 CPDuplicateHash
+          9    8 000099A0 CPDuplicateKey
+         10    9 00008CE0 CPEncrypt
+         11    A 000089E0 CPExportKey
+         12    B 00007D20 CPGenKey
+         13    C 000095A0 CPGenRandom
+         14    D 000088D0 CPGetHashParam
+         15    E 000081E0 CPGetKeyParam
+         16    F 000087A0 CPGetProvParam
+         17   10 00009670 CPGetUserKey
+         18   11 00009120 CPHashData
+         19   12 00009220 CPHashSessionKey
+         20   13 00008B10 CPImportKey
+         21   14 00007C80 CPReleaseContext
+         22   15 000087D0 CPSetHashParam
+         23   16 000080E0 CPSetKeyParam
+         24   17 00008330 CPSetProvParam
+         25   18 00009310 CPSignHash
+         26   19 00009480 CPVerifySignature
+         27   1A 00009BE0 DllRegisterServer
+         28   1B 00009DA0 DllUnregisterServer
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        6000 .rsrc
+       22000 .text

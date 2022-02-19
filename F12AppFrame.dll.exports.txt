@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\F12\F12AppFrame.dll
+
+File Type: DLL
+
+  Section contains the following exports for F12AppFrame.dll
+
+    00000000 characteristics
+    3DE8F0C9 time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00012300 AttachTools
+          5    1 00011220 DllCanUnloadNow
+          6    2 00011260 DllGetClassObject
+          7    3 00011580 DllInstall
+          8    4 000112E0 DllRegisterServer
+          9    5 000113E0 DllUnregisterServer
+          2    6 00012690 EnableDebugMode
+         10    7 00001470 GetProxyDllInfo
+          3    8 00011BC0 InjectTools
+          4    9 000115C0 ShowTools
+
+  Summary
+
+        6000 .data
+        1000 .didat
+        3000 .pdata
+       14000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       35000 .text

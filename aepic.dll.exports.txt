@@ -1,0 +1,38 @@
+
+Dump of file C:\Windows\System32\aepic.dll
+
+File Type: DLL
+
+  Section contains the following exports for AEPIC.dll
+
+    00000000 characteristics
+     18825C9 time date stamp
+        0.00 version
+           1 ordinal base
+          12 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+          4    0 00011390 DllCanUnloadNow
+          5    1 000113C0 DllGetActivationFactory
+          1    2 0001D480 GetAppInventoryCore
+          2    3 00008C60 GetPrivacyLevel
+          6    4 00005F60 PicAmiClose
+          7    5 0000FF30 PicAmiInitialize
+          8    6 0000FF40 PicFreeFileInfo
+          9    7 0000FF90 PicRetrieveFileInfo
+         10    8 00010550 PicRetrieveFileInfoAppx
+         11    9 00010720 PicRetrieveFileLastRunTime
+         12    A 00010810 PicUpdateFileLastRunTime
+          3    B 0001F770 UpdateSoftwareInventoryTC2
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       27000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       5E000 .text

@@ -1,0 +1,31 @@
+
+Dump of file C:\Windows\System32\Microsoft.Uev.ConfigWrapper.dll
+
+File Type: DLL
+
+  Section contains the following exports for Microsoft.Uev.ConfigWrapper.dll
+
+    00000000 characteristics
+    15D34DE1 time date stamp
+        0.00 version
+           1 ordinal base
+           6 number of functions
+           6 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00001970 ClearSettingGroupValue
+          1    1 00001850 ClearSettingValue
+          4    2 00001C60 GetSettingGroupValue
+          3    3 00001AE0 GetSettingValue
+          6    4 00001DA0 SetSettingGroupValue
+          5    5 00001C70 SetSettingValue
+
+  Summary
+
+        5000 .data
+        2000 .pdata
+       11000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2F000 .text

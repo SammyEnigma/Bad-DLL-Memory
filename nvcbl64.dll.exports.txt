@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_a51067c0ac557884\nvcbl64.dll
+
+File Type: DLL
+
+  Section contains the following exports for nvcbl64.dll
+
+    00000000 characteristics
+    5FD3FEF1 time date stamp Sat Dec 12 00:21:21 2020
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00006E20 cblGetExportTable
+
+  Summary
+
+        F000 .data
+        6000 .pdata
+       32000 .rdata
+        1000 .reloc
+        7000 .rsrc
+       63000 .text
+        1000 .tls

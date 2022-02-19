@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\AcGenral.dll
+
+File Type: DLL
+
+  Section contains the following exports for AcGenral.dll
+
+    00000000 characteristics
+    90E294DC time date stamp
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00004A50 GetHookAPIs
+          2    1 00004B00 NotifyShims
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       1C000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       3B000 .text

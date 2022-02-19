@@ -1,0 +1,32 @@
+
+Dump of file C:\Windows\System32\wbem\DMWmiBridgeProv.dll
+
+File Type: DLL
+
+  Section contains the following exports for DMWmiBridgeProv.DLL
+
+    00000000 characteristics
+    95CDC78A time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001CA0 DllCanUnloadNow
+          2    1 00001CE0 DllGetClassObject
+          3    2 00001990 DllMain
+          4    3 00001C00 DllRegisterServer
+          5    4 00001C50 DllUnregisterServer
+          6    5 000019F0 GetProviderClassID
+          7    6 00001930 MI_Main
+
+  Summary
+
+       1F000 .data
+       12000 .pdata
+      15A000 .rdata
+       1A000 .reloc
+        1000 .rsrc
+      29B000 .text

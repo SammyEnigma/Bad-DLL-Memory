@@ -1,0 +1,48 @@
+
+Dump of file C:\Windows\System32\ddraw.dll
+
+File Type: DLL
+
+  Section contains the following exports for DDRAW.dll
+
+    00000000 characteristics
+    668C4E7B time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0002A190 AcquireDDThreadLock
+          2    1 0002B7F0 CompleteCreateSysmemSurface
+          3    2 0002F190 D3DParseUnknownCommand
+          4    3 00031150 DDGetAttachedSurfaceLcl
+          5    4 0002A220 DDInternalLock
+          6    5 0002A240 DDInternalUnlock
+          7    6 000329A0 DSoundHelp
+          8    7 0000D830 DirectDrawCreate
+          9    8 00035260 DirectDrawCreateClipper
+         10    9 0002F290 DirectDrawCreateEx
+         11    A 0002F3A0 DirectDrawEnumerateA
+         12    B 0002F3E0 DirectDrawEnumerateExA
+         13    C 0000DD90 DirectDrawEnumerateExW
+         14    D 0002F8D0 DirectDrawEnumerateW
+         15    E 00036230 DllCanUnloadNow
+         16    F 00036310 DllGetClassObject
+         17   10 0002BF70 GetDDSurfaceLocal
+         18   11 00038AC0 GetOLEThunkData
+         19   12 0003CC50 GetSurfaceFromDC
+         20   13 00016C20 RegisterSpecialCase
+         21   14 0002B420 ReleaseDDThreadLock
+         22   15 00049F60 SetAppCompatData
+
+  Summary
+
+       67000 .data
+        1000 .didat
+        4000 .pdata
+        C000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       80000 .text

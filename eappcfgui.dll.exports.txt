@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\eappcfgui.dll
+
+File Type: DLL
+
+  Section contains the following exports for eappcfgui.dll
+
+    00000000 characteristics
+    61AA614F time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001EB0 DllCanUnloadNow
+          2    1 00001EF0 DllGetClassObject
+          3    2 00001DD0 DllRegisterServer
+          4    3 00001E50 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        3000 .pdata
+       18000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       3A000 .text

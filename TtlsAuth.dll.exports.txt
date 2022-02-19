@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\TtlsAuth.dll
+
+File Type: DLL
+
+  Section contains the following exports for TtlsAuth.dll
+
+    00000000 characteristics
+    6F691ED9 time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007EC0 DllCanUnloadNow
+          2    1 00007EE0 DllGetClassObject
+          3    2 00008010 DllRegisterServer
+          4    3 00008100 DllUnregisterServer
+          5    4 00004890 EapPeerFreeErrorMemory
+          6    5 00004870 EapPeerFreeMemory
+          7    6 00003300 EapPeerGetInfo
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        F000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       2F000 .text

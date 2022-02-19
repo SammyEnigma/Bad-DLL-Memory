@@ -1,0 +1,54 @@
+
+Dump of file C:\Windows\System32\D3DCompiler_47.dll
+
+File Type: DLL
+
+  Section contains the following exports for D3DCOMPILER_47.dll
+
+    00000000 characteristics
+    4C63D5EA time date stamp
+        0.00 version
+           1 ordinal base
+          29 number of functions
+          29 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000F2710 D3DAssemble
+          3    1 000F23F0 D3DCompile
+          4    2 000F2470 D3DCompile2
+          5    3 000F2580 D3DCompileFromFile
+          6    4 000F52A0 D3DCompressShaders
+          7    5 000075A0 D3DCreateBlob
+          8    6 00007750 D3DCreateFunctionLinkingGraph
+          9    7 000075C0 D3DCreateLinker
+         10    8 000F5600 D3DDecompressShaders
+         11    9 00007180 D3DDisassemble
+         12    A 00016ED0 D3DDisassemble10Effect
+         13    B 00007250 D3DDisassemble11Trace
+         14    C 000071C0 D3DDisassembleRegion
+         15    D 000F3F30 D3DGetBlobPart
+         16    E 000F4550 D3DGetDebugInfo
+         17    F 000F45E0 D3DGetInputAndOutputSignatureBlob
+         18   10 000F4580 D3DGetInputSignatureBlob
+         19   11 000F45B0 D3DGetOutputSignatureBlob
+         20   12 00007210 D3DGetTraceInstructionOffsets
+         21   13 00007650 D3DLoadModule
+         22   14 000F36C0 D3DPreprocess
+         23   15 000F0470 D3DReadFileToBlob
+         24   16 00007290 D3DReflect
+         25   17 00007410 D3DReflectLibrary
+         26   18 00017D80 D3DReturnFailure1
+         27   19 000F3F70 D3DSetBlobPart
+         28   1A 000F4610 D3DStripShader
+         29   1B 000F06B0 D3DWriteBlobToFile
+          2   1C 00007880 DebugSetMute
+
+  Summary
+
+       13000 .data
+       23000 .pdata
+       DE000 .rdata
+        9000 .reloc
+        1000 .rsrc
+      33E000 .text

@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\PhoneCallHistoryApis.dll
+
+File Type: DLL
+
+  Section contains the following exports for PhoneCallHistoryApis.dll
+
+    00000000 characteristics
+    4026D8DE time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002190 DllCanUnloadNow
+          2    1 00001EC0 DllGetActivationFactory
+          3    2 000020A0 DllGetClassObject
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+       11000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       28000 .text

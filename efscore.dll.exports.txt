@@ -1,0 +1,99 @@
+
+Dump of file C:\Windows\System32\efscore.dll
+
+File Type: DLL
+
+  Section contains the following exports for EFSCORE.dll
+
+    00000000 characteristics
+    AEE767AD time date stamp
+        0.00 version
+           1 ordinal base
+          73 number of functions
+          73 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00041010 EdpDllAllowFileAccessForProcess
+          3    1 0000CDC0 EdpDllCredSvcControl
+          4    2 0000C250 EdpDllCredentialCreate
+          5    3 0000C530 EdpDllCredentialDelete
+          6    4 0000C430 EdpDllCredentialExists
+          7    5 0000C340 EdpDllCredentialQuery
+          8    6 0000CD50 EdpDllDplUpgradePinInfo
+          9    7 0000CD70 EdpDllDplUpgradeVerifyUser
+         10    8 0000CD90 EdpDllDplUserCredentialsSet
+         11    9 0000CDB0 EdpDllDplUserUnlockComplete
+         12    A 0000CDB0 EdpDllDplUserUnlockStart
+         13    B 0000CB90 EdpDllGetCredServiceState
+         14    C 0000C950 EdpDllGetLockSessionUnwrappedKey
+         15    D 0000C8E0 EdpDllGetLockSessionWrappedKey
+         16    E 00041CB0 EdpDllGetTfaCache
+         17    F 00044940 EdpDllPurgeAppLearningEvents
+         18   10 0000C800 EdpDllQueryDplEnforcedPolicyOwnerIds
+         19   11 0000C710 EdpDllQueryRevokedPolicyOwnerIds
+         20   12 0003DE70 EdpDllQueueFileForEncryption
+         21   13 0000CF10 EdpDllRmsClearKeys
+         22   14 0000CF30 EdpDllRmsContainerizeFile
+         23   15 0000D5E0 EdpDllRmsDecontainerizeFile
+         24   16 0000D2D0 EdpDllRmsGetContainerIdentity
+         25   17 0003DFE0 EdpDllServiceFileEncryptionQueue
+         26   18 00044960 EdpWriteAppLearningLog
+         27   19 00044B30 EdpWriteSiteLearningLog
+         28   1A 0000AF00 EfsDllAddUsersToFileSrv
+         29   1B 0000C110 EfsDllAllocateHeap
+         30   1C 0000D8A0 EfsDllCheckFileAccess
+         31   1D 0000A600 EfsDllCloseFileRaw
+         32   1E 0000B350 EfsDllConstructEFS
+         33   1F 0000BF30 EfsDllDecryptFek
+         34   20 0000AC30 EfsDllDecryptFileSrv
+         35   21 0000A700 EfsDllDisabled
+          1   22 0000DA20 EfsDllDplAppKeyCachingFeatureEnabled
+         36   23 0000B030 EfsDllDuplicateEncryptionInfoFileSrv
+         37   24 0000AC20 EfsDllEncryptFileSrv
+         38   25 0000C100 EfsDllErrorToNtStatus
+         39   26 0000B040 EfsDllFileKeyInfoSrv
+         40   27 0000C150 EfsDllFreeHeap
+         41   28 0000ABA0 EfsDllFreeUserInfo
+         42   29 0000C190 EfsDllGetLocalFileName
+         43   2A 0000A720 EfsDllGetLogFile
+         44   2B 0000AB90 EfsDllGetUserInfo
+         45   2C 0000A710 EfsDllGetVolumeRoot
+         46   2D 0000C630 EfsDllIsConsumerProtectionEnforced
+         47   2E 0000A6F0 EfsDllIsNonEfsSKU
+         48   2F 0000ABB0 EfsDllLoadUserProfile
+         49   30 0000ABD0 EfsDllMarkFileForDelete
+         50   31 0000D880 EfsDllOefsAcquireExclusiveOperation
+         51   32 00048930 EfsDllOefsCheckSupportByFilePath
+         52   33 0000D890 EfsDllOefsReleaseExclusiveOperation
+         53   34 0000A730 EfsDllOnSessionChange
+         54   35 0000A950 EfsDllOnSessionUserChange
+         55   36 0000A5E0 EfsDllOpenFileRaw
+         56   37 0000AE40 EfsDllQueryProtectorsSrv
+         57   38 0000AD40 EfsDllQueryRecoveryAgentsSrv
+         58   39 0000AC40 EfsDllQueryUsersOnFileSrv
+         59   3A 0000A610 EfsDllReadFileRaw
+         60   3B 0000AF70 EfsDllRemoveUsersFromFileSrv
+         61   3C 00014C70 EfsDllReprotectFile
+         62   3D 0000AFD0 EfsDllSetFileEncryptionKeySrv
+         63   3E 0000C1A0 EfsDllShareDecline
+         64   3F 0000ABF0 EfsDllSsoFlushUserCache
+         65   40 0000ABC0 EfsDllUnloadUserProfile
+         66   41 0000B050 EfsDllUsePinForEncryptedFilesSrv
+         67   42 0000ABE0 EfsDllValidateEfsStream
+         68   43 0000A630 EfsDllWriteEncryptedFileWithHeader
+         69   44 0000A620 EfsDllWriteFileRaw
+         70   45 0000A4E0 EfsInitialize
+         71   46 0001CF00 EfsProcessRecoveryPolicy
+         72   47 0000A5A0 EfsUnInitialize
+         73   48 00022EA0 EfsValidateEfsStream
+
+  Summary
+
+        4000 .data
+        1000 .didat
+        6000 .pdata
+       33000 .rdata
+        2000 .reloc
+        5000 .rsrc
+       E0000 .text

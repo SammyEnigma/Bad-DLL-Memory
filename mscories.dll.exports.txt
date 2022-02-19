@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\mscories.dll
+
+File Type: DLL
+
+  Section contains the following exports for mscories.dll
+
+    00000000 characteristics
+    5DB2693B time date stamp Fri Oct 25 05:17:15 2019
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003410 Install
+          2    1 000038F8 Uninstall
+
+  Summary
+
+        5000 .data
+        1000 .pdata
+        1000 .reloc
+        1000 .rsrc
+        E000 .text

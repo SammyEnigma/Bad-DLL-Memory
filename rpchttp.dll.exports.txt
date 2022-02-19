@@ -1,0 +1,45 @@
+
+Dump of file C:\Windows\System32\rpchttp.dll
+
+File Type: DLL
+
+  Section contains the following exports for rpchttp.dll
+
+    00000000 characteristics
+     77558D4 time date stamp
+        0.00 version
+           1 ordinal base
+          19 number of functions
+          19 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000013C0 CompareHttpTransportCredentials
+          2    1 000014F0 ConvertToUnicodeHttpTransportCredentials
+          3    2 00001200 DuplicateHttpTransportCredentials
+          4    3 00001140 FreeHttpTransportCredentials
+          5    4 0001F340 HTTP2GetRpcConnectionTransport
+          6    5 000054D0 HTTP2ProcessComplexTReceive
+          7    6 00005730 HTTP2ProcessComplexTSend
+          8    7 00005430 HTTP2ProcessRuntimePostedEvent
+          9    8 00005890 HTTP2TestHook
+         10    9 00021D40 HttpParseNetworkOptions
+         11    A 00002A40 HttpSendIdentifyResponse
+         17    B 000010A0 I_RpcExtInitializeExtensionPoint
+         12    C 00022590 I_RpcGetRpcProxy
+         18    D 00004110 I_RpcProxyNewConnection
+         19    E 00004590 I_RpcReplyToClientWithStatus
+         13    F 000017E0 I_RpcTransFreeHttpCredentials
+         14   10 00001730 I_RpcTransGetHttpCredentials
+         15   11 00001CA0 WS_HTTP2_CONNECTION__Initialize
+         16   12 00001C70 WS_HTTP2_INITIAL_CONNECTION__new
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       2B000 .text

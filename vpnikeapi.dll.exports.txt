@@ -1,0 +1,50 @@
+
+Dump of file C:\Windows\System32\vpnikeapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for VPNIKEAPI.DLL
+
+    00000000 characteristics
+    743F233B time date stamp
+        0.00 version
+           1 ordinal base
+          24 number of functions
+          24 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003100 CancelProcessEapAuthPacket
+          2    1 000033E0 CloseTunnel
+          3    2 00003720 CreateTunnel
+          4    3 00003A60 FreeConfigurationPayloadBuffer
+          5    4 00003C20 FreeEapAuthAttributes
+          6    5 00003DB0 FreeEapAuthPacket
+          7    6 00003F40 FreeIDPayloadBuffer
+          8    7 000040E0 FreeTrafficSelectors
+          9    8 00004290 GetConfigurationPayloadRequest
+         10    9 000045E0 GetIDPayload
+         11    A 00001D70 GetOptionalIDrPayload
+         12    B 00004930 GetServerEapAuthRequestPacket
+         13    C 00004CB0 GetTrafficSelectorsRequest
+         14    D 00005010 NewRasIncomingCall
+         15    E 00005390 ProcessAdditionalAddressNotification
+         16    F 000056D0 ProcessConfigurationPayloadReply
+         17   10 00005A20 ProcessConfigurationPayloadRequest
+         18   11 00005D80 ProcessEapAuthPacket
+         19   12 00006180 ProcessTrafficSelectorsReply
+         20   13 000064E0 ProcessTrafficSelectorsRequest
+         21   14 00006850 QueryEapAuthAttributes
+         22   15 00006BA0 RemoveTrafficSelectors
+         23   16 00006EF0 TunnelAuthDone
+         24   17 00007270 UpdateTunnel
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        7000 .text

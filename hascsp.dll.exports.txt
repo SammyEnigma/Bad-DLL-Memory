@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\hascsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for hascsp.dll
+
+    00000000 characteristics
+    93D9ECD6 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          7    0 0000C690 DllCanUnloadNow
+          8    1 0000C6B0 DllGetClassObject
+          9    2 0000C790 DllMain
+         10    3 0000C190 DllRegisterServer
+         11    4 0000C190 DllUnregisterServer
+          1    5 0000CD10 GetForceRetrieve
+          2    6 0000CD30 GetHealthCert
+          3    7 0000CAC0 GetNonce
+          4    8 000017B0 PolicyManager_PreCheck
+          5    9 0000CEC0 SetForceRetrieve
+          6    A 0000CD50 SetNonce
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

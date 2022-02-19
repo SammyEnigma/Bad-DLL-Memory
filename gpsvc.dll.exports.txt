@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\gpsvc.dll
+
+File Type: DLL
+
+  Section contains the following exports for GPSVC.dll
+
+    00000000 characteristics
+    B5411062 time date stamp
+        0.00 version
+         106 ordinal base
+          13 number of functions
+          12 number of names
+
+    ordinal hint RVA      name
+
+        109    0 0009EAE0 DllCanUnloadNow
+        110    1 0009EB10 DllGetClassObject
+        111    2 00073060 GenerateRsopPolicy
+        107    3 00025000 GroupPolicyClientServiceMain
+        112    4 000352E0 IsSecureCachingDisabled
+        113    5 0007DBA0 ProcessGroupPolicyCompletedExInternal
+        114    6 0007EA50 ProcessGroupPolicyCompletedInternal
+        115    7 000A1940 RsopAccessCheckByTypeInternal
+        116    8 000A1CA0 RsopFileAccessCheckInternal
+        117    9 000A2040 RsopResetPolicySettingStatusInternal
+        118    A 000A2490 RsopSetPolicySettingStatusInternal
+        108    B 00026790 SvchostPushServiceGlobals
+        106      000A1F00 [NONAME]
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        6000 .pdata
+       6E000 .rdata
+        1000 .reloc
+        E000 .rsrc
+       C6000 .text

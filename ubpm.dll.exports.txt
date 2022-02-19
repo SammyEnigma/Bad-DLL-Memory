@@ -1,0 +1,42 @@
+
+Dump of file C:\Windows\System32\ubpm.dll
+
+File Type: DLL
+
+  Section contains the following exports for UBPM.dll
+
+    00000000 characteristics
+    EEFD2D09 time date stamp
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00025260 UbpmAcquireJobBackgroundMode
+          2    1 000140D0 UbpmApiBufferFree
+          3    2 00004B60 UbpmCloseTriggerConsumer
+          4    3 00025310 UbpmInitialize
+          5    4 0000BA00 UbpmOpenTriggerConsumer
+          6    5 00025490 UbpmReleaseJobBackgroundMode
+          7    6 000042E0 UbpmSessionStateChanged
+          8    7 00025530 UbpmTerminate
+          9    8 00025740 UbpmTriggerConsumerConfigure
+         10    9 00025A90 UbpmTriggerConsumerControl
+         11    A 00025DE0 UbpmTriggerConsumerControlNotifications
+         12    B 00012FD0 UbpmTriggerConsumerQueryStatus
+         13    C 000101D0 UbpmTriggerConsumerRegister
+         14    D 000029B0 UbpmTriggerConsumerSetDisabledForUser
+         15    E 000045F0 UbpmTriggerConsumerSetStatePublishingSecurity
+         16    F 000146C0 UbpmTriggerConsumerUnregister
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        3000 .pdata
+        B000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       37000 .text

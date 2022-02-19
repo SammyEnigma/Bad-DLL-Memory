@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\SCardSvr.dll
+
+File Type: DLL
+
+  Section contains the following exports for SCardSvr.dll
+
+    00000000 characteristics
+    D2EBDC66 time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000098A0 CalaisMain
+          2    1 0000A320 InitSmartCardService
+          3    2 0000A370 SvchostPushServiceGlobals
+
+  Summary
+
+        2000 .data
+        3000 .pdata
+       14000 .rdata
+        1000 .reloc
+        2000 .rsrc
+       28000 .text

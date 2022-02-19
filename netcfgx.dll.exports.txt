@@ -1,0 +1,37 @@
+
+Dump of file C:\Windows\System32\netcfgx.dll
+
+File Type: DLL
+
+  Section contains the following exports for netcfgx.dll
+
+    00000000 characteristics
+    628F2C96 time date stamp
+        0.00 version
+           1 ordinal base
+          11 number of functions
+          11 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001F10 DllCanUnloadNow
+          2    1 00001F30 DllGetClassObject
+          3    2 00001D30 DllRegisterServer
+          4    3 00001D30 DllUnregisterServer
+          5    4 00002180 LanaCfgFromCommandArgs
+          6    5 00002180 NetCfgDiagFromCommandArgs
+          7    6 00002180 NetCfgDiagRepairRegistryBindings
+          8    7 00001F70 NetClassInstaller
+          9    8 00002080 NetPropPageProvider
+         10    9 00002170 OnMachineUILanguageInit
+         11    A 00002170 OnMachineUILanguageSwitch
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       10000 .text

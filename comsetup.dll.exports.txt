@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\setup\comsetup.dll
+
+File Type: DLL
+
+  Section contains the following exports for comsetup.dll
+
+    00000000 characteristics
+    7AA63D0A time date stamp
+        0.00 version
+           1 ordinal base
+           7 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+          5    0 0001BFA0 ComPlusCompleteCbbSetup
+          6    1 00003600 ComPlusGetWebApplicationServerRole
+          7    2 000036C0 ComPlusSetWebApplicationServerRole
+          1    3 00003200 InstallOnReboot
+          2    4 000036E0 RunComPlusSetWebApplicationServerRoleW
+          3    5 00003AE0 SetupPrintLog
+          4    6 00003590 UpgradeDSSchema
+
+  Summary
+
+       10000 .data
+        1000 .didat
+        1000 .pdata
+        E000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       21000 .text

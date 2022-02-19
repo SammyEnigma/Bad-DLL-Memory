@@ -1,0 +1,35 @@
+
+Dump of file C:\Windows\System32\HologramCompositor.dll
+
+File Type: DLL
+
+  Section contains the following exports for HologramCompositor.dll
+
+    00000000 characteristics
+    43A146C9 time date stamp
+        0.00 version
+         101 ordinal base
+           9 number of functions
+           7 number of names
+
+    ordinal hint RVA      name
+
+        103    0 000422B0 CreateHolographicCompositor
+        104    1 000427A0 DwmInitializeEngine
+        105    2 000427E0 DwmInitializePort
+        106    3 000078F0 DwmRenderDesktopForDDA
+        107    4 000078F0 DwmShutdownEngine
+        108    5 000078F0 DwmVersionCheck
+        109    6 00063B30 GetMPCInputPostProcessor
+        101      000426B0 [NONAME]
+        102      00042660 [NONAME]
+
+  Summary
+
+        E000 .data
+        1000 .didat
+        8000 .pdata
+       52000 .rdata
+        2000 .reloc
+       19000 .rsrc
+       B1000 .text

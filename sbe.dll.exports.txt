@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\sbe.dll
+
+File Type: DLL
+
+  Section contains the following exports for sbe.dll
+
+    00000000 characteristics
+    F615B8AC time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001490 DllCanUnloadNow
+          2    1 00001350 DllGetClassObject
+          3    2 000012A0 DllRegisterServer
+          4    3 00001300 DllUnregisterServer
+
+  Summary
+
+        3000 .data
+        1000 .didat
+        9000 .pdata
+       1D000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       C2000 .text

@@ -1,0 +1,62 @@
+
+Dump of file C:\Windows\System32\odbccr32.dll
+
+File Type: DLL
+
+  Section contains the following exports for ODBCCR32.dll
+
+    00000000 characteristics
+     FC80611 time date stamp
+        0.00 version
+           4 ordinal base
+          75 number of functions
+          37 number of names
+
+    ordinal hint RVA      name
+
+          6    0 0000D330 ReleaseCLStmtResources
+          4    1 00009020 SQLBindCol
+         72    2 00009310 SQLBindParameter
+         78    3 0000B1E0 SQLBulkOperations
+          5    4 000094B0 SQLCancel
+         26    5 00009CF0 SQLCloseCursor
+         29    6 0000B9B0 SQLEndTran
+         11    7 000096C0 SQLExecDirect
+         12    8 000097F0 SQLExecute
+         59    9 00009830 SQLExtendedFetch
+         13    A 00009920 SQLFetch
+         30    B 00009A70 SQLFetchScroll
+         31    C 00009BC0 SQLFreeHandle
+         16    D 00009E80 SQLFreeStmt
+         43    E 00009F50 SQLGetData
+         33    F 0000CB90 SQLGetDescField
+         34   10 0000D060 SQLGetDescRec
+         45   11 0000A0A0 SQLGetInfo
+         38   12 0000B530 SQLGetStmtAttr
+         46   13 0000A370 SQLGetStmtOption
+         61   14 0000A6D0 SQLMoreResults
+         62   15 0000A820 SQLNativeSql
+         63   16 0000A9F0 SQLNumParams
+         48   17 0000AAA0 SQLParamData
+         64   18 0000AAE0 SQLParamOptions
+         19   19 0000AC10 SQLPrepare
+         49   1A 0000AD40 SQLPutData
+         20   1B 0000AD90 SQLRowCount
+         39   1C 0000B0A0 SQLSetConnectAttr
+         50   1D 0000B0C0 SQLSetConnectOption
+         73   1E 0000B9C0 SQLSetDescField
+         74   1F 0000C120 SQLSetDescRec
+         68   20 0000B0F0 SQLSetPos
+         69   21 0000B220 SQLSetScrollOptions
+         76   22 0000B2B0 SQLSetStmtAttr
+         51   23 0000B620 SQLSetStmtOption
+         23   24 0000C540 SQLTransact
+
+  Summary
+
+        2000 .data
+        1000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        F000 .text

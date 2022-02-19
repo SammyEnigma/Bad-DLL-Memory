@@ -1,0 +1,36 @@
+
+Dump of file C:\Windows\System32\tlscsp.dll
+
+File Type: DLL
+
+  Section contains the following exports for tlscsp.dll
+
+    00000000 characteristics
+    B06C539F time date stamp
+        0.00 version
+           1 ordinal base
+          10 number of functions
+          10 number of names
+
+    ordinal hint RVA      name
+
+          7    0 000015C0 LsCsp_DecryptEnvelopedData
+          6    1 00003250 LsCsp_EncryptHwid
+          5    2 00001B50 LsCsp_GetServerData
+          9    3 00005330 LsCsp_RetrieveSecret
+          8    4 000052A0 LsCsp_StoreSecret
+          1    5 00004AD0 TLSCspInit
+          2    6 000049B0 TLSCspShutdown
+         10    7 00004BE0 TLSCspStartInstallCertificateThread
+          4    8 00001150 TLSFreeTSCertificate
+          3    9 00001080 TLSGetTSCertificate
+
+  Summary
+
+        1000 .data
+        1000 .didat
+        1000 .pdata
+        3000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        8000 .text

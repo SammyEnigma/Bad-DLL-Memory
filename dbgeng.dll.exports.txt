@@ -1,0 +1,33 @@
+
+Dump of file C:\Windows\System32\dbgeng.dll
+
+File Type: DLL
+
+  Section contains the following exports for dbgeng.dll
+
+    00000000 characteristics
+    1ABDC3A2 time date stamp
+        0.00 version
+         327 ordinal base
+           6 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+        328    0 001EDF30 DebugConnect
+        329    1 001EE020 DebugConnectWide
+        330    2 001EE0B0 DebugCreate
+        331    3 00063350 DebugCreateEx
+        327      001EE0D0 [NONAME]
+        332      000D3EA0 [NONAME]
+
+  Summary
+
+       73000 .data
+        1000 .didat
+        4000 .mrdata
+       28000 .pdata
+      218000 .rdata
+       16000 .reloc
+        9000 .rsrc
+      3A9000 .text

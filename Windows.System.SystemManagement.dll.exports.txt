@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\Windows.System.SystemManagement.dll
+
+File Type: DLL
+
+  Section contains the following exports for Windows.System.SystemManagement.dll
+
+    00000000 characteristics
+    E0FBE2FB time date stamp
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00007710 DllCanUnloadNow
+          2    1 000077F0 DllGetActivationFactory
+          3    2 00007800 DllGetClassObject
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        3000 .pdata
+       17000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       32000 .text

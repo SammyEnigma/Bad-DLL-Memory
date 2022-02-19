@@ -1,0 +1,39 @@
+
+Dump of file C:\Windows\System32\edpauditapi.dll
+
+File Type: DLL
+
+  Section contains the following exports for edpauditapi.dll
+
+    00000000 characteristics
+      5E7CEF time date stamp
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          2    0 00003E10 EdpAuditHarden
+          3    1 00012890 EdpAuditLogApplicationGenerated
+          4    2 00012A90 EdpAuditLogApplicationLearning
+          5    3 000126B0 EdpAuditLogDataCopied
+          6    4 00012EA0 EdpAuditLogProtectionRemoved
+          7    5 00012D30 EdpAuditLogSiteLearning
+          8    6 00013050 EdpAuditLoggerRegister
+          9    7 00013070 EdpAuditLoggerUnregister
+         10    8 00003EB0 EdpAuditRead
+          1    9 00004560 EdpFlushTraces
+         11    A 00003F80 EdpGetLogFullPathFromRelativePath
+         12    B 000052E0 ReadAuditLogByCount
+         13    C 00005190 ReadAuditLogByTimeRange
+
+  Summary
+
+        2000 .data
+        1000 .didat
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        3000 .rsrc
+       16000 .text

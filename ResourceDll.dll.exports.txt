@@ -1,0 +1,25 @@
+
+Dump of file C:\Windows\System32\InputMethod\SHARED\ResourceDll.dll
+
+File Type: DLL
+
+  Section contains the following exports for resdll.dll
+
+    00000000 characteristics
+    5352E011 time date stamp
+        0.00 version
+           1 ordinal base
+           0 number of functions
+           0 number of names
+
+    ordinal hint RVA      name
+
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        1000 .rdata
+        1000 .reloc
+       32000 .rsrc
+        1000 .text

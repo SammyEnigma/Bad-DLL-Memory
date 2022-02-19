@@ -1,0 +1,29 @@
+
+Dump of file C:\Windows\System32\tapi3.dll
+
+File Type: DLL
+
+  Section contains the following exports for tapi3.DLL
+
+    00000000 characteristics
+    520C5D0A time date stamp
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00068440 DllCanUnloadNow
+          2    1 00068460 DllGetClassObject
+          3    2 00068490 DllRegisterServer
+          4    3 000684C0 DllUnregisterServer
+
+  Summary
+
+        A000 .data
+        5000 .pdata
+       45000 .rdata
+        2000 .reloc
+       2F000 .rsrc
+       74000 .text

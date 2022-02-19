@@ -1,0 +1,28 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\hidcfu.inf_amd64_409fe85a7af72672\HidCfu.dll
+
+File Type: DLL
+
+  Section contains the following exports for hidcfu.dll
+
+    00000000 characteristics
+    7B9D906A time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00003C70 FxDriverEntryUm
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        6000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       17000 .text
+        1000 INIT
+       17000 PAGE

@@ -1,0 +1,27 @@
+
+Dump of file C:\Windows\System32\DriverStore\FileRepository\lpro564v.inf_amd64_eee0aa15871bd97b\lvcod64.dll
+
+File Type: DLL
+
+  Section contains the following exports for LVCod64.dll
+
+    00000000 characteristics
+    5085FCC3 time date stamp Tue Oct 23 04:11:15 2012
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001000 DriverProc
+
+  Summary
+
+        B000 .data
+        2000 .pdata
+        9000 .rdata
+        1000 .reloc
+        1000 .rsrc
+       16000 .text
+        1000 RT_CODE

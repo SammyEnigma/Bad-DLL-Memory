@@ -1,0 +1,30 @@
+
+Dump of file C:\Windows\System32\Dism\DismCorePS.dll
+
+File Type: DLL
+
+  Section contains the following exports for DismCorePS.DLL
+
+    00000000 characteristics
+    9F501047 time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002200 DllCanUnloadNow
+          2    1 000021C0 DllGetClassObject
+          3    2 00002300 DllGetDismInterfaces
+          4    3 00002290 DllRegisterServer
+          5    4 000022C0 DllUnregisterServer
+
+  Summary
+
+        8000 .data
+        1000 .pdata
+       1F000 .rdata
+        4000 .reloc
+        1000 .rsrc
+        3000 .text

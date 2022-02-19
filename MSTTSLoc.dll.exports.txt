@@ -1,0 +1,26 @@
+
+Dump of file C:\Windows\System32\Speech\Engines\TTS\MSTTSLoc.dll
+
+File Type: DLL
+
+  Section contains the following exports for MSTTSLoc.dll
+
+    00000000 characteristics
+    110DBD96 time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000017B0 GetLocaleHandler
+
+  Summary
+
+        B000 .data
+        3000 .pdata
+       34000 .rdata
+        4000 .reloc
+        1000 .rsrc
+       3B000 .text
